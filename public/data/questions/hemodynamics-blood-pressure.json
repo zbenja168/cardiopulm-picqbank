@@ -1,0 +1,435 @@
+{
+  "categoryId": "hemodynamics-blood-pressure",
+  "categoryName": "Hemodynamics: Blood Pressure",
+  "questions": [
+    {
+      "id": "repic-113",
+      "topicId": "hemodynamics-blood-pressure",
+      "topicName": "Hemodynamics: Blood Pressure",
+      "stem": "This cross-section of a vessel wall shows concentric layers of smooth muscle sandwiched between prominent internal and external elastic membranes. What type of vessel is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Muscular vein"
+        },
+        {
+          "label": "B",
+          "text": "Large elastic (conducting) artery"
+        },
+        {
+          "label": "C",
+          "text": "Continuous capillary"
+        },
+        {
+          "label": "D",
+          "text": "Muscular (distributing) artery"
+        },
+        {
+          "label": "E",
+          "text": "Postcapillary venule"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A well-defined internal AND external elastic membrane bounding a thick, concentric smooth-muscle tunica media is the hallmark of a medium-sized muscular artery, whose smooth muscle regulates luminal diameter and distributes blood to organs.",
+        "whyCorrect": "A well-defined internal AND external elastic membrane bounding a thick, concentric smooth-muscle tunica media is the hallmark of a medium-sized muscular artery, whose smooth muscle regulates luminal diameter and distributes blood to organs.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-113_Brick Exchange - Hemodynamics_ Blood Pressure_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-114",
+      "topicId": "hemodynamics-blood-pressure",
+      "topicName": "Hemodynamics: Blood Pressure",
+      "stem": "In this histologic section, the vessel on the left has a thick, circular wall and a round patent lumen, while the vessel on the right has a thin wall and a collapsed, irregular lumen. What accounts for the thicker wall of the left-hand vessel?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A muscular sphincter regulating capillary perfusion"
+        },
+        {
+          "label": "B",
+          "text": "A thick tunica adventitia providing venous valves"
+        },
+        {
+          "label": "C",
+          "text": "Endothelial fenestrations increasing permeability"
+        },
+        {
+          "label": "D",
+          "text": "A thick tunica media resisting high pulsatile pressure"
+        },
+        {
+          "label": "E",
+          "text": "Abundant elastic lamellae for lymphatic drainage"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The artery (left) has a thick, muscular tunica media to withstand high pulsatile arterial pressure, keeping its lumen round and patent. The companion vein (right) carries low-pressure blood, so its wall is thin and the lumen often collapses in section.",
+        "whyCorrect": "The artery (left) has a thick, muscular tunica media to withstand high pulsatile arterial pressure, keeping its lumen round and patent. The companion vein (right) carries low-pressure blood, so its wall is thin and the lumen often collapses in section.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-114_Brick Exchange - Hemodynamics_ Blood Pressure_p21_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-288",
+      "topicId": "hemodynamics-blood-pressure",
+      "topicName": "Hemodynamics: Blood Pressure",
+      "stem": "A clinician places an inflatable cuff and aneroid gauge on a patient's upper arm while palpating/auscultating the brachial region. What is being measured?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Jugular venous pressure"
+        },
+        {
+          "label": "B",
+          "text": "Capillary refill time"
+        },
+        {
+          "label": "C",
+          "text": "Central venous pressure"
+        },
+        {
+          "label": "D",
+          "text": "Pulse oximetry (oxygen saturation)"
+        },
+        {
+          "label": "E",
+          "text": "Arterial blood pressure"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The cuff (sphygmomanometer) is inflated to occlude the brachial artery, then slowly deflated while listening for Korotkoff sounds to determine systolic and diastolic arterial blood pressure.",
+        "whyCorrect": "The cuff (sphygmomanometer) is inflated to occlude the brachial artery, then slowly deflated while listening for Korotkoff sounds to determine systolic and diastolic arterial blood pressure.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-288_Brick Exchange - Hemodynamics_ Blood Pressure_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-740",
+      "topicId": "hemodynamics-blood-pressure",
+      "topicName": "Hemodynamics: Blood Pressure",
+      "stem": "Vascular compliance, the property compared across these three vessels, is defined by which relationship?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Wall tension divided by vessel radius"
+        },
+        {
+          "label": "B",
+          "text": "The change in volume produced by a given change in pressure (ΔV/ΔP)"
+        },
+        {
+          "label": "C",
+          "text": "The change in pressure produced by a given change in volume (ΔP/ΔV)"
+        },
+        {
+          "label": "D",
+          "text": "Flow divided by the pressure gradient"
+        },
+        {
+          "label": "E",
+          "text": "The product of pressure and volume (P x V)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Compliance = ΔV/ΔP. A stiff (zero-compliance) vessel shows large pressure rise with little volume change, an infinitely compliant vessel accommodates volume with no pressure change, and real vessels lie between these extremes.",
+        "whyCorrect": "Compliance = ΔV/ΔP. A stiff (zero-compliance) vessel shows large pressure rise with little volume change, an infinitely compliant vessel accommodates volume with no pressure change, and real vessels lie between these extremes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-740_Brick Exchange - Hemodynamics_ Blood Pressure_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-741",
+      "topicId": "hemodynamics-blood-pressure",
+      "topicName": "Hemodynamics: Blood Pressure",
+      "stem": "Comparing the two pressure-volume curves, what does the much steeper slope of the vena cava curve at low pressures indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Veins have far lower compliance than arteries"
+        },
+        {
+          "label": "B",
+          "text": "The vena cava resists volume change more than the aorta"
+        },
+        {
+          "label": "C",
+          "text": "Venous pressure is higher than arterial pressure"
+        },
+        {
+          "label": "D",
+          "text": "Veins have far greater compliance than arteries at low pressure"
+        },
+        {
+          "label": "E",
+          "text": "The aorta stores more blood volume than the vena cava"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Slope of the pressure-volume curve reflects compliance (ΔV/ΔP). The steep venous curve shows that veins accommodate large volume changes with minimal pressure change, making them the body's principal blood-volume reservoir, whereas the stiffer aorta is far less compliant.",
+        "whyCorrect": "Slope of the pressure-volume curve reflects compliance (ΔV/ΔP). The steep venous curve shows that veins accommodate large volume changes with minimal pressure change, making them the body's principal blood-volume reservoir, whereas the stiffer aorta is far less compliant.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-741_Brick Exchange - Hemodynamics_ Blood Pressure_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-742",
+      "topicId": "hemodynamics-blood-pressure",
+      "topicName": "Hemodynamics: Blood Pressure",
+      "stem": "As the pressure wave travels from the ascending aorta to the tibial artery in this supine subject, what happens to the systolic pressure and pulse pressure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They remain unchanged throughout"
+        },
+        {
+          "label": "B",
+          "text": "Both fall progressively"
+        },
+        {
+          "label": "C",
+          "text": "Mean pressure rises sharply while pulse pressure falls"
+        },
+        {
+          "label": "D",
+          "text": "Systolic falls while diastolic rises"
+        },
+        {
+          "label": "E",
+          "text": "Both rise (peripheral pulse pressure amplification)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Moving distally, wave reflection and decreasing arterial compliance cause the systolic peak to rise and the pulse pressure to widen even though mean arterial pressure declines only slightly. This is termed peripheral pulse pressure amplification.",
+        "whyCorrect": "Moving distally, wave reflection and decreasing arterial compliance cause the systolic peak to rise and the pulse pressure to widen even though mean arterial pressure declines only slightly. This is termed peripheral pulse pressure amplification.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-742_Brick Exchange - Hemodynamics_ Blood Pressure_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-743",
+      "topicId": "hemodynamics-blood-pressure",
+      "topicName": "Hemodynamics: Blood Pressure",
+      "stem": "Based on the percent-total-volume bars in this chart, which vascular compartment contains the largest share of total blood volume?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Veins"
+        },
+        {
+          "label": "B",
+          "text": "Arterioles"
+        },
+        {
+          "label": "C",
+          "text": "Aorta"
+        },
+        {
+          "label": "D",
+          "text": "Capillaries"
+        },
+        {
+          "label": "E",
+          "text": "Arteries"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The percent-volume bar is by far tallest for the veins, reflecting the venous system's role as the major capacitance reservoir holding most of the circulating blood, even though mean pressure there is low. Mean pressure, by contrast, is highest in the aorta and large arteries.",
+        "whyCorrect": "The percent-volume bar is by far tallest for the veins, reflecting the venous system's role as the major capacitance reservoir holding most of the circulating blood, even though mean pressure there is low. Mean pressure, by contrast, is highest in the aorta and large arteries.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-743_Brick Exchange - Hemodynamics_ Blood Pressure_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-744",
+      "topicId": "hemodynamics-blood-pressure",
+      "topicName": "Hemodynamics: Blood Pressure",
+      "stem": "The diagram contrasts the aorta during systole (distended) and diastole (recoiling to push blood onward). What physiologic phenomenon does this illustrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Frank-Starling mechanism"
+        },
+        {
+          "label": "B",
+          "text": "Laplace wall-tension effect"
+        },
+        {
+          "label": "C",
+          "text": "Bainbridge reflex"
+        },
+        {
+          "label": "D",
+          "text": "Poiseuille laminar-flow effect"
+        },
+        {
+          "label": "E",
+          "text": "Windkessel effect (elastic recoil maintaining diastolic flow)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "During systole the elastic aorta stretches and stores energy; during diastole its elastic recoil propels stored blood forward, converting pulsatile ejection into more continuous capillary flow. This is the Windkessel (air-chamber) effect.",
+        "whyCorrect": "During systole the elastic aorta stretches and stores energy; during diastole its elastic recoil propels stored blood forward, converting pulsatile ejection into more continuous capillary flow. This is the Windkessel (air-chamber) effect.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-744_Brick Exchange - Hemodynamics_ Blood Pressure_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-745",
+      "topicId": "hemodynamics-blood-pressure",
+      "topicName": "Hemodynamics: Blood Pressure",
+      "stem": "This schematic of a cylindrical vessel relates wall tension (T) to internal pressure (P) and radius (R) as T = PR. Which principle governs this relationship?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fick's principle"
+        },
+        {
+          "label": "B",
+          "text": "Ohm's law of flow"
+        },
+        {
+          "label": "C",
+          "text": "Law of Laplace"
+        },
+        {
+          "label": "D",
+          "text": "Bernoulli's principle"
+        },
+        {
+          "label": "E",
+          "text": "Poiseuille's law"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The Law of Laplace states that wall tension in a cylindrical vessel equals the product of transmural pressure and radius (T = PR). It explains why dilated vessels (larger R) require greater wall tension and are prone to rupture, e.g., aneurysms.",
+        "whyCorrect": "The Law of Laplace states that wall tension in a cylindrical vessel equals the product of transmural pressure and radius (T = PR). It explains why dilated vessels (larger R) require greater wall tension and are prone to rupture, e.g., aneurysms.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-745_Brick Exchange - Hemodynamics_ Blood Pressure_p18_2.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-746",
+      "topicId": "hemodynamics-blood-pressure",
+      "topicName": "Hemodynamics: Blood Pressure",
+      "stem": "On this arterial pressure waveform, a brief downward notch (the incisura) interrupts the descending limb before the dicrotic wave. What event produces this notch?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Closure of the aortic valve"
+        },
+        {
+          "label": "B",
+          "text": "Peak of ventricular ejection"
+        },
+        {
+          "label": "C",
+          "text": "Onset of ventricular contraction"
+        },
+        {
+          "label": "D",
+          "text": "Opening of the mitral valve"
+        },
+        {
+          "label": "E",
+          "text": "Atrial systole (a-wave)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The incisura (dicrotic notch) marks aortic valve closure at the end of ventricular ejection; the brief backflow and subsequent elastic rebound of the aortic wall produce the dicrotic wave. Pulse pressure is systolic minus diastolic pressure.",
+        "whyCorrect": "The incisura (dicrotic notch) marks aortic valve closure at the end of ventricular ejection; the brief backflow and subsequent elastic rebound of the aortic wall produce the dicrotic wave. Pulse pressure is systolic minus diastolic pressure.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-746_Brick Exchange - Hemodynamics_ Blood Pressure_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-747",
+      "topicId": "hemodynamics-blood-pressure",
+      "topicName": "Hemodynamics: Blood Pressure",
+      "stem": "The figure compares arterial and venous pressures at the head, heart, and feet in a recumbent versus an upright subject, showing large pressure differences appearing only when upright. What explains these positional changes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Loss of vascular elastic recoil when upright"
+        },
+        {
+          "label": "B",
+          "text": "Reflex arteriolar vasodilation in the legs"
+        },
+        {
+          "label": "C",
+          "text": "Increased cardiac output on standing"
+        },
+        {
+          "label": "D",
+          "text": "Reduced blood viscosity at dependent sites"
+        },
+        {
+          "label": "E",
+          "text": "Hydrostatic (gravitational) pressure column effects"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "When recumbent, all points lie near heart level so pressures are similar. Standing adds a hydrostatic column: gravity raises pressure at the feet and lowers it at the head, proportional to the vertical distance from the heart.",
+        "whyCorrect": "When recumbent, all points lie near heart level so pressures are similar. Standing adds a hydrostatic column: gravity raises pressure at the feet and lowers it at the head, proportional to the vertical distance from the heart.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-747_Brick Exchange - Hemodynamics_ Blood Pressure_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

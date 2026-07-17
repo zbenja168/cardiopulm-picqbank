@@ -1,0 +1,201 @@
+{
+  "categoryId": "secondary-hypertension",
+  "categoryName": "Secondary Hypertension",
+  "questions": [
+    {
+      "id": "repic-376",
+      "topicId": "secondary-hypertension",
+      "topicName": "Secondary Hypertension",
+      "stem": "The arrow on this MR angiogram of the aorta and renal vessels indicates a narrowing that raises blood pressure primarily through which mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased cardiac output from severe anemia"
+        },
+        {
+          "label": "B",
+          "text": "Direct autonomous aldosterone secretion by an adrenal tumor"
+        },
+        {
+          "label": "C",
+          "text": "Catecholamine surge from an adrenal medullary tumor"
+        },
+        {
+          "label": "D",
+          "text": "Activation of the renin-angiotensin-aldosterone system"
+        },
+        {
+          "label": "E",
+          "text": "Excess cortisol production causing sodium retention"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Reduced perfusion pressure from renal artery stenosis is sensed by the juxtaglomerular apparatus, triggering renin release and downstream angiotensin II/aldosterone activation, which drives renovascular hypertension.",
+        "whyCorrect": "Reduced perfusion pressure from renal artery stenosis is sensed by the juxtaglomerular apparatus, triggering renin release and downstream angiotensin II/aldosterone activation, which drives renovascular hypertension.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-376_Brick Exchange - Secondary Hypertension_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-377",
+      "topicId": "secondary-hypertension",
+      "topicName": "Secondary Hypertension",
+      "stem": "This renal angiogram shows a beaded 'string of beads' contour of the artery. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atherosclerotic renal artery stenosis"
+        },
+        {
+          "label": "B",
+          "text": "Fibromuscular dysplasia"
+        },
+        {
+          "label": "C",
+          "text": "Renal artery aneurysm"
+        },
+        {
+          "label": "D",
+          "text": "Polyarteritis nodosa"
+        },
+        {
+          "label": "E",
+          "text": "Takayasu arteritis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The alternating areas of stenosis and dilation give a classic 'string of beads' pattern on angiography, diagnostic of fibromuscular dysplasia of the renal artery.",
+        "whyCorrect": "The alternating areas of stenosis and dilation give a classic 'string of beads' pattern on angiography, diagnostic of fibromuscular dysplasia of the renal artery.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-377_Brick Exchange - Secondary Hypertension_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-557",
+      "topicId": "secondary-hypertension",
+      "topicName": "Secondary Hypertension",
+      "stem": "This figure illustrates a patient with moon facies, buffalo hump, central obesity with abdominal striae, thin skin, proximal muscle weakness, and hypertension from cortisol excess. Which condition causes this constellation and its associated secondary hypertension?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Primary hyperaldosteronism (Conn syndrome)"
+        },
+        {
+          "label": "B",
+          "text": "Acromegaly"
+        },
+        {
+          "label": "C",
+          "text": "Hyperthyroidism (Graves disease)"
+        },
+        {
+          "label": "D",
+          "text": "Cushing syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Addison disease"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Chronic glucocorticoid excess (Cushing syndrome) produces moon face, buffalo hump, central obesity with striae, thin skin, proximal myopathy, and osteoporosis; excess cortisol also raises blood pressure, causing secondary hypertension.",
+        "whyCorrect": "Chronic glucocorticoid excess (Cushing syndrome) produces moon face, buffalo hump, central obesity with striae, thin skin, proximal myopathy, and osteoporosis; excess cortisol also raises blood pressure, causing secondary hypertension.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-557_Brick Exchange - Secondary Hypertension_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-558",
+      "topicId": "secondary-hypertension",
+      "topicName": "Secondary Hypertension",
+      "stem": "This renal artery abnormality producing a 'string of beads' and alternating stenosis is characteristic of a condition that most classically causes renovascular hypertension in which patient group?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adolescent boys"
+        },
+        {
+          "label": "B",
+          "text": "Elderly men with diffuse atherosclerosis"
+        },
+        {
+          "label": "C",
+          "text": "Young to middle-aged women"
+        },
+        {
+          "label": "D",
+          "text": "Post-menopausal diabetic men"
+        },
+        {
+          "label": "E",
+          "text": "Neonates and infants"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Fibromuscular dysplasia causes non-atherosclerotic thickening of the arterial wall, giving a beaded appearance with intervening stenoses. It predominantly affects young to middle-aged women and is a treatable cause of secondary hypertension.",
+        "whyCorrect": "Fibromuscular dysplasia causes non-atherosclerotic thickening of the arterial wall, giving a beaded appearance with intervening stenoses. It predominantly affects young to middle-aged women and is a treatable cause of secondary hypertension.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-558_Brick Exchange - Secondary Hypertension_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-862",
+      "topicId": "secondary-hypertension",
+      "topicName": "Secondary Hypertension",
+      "stem": "This sagittal illustration of a sleeping person shows the tongue and soft tissues falling back against the pharyngeal wall. What process is being depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Upper airway collapse causing obstructive sleep apnea"
+        },
+        {
+          "label": "B",
+          "text": "Laryngospasm from aspiration"
+        },
+        {
+          "label": "C",
+          "text": "Epiglottitis with airway swelling"
+        },
+        {
+          "label": "D",
+          "text": "Choanal atresia"
+        },
+        {
+          "label": "E",
+          "text": "Vocal cord paralysis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "During sleep, relaxation of pharyngeal muscles lets the tongue and soft palate collapse posteriorly, occluding the upper airway. This is obstructive sleep apnea, a recognized secondary cause of hypertension.",
+        "whyCorrect": "During sleep, relaxation of pharyngeal muscles lets the tongue and soft palate collapse posteriorly, occluding the upper airway. This is obstructive sleep apnea, a recognized secondary cause of hypertension.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-862_Brick Exchange - Secondary Hypertension_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

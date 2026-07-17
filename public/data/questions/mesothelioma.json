@@ -1,0 +1,279 @@
+{
+  "categoryId": "mesothelioma",
+  "categoryName": "Mesothelioma",
+  "questions": [
+    {
+      "id": "repic-156",
+      "topicId": "mesothelioma",
+      "topicName": "Mesothelioma",
+      "stem": "This H&E section shows sheets of polygonal cells with abundant pink cytoplasm and relatively uniform round nuclei arising from the pleura. This is the most common histologic subtype of which malignancy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Small cell lung carcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Epithelioid mesothelioma"
+        },
+        {
+          "label": "C",
+          "text": "Pulmonary adenocarcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Hodgkin lymphoma"
+        },
+        {
+          "label": "E",
+          "text": "Squamous cell carcinoma"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Epithelioid morphology, resembling reactive mesothelial cells, is the most common and most favorable histologic pattern of malignant mesothelioma; immunostains (calretinin, WT-1) confirm mesothelial origin.",
+        "whyCorrect": "Epithelioid morphology, resembling reactive mesothelial cells, is the most common and most favorable histologic pattern of malignant mesothelioma; immunostains (calretinin, WT-1) confirm mesothelial origin.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-156_Brick Exchange - Mesothelioma_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-157",
+      "topicId": "mesothelioma",
+      "topicName": "Mesothelioma",
+      "stem": "This pleural biopsy shows branching papillary fronds lined by cuboidal cells with fibrovascular cores. Which immunohistochemical marker best supports a mesothelial (rather than adenocarcinoma) origin?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CD20 positivity"
+        },
+        {
+          "label": "B",
+          "text": "CEA positivity"
+        },
+        {
+          "label": "C",
+          "text": "TTF-1 positivity"
+        },
+        {
+          "label": "D",
+          "text": "Napsin A positivity"
+        },
+        {
+          "label": "E",
+          "text": "Calretinin positivity"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The papillary epithelioid pattern is characteristic of mesothelioma; calretinin (and WT-1, D2-40) are positive in mesothelioma, whereas TTF-1, CEA, and napsin A favor pulmonary adenocarcinoma.",
+        "whyCorrect": "The papillary epithelioid pattern is characteristic of mesothelioma; calretinin (and WT-1, D2-40) are positive in mesothelioma, whereas TTF-1, CEA, and napsin A favor pulmonary adenocarcinoma.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-157_Brick Exchange - Mesothelioma_p9_2.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-317",
+      "topicId": "mesothelioma",
+      "topicName": "Mesothelioma",
+      "stem": "This coronal chest CT shows circumferential rind-like soft-tissue thickening encasing the pleural surface (arrows/circle) with associated effusion. In a patient with prior asbestos exposure, this is most consistent with which diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Malignant pleural mesothelioma"
+        },
+        {
+          "label": "B",
+          "text": "Pulmonary embolism"
+        },
+        {
+          "label": "C",
+          "text": "Sarcoidosis"
+        },
+        {
+          "label": "D",
+          "text": "Emphysematous bulla"
+        },
+        {
+          "label": "E",
+          "text": "Lobar pneumonia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Nodular, circumferential pleural thickening that encases the lung with effusion is the classic CT appearance of malignant mesothelioma, strongly associated with asbestos exposure.",
+        "whyCorrect": "Nodular, circumferential pleural thickening that encases the lung with effusion is the classic CT appearance of malignant mesothelioma, strongly associated with asbestos exposure.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-317_Brick Exchange - Mesothelioma_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-318",
+      "topicId": "mesothelioma",
+      "topicName": "Mesothelioma",
+      "stem": "This lateral chest radiograph highlights a discrete calcified density along the diaphragmatic pleura. What exposure history is most strongly associated with development of this lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Silica (silicosis) exposure"
+        },
+        {
+          "label": "B",
+          "text": "Coal dust exposure"
+        },
+        {
+          "label": "C",
+          "text": "Asbestos exposure"
+        },
+        {
+          "label": "D",
+          "text": "Beryllium exposure"
+        },
+        {
+          "label": "E",
+          "text": "Tobacco smoking alone"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Calcified pleural plaques, especially over the diaphragm and posterolateral chest wall, are a marker of prior asbestos exposure and raise concern for mesothelioma.",
+        "whyCorrect": "Calcified pleural plaques, especially over the diaphragm and posterolateral chest wall, are a marker of prior asbestos exposure and raise concern for mesothelioma.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-318_Brick Exchange - Mesothelioma_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-319",
+      "topicId": "mesothelioma",
+      "topicName": "Mesothelioma",
+      "stem": "This frontal chest radiograph shows blunting of the costophrenic angle with a meniscus at the right lung base. What is the mechanism producing this radiographic finding in advanced pleural malignancy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accumulation of fluid in the pleural space"
+        },
+        {
+          "label": "B",
+          "text": "Collapse of alveoli from airway obstruction"
+        },
+        {
+          "label": "C",
+          "text": "Hyperinflation from air trapping"
+        },
+        {
+          "label": "D",
+          "text": "Air trapped in the pleural space"
+        },
+        {
+          "label": "E",
+          "text": "Consolidation of alveoli by exudate"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The basal opacity with a meniscus is a pleural effusion; malignant pleural involvement (e.g., mesothelioma) impairs fluid resorption and commonly presents with a unilateral effusion.",
+        "whyCorrect": "The basal opacity with a meniscus is a pleural effusion; malignant pleural involvement (e.g., mesothelioma) impairs fluid resorption and commonly presents with a unilateral effusion.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-319_Brick Exchange - Mesothelioma_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-523",
+      "topicId": "mesothelioma",
+      "topicName": "Mesothelioma",
+      "stem": "This gross specimen of the parietal pleura shows circumscribed, pearly-white, waxy fibrous patches (circled). These lesions are a hallmark of remote exposure to which agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Radiation therapy"
+        },
+        {
+          "label": "B",
+          "text": "Tuberculosis infection"
+        },
+        {
+          "label": "C",
+          "text": "Cigarette smoke"
+        },
+        {
+          "label": "D",
+          "text": "Coal dust"
+        },
+        {
+          "label": "E",
+          "text": "Asbestos"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Discrete, ivory-white collagenous plaques on the parietal and diaphragmatic pleura are the classic gross marker of prior asbestos exposure.",
+        "whyCorrect": "Discrete, ivory-white collagenous plaques on the parietal and diaphragmatic pleura are the classic gross marker of prior asbestos exposure.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-523_Brick Exchange - Mesothelioma_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-524",
+      "topicId": "mesothelioma",
+      "topicName": "Mesothelioma",
+      "stem": "This cross-sectioned specimen shows a thick, firm, tan-white tumor that circumferentially encases and constricts the underlying lung. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Malignant mesothelioma"
+        },
+        {
+          "label": "B",
+          "text": "Bronchogenic adenocarcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Sarcoidosis"
+        },
+        {
+          "label": "D",
+          "text": "Lobar pneumonia"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary infarct"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A rind of tumor encasing the entire lung and encroaching on fissures is the characteristic gross appearance of diffuse malignant pleural mesothelioma.",
+        "whyCorrect": "A rind of tumor encasing the entire lung and encroaching on fissures is the characteristic gross appearance of diffuse malignant pleural mesothelioma.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-524_Brick Exchange - Mesothelioma_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

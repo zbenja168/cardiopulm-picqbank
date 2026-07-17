@@ -1,0 +1,279 @@
+{
+  "categoryId": "chronic-obstructive-pulmonary-disease-part-1-pathophysiology",
+  "categoryName": "Chronic Obstructive Pulmonary Disease Part 1: Pathophysiology",
+  "questions": [
+    {
+      "id": "repic-106",
+      "topicId": "chronic-obstructive-pulmonary-disease-part-1-pathophysiology",
+      "topicName": "Chronic Obstructive Pulmonary Disease Part 1: Pathophysiology",
+      "stem": "Compared with normal lung, the emphysematous lung on the right shows abnormally enlarged airspaces. This enlargement results from destruction of what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The pulmonary arterial media"
+        },
+        {
+          "label": "B",
+          "text": "The visceral pleura"
+        },
+        {
+          "label": "C",
+          "text": "The alveolar septal walls, with loss of elastic recoil"
+        },
+        {
+          "label": "D",
+          "text": "The submucosal mucous glands"
+        },
+        {
+          "label": "E",
+          "text": "The bronchial smooth muscle layer"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Emphysema is defined by permanent enlargement of airspaces distal to the terminal bronchiole due to destruction of alveolar walls without significant fibrosis. Loss of septa reduces gas-exchange surface area and elastic recoil, causing airflow limitation.",
+        "whyCorrect": "Emphysema is defined by permanent enlargement of airspaces distal to the terminal bronchiole due to destruction of alveolar walls without significant fibrosis. Loss of septa reduces gas-exchange surface area and elastic recoil, causing airflow limitation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-106_Brick Exchange - Chronic Obstructive Pulmonary Disease Part 1_ Pathophysiology_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-107",
+      "topicId": "chronic-obstructive-pulmonary-disease-part-1-pathophysiology",
+      "topicName": "Chronic Obstructive Pulmonary Disease Part 1: Pathophysiology",
+      "stem": "These hepatocytes contain PAS-positive, diastase-resistant globules of misfolded protein that is deficient in the serum. Through what mechanism does this deficiency lead to emphysema in the lung?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IgE-mediated mast cell degranulation causes bronchoconstriction"
+        },
+        {
+          "label": "B",
+          "text": "Surfactant deficiency collapses the alveoli"
+        },
+        {
+          "label": "C",
+          "text": "Excess collagen deposition stiffens the alveolar walls"
+        },
+        {
+          "label": "D",
+          "text": "Ciliary dysfunction impairs mucociliary clearance"
+        },
+        {
+          "label": "E",
+          "text": "Unopposed neutrophil elastase destroys alveolar elastin and septal walls"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Alpha-1 antitrypsin normally inhibits neutrophil elastase. When the protein misfolds and is retained in hepatocytes, serum levels fall, leaving elastase unopposed to degrade alveolar elastic tissue, producing panacinar emphysema (accelerated by smoking).",
+        "whyCorrect": "Alpha-1 antitrypsin normally inhibits neutrophil elastase. When the protein misfolds and is retained in hepatocytes, serum levels fall, leaving elastase unopposed to degrade alveolar elastic tissue, producing panacinar emphysema (accelerated by smoking).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-107_Brick Exchange - Chronic Obstructive Pulmonary Disease Part 1_ Pathophysiology_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-231",
+      "topicId": "chronic-obstructive-pulmonary-disease-part-1-pathophysiology",
+      "topicName": "Chronic Obstructive Pulmonary Disease Part 1: Pathophysiology",
+      "stem": "This chest CT shows extensive low-attenuation air-filled spaces and large (>1 cm) subpleural cystic areas replacing normal lung parenchyma. These findings are characteristic of which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Idiopathic pulmonary fibrosis"
+        },
+        {
+          "label": "B",
+          "text": "Bronchiectasis"
+        },
+        {
+          "label": "C",
+          "text": "Cardiogenic pulmonary edema"
+        },
+        {
+          "label": "D",
+          "text": "Emphysema (COPD)"
+        },
+        {
+          "label": "E",
+          "text": "Lobar pneumonia"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Areas of destroyed lung appear as low-attenuation regions, and thin-walled spaces larger than 1 cm are bullae. This pattern of parenchymal destruction is typical of emphysema, in contrast to the reticulation of fibrosis or airspace filling of pneumonia and edema.",
+        "whyCorrect": "Areas of destroyed lung appear as low-attenuation regions, and thin-walled spaces larger than 1 cm are bullae. This pattern of parenchymal destruction is typical of emphysema, in contrast to the reticulation of fibrosis or airspace filling of pneumonia and edema.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-231_Brick Exchange - Chronic Obstructive Pulmonary Disease Part 1_ Pathophysiology_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-456",
+      "topicId": "chronic-obstructive-pulmonary-disease-part-1-pathophysiology",
+      "topicName": "Chronic Obstructive Pulmonary Disease Part 1: Pathophysiology",
+      "stem": "This diagram contrasts patterns of emphysema within the acinus. Which pattern preferentially destroys the respiratory bronchioles in an upper-lobe predominant distribution and is most strongly linked to cigarette smoking?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Centriacinar (centrilobular) emphysema"
+        },
+        {
+          "label": "B",
+          "text": "Paraseptal emphysema"
+        },
+        {
+          "label": "C",
+          "text": "Panacinar emphysema"
+        },
+        {
+          "label": "D",
+          "text": "Interstitial emphysema"
+        },
+        {
+          "label": "E",
+          "text": "Irregular (paracicatricial) emphysema"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Centriacinar emphysema damages the central portion of the acinus (respiratory bronchioles) while sparing distal alveoli, is upper-lobe predominant, and is the classic smoking-related pattern. Panacinar emphysema, associated with alpha-1 antitrypsin deficiency, destroys the entire acinus and is lower-lobe predominant.",
+        "whyCorrect": "Centriacinar emphysema damages the central portion of the acinus (respiratory bronchioles) while sparing distal alveoli, is upper-lobe predominant, and is the classic smoking-related pattern. Panacinar emphysema, associated with alpha-1 antitrypsin deficiency, destroys the entire acinus and is lower-lobe predominant.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-456_Brick Exchange - Chronic Obstructive Pulmonary Disease Part 1_ Pathophysiology_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-457",
+      "topicId": "chronic-obstructive-pulmonary-disease-part-1-pathophysiology",
+      "topicName": "Chronic Obstructive Pulmonary Disease Part 1: Pathophysiology",
+      "stem": "This gross lung section shows uniform destruction throughout the entire acinus (panacinar pattern) with dilated airways. This distribution of emphysema is most strongly associated with what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cigarette smoking"
+        },
+        {
+          "label": "B",
+          "text": "Coal dust exposure"
+        },
+        {
+          "label": "C",
+          "text": "Chronic asthma"
+        },
+        {
+          "label": "D",
+          "text": "Alpha-1 antitrypsin deficiency"
+        },
+        {
+          "label": "E",
+          "text": "Cystic fibrosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Panacinar emphysema destroys the acinus uniformly and is lower-lobe predominant, the classic pattern of alpha-1 antitrypsin deficiency. Smoking-related disease is instead typically centriacinar and upper-lobe predominant.",
+        "whyCorrect": "Panacinar emphysema destroys the acinus uniformly and is lower-lobe predominant, the classic pattern of alpha-1 antitrypsin deficiency. Smoking-related disease is instead typically centriacinar and upper-lobe predominant.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-457_Brick Exchange - Chronic Obstructive Pulmonary Disease Part 1_ Pathophysiology_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-458",
+      "topicId": "chronic-obstructive-pulmonary-disease-part-1-pathophysiology",
+      "topicName": "Chronic Obstructive Pulmonary Disease Part 1: Pathophysiology",
+      "stem": "This airway biopsy from a chronic smoker shows the normal pseudostratified ciliated columnar epithelium replaced by a multilayered flat epithelium (arrow). What adaptive change is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Squamous metaplasia"
+        },
+        {
+          "label": "B",
+          "text": "Epithelial hypertrophy"
+        },
+        {
+          "label": "C",
+          "text": "Goblet cell hyperplasia"
+        },
+        {
+          "label": "D",
+          "text": "High-grade dysplasia"
+        },
+        {
+          "label": "E",
+          "text": "Anaplasia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chronic irritation from cigarette smoke drives replacement of the delicate respiratory epithelium by more resistant stratified squamous epithelium, a reversible adaptive metaplasia. It compromises mucociliary clearance and can be a precursor field for dysplasia.",
+        "whyCorrect": "Chronic irritation from cigarette smoke drives replacement of the delicate respiratory epithelium by more resistant stratified squamous epithelium, a reversible adaptive metaplasia. It compromises mucociliary clearance and can be a precursor field for dysplasia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-458_Brick Exchange - Chronic Obstructive Pulmonary Disease Part 1_ Pathophysiology_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-691",
+      "topicId": "chronic-obstructive-pulmonary-disease-part-1-pathophysiology",
+      "topicName": "Chronic Obstructive Pulmonary Disease Part 1: Pathophysiology",
+      "stem": "Panel B shows an older patient with a markedly increased anteroposterior chest diameter compared with panel A. What underlies this 'barrel chest' seen in advanced COPD?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Kyphoscoliosis of the thoracic spine"
+        },
+        {
+          "label": "B",
+          "text": "Chronic lung hyperinflation and air trapping, which increase residual volume and fix the chest in an inspiratory position"
+        },
+        {
+          "label": "C",
+          "text": "A large pleural effusion expanding the hemithorax"
+        },
+        {
+          "label": "D",
+          "text": "Subcutaneous fat deposition over the chest wall"
+        },
+        {
+          "label": "E",
+          "text": "Pectus carinatum from costal cartilage overgrowth"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Loss of elastic recoil in emphysema traps air and raises residual volume, so the rib cage is held in a hyperinflated, expiratory-limited position. This increases the AP diameter, producing the barrel-shaped chest.",
+        "whyCorrect": "Loss of elastic recoil in emphysema traps air and raises residual volume, so the rib cage is held in a hyperinflated, expiratory-limited position. This increases the AP diameter, producing the barrel-shaped chest.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-691_Brick Exchange - Chronic Obstructive Pulmonary Disease Part 1_ Pathophysiology_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

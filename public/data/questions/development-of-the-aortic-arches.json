@@ -1,0 +1,396 @@
+{
+  "categoryId": "development-of-the-aortic-arches",
+  "categoryName": "Development of the Aortic Arches",
+  "questions": [
+    {
+      "id": "repic-045",
+      "topicId": "development-of-the-aortic-arches",
+      "topicName": "Development of the Aortic Arches",
+      "stem": "This multi-panel figure traces the paired embryonic pharyngeal (aortic) arch arteries as they remodel into the definitive great vessels seen in the neonate. On the LEFT side, which arch persists to form the definitive arch of the aorta?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The aortic sac directly"
+        },
+        {
+          "label": "B",
+          "text": "The left 6th pharyngeal arch artery"
+        },
+        {
+          "label": "C",
+          "text": "The left 3rd pharyngeal arch artery"
+        },
+        {
+          "label": "D",
+          "text": "The left 4th pharyngeal arch artery"
+        },
+        {
+          "label": "E",
+          "text": "The left 1st pharyngeal arch artery"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "During remodeling of the aortic arches, the left 4th arch becomes the definitive arch of the aorta. The 3rd arches form the common/proximal internal carotids, and the left 6th arch gives the ductus arteriosus (ligamentum arteriosum postnatally).",
+        "whyCorrect": "During remodeling of the aortic arches, the left 4th arch becomes the definitive arch of the aorta. The 3rd arches form the common/proximal internal carotids, and the left 6th arch gives the ductus arteriosus (ligamentum arteriosum postnatally).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-045_Brick Exchange - Development of the Aortic Arches_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-046",
+      "topicId": "development-of-the-aortic-arches",
+      "topicName": "Development of the Aortic Arches",
+      "stem": "This anterior neck dissection shows a bilobed, butterfly-shaped organ draped over the upper trachea with a connecting bridge of tissue and a fine yellow nerve running in the tracheo-esophageal groove behind it. What organ is shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Submandibular gland"
+        },
+        {
+          "label": "B",
+          "text": "Larynx"
+        },
+        {
+          "label": "C",
+          "text": "Thymus"
+        },
+        {
+          "label": "D",
+          "text": "Parotid gland"
+        },
+        {
+          "label": "E",
+          "text": "Thyroid gland"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The paired lateral lobes joined by a central isthmus draped over the trachea identify the thyroid gland. The delicate nerve ascending in the tracheo-esophageal groove is the recurrent laryngeal nerve, closely related to the gland surgically.",
+        "whyCorrect": "The paired lateral lobes joined by a central isthmus draped over the trachea identify the thyroid gland. The delicate nerve ascending in the tracheo-esophageal groove is the recurrent laryngeal nerve, closely related to the gland surgically.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-046_Brick Exchange - Development of the Aortic Arches_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-047",
+      "topicId": "development-of-the-aortic-arches",
+      "topicName": "Development of the Aortic Arches",
+      "stem": "This lateral view of an early embryo shows a series of rounded bulges in the future head/neck region, each separated by external grooves, near the otic placode. What are these serially arranged bulges?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Limb buds"
+        },
+        {
+          "label": "B",
+          "text": "Pharyngeal (branchial) arches"
+        },
+        {
+          "label": "C",
+          "text": "Neural crest ganglia"
+        },
+        {
+          "label": "D",
+          "text": "Somites of the trunk"
+        },
+        {
+          "label": "E",
+          "text": "Optic vesicles"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The stacked bulges in the cranial region are the pharyngeal (branchial) arches, separated externally by pharyngeal clefts/grooves. They give rise to structures of the face and neck, and their arch arteries remodel into the great vessels.",
+        "whyCorrect": "The stacked bulges in the cranial region are the pharyngeal (branchial) arches, separated externally by pharyngeal clefts/grooves. They give rise to structures of the face and neck, and their arch arteries remodel into the great vessels.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-047_Brick Exchange - Development of the Aortic Arches_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-048",
+      "topicId": "development-of-the-aortic-arches",
+      "topicName": "Development of the Aortic Arches",
+      "stem": "This close-up of an embryo's cranial region labels the external depressions between the rounded arches, and separately labels the lens placode and the heart bulge. The grooves indicated between the arches are lined by which germ layer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ectoderm"
+        },
+        {
+          "label": "B",
+          "text": "Neural crest only"
+        },
+        {
+          "label": "C",
+          "text": "Notochord"
+        },
+        {
+          "label": "D",
+          "text": "Mesoderm"
+        },
+        {
+          "label": "E",
+          "text": "Endoderm"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The pharyngeal clefts/grooves are external and lined by ectoderm, whereas the internal pharyngeal pouches are lined by endoderm; the arch cores contain mesoderm and neural crest. Only the first cleft persists as the external auditory meatus.",
+        "whyCorrect": "The pharyngeal clefts/grooves are external and lined by ectoderm, whereas the internal pharyngeal pouches are lined by endoderm; the arch cores contain mesoderm and neural crest. Only the first cleft persists as the external auditory meatus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-048_Brick Exchange - Development of the Aortic Arches_p5_2.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-049",
+      "topicId": "development-of-the-aortic-arches",
+      "topicName": "Development of the Aortic Arches",
+      "stem": "This view of the caudal/dorsal region of an early embryo shows a row of small, regularly repeating segmented blocks running along the length of the body wall. What are these paired, metameric structures?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Renal pyramids"
+        },
+        {
+          "label": "B",
+          "text": "Rib primordia"
+        },
+        {
+          "label": "C",
+          "text": "Somites"
+        },
+        {
+          "label": "D",
+          "text": "Ganglia of the sympathetic chain"
+        },
+        {
+          "label": "E",
+          "text": "Pharyngeal arches"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The regularly repeating paraxial blocks flanking the neural tube are somites. They segment craniocaudally and differentiate into sclerotome (vertebrae/ribs), myotome (skeletal muscle), and dermatome (dermis), providing the body's segmental organization.",
+        "whyCorrect": "The regularly repeating paraxial blocks flanking the neural tube are somites. They segment craniocaudally and differentiate into sclerotome (vertebrae/ribs), myotome (skeletal muscle), and dermatome (dermis), providing the body's segmental organization.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-049_Brick Exchange - Development of the Aortic Arches_p5_3.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-050",
+      "topicId": "development-of-the-aortic-arches",
+      "topicName": "Development of the Aortic Arches",
+      "stem": "This schematic shows six paired, color-coded embryonic arteries arising symmetrically from the aortic sac and draining into the paired dorsal aortae. These vessels are the precursors of the definitive great vessels; what is the collective name for them?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intersegmental arteries"
+        },
+        {
+          "label": "B",
+          "text": "Umbilical arteries"
+        },
+        {
+          "label": "C",
+          "text": "Cardinal veins"
+        },
+        {
+          "label": "D",
+          "text": "Pharyngeal (aortic) arch arteries"
+        },
+        {
+          "label": "E",
+          "text": "Vitelline arteries"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The paired arteries connecting the aortic sac to the dorsal aortae through each pharyngeal arch are the aortic (pharyngeal) arch arteries. Selective regression and persistence of these six pairs generate the asymmetric adult arch of the aorta and its branches.",
+        "whyCorrect": "The paired arteries connecting the aortic sac to the dorsal aortae through each pharyngeal arch are the aortic (pharyngeal) arch arteries. Selective regression and persistence of these six pairs generate the asymmetric adult arch of the aorta and its branches.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-050_Brick Exchange - Development of the Aortic Arches_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-051",
+      "topicId": "development-of-the-aortic-arches",
+      "topicName": "Development of the Aortic Arches",
+      "stem": "This 3D model of the remodeling embryonic arches highlights the 6th arch connecting to the pulmonary outflow, with a note about a left-sided loop persisting until after birth. On the left side, the 6th aortic arch gives rise to which structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Arch of the aorta"
+        },
+        {
+          "label": "B",
+          "text": "Ductus arteriosus (becomes ligamentum arteriosum after birth)"
+        },
+        {
+          "label": "C",
+          "text": "Common carotid artery"
+        },
+        {
+          "label": "D",
+          "text": "Brachiocephalic trunk"
+        },
+        {
+          "label": "E",
+          "text": "Right subclavian artery"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The left 6th aortic arch forms the proximal left pulmonary artery and the ductus arteriosus, which shunts blood from the pulmonary trunk to the descending aorta in fetal life and closes postnatally to become the ligamentum arteriosum.",
+        "whyCorrect": "The left 6th aortic arch forms the proximal left pulmonary artery and the ductus arteriosus, which shunts blood from the pulmonary trunk to the descending aorta in fetal life and closes postnatally to become the ligamentum arteriosum.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-051_Brick Exchange - Development of the Aortic Arches_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-052",
+      "topicId": "development-of-the-aortic-arches",
+      "topicName": "Development of the Aortic Arches",
+      "stem": "This 3D developmental model labels the 3rd and 4th arches at the upper, branching (carotid) portion of the remodeling great vessels. The 3rd aortic arch gives rise to which adult vessel?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pulmonary trunk"
+        },
+        {
+          "label": "B",
+          "text": "Descending thoracic aorta"
+        },
+        {
+          "label": "C",
+          "text": "Common carotid artery (and proximal internal carotid)"
+        },
+        {
+          "label": "D",
+          "text": "Arch of the aorta"
+        },
+        {
+          "label": "E",
+          "text": "Ductus arteriosus"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The 3rd pharyngeal arch arteries form the common carotid arteries and the proximal parts of the internal carotid arteries. The 4th arch on the left becomes the definitive aortic arch, while on the right it forms the proximal right subclavian artery.",
+        "whyCorrect": "The 3rd pharyngeal arch arteries form the common carotid arteries and the proximal parts of the internal carotid arteries. The 4th arch on the left becomes the definitive aortic arch, while on the right it forms the proximal right subclavian artery.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-052_Brick Exchange - Development of the Aortic Arches_p9_2.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-053",
+      "topicId": "development-of-the-aortic-arches",
+      "topicName": "Development of the Aortic Arches",
+      "stem": "This 3D model labels the 3rd, 4th, and 6th arches on the developing great-vessel complex. On the LEFT side, the 4th aortic arch is destined to become which definitive adult structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pulmonary trunk"
+        },
+        {
+          "label": "B",
+          "text": "Right subclavian artery"
+        },
+        {
+          "label": "C",
+          "text": "Arch of the aorta"
+        },
+        {
+          "label": "D",
+          "text": "Ductus arteriosus"
+        },
+        {
+          "label": "E",
+          "text": "Common carotid artery"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The left 4th aortic arch persists as the arch of the aorta, whereas the right 4th arch forms the proximal right subclavian artery. This left-right asymmetry explains the adult configuration of the great vessels.",
+        "whyCorrect": "The left 4th aortic arch persists as the arch of the aorta, whereas the right 4th arch forms the proximal right subclavian artery. This left-right asymmetry explains the adult configuration of the great vessels.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-053_Brick Exchange - Development of the Aortic Arches_p9_3.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-054",
+      "topicId": "development-of-the-aortic-arches",
+      "topicName": "Development of the Aortic Arches",
+      "stem": "This more complete 3D model shows the embryonic arches (3rd, 4th, 6th) coalescing into the mature arch of the aorta and its branches, with a note that one connection persists until after birth. The structure that remains patent in the fetus but closes postnatally is derived from which arch?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The aortic sac"
+        },
+        {
+          "label": "B",
+          "text": "The right 4th aortic arch"
+        },
+        {
+          "label": "C",
+          "text": "The left 3rd aortic arch"
+        },
+        {
+          "label": "D",
+          "text": "The left 4th aortic arch"
+        },
+        {
+          "label": "E",
+          "text": "The left 6th aortic arch"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The ductus arteriosus, derived from the left 6th aortic arch, stays open in fetal life to bypass the lungs and normally closes soon after birth to form the ligamentum arteriosum. Failure to close results in a patent ductus arteriosus.",
+        "whyCorrect": "The ductus arteriosus, derived from the left 6th aortic arch, stays open in fetal life to bypass the lungs and normally closes soon after birth to form the ligamentum arteriosum. Failure to close results in a patent ductus arteriosus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-054_Brick Exchange - Development of the Aortic Arches_p9_4.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

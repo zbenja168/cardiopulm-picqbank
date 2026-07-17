@@ -1,0 +1,240 @@
+{
+  "categoryId": "pericardial-effusion-and-cardiac-tamponade",
+  "categoryName": "Pericardial Effusion and Cardiac Tamponade",
+  "questions": [
+    {
+      "id": "repic-084",
+      "topicId": "pericardial-effusion-and-cardiac-tamponade",
+      "topicName": "Pericardial Effusion and Cardiac Tamponade",
+      "stem": "The magnified inset shows the layers surrounding the heart. Between which two layers does a pericardial effusion accumulate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Between the myocardium and the visceral pericardium"
+        },
+        {
+          "label": "B",
+          "text": "Within the myocardium itself"
+        },
+        {
+          "label": "C",
+          "text": "Between the visceral and parietal layers of serous pericardium (the pericardial cavity)"
+        },
+        {
+          "label": "D",
+          "text": "Between the fibrous pericardium and the chest wall"
+        },
+        {
+          "label": "E",
+          "text": "Between the endocardium and the myocardium"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The pericardial cavity lies between the visceral (epicardial) and parietal serous layers. Effusion fluid collects in this potential space; normally it holds only a small volume of lubricating fluid.",
+        "whyCorrect": "The pericardial cavity lies between the visceral (epicardial) and parietal serous layers. Effusion fluid collects in this potential space; normally it holds only a small volume of lubricating fluid.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-084_Brick Exchange - Pericardial Effusion and Cardiac Tamponade_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-330",
+      "topicId": "pericardial-effusion-and-cardiac-tamponade",
+      "topicName": "Pericardial Effusion and Cardiac Tamponade",
+      "stem": "Compared with the left chest radiograph, the right one shows a large, symmetric, flask-shaped cardiac silhouette. What is this appearance most specifically associated with?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Left ventricular hypertrophy from chronic hypertension"
+        },
+        {
+          "label": "B",
+          "text": "Aortic aneurysm widening the mediastinum"
+        },
+        {
+          "label": "C",
+          "text": "A large pericardial effusion"
+        },
+        {
+          "label": "D",
+          "text": "A tension pneumothorax shifting the mediastinum"
+        },
+        {
+          "label": "E",
+          "text": "Lobar pneumonia with consolidation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A sizable pericardial effusion produces the classic globular water-bottle heart on chest film, distinguishing it from true chamber enlargement (cardiomegaly), which has a more lobulated contour.",
+        "whyCorrect": "A sizable pericardial effusion produces the classic globular water-bottle heart on chest film, distinguishing it from true chamber enlargement (cardiomegaly), which has a more lobulated contour.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-330_Brick Exchange - Pericardial Effusion and Cardiac Tamponade_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-331",
+      "topicId": "pericardial-effusion-and-cardiac-tamponade",
+      "topicName": "Pericardial Effusion and Cardiac Tamponade",
+      "stem": "The echocardiogram and diagram show inward buckling of the right ventricular free wall during ventricular diastole. Why does this occur, and what does it signify?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The RV wall is hypertrophied and stiff from pulmonary hypertension"
+        },
+        {
+          "label": "B",
+          "text": "Intrapericardial pressure transiently exceeds RV filling pressure, an early sign of cardiac tamponade"
+        },
+        {
+          "label": "C",
+          "text": "A large myocardial infarction has scarred the RV free wall"
+        },
+        {
+          "label": "D",
+          "text": "The RV is dilating because of a left-to-right shunt"
+        },
+        {
+          "label": "E",
+          "text": "Tricuspid regurgitation is overloading the right ventricle"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In tamponade the lowest-pressure chambers collapse first. During diastole, when RV pressure is lowest, rising pericardial pressure exceeds it and buckles the RV free wall inward, an early echocardiographic marker.",
+        "whyCorrect": "In tamponade the lowest-pressure chambers collapse first. During diastole, when RV pressure is lowest, rising pericardial pressure exceeds it and buckles the RV free wall inward, an early echocardiographic marker.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-331_Brick Exchange - Pericardial Effusion and Cardiac Tamponade_p13_2.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-332",
+      "topicId": "pericardial-effusion-and-cardiac-tamponade",
+      "topicName": "Pericardial Effusion and Cardiac Tamponade",
+      "stem": "This illustration shows a needle inserted below the xiphoid at about 45 degrees toward the shoulder, aiming for the sac around the heart. What is this procedure and its purpose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intracardiac injection of epinephrine into the ventricle"
+        },
+        {
+          "label": "B",
+          "text": "Thoracentesis to drain a pleural effusion"
+        },
+        {
+          "label": "C",
+          "text": "Central venous catheter placement into the subclavian vein"
+        },
+        {
+          "label": "D",
+          "text": "Endomyocardial biopsy of the right ventricle"
+        },
+        {
+          "label": "E",
+          "text": "Pericardiocentesis to drain fluid from the pericardial sac"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The subxiphoid needle angled toward the pericardial sac depicts pericardiocentesis, which aspirates effusion fluid to relieve tamponade or obtain diagnostic samples.",
+        "whyCorrect": "The subxiphoid needle angled toward the pericardial sac depicts pericardiocentesis, which aspirates effusion fluid to relieve tamponade or obtain diagnostic samples.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-332_Brick Exchange - Pericardial Effusion and Cardiac Tamponade_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-543",
+      "topicId": "pericardial-effusion-and-cardiac-tamponade",
+      "topicName": "Pericardial Effusion and Cardiac Tamponade",
+      "stem": "The three findings depicted here, jugular venous distension, muffled heart sounds, and hypotension, together form a classic triad. What condition does this triad indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Massive pulmonary embolism"
+        },
+        {
+          "label": "B",
+          "text": "Cardiac tamponade"
+        },
+        {
+          "label": "C",
+          "text": "Acute left ventricular failure"
+        },
+        {
+          "label": "D",
+          "text": "Tension pneumothorax"
+        },
+        {
+          "label": "E",
+          "text": "Constrictive pericarditis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Beck triad, distended neck veins, distant/muffled heart sounds, and decreased blood pressure, reflects impaired cardiac filling and low output in acute cardiac tamponade.",
+        "whyCorrect": "Beck triad, distended neck veins, distant/muffled heart sounds, and decreased blood pressure, reflects impaired cardiac filling and low output in acute cardiac tamponade.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-543_Brick Exchange - Pericardial Effusion and Cardiac Tamponade_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-804",
+      "topicId": "pericardial-effusion-and-cardiac-tamponade",
+      "topicName": "Pericardial Effusion and Cardiac Tamponade",
+      "stem": "Comparing the normal heart with the tamponade panel, why do the RA and RV appear compressed and reduced in size?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The right chambers hypertrophy and thicken, shrinking their cavities"
+        },
+        {
+          "label": "B",
+          "text": "The aortic arch dilates and mechanically displaces the right chambers"
+        },
+        {
+          "label": "C",
+          "text": "Rapid tachycardia empties the right chambers of blood"
+        },
+        {
+          "label": "D",
+          "text": "Blood is shunted from the right heart to the left through a septal defect"
+        },
+        {
+          "label": "E",
+          "text": "Accumulated pericardial fluid raises pressure that compresses the thin-walled, low-pressure right chambers, impairing filling"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Rising intrapericardial pressure from effusion compresses the low-pressure RA and RV first, restricting diastolic filling and reducing stroke volume, the hemodynamic basis of tamponade.",
+        "whyCorrect": "Rising intrapericardial pressure from effusion compresses the low-pressure RA and RV first, restricting diastolic filling and reducing stroke volume, the hemodynamic basis of tamponade.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-804_Brick Exchange - Pericardial Effusion and Cardiac Tamponade_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

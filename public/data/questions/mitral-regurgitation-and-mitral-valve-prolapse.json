@@ -1,0 +1,513 @@
+{
+  "categoryId": "mitral-regurgitation-and-mitral-valve-prolapse",
+  "categoryName": "Mitral Regurgitation and Mitral Valve Prolapse",
+  "questions": [
+    {
+      "id": "repic-079",
+      "topicId": "mitral-regurgitation-and-mitral-valve-prolapse",
+      "topicName": "Mitral Regurgitation and Mitral Valve Prolapse",
+      "stem": "This surgical illustration compares normal mitral valve anatomy with a ring sutured around the mitral annulus (cross-sectional and inferior cut-away views). What is the primary purpose of the device being placed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "To reduce annular dilation and restore leaflet coaptation in mitral regurgitation"
+        },
+        {
+          "label": "B",
+          "text": "To occlude the left atrial appendage and prevent emboli"
+        },
+        {
+          "label": "C",
+          "text": "To replace the entire valve with a mechanical prosthesis"
+        },
+        {
+          "label": "D",
+          "text": "To pace the atrium and control atrial fibrillation"
+        },
+        {
+          "label": "E",
+          "text": "To widen a fused, stenotic mitral orifice"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The device is an annuloplasty ring. It is sewn around a dilated mitral annulus to shrink and reshape it, allowing the native leaflets to coapt again and thereby correcting regurgitation while preserving the patient's own valve.",
+        "whyCorrect": "The device is an annuloplasty ring. It is sewn around a dilated mitral annulus to shrink and reshape it, allowing the native leaflets to coapt again and thereby correcting regurgitation while preserving the patient's own valve.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-079_Brick Exchange - Mitral Regurgitation and Mitral Valve Prolapse_p24_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-080",
+      "topicId": "mitral-regurgitation-and-mitral-valve-prolapse",
+      "topicName": "Mitral Regurgitation and Mitral Valve Prolapse",
+      "stem": "This diagram labels the components of a heart valve, including the anterior annulus, anterior leaflet, chordae tendineae, and papillary muscles. Which valve's apparatus is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aortic valve"
+        },
+        {
+          "label": "B",
+          "text": "Tricuspid valve"
+        },
+        {
+          "label": "C",
+          "text": "Eustachian valve"
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary valve"
+        },
+        {
+          "label": "E",
+          "text": "Mitral valve"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The two leaflets suspended by chordae tendineae from papillary muscles, with an anterior and posterior leaflet arrangement, are characteristic of the mitral (bicuspid) valve between the left atrium and left ventricle.",
+        "whyCorrect": "The two leaflets suspended by chordae tendineae from papillary muscles, with an anterior and posterior leaflet arrangement, are characteristic of the mitral (bicuspid) valve between the left atrium and left ventricle.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-080_Brick Exchange - Mitral Regurgitation and Mitral Valve Prolapse_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-158",
+      "topicId": "mitral-regurgitation-and-mitral-valve-prolapse",
+      "topicName": "Mitral Regurgitation and Mitral Valve Prolapse",
+      "stem": "This histologic section of a mitral leaflet shows the fibrosa, an irregularly thickened spongiosa layer, and the atrialis. Which valvular disorder does this expanded, disorganized spongiosa indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amyloid infiltration of the valve stroma"
+        },
+        {
+          "label": "B",
+          "text": "Rheumatic valvulitis with Aschoff bodies"
+        },
+        {
+          "label": "C",
+          "text": "Myxomatous degeneration causing mitral valve prolapse"
+        },
+        {
+          "label": "D",
+          "text": "Infective endocarditis with fibrin-platelet vegetations"
+        },
+        {
+          "label": "E",
+          "text": "Calcific degeneration with dystrophic calcification"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Accumulation of proteoglycan-rich ground substance expands the spongiosa and fragments the fibrosa, weakening the leaflet. This myxomatous (myxoid) degeneration produces the redundant, floppy leaflets of mitral valve prolapse.",
+        "whyCorrect": "Accumulation of proteoglycan-rich ground substance expands the spongiosa and fragments the fibrosa, weakening the leaflet. This myxomatous (myxoid) degeneration produces the redundant, floppy leaflets of mitral valve prolapse.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-158_Brick Exchange - Mitral Regurgitation and Mitral Valve Prolapse_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-320",
+      "topicId": "mitral-regurgitation-and-mitral-valve-prolapse",
+      "topicName": "Mitral Regurgitation and Mitral Valve Prolapse",
+      "stem": "This parasternal long-axis echocardiogram shows systolic billowing of the mitral leaflets more than 2 mm above the annular plane (red line). What auscultatory finding is classically associated with this condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pericardial friction rub"
+        },
+        {
+          "label": "B",
+          "text": "Fixed splitting of S2"
+        },
+        {
+          "label": "C",
+          "text": "Mid-systolic click"
+        },
+        {
+          "label": "D",
+          "text": "Opening snap"
+        },
+        {
+          "label": "E",
+          "text": "S3 gallop"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Displacement of redundant myxomatous leaflets above the annulus defines mitral valve prolapse, which produces a mid-systolic click (often followed by a late systolic murmur if regurgitation is present).",
+        "whyCorrect": "Displacement of redundant myxomatous leaflets above the annulus defines mitral valve prolapse, which produces a mid-systolic click (often followed by a late systolic murmur if regurgitation is present).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-320_Brick Exchange - Mitral Regurgitation and Mitral Valve Prolapse_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-525",
+      "topicId": "mitral-regurgitation-and-mitral-valve-prolapse",
+      "topicName": "Mitral Regurgitation and Mitral Valve Prolapse",
+      "stem": "This opened heart shows a mitral valve with fibrotic, thickened, fused leaflets narrowing the orifice. What auscultatory finding is most expected from this lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Opening snap followed by a diastolic rumble"
+        },
+        {
+          "label": "B",
+          "text": "Early diastolic decrescendo murmur"
+        },
+        {
+          "label": "C",
+          "text": "Continuous machine-like murmur"
+        },
+        {
+          "label": "D",
+          "text": "Crescendo-decrescendo systolic ejection murmur"
+        },
+        {
+          "label": "E",
+          "text": "Holosystolic murmur at the apex"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Leaflet fibrosis, thickening, and commissural fusion produce mitral stenosis, which classically causes an opening snap and a low-pitched mid-diastolic rumble; a holosystolic murmur would indicate regurgitation instead.",
+        "whyCorrect": "Leaflet fibrosis, thickening, and commissural fusion produce mitral stenosis, which classically causes an opening snap and a low-pitched mid-diastolic rumble; a holosystolic murmur would indicate regurgitation instead.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-525_Brick Exchange - Mitral Regurgitation and Mitral Valve Prolapse_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-526",
+      "topicId": "mitral-regurgitation-and-mitral-valve-prolapse",
+      "topicName": "Mitral Regurgitation and Mitral Valve Prolapse",
+      "stem": "This explanted valve shows thickened leaflets with fusion at the commissures (arrows). What is the most common underlying etiology worldwide for this valvular deformity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Infective endocarditis"
+        },
+        {
+          "label": "B",
+          "text": "Congenital bicuspid malformation"
+        },
+        {
+          "label": "C",
+          "text": "Rheumatic heart disease"
+        },
+        {
+          "label": "D",
+          "text": "Myxomatous degeneration"
+        },
+        {
+          "label": "E",
+          "text": "Carcinoid heart disease"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Commissural fusion with leaflet and chordal thickening producing a fish-mouth orifice is the hallmark of chronic rheumatic valvulitis, the leading cause of mitral stenosis worldwide.",
+        "whyCorrect": "Commissural fusion with leaflet and chordal thickening producing a fish-mouth orifice is the hallmark of chronic rheumatic valvulitis, the leading cause of mitral stenosis worldwide.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-526_Brick Exchange - Mitral Regurgitation and Mitral Valve Prolapse_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-527",
+      "topicId": "mitral-regurgitation-and-mitral-valve-prolapse",
+      "topicName": "Mitral Regurgitation and Mitral Valve Prolapse",
+      "stem": "These two illustrations show a chorda tendinea rupture and a papillary muscle rupture affecting the mitral apparatus. What clinical presentation do these mechanisms most characteristically cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Slowly progressive tricuspid regurgitation with peripheral edema"
+        },
+        {
+          "label": "B",
+          "text": "Gradual aortic regurgitation with a wide pulse pressure"
+        },
+        {
+          "label": "C",
+          "text": "Acute severe mitral regurgitation with sudden pulmonary edema"
+        },
+        {
+          "label": "D",
+          "text": "Asymptomatic mid-systolic click without hemodynamic effect"
+        },
+        {
+          "label": "E",
+          "text": "Chronic compensated mitral stenosis with atrial enlargement"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Rupture of a chorda or papillary muscle (classically a few days after inferior MI) abruptly deprives a leaflet of support, causing acute severe mitral regurgitation. Because the atrium and pulmonary vasculature have no time to adapt, patients present with sudden flash pulmonary edema and hypotension.",
+        "whyCorrect": "Rupture of a chorda or papillary muscle (classically a few days after inferior MI) abruptly deprives a leaflet of support, causing acute severe mitral regurgitation. Because the atrium and pulmonary vasculature have no time to adapt, patients present with sudden flash pulmonary edema and hypotension.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-527_Brick Exchange - Mitral Regurgitation and Mitral Valve Prolapse_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-778",
+      "topicId": "mitral-regurgitation-and-mitral-valve-prolapse",
+      "topicName": "Mitral Regurgitation and Mitral Valve Prolapse",
+      "stem": "This cardiac diagram depicts asymmetric septal thickening with a high-velocity outflow jet and a posteriorly directed mitral regurgitant jet. What mechanism directly causes the mitral regurgitation shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ruptured chordae tendineae"
+        },
+        {
+          "label": "B",
+          "text": "Annular calcification"
+        },
+        {
+          "label": "C",
+          "text": "Systolic anterior motion of the mitral valve leaflet"
+        },
+        {
+          "label": "D",
+          "text": "Papillary muscle infarction"
+        },
+        {
+          "label": "E",
+          "text": "Leaflet vegetation from endocarditis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In hypertrophic cardiomyopathy, the hypertrophied septum accelerates outflow, drawing the anterior mitral leaflet toward the septum (systolic anterior motion), which obstructs outflow and creates a posteriorly directed regurgitant jet.",
+        "whyCorrect": "In hypertrophic cardiomyopathy, the hypertrophied septum accelerates outflow, drawing the anterior mitral leaflet toward the septum (systolic anterior motion), which obstructs outflow and creates a posteriorly directed regurgitant jet.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-778_Brick Exchange - Mitral Regurgitation and Mitral Valve Prolapse_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-779",
+      "topicId": "mitral-regurgitation-and-mitral-valve-prolapse",
+      "topicName": "Mitral Regurgitation and Mitral Valve Prolapse",
+      "stem": "This left ventricular pressure-volume loop compares the normal loop with that of chronic mitral regurgitation. What key hemodynamic change does the regurgitant loop demonstrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A prolonged isovolumetric relaxation phase with normal volumes"
+        },
+        {
+          "label": "B",
+          "text": "Increased end-diastolic volume with a larger total stroke volume and loss of isovolumetric contraction"
+        },
+        {
+          "label": "C",
+          "text": "Elevated afterload with a tall, narrow loop"
+        },
+        {
+          "label": "D",
+          "text": "Reduced end-diastolic volume with a narrow stroke volume"
+        },
+        {
+          "label": "E",
+          "text": "Decreased preload with reduced ejection"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In chronic MR the incompetent valve allows systolic backflow, so there is no true isovolumetric contraction; volume overload raises LVEDV and total (forward plus regurgitant) stroke volume, widening and right-shifting the loop.",
+        "whyCorrect": "In chronic MR the incompetent valve allows systolic backflow, so there is no true isovolumetric contraction; volume overload raises LVEDV and total (forward plus regurgitant) stroke volume, widening and right-shifting the loop.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-779_Brick Exchange - Mitral Regurgitation and Mitral Valve Prolapse_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-780",
+      "topicId": "mitral-regurgitation-and-mitral-valve-prolapse",
+      "topicName": "Mitral Regurgitation and Mitral Valve Prolapse",
+      "stem": "These two phonocardiogram tracings contrast murmurs occurring between S1 and S2. What feature distinguishes the lower (mitral regurgitation) tracing from the upper (aortic stenosis) tracing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A uniform holosystolic (plateau) murmur rather than a crescendo-decrescendo shape"
+        },
+        {
+          "label": "B",
+          "text": "It is a mid-diastolic rumble after an opening snap"
+        },
+        {
+          "label": "C",
+          "text": "It is a continuous murmur spanning S2"
+        },
+        {
+          "label": "D",
+          "text": "It occurs entirely in diastole"
+        },
+        {
+          "label": "E",
+          "text": "It is an early diastolic decrescendo murmur"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Mitral regurgitation produces a uniform-intensity holosystolic murmur because the pressure gradient between LV and LA is constant throughout systole, whereas aortic stenosis produces a crescendo-decrescendo ejection murmur that tapers before S2.",
+        "whyCorrect": "Mitral regurgitation produces a uniform-intensity holosystolic murmur because the pressure gradient between LV and LA is constant throughout systole, whereas aortic stenosis produces a crescendo-decrescendo ejection murmur that tapers before S2.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-780_Brick Exchange - Mitral Regurgitation and Mitral Valve Prolapse_p20_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-781",
+      "topicId": "mitral-regurgitation-and-mitral-valve-prolapse",
+      "topicName": "Mitral Regurgitation and Mitral Valve Prolapse",
+      "stem": "This phonocardiogram diagram shows the midsystolic click and late systolic murmur of mitral valve prolapse and how they shift after sudden standing versus sudden squatting. What accounts for the click and murmur occurring EARLIER after sudden standing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased venous return reduces LV volume, so the prolapse and click occur earlier in systole"
+        },
+        {
+          "label": "B",
+          "text": "Elevated left atrial pressure prevents the leaflets from prolapsing"
+        },
+        {
+          "label": "C",
+          "text": "Bradycardia lengthens diastole and shifts the murmur toward S1"
+        },
+        {
+          "label": "D",
+          "text": "Increased LV filling stretches the chordae and abolishes the click"
+        },
+        {
+          "label": "E",
+          "text": "Increased afterload delays leaflet coaptation, moving the click later"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Standing decreases preload and LV end-diastolic volume; the smaller ventricle allows the redundant leaflet to prolapse sooner, moving the click and murmur closer to S1. Squatting increases preload and afterload, enlarging the LV and delaying the click toward S2.",
+        "whyCorrect": "Standing decreases preload and LV end-diastolic volume; the smaller ventricle allows the redundant leaflet to prolapse sooner, moving the click and murmur closer to S1. Squatting increases preload and afterload, enlarging the LV and delaying the click toward S2.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-781_Brick Exchange - Mitral Regurgitation and Mitral Valve Prolapse_p21_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-782",
+      "topicId": "mitral-regurgitation-and-mitral-valve-prolapse",
+      "topicName": "Mitral Regurgitation and Mitral Valve Prolapse",
+      "stem": "This diagram contrasts a normal mitral valve with a regurgitant one during ventricular systole. What is the direct hemodynamic consequence of the abnormality shown on the right?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blood regurgitates from the aorta back into the left ventricle"
+        },
+        {
+          "label": "B",
+          "text": "Blood is obstructed as it enters the left ventricle during diastole"
+        },
+        {
+          "label": "C",
+          "text": "Blood flows backward from the left ventricle into the left atrium during systole"
+        },
+        {
+          "label": "D",
+          "text": "Blood pools in the pulmonary veins without entering the atrium"
+        },
+        {
+          "label": "E",
+          "text": "Blood shunts from the left atrium to the right atrium"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "When the mitral leaflets fail to coapt during systole, a portion of the LV stroke volume is ejected retrograde into the left atrium instead of forward into the aorta, producing the holosystolic murmur and volume overload of mitral regurgitation.",
+        "whyCorrect": "When the mitral leaflets fail to coapt during systole, a portion of the LV stroke volume is ejected retrograde into the left atrium instead of forward into the aorta, producing the holosystolic murmur and volume overload of mitral regurgitation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-782_Brick Exchange - Mitral Regurgitation and Mitral Valve Prolapse_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-783",
+      "topicId": "mitral-regurgitation-and-mitral-valve-prolapse",
+      "topicName": "Mitral Regurgitation and Mitral Valve Prolapse",
+      "stem": "This diagram contrasts a normal left ventricle with one in which the papillary muscle is displaced, the leaflets are tethered, and closure is restricted. What type of mitral regurgitation does this mechanism represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Primary regurgitation from a torn, flail leaflet"
+        },
+        {
+          "label": "B",
+          "text": "Functional (secondary) regurgitation from LV remodeling that tethers structurally normal leaflets"
+        },
+        {
+          "label": "C",
+          "text": "Regurgitation from infective vegetations destroying the cusp"
+        },
+        {
+          "label": "D",
+          "text": "Congenital regurgitation from a cleft anterior leaflet"
+        },
+        {
+          "label": "E",
+          "text": "Rheumatic regurgitation from commissural fusion and thickening"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "When ventricular dilation displaces the papillary muscles outward, the chordae tether otherwise normal leaflets and prevent full closure. This is functional (secondary) mitral regurgitation, driven by ventricular geometry rather than intrinsic valve disease.",
+        "whyCorrect": "When ventricular dilation displaces the papillary muscles outward, the chordae tether otherwise normal leaflets and prevent full closure. This is functional (secondary) mitral regurgitation, driven by ventricular geometry rather than intrinsic valve disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-783_Brick Exchange - Mitral Regurgitation and Mitral Valve Prolapse_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "categoryId": "control-of-ventilation-and-effects-of-altitude-and-exercise",
+  "categoryName": "Control of Ventilation and Effects of Altitude and Exercise",
+  "questions": [
+    {
+      "id": "repic-042",
+      "topicId": "control-of-ventilation-and-effects-of-altitude-and-exercise",
+      "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+      "stem": "In this anterior view of the thorax, which flat bone forms the midline of the anterior thoracic wall and articulates with the ribs via the costal cartilages?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Floating rib"
+        },
+        {
+          "label": "B",
+          "text": "Clavicle"
+        },
+        {
+          "label": "C",
+          "text": "Thoracic vertebra"
+        },
+        {
+          "label": "D",
+          "text": "Scapula"
+        },
+        {
+          "label": "E",
+          "text": "Sternum"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The sternum is the flat midline bone of the anterior chest wall; the ribs join it anteriorly through costal cartilages to complete the protective thoracic cage.",
+        "whyCorrect": "The sternum is the flat midline bone of the anterior chest wall; the ribs join it anteriorly through costal cartilages to complete the protective thoracic cage.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-042_Brick Exchange - Control of Ventilation and Effects of Altitude and Exercise_p3_3.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-043",
+      "topicId": "control-of-ventilation-and-effects-of-altitude-and-exercise",
+      "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+      "stem": "In this thoracic view, which domed muscle indicated at the floor of the thoracic cavity is the principal muscle of inspiration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "External oblique"
+        },
+        {
+          "label": "B",
+          "text": "Serratus anterior"
+        },
+        {
+          "label": "C",
+          "text": "Transversus abdominis"
+        },
+        {
+          "label": "D",
+          "text": "Pectoralis major"
+        },
+        {
+          "label": "E",
+          "text": "Diaphragm"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The diaphragm is the dome-shaped muscle at the base of the thorax; its contraction flattens the dome, increasing thoracic volume and generating the pressure gradient for inspiration.",
+        "whyCorrect": "The diaphragm is the dome-shaped muscle at the base of the thorax; its contraction flattens the dome, increasing thoracic volume and generating the pressure gradient for inspiration.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-043_Brick Exchange - Control of Ventilation and Effects of Altitude and Exercise_p3_6.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-465",
+      "topicId": "control-of-ventilation-and-effects-of-altitude-and-exercise",
+      "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+      "stem": "The lower tracing shows a breathing pattern with a crescendo-decrescendo rhythm alternating with periods of apnea. Which clinical condition is most classically associated with this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Panic attack with hyperventilation"
+        },
+        {
+          "label": "B",
+          "text": "Acute upper airway obstruction"
+        },
+        {
+          "label": "C",
+          "text": "Salicylate overdose"
+        },
+        {
+          "label": "D",
+          "text": "Diabetic ketoacidosis"
+        },
+        {
+          "label": "E",
+          "text": "Congestive heart failure (or advanced neurologic injury)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The waxing-and-waning tidal volume alternating with apnea is Cheyne-Stokes respiration, caused by circulatory delay and unstable feedback in the CO2 control loop; it is classically seen in congestive heart failure and diffuse brain injury. Kussmaul (deep, rapid) breathing, by contrast, indicates metabolic acidosis such as DKA.",
+        "whyCorrect": "The waxing-and-waning tidal volume alternating with apnea is Cheyne-Stokes respiration, caused by circulatory delay and unstable feedback in the CO2 control loop; it is classically seen in congestive heart failure and diffuse brain injury. Kussmaul (deep, rapid) breathing, by contrast, indicates metabolic acidosis such as DKA.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-465_Brick Exchange - Control of Ventilation and Effects of Altitude and Exercise_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-696",
+      "topicId": "control-of-ventilation-and-effects-of-altitude-and-exercise",
+      "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+      "stem": "In panel A, the ventilatory response curves to rising alveolar PCO2 become steeper as alveolar PO2 falls from 110 to 37 mmHg. What does this relationship demonstrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CO2 suppresses ventilation when oxygen is low"
+        },
+        {
+          "label": "B",
+          "text": "Hypoxia potentiates the ventilatory sensitivity to CO2"
+        },
+        {
+          "label": "C",
+          "text": "The CO2 threshold rises as oxygen falls"
+        },
+        {
+          "label": "D",
+          "text": "High PO2 increases the slope of the CO2 response"
+        },
+        {
+          "label": "E",
+          "text": "Ventilation is independent of oxygen tension"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The steeper CO2-response slope at lower PO2 shows that hypoxia and hypercapnia act synergistically at the peripheral chemoreceptors: low oxygen amplifies the drive to breathe for any given CO2 level, increasing ventilatory sensitivity to CO2.",
+        "whyCorrect": "The steeper CO2-response slope at lower PO2 shows that hypoxia and hypercapnia act synergistically at the peripheral chemoreceptors: low oxygen amplifies the drive to breathe for any given CO2 level, increasing ventilatory sensitivity to CO2.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-696_Brick Exchange - Control of Ventilation and Effects of Altitude and Exercise_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-697",
+      "topicId": "control-of-ventilation-and-effects-of-altitude-and-exercise",
+      "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+      "stem": "This diagram marks three pulmonary sensory receptor populations in the airways and lung parenchyma. Which receptor, located in alveolar walls near capillaries, is stimulated by pulmonary congestion and causes rapid shallow breathing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Slowly adapting stretch receptors"
+        },
+        {
+          "label": "B",
+          "text": "Rapidly adapting irritant receptors"
+        },
+        {
+          "label": "C",
+          "text": "Aortic baroreceptors"
+        },
+        {
+          "label": "D",
+          "text": "J (juxtacapillary) receptors"
+        },
+        {
+          "label": "E",
+          "text": "Central chemoreceptors"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "J (juxtacapillary) receptors lie in the alveolar walls adjacent to capillaries and are activated by interstitial edema and pulmonary congestion, triggering rapid shallow breathing and the sensation of dyspnea; stretch receptors mediate the Hering-Breuer reflex and irritant receptors respond to noxious stimuli.",
+        "whyCorrect": "J (juxtacapillary) receptors lie in the alveolar walls adjacent to capillaries and are activated by interstitial edema and pulmonary congestion, triggering rapid shallow breathing and the sensation of dyspnea; stretch receptors mediate the Hering-Breuer reflex and irritant receptors respond to noxious stimuli.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-697_Brick Exchange - Control of Ventilation and Effects of Altitude and Exercise_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-698",
+      "topicId": "control-of-ventilation-and-effects-of-altitude-and-exercise",
+      "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+      "stem": "This overview separates respiratory control into central neural drive, sensory inputs, and the effector muscles. Which sensory element directly monitors arterial oxygen tension and responds to hypoxemia or acidosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Peripheral chemoreceptors"
+        },
+        {
+          "label": "B",
+          "text": "Central chemoreceptors"
+        },
+        {
+          "label": "C",
+          "text": "The pneumotaxic center"
+        },
+        {
+          "label": "D",
+          "text": "Mechanoreceptors"
+        },
+        {
+          "label": "E",
+          "text": "Metaboreceptors"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Peripheral chemoreceptors (carotid and aortic bodies) sense the partial pressure of arterial oxygen and respond to hypoxemia, hypercapnia, and acidosis, whereas central chemoreceptors respond mainly to CO2/pH changes in the brain and cannot sense arterial PO2 directly.",
+        "whyCorrect": "Peripheral chemoreceptors (carotid and aortic bodies) sense the partial pressure of arterial oxygen and respond to hypoxemia, hypercapnia, and acidosis, whereas central chemoreceptors respond mainly to CO2/pH changes in the brain and cannot sense arterial PO2 directly.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-698_Brick Exchange - Control of Ventilation and Effects of Altitude and Exercise_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-699",
+      "topicId": "control-of-ventilation-and-effects-of-altitude-and-exercise",
+      "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+      "stem": "This brainstem diagram highlights several pontine and medullary respiratory centers. Which of the labeled centers acts to limit inspiration by 'switching off' inspiratory activity, thereby regulating respiratory rate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Apneustic center"
+        },
+        {
+          "label": "B",
+          "text": "Pneumotaxic center"
+        },
+        {
+          "label": "C",
+          "text": "Dorsal respiratory group"
+        },
+        {
+          "label": "D",
+          "text": "Pre-Botzinger complex"
+        },
+        {
+          "label": "E",
+          "text": "Ventral respiratory group"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The pneumotaxic center in the upper pons inhibits inspiration, limiting inspiratory duration and thereby increasing respiratory rate; the apneustic center has the opposite effect, promoting prolonged inspiration.",
+        "whyCorrect": "The pneumotaxic center in the upper pons inhibits inspiration, limiting inspiratory duration and thereby increasing respiratory rate; the apneustic center has the opposite effect, promoting prolonged inspiration.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-699_Brick Exchange - Control of Ventilation and Effects of Altitude and Exercise_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-700",
+      "topicId": "control-of-ventilation-and-effects-of-altitude-and-exercise",
+      "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+      "stem": "This figure highlights a region of the brainstem (with the midbrain labeled) containing neuronal groups linked by excitatory (+) and inhibitory (-) connections. What is the primary function of the neuronal centers shown here?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Setting the core body temperature set point"
+        },
+        {
+          "label": "B",
+          "text": "Generating and modulating the automatic rhythm of breathing"
+        },
+        {
+          "label": "C",
+          "text": "Coordinating voluntary eye movements"
+        },
+        {
+          "label": "D",
+          "text": "Maintaining postural skeletal muscle tone"
+        },
+        {
+          "label": "E",
+          "text": "Processing auditory reflex responses"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The pons and medulla of the brainstem house the respiratory control centers that generate and fine-tune the intrinsic rhythm of ventilation via reciprocal excitatory and inhibitory neuronal networks.",
+        "whyCorrect": "The pons and medulla of the brainstem house the respiratory control centers that generate and fine-tune the intrinsic rhythm of ventilation via reciprocal excitatory and inhibitory neuronal networks.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-700_Brick Exchange - Control of Ventilation and Effects of Altitude and Exercise_p3_2.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-701",
+      "topicId": "control-of-ventilation-and-effects-of-altitude-and-exercise",
+      "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+      "stem": "This figure shows neuronal groups within the medulla oblongata sending excitatory (+) signals along pathways toward the external intercostal muscles. What is the chief role of these medullary neuronal groups?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Conscious perception of chest wall pain"
+        },
+        {
+          "label": "B",
+          "text": "Baroreceptor control of arterial blood pressure"
+        },
+        {
+          "label": "C",
+          "text": "Driving the automatic rhythm of inspiration and activating inspiratory muscles"
+        },
+        {
+          "label": "D",
+          "text": "Relaying visual signals to the cortex"
+        },
+        {
+          "label": "E",
+          "text": "Coordination of swallowing exclusively"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The dorsal and ventral respiratory groups of the medulla generate the basic respiratory drive and send excitatory output to the inspiratory muscles such as the external intercostals and diaphragm.",
+        "whyCorrect": "The dorsal and ventral respiratory groups of the medulla generate the basic respiratory drive and send excitatory output to the inspiratory muscles such as the external intercostals and diaphragm.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-701_Brick Exchange - Control of Ventilation and Effects of Altitude and Exercise_p3_4.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-702",
+      "topicId": "control-of-ventilation-and-effects-of-altitude-and-exercise",
+      "topicName": "Control of Ventilation and Effects of Altitude and Exercise",
+      "stem": "The muscles highlighted running obliquely between adjacent ribs contract during quiet inspiration. What is their mechanical action on the thoracic cage?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They rotate the vertebral column"
+        },
+        {
+          "label": "B",
+          "text": "They elevate the ribs, increasing thoracic volume"
+        },
+        {
+          "label": "C",
+          "text": "They fix the scapula against the thorax"
+        },
+        {
+          "label": "D",
+          "text": "They compress the abdominal contents"
+        },
+        {
+          "label": "E",
+          "text": "They depress the ribs to force active expiration"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "External intercostal muscles pull the ribs upward and outward during inspiration, expanding thoracic volume and lowering intrapleural pressure to draw air in.",
+        "whyCorrect": "External intercostal muscles pull the ribs upward and outward during inspiration, expanding thoracic volume and lowering intrapleural pressure to draw air in.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-702_Brick Exchange - Control of Ventilation and Effects of Altitude and Exercise_p3_5.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

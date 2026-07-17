@@ -1,0 +1,279 @@
+{
+  "categoryId": "pressure-volume-pv-loops",
+  "categoryName": "Pressure Volume (PV) Loops",
+  "questions": [
+    {
+      "id": "repic-832",
+      "topicId": "pressure-volume-pv-loops",
+      "topicName": "Pressure Volume (PV) Loops",
+      "stem": "In this left ventricular pressure-volume loop, the green loop represents increased preload. How does raising preload change the loop (contractility and afterload held constant)?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stroke volume falls as end-systolic volume rises"
+        },
+        {
+          "label": "B",
+          "text": "The ESPVR line becomes steeper"
+        },
+        {
+          "label": "C",
+          "text": "Peak systolic pressure needed to eject falls markedly"
+        },
+        {
+          "label": "D",
+          "text": "End-diastolic volume and stroke volume both increase, while end-systolic volume stays about the same"
+        },
+        {
+          "label": "E",
+          "text": "End-diastolic volume falls and the loop narrows"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Increased preload raises EDV (rightward filling) and, because the loop still ends on the same ESPVR line, ESV is essentially unchanged; the wider loop reflects a larger stroke volume (Frank-Starling).",
+        "whyCorrect": "Increased preload raises EDV (rightward filling) and, because the loop still ends on the same ESPVR line, ESV is essentially unchanged; the wider loop reflects a larger stroke volume (Frank-Starling).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-832_Brick Exchange - Pressure Volume (PV) Loops_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-833",
+      "topicId": "pressure-volume-pv-loops",
+      "topicName": "Pressure Volume (PV) Loops",
+      "stem": "The green loop shows increased afterload on this LV pressure-volume loop. What is the effect on end-systolic volume and stroke volume (preload and contractility constant)?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "End-systolic volume decreases and stroke volume increases"
+        },
+        {
+          "label": "B",
+          "text": "Both end-systolic volume and stroke volume increase"
+        },
+        {
+          "label": "C",
+          "text": "End-systolic volume increases and stroke volume decreases"
+        },
+        {
+          "label": "D",
+          "text": "Both are unchanged"
+        },
+        {
+          "label": "E",
+          "text": "Stroke volume increases while ESV is unchanged"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Higher afterload means the aortic valve opens at a higher pressure, so the ventricle ejects less before reaching the ESPVR line; ESV rises and, with preload fixed, stroke volume falls.",
+        "whyCorrect": "Higher afterload means the aortic valve opens at a higher pressure, so the ventricle ejects less before reaching the ESPVR line; ESV rises and, with preload fixed, stroke volume falls.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-833_Brick Exchange - Pressure Volume (PV) Loops_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-834",
+      "topicId": "pressure-volume-pv-loops",
+      "topicName": "Pressure Volume (PV) Loops",
+      "stem": "The green loop represents increased contractility on this LV pressure-volume loop. Which change best describes its effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The ESPVR line flattens and end-systolic volume rises"
+        },
+        {
+          "label": "B",
+          "text": "The ESPVR line becomes steeper, end-systolic volume falls, and stroke volume rises"
+        },
+        {
+          "label": "C",
+          "text": "Stroke volume falls as end-systolic volume rises"
+        },
+        {
+          "label": "D",
+          "text": "End-diastolic volume increases with no change in ESV"
+        },
+        {
+          "label": "E",
+          "text": "Only the diastolic (filling) limb shifts, with no change in ESV"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Increased contractility steepens the end-systolic pressure-volume relationship (ESPVR), allowing the ventricle to empty to a smaller ESV at a given afterload, thereby increasing stroke volume.",
+        "whyCorrect": "Increased contractility steepens the end-systolic pressure-volume relationship (ESPVR), allowing the ventricle to empty to a smaller ESV at a given afterload, thereby increasing stroke volume.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-834_Brick Exchange - Pressure Volume (PV) Loops_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-835",
+      "topicId": "pressure-volume-pv-loops",
+      "topicName": "Pressure Volume (PV) Loops",
+      "stem": "In this left ventricular pressure-volume loop, what does the enclosed area of the loop represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Myocardial oxygen supply"
+        },
+        {
+          "label": "B",
+          "text": "Stroke work of the ventricle"
+        },
+        {
+          "label": "C",
+          "text": "Ejection fraction"
+        },
+        {
+          "label": "D",
+          "text": "Coronary blood flow"
+        },
+        {
+          "label": "E",
+          "text": "Total peripheral resistance"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The area enclosed by a single PV loop equals the external (stroke) work done by the ventricle during that cycle; its width along the volume axis is the stroke volume (EDV - ESV).",
+        "whyCorrect": "The area enclosed by a single PV loop equals the external (stroke) work done by the ventricle during that cycle; its width along the volume axis is the stroke volume (EDV - ESV).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-835_Brick Exchange - Pressure Volume (PV) Loops_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-836",
+      "topicId": "pressure-volume-pv-loops",
+      "topicName": "Pressure Volume (PV) Loops",
+      "stem": "Based on this plot of LV pressure and volume over time, what is happening to the two heart valves during isovolumetric ventricular contraction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The valves alternate opening rapidly"
+        },
+        {
+          "label": "B",
+          "text": "Both valves are open"
+        },
+        {
+          "label": "C",
+          "text": "The mitral valve is open and the aortic valve is closed"
+        },
+        {
+          "label": "D",
+          "text": "Both the mitral and aortic valves are closed"
+        },
+        {
+          "label": "E",
+          "text": "The aortic valve is open and the mitral valve is closed"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "During isovolumetric contraction the mitral valve has already closed and the aortic valve has not yet opened, so LV pressure rises with no change in volume until it exceeds aortic pressure.",
+        "whyCorrect": "During isovolumetric contraction the mitral valve has already closed and the aortic valve has not yet opened, so LV pressure rises with no change in volume until it exceeds aortic pressure.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-836_Brick Exchange - Pressure Volume (PV) Loops_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-837",
+      "topicId": "pressure-volume-pv-loops",
+      "topicName": "Pressure Volume (PV) Loops",
+      "stem": "In which direction is this left ventricular pressure-volume loop traced during a normal cardiac cycle?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Top-to-bottom then back"
+        },
+        {
+          "label": "B",
+          "text": "Clockwise"
+        },
+        {
+          "label": "C",
+          "text": "Counterclockwise"
+        },
+        {
+          "label": "D",
+          "text": "It reverses direction each beat"
+        },
+        {
+          "label": "E",
+          "text": "It is not directional"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A normal LV pressure-volume loop is traced counterclockwise: filling (rightward), isovolumetric contraction (upward), ejection (leftward), then isovolumetric relaxation (downward).",
+        "whyCorrect": "A normal LV pressure-volume loop is traced counterclockwise: filling (rightward), isovolumetric contraction (upward), ejection (leftward), then isovolumetric relaxation (downward).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-837_Brick Exchange - Pressure Volume (PV) Loops_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-838",
+      "topicId": "pressure-volume-pv-loops",
+      "topicName": "Pressure Volume (PV) Loops",
+      "stem": "This loop plots left ventricular pressure against volume over one cardiac cycle. What does the area enclosed within the loop represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Stroke work performed by the left ventricle"
+        },
+        {
+          "label": "B",
+          "text": "Ejection fraction of the left ventricle"
+        },
+        {
+          "label": "C",
+          "text": "Total peripheral resistance"
+        },
+        {
+          "label": "D",
+          "text": "Coronary blood flow per beat"
+        },
+        {
+          "label": "E",
+          "text": "Myocardial oxygen extraction ratio"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The area enclosed by the ventricular pressure-volume loop equals the external stroke work of the left ventricle; the width of the loop is stroke volume (EDV-ESV).",
+        "whyCorrect": "The area enclosed by the ventricular pressure-volume loop equals the external stroke work of the left ventricle; the width of the loop is stroke volume (EDV-ESV).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-838_Brick Exchange - Pressure Volume (PV) Loops_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

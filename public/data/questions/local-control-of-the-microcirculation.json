@@ -1,0 +1,279 @@
+{
+  "categoryId": "local-control-of-the-microcirculation",
+  "categoryName": "Local Control of the Microcirculation",
+  "questions": [
+    {
+      "id": "repic-766",
+      "topicId": "local-control-of-the-microcirculation",
+      "topicName": "Local Control of the Microcirculation",
+      "stem": "The diagram shows an endothelial cell releasing several mediators (NO, EDHF, ET-1, PGI2) that act on adjacent vascular smooth muscle, each marked with a plus or minus sign for its effect on contraction. Which of these endothelium-derived mediators PROMOTES vascular smooth muscle contraction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "L-arginine"
+        },
+        {
+          "label": "B",
+          "text": "Nitric oxide (NO)"
+        },
+        {
+          "label": "C",
+          "text": "Endothelium-derived hyperpolarizing factor (EDHF)"
+        },
+        {
+          "label": "D",
+          "text": "Endothelin-1 (ET-1)"
+        },
+        {
+          "label": "E",
+          "text": "Prostacyclin (PGI2)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Of the endothelial mediators shown, ET-1 is the only vasoconstrictor (marked +), acting to increase smooth muscle contraction. NO, EDHF, and PGI2 all cause relaxation (marked -). ET-1 is produced when big-endothelin is cleaved by endothelin-converting enzyme (ECE).",
+        "whyCorrect": "Of the endothelial mediators shown, ET-1 is the only vasoconstrictor (marked +), acting to increase smooth muscle contraction. NO, EDHF, and PGI2 all cause relaxation (marked -). ET-1 is produced when big-endothelin is cleaved by endothelin-converting enzyme (ECE).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-766_Brick Exchange - Local Control of the Microcirculation_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-767",
+      "topicId": "local-control-of-the-microcirculation",
+      "topicName": "Local Control of the Microcirculation",
+      "stem": "In this pathway, shear stress raises endothelial Ca2+, activating NO synthase; the NO then diffuses into smooth muscle. Through which second messenger does NO ultimately trigger smooth muscle relaxation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inositol trisphosphate (IP3)"
+        },
+        {
+          "label": "B",
+          "text": "Increased intracellular Ca2+"
+        },
+        {
+          "label": "C",
+          "text": "cAMP"
+        },
+        {
+          "label": "D",
+          "text": "cGMP"
+        },
+        {
+          "label": "E",
+          "text": "Diacylglycerol (DAG)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "NO diffuses into the smooth muscle cell and activates soluble guanylate cyclase, converting GTP to cGMP. cGMP activates myosin-light-chain phosphatase (and lowers Ca2+ availability), dephosphorylating myosin and producing relaxation/vasodilation.",
+        "whyCorrect": "NO diffuses into the smooth muscle cell and activates soluble guanylate cyclase, converting GTP to cGMP. cGMP activates myosin-light-chain phosphatase (and lowers Ca2+ availability), dephosphorylating myosin and producing relaxation/vasodilation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-767_Brick Exchange - Local Control of the Microcirculation_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-768",
+      "topicId": "local-control-of-the-microcirculation",
+      "topicName": "Local Control of the Microcirculation",
+      "stem": "These paired tracings compare epinephrine and norepinephrine infusions. With norepinephrine, arterial pressure rises sharply yet heart rate transiently DROPS below baseline. What best explains this fall in heart rate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Baroreceptor-mediated reflex (vagal) bradycardia in response to the rise in blood pressure"
+        },
+        {
+          "label": "B",
+          "text": "Direct blockade of L-type calcium channels in the SA node"
+        },
+        {
+          "label": "C",
+          "text": "Direct beta-1 stimulation of the SA node by norepinephrine"
+        },
+        {
+          "label": "D",
+          "text": "Beta-2-mediated vasodilation lowering afterload"
+        },
+        {
+          "label": "E",
+          "text": "Depletion of cardiac catecholamine stores"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Norepinephrine strongly raises mean arterial pressure via alpha-1 vasoconstriction. The baroreceptor reflex responds to this pressure rise by increasing vagal tone, which slows the heart despite norepinephrine's direct beta-1 effect. Epinephrine raises pressure less (beta-2 vasodilation partly offsets it), so its net effect is a rise in heart rate.",
+        "whyCorrect": "Norepinephrine strongly raises mean arterial pressure via alpha-1 vasoconstriction. The baroreceptor reflex responds to this pressure rise by increasing vagal tone, which slows the heart despite norepinephrine's direct beta-1 effect. Epinephrine raises pressure less (beta-2 vasodilation partly offsets it), so its net effect is a rise in heart rate.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-768_Brick Exchange - Local Control of the Microcirculation_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-769",
+      "topicId": "local-control-of-the-microcirculation",
+      "topicName": "Local Control of the Microcirculation",
+      "stem": "Panel A shows blood flow staying nearly constant over a wide range of perfusion pressures (the autoregulatory range); panel B shows a vessel constricting when stretched and dilating when relaxed. Which intrinsic mechanism is chiefly responsible for keeping flow constant as pressure changes here?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Endothelin-driven vasoconstriction from shear"
+        },
+        {
+          "label": "B",
+          "text": "Sympathetic vasomotor tone from the medulla"
+        },
+        {
+          "label": "C",
+          "text": "The myogenic response of vascular smooth muscle"
+        },
+        {
+          "label": "D",
+          "text": "Circulating angiotensin II"
+        },
+        {
+          "label": "E",
+          "text": "The baroreceptor reflex"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The myogenic mechanism is intrinsic: increased perfusion pressure stretches vascular smooth muscle, which responds by contracting (raising resistance) to hold flow constant; decreased pressure produces relaxation. This keeps flow relatively stable across the autoregulatory range independent of nerves or circulating hormones.",
+        "whyCorrect": "The myogenic mechanism is intrinsic: increased perfusion pressure stretches vascular smooth muscle, which responds by contracting (raising resistance) to hold flow constant; decreased pressure produces relaxation. This keeps flow relatively stable across the autoregulatory range independent of nerves or circulating hormones.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-769_Brick Exchange - Local Control of the Microcirculation_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-770",
+      "topicId": "local-control-of-the-microcirculation",
+      "topicName": "Local Control of the Microcirculation",
+      "stem": "The left tracing shows tissue blood flow rising and staying elevated during a period of increased metabolism, and the right graph shows steady-state flow rising with metabolic activity. This matching of flow to metabolic demand is primarily mediated by what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Local accumulation of metabolic vasodilators (e.g., adenosine, CO2, H+, K+) with falling PO2"
+        },
+        {
+          "label": "B",
+          "text": "Increased endothelin-1 release"
+        },
+        {
+          "label": "C",
+          "text": "A rise in circulating epinephrine"
+        },
+        {
+          "label": "D",
+          "text": "Withdrawal of sympathetic vasoconstrictor tone"
+        },
+        {
+          "label": "E",
+          "text": "Baroreceptor reflex activation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "This is active (functional) hyperemia: increased tissue metabolism generates vasodilator metabolites and lowers local PO2, relaxing arterioles so that blood flow rises to match metabolic demand. It is a local, metabolically driven mechanism, not a neural or systemic hormonal one.",
+        "whyCorrect": "This is active (functional) hyperemia: increased tissue metabolism generates vasodilator metabolites and lowers local PO2, relaxing arterioles so that blood flow rises to match metabolic demand. It is a local, metabolically driven mechanism, not a neural or systemic hormonal one.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-770_Brick Exchange - Local Control of the Microcirculation_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-771",
+      "topicId": "local-control-of-the-microcirculation",
+      "topicName": "Local Control of the Microcirculation",
+      "stem": "This tracing shows flow held at zero (an arterial occlusion) followed, upon release, by a transient overshoot in flow above baseline. What primarily drives this post-occlusion overshoot?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Endothelin-1 release from the reperfused endothelium"
+        },
+        {
+          "label": "B",
+          "text": "Accumulated vasodilator metabolites and tissue hypoxia during the occlusion, which dilate the arterioles"
+        },
+        {
+          "label": "C",
+          "text": "The myogenic response to the sudden pressure rise"
+        },
+        {
+          "label": "D",
+          "text": "A surge of circulating catecholamines on reperfusion"
+        },
+        {
+          "label": "E",
+          "text": "Reflex sympathetic withdrawal triggered by cuff release"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "During the no-flow period, vasodilator metabolites accumulate and PO2 falls, so the arterioles dilate maximally. When flow is restored, the low-resistance dilated vessels allow an excess (overshoot) flow until the metabolites wash out. This is reactive hyperemia, proportional to the duration of occlusion.",
+        "whyCorrect": "During the no-flow period, vasodilator metabolites accumulate and PO2 falls, so the arterioles dilate maximally. When flow is restored, the low-resistance dilated vessels allow an excess (overshoot) flow until the metabolites wash out. This is reactive hyperemia, proportional to the duration of occlusion.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-771_Brick Exchange - Local Control of the Microcirculation_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-772",
+      "topicId": "local-control-of-the-microcirculation",
+      "topicName": "Local Control of the Microcirculation",
+      "stem": "The schematic shows cellular metabolism lowering local PO2 and releasing substances (CO2, H+, adenosine, K+, decreased ATP) that relax the nearby arteriole. What is the physiologic purpose of the mechanism depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "To buffer systemic arterial blood pressure"
+        },
+        {
+          "label": "B",
+          "text": "To promote thrombus formation in low-flow regions"
+        },
+        {
+          "label": "C",
+          "text": "To increase systemic vascular resistance during exercise"
+        },
+        {
+          "label": "D",
+          "text": "To trigger platelet aggregation at sites of injury"
+        },
+        {
+          "label": "E",
+          "text": "To match local blood flow to the metabolic demand of the tissue"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "This is the metabolic theory of local flow control: active tissue consumes O2 and produces vasodilator metabolites (adenosine, CO2, H+, K+) with falling PO2, dilating local arterioles so blood flow increases in proportion to metabolic need (active hyperemia).",
+        "whyCorrect": "This is the metabolic theory of local flow control: active tissue consumes O2 and produces vasodilator metabolites (adenosine, CO2, H+, K+) with falling PO2, dilating local arterioles so blood flow increases in proportion to metabolic need (active hyperemia).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-772_Brick Exchange - Local Control of the Microcirculation_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

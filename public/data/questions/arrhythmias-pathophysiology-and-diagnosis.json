@@ -1,0 +1,240 @@
+{
+  "categoryId": "arrhythmias-pathophysiology-and-diagnosis",
+  "categoryName": "Arrhythmias: Pathophysiology and Diagnosis",
+  "questions": [
+    {
+      "id": "repic-647",
+      "topicId": "arrhythmias-pathophysiology-and-diagnosis",
+      "topicName": "Arrhythmias: Pathophysiology and Diagnosis",
+      "stem": "This four-panel sequence shows dual pathways within the AV node, a premature beat, retrograde conduction, and an established loop. What arrhythmia mechanism is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Triggered activity from early afterdepolarizations"
+        },
+        {
+          "label": "B",
+          "text": "AV nodal reentrant tachycardia, in which a premature beat sets up a reentry circuit using slow and fast AV nodal pathways"
+        },
+        {
+          "label": "C",
+          "text": "Complete AV block with a ventricular escape rhythm"
+        },
+        {
+          "label": "D",
+          "text": "Enhanced automaticity of an ectopic atrial focus"
+        },
+        {
+          "label": "E",
+          "text": "Sinus node dysfunction causing bradycardia"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "AVNRT arises when a premature impulse blocks in the fast pathway, travels down the slow pathway, then conducts retrogradely up the fast pathway, creating a self-sustaining reentrant loop within the AV node.",
+        "whyCorrect": "AVNRT arises when a premature impulse blocks in the fast pathway, travels down the slow pathway, then conducts retrogradely up the fast pathway, creating a self-sustaining reentrant loop within the AV node.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-647_Brick Exchange - Arrhythmias_ Pathophysiology and Diagnosis_p11_2.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-648",
+      "topicId": "arrhythmias-pathophysiology-and-diagnosis",
+      "topicName": "Arrhythmias: Pathophysiology and Diagnosis",
+      "stem": "This four-chamber diagram highlights an abnormal muscular bridge (green) directly connecting the right atrium to the right ventricle, bypassing the AV node. What is this structure and its consequence?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An accessory pathway (bundle of Kent) causing ventricular pre-excitation, as in Wolff-Parkinson-White syndrome"
+        },
+        {
+          "label": "B",
+          "text": "A normal moderator band conducting to the RV apex"
+        },
+        {
+          "label": "C",
+          "text": "A dilated coronary sinus draining the myocardium"
+        },
+        {
+          "label": "D",
+          "text": "An enlarged AV node causing first-degree block"
+        },
+        {
+          "label": "E",
+          "text": "A patent foramen ovale allowing atrial shunting"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "An accessory AV connection lets atrial impulses reach the ventricle before the AV-node delay, pre-exciting the ventricle (delta wave) and providing a limb for reentrant tachycardia in WPW.",
+        "whyCorrect": "An accessory AV connection lets atrial impulses reach the ventricle before the AV-node delay, pre-exciting the ventricle (delta wave) and providing a limb for reentrant tachycardia in WPW.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-648_Brick Exchange - Arrhythmias_ Pathophysiology and Diagnosis_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-649",
+      "topicId": "arrhythmias-pathophysiology-and-diagnosis",
+      "topicName": "Arrhythmias: Pathophysiology and Diagnosis",
+      "stem": "This diagram classifies arrhythmias by their site of origin above versus below the AV junction. On the surface ECG, what typically distinguishes an arrhythmia arising from the upper (supraventricular) site?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ST-segment elevation across all leads"
+        },
+        {
+          "label": "B",
+          "text": "A prolonged PR interval as a defining feature"
+        },
+        {
+          "label": "C",
+          "text": "A wide QRS complex from slow myocyte-to-myocyte spread"
+        },
+        {
+          "label": "D",
+          "text": "A narrow QRS complex, because the ventricles are activated through the normal His-Purkinje system"
+        },
+        {
+          "label": "E",
+          "text": "Absence of any P waves in every case"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Supraventricular impulses still descend the normal conduction system, so ventricular depolarization is rapid and the QRS stays narrow; ventricular-origin arrhythmias spread cell-to-cell and produce a wide QRS.",
+        "whyCorrect": "Supraventricular impulses still descend the normal conduction system, so ventricular depolarization is rapid and the QRS stays narrow; ventricular-origin arrhythmias spread cell-to-cell and produce a wide QRS.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-649_Brick Exchange - Arrhythmias_ Pathophysiology and Diagnosis_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-650",
+      "topicId": "arrhythmias-pathophysiology-and-diagnosis",
+      "topicName": "Arrhythmias: Pathophysiology and Diagnosis",
+      "stem": "This ventricular cardiac action potential shows a long refractory period spanning depolarization through most of repolarization. What is the functional significance of this prolonged refractory period?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It sets the resting membrane potential during phase 4"
+        },
+        {
+          "label": "B",
+          "text": "It prevents tetanic (summated) contraction and re-excitation, ensuring the heart relaxes and fills between beats"
+        },
+        {
+          "label": "C",
+          "text": "It allows rapid repetitive firing to increase force by summation"
+        },
+        {
+          "label": "D",
+          "text": "It triggers calcium release from the sarcoplasmic reticulum"
+        },
+        {
+          "label": "E",
+          "text": "It generates the pacemaker funny current in the SA node"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Because Na+ channels stay inactivated through the plateau, cardiac muscle cannot be re-stimulated until it has largely repolarized. This long refractory period blocks tetany and premature reentry, protecting diastolic filling.",
+        "whyCorrect": "Because Na+ channels stay inactivated through the plateau, cardiac muscle cannot be re-stimulated until it has largely repolarized. This long refractory period blocks tetany and premature reentry, protecting diastolic filling.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-650_Brick Exchange - Arrhythmias_ Pathophysiology and Diagnosis_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-651",
+      "topicId": "arrhythmias-pathophysiology-and-diagnosis",
+      "topicName": "Arrhythmias: Pathophysiology and Diagnosis",
+      "stem": "The table pairs conduction system components with their intrinsic firing rates, which decrease from the SA node down to the Purkinje fibers. What is the physiological consequence of this gradient?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The SA node normally drives the heart because its faster intrinsic rate overdrive-suppresses the slower distal pacemakers"
+        },
+        {
+          "label": "B",
+          "text": "Distal pacemakers speed up the heart during exercise"
+        },
+        {
+          "label": "C",
+          "text": "The AV node is the fastest and dominant pacemaker"
+        },
+        {
+          "label": "D",
+          "text": "All pacemakers fire simultaneously to summate the rate"
+        },
+        {
+          "label": "E",
+          "text": "The Purkinje fibers set heart rate because they fire last"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The fastest pacemaker sets the rhythm and resets slower sites before they reach threshold (overdrive suppression). If the SA node fails, a subsidiary pacemaker with its slower intrinsic rate takes over as an escape rhythm.",
+        "whyCorrect": "The fastest pacemaker sets the rhythm and resets slower sites before they reach threshold (overdrive suppression). If the SA node fails, a subsidiary pacemaker with its slower intrinsic rate takes over as an escape rhythm.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-651_Brick Exchange - Arrhythmias_ Pathophysiology and Diagnosis_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-652",
+      "topicId": "arrhythmias-pathophysiology-and-diagnosis",
+      "topicName": "Arrhythmias: Pathophysiology and Diagnosis",
+      "stem": "The upper tracing shows an oscillation interrupting the plateau/repolarization; the lower shows one after the cell has returned toward rest. Which arrhythmia is classically caused by the upper (early afterdepolarization) mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Torsades de pointes in the setting of QT prolongation"
+        },
+        {
+          "label": "B",
+          "text": "First-degree AV block from nodal delay"
+        },
+        {
+          "label": "C",
+          "text": "Wolff-Parkinson-White reentry via an accessory pathway"
+        },
+        {
+          "label": "D",
+          "text": "Sinus bradycardia from vagal tone"
+        },
+        {
+          "label": "E",
+          "text": "Atrial fibrillation from pulmonary vein reentry"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Early afterdepolarizations arise during phases 2-3 when repolarization is prolonged (long QT), reactivating inward currents. They can trigger torsades de pointes; delayed afterdepolarizations (lower tracing) relate to calcium overload, e.g., digoxin toxicity.",
+        "whyCorrect": "Early afterdepolarizations arise during phases 2-3 when repolarization is prolonged (long QT), reactivating inward currents. They can trigger torsades de pointes; delayed afterdepolarizations (lower tracing) relate to calcium overload, e.g., digoxin toxicity.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-652_Brick Exchange - Arrhythmias_ Pathophysiology and Diagnosis_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

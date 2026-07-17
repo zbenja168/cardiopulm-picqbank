@@ -1,0 +1,201 @@
+{
+  "categoryId": "ecg-learning-sinus-bradycardia-and-tachycardia",
+  "categoryName": "ECG Learning: Sinus Bradycardia and Tachycardia",
+  "questions": [
+    {
+      "id": "repic-266",
+      "topicId": "ecg-learning-sinus-bradycardia-and-tachycardia",
+      "topicName": "ECG Learning: Sinus Bradycardia and Tachycardia",
+      "stem": "This hexaxial reference diagram plots the standard limb leads around a circle with color-coded quadrants. What clinical parameter is this diagram used to determine?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The absolute heart rate in beats per minute"
+        },
+        {
+          "label": "B",
+          "text": "The corrected QT interval"
+        },
+        {
+          "label": "C",
+          "text": "The duration of the PR interval"
+        },
+        {
+          "label": "D",
+          "text": "The mean electrical axis of ventricular depolarization"
+        },
+        {
+          "label": "E",
+          "text": "The presence of ST-segment elevation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The hexaxial system arranges the six limb leads to locate the heart's mean QRS vector. A normal axis lies between -30 and +90 degrees; shifts define left, right, or extreme axis deviation, which point to conditions such as hypertrophy or conduction blocks.",
+        "whyCorrect": "The hexaxial system arranges the six limb leads to locate the heart's mean QRS vector. A normal axis lies between -30 and +90 degrees; shifts define left, right, or extreme axis deviation, which point to conditions such as hypertrophy or conduction blocks.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-266_Brick Exchange - ECG Learning_ Sinus Bradycardia and Tachycardia_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-267",
+      "topicId": "ecg-learning-sinus-bradycardia-and-tachycardia",
+      "topicName": "ECG Learning: Sinus Bradycardia and Tachycardia",
+      "stem": "This rhythm strip shows a regular narrow-complex rhythm at 130 bpm with an upright P wave preceding every QRS. Which of the following is a common physiological cause of this rhythm?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Severe hypothyroidism"
+        },
+        {
+          "label": "B",
+          "text": "Fever or exercise increasing sympathetic drive"
+        },
+        {
+          "label": "C",
+          "text": "Increased vagal (parasympathetic) tone"
+        },
+        {
+          "label": "D",
+          "text": "Complete (third-degree) AV block"
+        },
+        {
+          "label": "E",
+          "text": "Beta-blocker overdose"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The strip is a sinus tachycardia: SA-node origin with a normal P before each QRS but rate above 100. It is typically a physiological response to increased sympathetic tone or reduced vagal tone, as with fever, exertion, pain, anxiety, or hypovolemia. The listed distractors all tend to slow the heart.",
+        "whyCorrect": "The strip is a sinus tachycardia: SA-node origin with a normal P before each QRS but rate above 100. It is typically a physiological response to increased sympathetic tone or reduced vagal tone, as with fever, exertion, pain, anxiety, or hypovolemia. The listed distractors all tend to slow the heart.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-267_Brick Exchange - ECG Learning_ Sinus Bradycardia and Tachycardia_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-268",
+      "topicId": "ecg-learning-sinus-bradycardia-and-tachycardia",
+      "topicName": "ECG Learning: Sinus Bradycardia and Tachycardia",
+      "stem": "This tracing displays leads I, II, III, aVR, aVL, aVF, and V1 through V6 on gridded paper with a rhythm strip at the bottom. What type of recording is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A single-lead ambulatory (Holter) monitor strip"
+        },
+        {
+          "label": "B",
+          "text": "An intracardiac electrophysiology recording"
+        },
+        {
+          "label": "C",
+          "text": "An electroencephalogram"
+        },
+        {
+          "label": "D",
+          "text": "A standard 12-lead electrocardiogram"
+        },
+        {
+          "label": "E",
+          "text": "An echocardiographic M-mode trace"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Six limb leads plus six precordial leads together form the standard 12-lead ECG, which views the heart's electrical activity from multiple angles in both the frontal and horizontal planes.",
+        "whyCorrect": "Six limb leads plus six precordial leads together form the standard 12-lead ECG, which views the heart's electrical activity from multiple angles in both the frontal and horizontal planes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-268_Brick Exchange - ECG Learning_ Sinus Bradycardia and Tachycardia_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-269",
+      "topicId": "ecg-learning-sinus-bradycardia-and-tachycardia",
+      "topicName": "ECG Learning: Sinus Bradycardia and Tachycardia",
+      "stem": "This figure calculates heart rate by dividing 1500 by the number of small boxes between two R waves. Why is the number 1500 used in this formula?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1500 is the sampling rate of the ECG machine in hertz"
+        },
+        {
+          "label": "B",
+          "text": "1500 is the average number of QRS complexes in a normal 12-lead tracing"
+        },
+        {
+          "label": "C",
+          "text": "There are 1500 small (1 mm) boxes per minute at the standard paper speed of 25 mm/s"
+        },
+        {
+          "label": "D",
+          "text": "1500 represents the number of large boxes recorded per minute"
+        },
+        {
+          "label": "E",
+          "text": "1500 milliseconds is the normal duration of one cardiac cycle"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "At 25 mm/s each small box is 0.04 s, so one minute contains 60 / 0.04 = 1500 small boxes. Dividing 1500 by the R-R interval measured in small boxes gives beats per minute; here 1500/21 is about 71 bpm.",
+        "whyCorrect": "At 25 mm/s each small box is 0.04 s, so one minute contains 60 / 0.04 = 1500 small boxes. Dividing 1500 by the R-R interval measured in small boxes gives beats per minute; here 1500/21 is about 71 bpm.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-269_Brick Exchange - ECG Learning_ Sinus Bradycardia and Tachycardia_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-270",
+      "topicId": "ecg-learning-sinus-bradycardia-and-tachycardia",
+      "topicName": "ECG Learning: Sinus Bradycardia and Tachycardia",
+      "stem": "The diagram shows the resultant P-wave vector pointing toward roughly +60 degrees, with the corresponding tracings from lead aVR and lead II. Why is the P wave normally inverted in lead aVR but upright in lead II?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The atrial depolarization vector points away from aVR and toward lead II"
+        },
+        {
+          "label": "B",
+          "text": "Lead aVR records ventricular repolarization while lead II records atrial depolarization"
+        },
+        {
+          "label": "C",
+          "text": "aVR has reversed electrode polarity due to lead misplacement"
+        },
+        {
+          "label": "D",
+          "text": "The P wave is always inverted in every limb lead by convention"
+        },
+        {
+          "label": "E",
+          "text": "Atrial depolarization spreads from left to right, directly toward aVR"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Normal atrial depolarization begins at the SA node and spreads downward and leftward, producing a mean P vector near +60 degrees. A deflection is upright when the wave of depolarization moves toward a lead's positive pole (lead II) and inverted when it moves away (aVR).",
+        "whyCorrect": "Normal atrial depolarization begins at the SA node and spreads downward and leftward, producing a mean P vector near +60 degrees. A deflection is upright when the wave of depolarization moves toward a lead's positive pole (lead II) and inverted when it moves away (aVR).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-270_Brick Exchange - ECG Learning_ Sinus Bradycardia and Tachycardia_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,357 @@
+{
+  "categoryId": "st-segment-changes-recognition-and-localization-of-myocardial-ischemia",
+  "categoryName": "ST Segment Changes: Recognition and Localization of Myocardial Ischemia",
+  "questions": [
+    {
+      "id": "repic-087",
+      "topicId": "st-segment-changes-recognition-and-localization-of-myocardial-ischemia",
+      "topicName": "ST Segment Changes: Recognition and Localization of Myocardial Ischemia",
+      "stem": "In this diagram of the coronary circulation, which vessel most commonly supplies the inferior wall of the left ventricle and is the usual culprit in an inferior STEMI?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Left circumflex artery"
+        },
+        {
+          "label": "B",
+          "text": "Left anterior descending artery"
+        },
+        {
+          "label": "C",
+          "text": "Aorta"
+        },
+        {
+          "label": "D",
+          "text": "Right coronary artery"
+        },
+        {
+          "label": "E",
+          "text": "Left main coronary artery"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In right-dominant circulation (about 85% of people) the right coronary artery gives rise to the posterior descending artery supplying the inferior wall, making it the typical culprit in inferior infarcts.",
+        "whyCorrect": "In right-dominant circulation (about 85% of people) the right coronary artery gives rise to the posterior descending artery supplying the inferior wall, making it the typical culprit in inferior infarcts.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-087_Brick Exchange - ST Segment Changes_ Recognition and Localization of Myocardial Ischemia_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-369",
+      "topicId": "st-segment-changes-recognition-and-localization-of-myocardial-ischemia",
+      "topicName": "ST Segment Changes: Recognition and Localization of Myocardial Ischemia",
+      "stem": "On this 12-lead ECG the red arrows mark ST-segment elevation in leads I, aVL, V4, V5 and V6. This distribution localizes an acute STEMI to which region?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Right ventricle"
+        },
+        {
+          "label": "B",
+          "text": "Inferior wall"
+        },
+        {
+          "label": "C",
+          "text": "Apex only"
+        },
+        {
+          "label": "D",
+          "text": "Anterolateral / lateral wall"
+        },
+        {
+          "label": "E",
+          "text": "True posterior wall"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "ST elevation in the lateral leads (I, aVL, V5-V6) plus lateral precordial leads indicates an anterolateral/lateral infarct, typically from left circumflex or a diagonal/LAD branch of the left coronary system.",
+        "whyCorrect": "ST elevation in the lateral leads (I, aVL, V5-V6) plus lateral precordial leads indicates an anterolateral/lateral infarct, typically from left circumflex or a diagonal/LAD branch of the left coronary system.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-369_Brick Exchange - ST Segment Changes_ Recognition and Localization of Myocardial Ischemia_p11_2.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-370",
+      "topicId": "st-segment-changes-recognition-and-localization-of-myocardial-ischemia",
+      "topicName": "ST Segment Changes: Recognition and Localization of Myocardial Ischemia",
+      "stem": "The red arrows highlight ST-segment elevation concentrated in leads II, III and aVF of this 12-lead ECG. Which coronary artery is most commonly responsible for this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Left circumflex artery (isolated)"
+        },
+        {
+          "label": "B",
+          "text": "Left anterior descending artery"
+        },
+        {
+          "label": "C",
+          "text": "Diagonal branch"
+        },
+        {
+          "label": "D",
+          "text": "Left main coronary artery"
+        },
+        {
+          "label": "E",
+          "text": "Right coronary artery"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "ST elevation in II, III and aVF indicates an inferior wall infarct, most often caused by occlusion of the right coronary artery, which supplies the inferior wall in the majority of individuals.",
+        "whyCorrect": "ST elevation in II, III and aVF indicates an inferior wall infarct, most often caused by occlusion of the right coronary artery, which supplies the inferior wall in the majority of individuals.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-370_Brick Exchange - ST Segment Changes_ Recognition and Localization of Myocardial Ischemia_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-371",
+      "topicId": "st-segment-changes-recognition-and-localization-of-myocardial-ischemia",
+      "topicName": "ST Segment Changes: Recognition and Localization of Myocardial Ischemia",
+      "stem": "This diagram shows extra precordial electrodes (V3R, V4R) placed as a mirror image on the right side of the chest. What is the primary reason for obtaining these additional leads?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "To diagnose left bundle branch block"
+        },
+        {
+          "label": "B",
+          "text": "To assess left atrial enlargement"
+        },
+        {
+          "label": "C",
+          "text": "To detect right ventricular infarction"
+        },
+        {
+          "label": "D",
+          "text": "To measure the QT interval more accurately"
+        },
+        {
+          "label": "E",
+          "text": "To confirm atrial fibrillation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Right-sided precordial leads (V3R/V4R) increase sensitivity for right ventricular infarction, which typically accompanies inferior STEMI from a proximal right coronary artery occlusion.",
+        "whyCorrect": "Right-sided precordial leads (V3R/V4R) increase sensitivity for right ventricular infarction, which typically accompanies inferior STEMI from a proximal right coronary artery occlusion.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-371_Brick Exchange - ST Segment Changes_ Recognition and Localization of Myocardial Ischemia_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-372",
+      "topicId": "st-segment-changes-recognition-and-localization-of-myocardial-ischemia",
+      "topicName": "ST Segment Changes: Recognition and Localization of Myocardial Ischemia",
+      "stem": "This figure depicts electrodes positioned around the left posterior chest and back, wrapping the standard precordial array toward the spine. Detecting infarction of which myocardial wall is the purpose of these additional leads?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Posterior wall"
+        },
+        {
+          "label": "B",
+          "text": "Right ventricular free wall"
+        },
+        {
+          "label": "C",
+          "text": "Anteroseptal wall"
+        },
+        {
+          "label": "D",
+          "text": "High lateral wall"
+        },
+        {
+          "label": "E",
+          "text": "Inferior wall"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Posterior leads (V7-V9) are placed toward the back to directly capture ST elevation of a true posterior infarct, which otherwise only shows indirect mirror-image ST depression in V1-V2.",
+        "whyCorrect": "Posterior leads (V7-V9) are placed toward the back to directly capture ST elevation of a true posterior infarct, which otherwise only shows indirect mirror-image ST depression in V1-V2.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-372_Brick Exchange - ST Segment Changes_ Recognition and Localization of Myocardial Ischemia_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-373",
+      "topicId": "st-segment-changes-recognition-and-localization-of-myocardial-ischemia",
+      "topicName": "ST Segment Changes: Recognition and Localization of Myocardial Ischemia",
+      "stem": "The arrows in these two leads indicate the J point. What does the J point mark on the ECG?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The peak of the R wave"
+        },
+        {
+          "label": "B",
+          "text": "The end of the T wave"
+        },
+        {
+          "label": "C",
+          "text": "The onset of the P wave"
+        },
+        {
+          "label": "D",
+          "text": "The midpoint of the PR interval"
+        },
+        {
+          "label": "E",
+          "text": "The junction between the end of the QRS complex and the beginning of the ST segment"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The J point is where the QRS complex ends and the ST segment begins; it is the reference used to measure ST elevation or depression relative to the baseline (T-P segment).",
+        "whyCorrect": "The J point is where the QRS complex ends and the ST segment begins; it is the reference used to measure ST elevation or depression relative to the baseline (T-P segment).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-373_Brick Exchange - ST Segment Changes_ Recognition and Localization of Myocardial Ischemia_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-859",
+      "topicId": "st-segment-changes-recognition-and-localization-of-myocardial-ischemia",
+      "topicName": "ST Segment Changes: Recognition and Localization of Myocardial Ischemia",
+      "stem": "On this schematic of a single ECG complex, which labeled deflection corresponds to ventricular repolarization?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "T wave"
+        },
+        {
+          "label": "B",
+          "text": "P wave"
+        },
+        {
+          "label": "C",
+          "text": "ST segment"
+        },
+        {
+          "label": "D",
+          "text": "QRS complex"
+        },
+        {
+          "label": "E",
+          "text": "U wave"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The T wave represents ventricular repolarization. The P wave is atrial depolarization, the QRS is ventricular depolarization, and the ST segment is the isoelectric period between depolarization and repolarization.",
+        "whyCorrect": "The T wave represents ventricular repolarization. The P wave is atrial depolarization, the QRS is ventricular depolarization, and the ST segment is the isoelectric period between depolarization and repolarization.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-859_Brick Exchange - ST Segment Changes_ Recognition and Localization of Myocardial Ischemia_p1_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-860",
+      "topicId": "st-segment-changes-recognition-and-localization-of-myocardial-ischemia",
+      "topicName": "ST Segment Changes: Recognition and Localization of Myocardial Ischemia",
+      "stem": "This figure aligns the ventricular myocyte action potential (top) with the surface ECG (bottom), highlighting the ST segment. Which phase of the action potential does the ST segment correspond to?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Phase 1 (initial repolarization)"
+        },
+        {
+          "label": "B",
+          "text": "Phase 2 (plateau)"
+        },
+        {
+          "label": "C",
+          "text": "Phase 0 (rapid upstroke)"
+        },
+        {
+          "label": "D",
+          "text": "Phase 3 (rapid repolarization)"
+        },
+        {
+          "label": "E",
+          "text": "Phase 4 (resting potential)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "During the plateau (phase 2) all ventricular cells are depolarized with little voltage gradient between them, producing the isoelectric ST segment on the surface ECG.",
+        "whyCorrect": "During the plateau (phase 2) all ventricular cells are depolarized with little voltage gradient between them, producing the isoelectric ST segment on the surface ECG.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-860_Brick Exchange - ST Segment Changes_ Recognition and Localization of Myocardial Ischemia_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-861",
+      "topicId": "st-segment-changes-recognition-and-localization-of-myocardial-ischemia",
+      "topicName": "ST Segment Changes: Recognition and Localization of Myocardial Ischemia",
+      "stem": "These two panels contrast ischemia limited to the inner myocardial layer versus ischemia extending through the full wall thickness. Which ECG change is characteristically produced by full-thickness (transmural/epicardial) injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ST-segment depression"
+        },
+        {
+          "label": "B",
+          "text": "Peaked P waves"
+        },
+        {
+          "label": "C",
+          "text": "ST-segment elevation"
+        },
+        {
+          "label": "D",
+          "text": "Shortened QT interval"
+        },
+        {
+          "label": "E",
+          "text": "Prolonged PR interval"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Transmural (epicardial) injury generates an injury current that produces ST elevation in the overlying leads, whereas ischemia confined to the subendocardium tends to produce ST depression.",
+        "whyCorrect": "Transmural (epicardial) injury generates an injury current that produces ST elevation in the overlying leads, whereas ischemia confined to the subendocardium tends to produce ST depression.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-861_Brick Exchange - ST Segment Changes_ Recognition and Localization of Myocardial Ischemia_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,552 @@
+{
+  "categoryId": "anatomy-of-the-heart",
+  "categoryName": "Anatomy of the Heart",
+  "questions": [
+    {
+      "id": "repic-012",
+      "topicId": "anatomy-of-the-heart",
+      "topicName": "Anatomy of the Heart",
+      "stem": "In both the cadaveric dissection and the illustration, an arrow marks the pointed inferolateral tip of the heart (the apex). Which chamber forms the cardiac apex?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Left ventricle"
+        },
+        {
+          "label": "B",
+          "text": "Right ventricle"
+        },
+        {
+          "label": "C",
+          "text": "Pulmonary trunk"
+        },
+        {
+          "label": "D",
+          "text": "Right atrium"
+        },
+        {
+          "label": "E",
+          "text": "Left atrium"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The apex of the heart points down and to the left and is formed by the tip of the left ventricle, normally palpable at the 5th intercostal space in the midclavicular line.",
+        "whyCorrect": "The apex of the heart points down and to the left and is formed by the tip of the left ventricle, normally palpable at the 5th intercostal space in the midclavicular line.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-012_Brick Exchange - Anatomy of the Heart_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-013",
+      "topicId": "anatomy-of-the-heart",
+      "topicName": "Anatomy of the Heart",
+      "stem": "This illustration shows the heart nestled between the two lungs deep to the sternum and costal cartilages. In which anatomical compartment does the heart sit?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pleural cavity"
+        },
+        {
+          "label": "B",
+          "text": "Superior mediastinum"
+        },
+        {
+          "label": "C",
+          "text": "Retroperitoneum"
+        },
+        {
+          "label": "D",
+          "text": "Posterior mediastinum"
+        },
+        {
+          "label": "E",
+          "text": "Middle mediastinum"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The heart and its pericardium occupy the middle mediastinum — the central compartment of the thoracic cavity between the two pleural sacs, posterior to the body of the sternum.",
+        "whyCorrect": "The heart and its pericardium occupy the middle mediastinum — the central compartment of the thoracic cavity between the two pleural sacs, posterior to the body of the sternum.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-013_Brick Exchange - Anatomy of the Heart_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-014",
+      "topicId": "anatomy-of-the-heart",
+      "topicName": "Anatomy of the Heart",
+      "stem": "This opened right atrium shows pectinate muscles, the crista terminalis, and a smooth oval depression in the interatrial septum. That depression (fossa ovalis) is the embryological remnant of what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The ductus venosus"
+        },
+        {
+          "label": "B",
+          "text": "The sinus venosus"
+        },
+        {
+          "label": "C",
+          "text": "The ductus arteriosus"
+        },
+        {
+          "label": "D",
+          "text": "The umbilical vein"
+        },
+        {
+          "label": "E",
+          "text": "The foramen ovale"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The fossa ovalis marks the site of the fetal foramen ovale, which shunted blood from the right to left atrium in utero and normally closes after birth as pulmonary circulation is established.",
+        "whyCorrect": "The fossa ovalis marks the site of the fetal foramen ovale, which shunted blood from the right to left atrium in utero and normally closes after birth as pulmonary circulation is established.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-014_Brick Exchange - Anatomy of the Heart_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-015",
+      "topicId": "anatomy-of-the-heart",
+      "topicName": "Anatomy of the Heart",
+      "stem": "This dissected base of the heart displays the cusps of the aortic and pulmonary valves. How many cusps does each of these semilunar valves normally have?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Three"
+        },
+        {
+          "label": "B",
+          "text": "One"
+        },
+        {
+          "label": "C",
+          "text": "Five"
+        },
+        {
+          "label": "D",
+          "text": "Two"
+        },
+        {
+          "label": "E",
+          "text": "Four"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Both semilunar valves (aortic and pulmonary) normally have three cusps. The aortic valve's cusps are named right coronary, left coronary, and posterior (non-coronary).",
+        "whyCorrect": "Both semilunar valves (aortic and pulmonary) normally have three cusps. The aortic valve's cusps are named right coronary, left coronary, and posterior (non-coronary).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-015_Brick Exchange - Anatomy of the Heart_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-184",
+      "topicId": "anatomy-of-the-heart",
+      "topicName": "Anatomy of the Heart",
+      "stem": "On this axial cross-sectional CT of the heart, which chamber lies most anteriorly, directly behind the sternum?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aortic root"
+        },
+        {
+          "label": "B",
+          "text": "Right atrium"
+        },
+        {
+          "label": "C",
+          "text": "Left atrium"
+        },
+        {
+          "label": "D",
+          "text": "Right ventricle"
+        },
+        {
+          "label": "E",
+          "text": "Left ventricle"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The right ventricle is the most anterior chamber, sitting just behind the sternum — which is why it is the chamber most often injured in blunt anterior chest trauma. The left atrium is the most posterior.",
+        "whyCorrect": "The right ventricle is the most anterior chamber, sitting just behind the sternum — which is why it is the chamber most often injured in blunt anterior chest trauma. The left atrium is the most posterior.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-184_Brick Exchange - Anatomy of the Heart_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-185",
+      "topicId": "anatomy-of-the-heart",
+      "topicName": "Anatomy of the Heart",
+      "stem": "Using the cardiac outline traced on these PA and lateral chest radiographs, above what cardiothoracic ratio is the heart considered enlarged?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "0.6"
+        },
+        {
+          "label": "B",
+          "text": "0.7"
+        },
+        {
+          "label": "C",
+          "text": "0.5"
+        },
+        {
+          "label": "D",
+          "text": "0.3"
+        },
+        {
+          "label": "E",
+          "text": "0.4"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The cardiothoracic ratio is the maximum cardiac width divided by maximum internal thoracic width on a PA film; a ratio greater than 0.5 indicates cardiomegaly.",
+        "whyCorrect": "The cardiothoracic ratio is the maximum cardiac width divided by maximum internal thoracic width on a PA film; a ratio greater than 0.5 indicates cardiomegaly.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-185_Brick Exchange - Anatomy of the Heart_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-186",
+      "topicId": "anatomy-of-the-heart",
+      "topicName": "Anatomy of the Heart",
+      "stem": "Comparing these two PA chest radiographs, the right-hand film shows a markedly widened cardiac silhouette exceeding half the thoracic width. What does this indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cardiomegaly"
+        },
+        {
+          "label": "B",
+          "text": "Pleural effusion"
+        },
+        {
+          "label": "C",
+          "text": "Aortic coarctation"
+        },
+        {
+          "label": "D",
+          "text": "Tension pneumothorax"
+        },
+        {
+          "label": "E",
+          "text": "Lobar pneumonia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A cardiac silhouette occupying more than 50% of the thoracic width on a PA film indicates cardiomegaly, in contrast to the normal-sized heart of the comparison film.",
+        "whyCorrect": "A cardiac silhouette occupying more than 50% of the thoracic width on a PA film indicates cardiomegaly, in contrast to the normal-sized heart of the comparison film.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-186_Brick Exchange - Anatomy of the Heart_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-187",
+      "topicId": "anatomy-of-the-heart",
+      "topicName": "Anatomy of the Heart",
+      "stem": "This lateral radiograph shows a vertical contrast-filled column running behind the heart down to the diaphragm. What structure is being imaged?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Azygos vein"
+        },
+        {
+          "label": "B",
+          "text": "Trachea"
+        },
+        {
+          "label": "C",
+          "text": "Esophagus (barium swallow)"
+        },
+        {
+          "label": "D",
+          "text": "Thoracic duct"
+        },
+        {
+          "label": "E",
+          "text": "Thoracic aorta"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The opacified tubular column posterior to the cardiac shadow is the barium-filled esophagus on a lateral esophagram; its intimate relation to the left atrium makes it useful for assessing left atrial enlargement.",
+        "whyCorrect": "The opacified tubular column posterior to the cardiac shadow is the barium-filled esophagus on a lateral esophagram; its intimate relation to the left atrium makes it useful for assessing left atrial enlargement.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-187_Brick Exchange - Anatomy of the Heart_p1_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-414",
+      "topicId": "anatomy-of-the-heart",
+      "topicName": "Anatomy of the Heart",
+      "stem": "This echocardiogram shows an anechoic (black) fluid rim surrounding all four chambers. If this collection accumulates rapidly, what life-threatening complication results?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cardiac tamponade"
+        },
+        {
+          "label": "B",
+          "text": "Infective endocarditis"
+        },
+        {
+          "label": "C",
+          "text": "Pulmonary embolism"
+        },
+        {
+          "label": "D",
+          "text": "Aortic dissection"
+        },
+        {
+          "label": "E",
+          "text": "Myocardial infarction"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Fluid in the pericardial space (pericardial effusion) that accumulates faster than the sac can stretch raises intrapericardial pressure, compressing the chambers and impairing filling — cardiac tamponade, which causes obstructive shock.",
+        "whyCorrect": "Fluid in the pericardial space (pericardial effusion) that accumulates faster than the sac can stretch raises intrapericardial pressure, compressing the chambers and impairing filling — cardiac tamponade, which causes obstructive shock.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-414_Brick Exchange - Anatomy of the Heart_p19_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-614",
+      "topicId": "anatomy-of-the-heart",
+      "topicName": "Anatomy of the Heart",
+      "stem": "This figure shows the fibrous trigones, interleaflet triangles, and membranous septum surrounding the four valve rings. What is the principal function of this cardiac fibrous skeleton?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Generates the pacemaker impulse of the heart"
+        },
+        {
+          "label": "B",
+          "text": "Actively contracts to eject blood from the ventricles"
+        },
+        {
+          "label": "C",
+          "text": "Electrically insulates the atria from the ventricles"
+        },
+        {
+          "label": "D",
+          "text": "Stores oxygen for the myocardium during systole"
+        },
+        {
+          "label": "E",
+          "text": "Provides the main blood supply to the myocardium"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The fibrous skeleton anchors the valves and forms a non-conducting barrier between atrial and ventricular myocardium, forcing impulses through the AV node/bundle of His and preventing direct atrioventricular electrical spread.",
+        "whyCorrect": "The fibrous skeleton anchors the valves and forms a non-conducting barrier between atrial and ventricular myocardium, forcing impulses through the AV node/bundle of His and preventing direct atrioventricular electrical spread.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-614_Brick Exchange - Anatomy of the Heart_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-615",
+      "topicId": "anatomy-of-the-heart",
+      "topicName": "Anatomy of the Heart",
+      "stem": "In this section the mitral valve is open, the aortic valve is closed, the chordae are loose, and the papillary muscle is relaxed. Which phase of the cardiac cycle is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Isovolumetric contraction"
+        },
+        {
+          "label": "B",
+          "text": "Isovolumetric relaxation onset"
+        },
+        {
+          "label": "C",
+          "text": "Atrial repolarization peak"
+        },
+        {
+          "label": "D",
+          "text": "Ventricular ejection (systole)"
+        },
+        {
+          "label": "E",
+          "text": "Ventricular diastole (filling)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "An open mitral (AV) valve with a closed aortic (semilunar) valve and relaxed papillary muscles allows the left ventricle to fill from the atrium — the defining configuration of ventricular diastole.",
+        "whyCorrect": "An open mitral (AV) valve with a closed aortic (semilunar) valve and relaxed papillary muscles allows the left ventricle to fill from the atrium — the defining configuration of ventricular diastole.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-615_Brick Exchange - Anatomy of the Heart_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-616",
+      "topicId": "anatomy-of-the-heart",
+      "topicName": "Anatomy of the Heart",
+      "stem": "In this coronal section of the heart, which chamber receives deoxygenated blood and pumps it into the pulmonary circulation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aortic root"
+        },
+        {
+          "label": "B",
+          "text": "Right ventricle"
+        },
+        {
+          "label": "C",
+          "text": "Left ventricle"
+        },
+        {
+          "label": "D",
+          "text": "Right atrium"
+        },
+        {
+          "label": "E",
+          "text": "Left atrium"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Deoxygenated blood enters the right atrium, passes the tricuspid valve into the right ventricle, and is ejected through the pulmonary valve into the pulmonary arteries for oxygenation in the lungs.",
+        "whyCorrect": "Deoxygenated blood enters the right atrium, passes the tricuspid valve into the right ventricle, and is ejected through the pulmonary valve into the pulmonary arteries for oxygenation in the lungs.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-616_Brick Exchange - Anatomy of the Heart_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-617",
+      "topicId": "anatomy-of-the-heart",
+      "topicName": "Anatomy of the Heart",
+      "stem": "This superior view of the valve plane (base of the heart) shows all four valves. Which valve prevents backflow of blood into the left atrium during ventricular systole?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bicuspid (mitral) valve"
+        },
+        {
+          "label": "B",
+          "text": "Pulmonary valve"
+        },
+        {
+          "label": "C",
+          "text": "Aortic valve"
+        },
+        {
+          "label": "D",
+          "text": "Eustachian valve"
+        },
+        {
+          "label": "E",
+          "text": "Tricuspid valve"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "During ventricular systole the mitral (bicuspid) valve closes to prevent regurgitation of blood from the left ventricle back into the left atrium; the tricuspid does the same on the right side.",
+        "whyCorrect": "During ventricular systole the mitral (bicuspid) valve closes to prevent regurgitation of blood from the left ventricle back into the left atrium; the tricuspid does the same on the right side.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-617_Brick Exchange - Anatomy of the Heart_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-618",
+      "topicId": "anatomy-of-the-heart",
+      "topicName": "Anatomy of the Heart",
+      "stem": "This dissection shows the papillary muscles connected to the AV valve leaflets by thin cords (chordae tendineae). What is the function of this papillary muscle–chordae apparatus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Supplies oxygenated blood to the myocardium"
+        },
+        {
+          "label": "B",
+          "text": "Generates the cardiac pacemaker impulse"
+        },
+        {
+          "label": "C",
+          "text": "Anchors the great vessels to the pericardium"
+        },
+        {
+          "label": "D",
+          "text": "Opens the semilunar valves during ejection"
+        },
+        {
+          "label": "E",
+          "text": "Prevents prolapse of the AV valve leaflets during systole"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "During ventricular contraction the papillary muscles tense the chordae tendineae, holding the mitral and tricuspid leaflets shut so they do not evert into the atria; rupture leads to valvular regurgitation.",
+        "whyCorrect": "During ventricular contraction the papillary muscles tense the chordae tendineae, holding the mitral and tricuspid leaflets shut so they do not evert into the atria; rupture leads to valvular regurgitation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-618_Brick Exchange - Anatomy of the Heart_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

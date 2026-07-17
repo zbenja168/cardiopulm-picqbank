@@ -1,0 +1,357 @@
+{
+  "categoryId": "physiology-alveolar-gas-exchange-and-diffusion-2-of-2",
+  "categoryName": "Physiology- Alveolar Gas exchange and Diffusion 2 of 2",
+  "questions": [
+    {
+      "id": "repic-162",
+      "topicId": "physiology-alveolar-gas-exchange-and-diffusion-2-of-2",
+      "topicName": "Physiology- Alveolar Gas exchange and Diffusion 2 of 2",
+      "stem": "This cross-section shows the layered barrier separating alveolar air from red blood cells, across which O2 and CO2 diffuse in opposite directions. Increased thickness of which listed layer would most impair gas diffusion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accumulated fluid in the alveolus (thickening the fluid/surfactant and interstitial layers)"
+        },
+        {
+          "label": "B",
+          "text": "A larger alveolar surface area"
+        },
+        {
+          "label": "C",
+          "text": "An increase in capillary blood flow velocity"
+        },
+        {
+          "label": "D",
+          "text": "A higher hemoglobin concentration in the RBC"
+        },
+        {
+          "label": "E",
+          "text": "A rise in alveolar oxygen concentration"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Gas diffusion is inversely proportional to membrane thickness (Fick's law). Thickening any layer of the respiratory membrane, as with pulmonary edema or fibrosis, lengthens the diffusion path and reduces O2/CO2 transfer.",
+        "whyCorrect": "Gas diffusion is inversely proportional to membrane thickness (Fick's law). Thickening any layer of the respiratory membrane, as with pulmonary edema or fibrosis, lengthens the diffusion path and reduces O2/CO2 transfer.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-162_Brick Exchange - Physiology- Alveolar Gas exchange and Diffusion 2 of 2_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-163",
+      "topicId": "physiology-alveolar-gas-exchange-and-diffusion-2-of-2",
+      "topicName": "Physiology- Alveolar Gas exchange and Diffusion 2 of 2",
+      "stem": "In this alveolar histology, three cell types are indicated. What is the principal function of the rounded cell labeled at the center of the alveolar wall?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It secretes surfactant to lower alveolar surface tension"
+        },
+        {
+          "label": "B",
+          "text": "It produces mucus to trap particles"
+        },
+        {
+          "label": "C",
+          "text": "It transports oxygen bound to hemoglobin"
+        },
+        {
+          "label": "D",
+          "text": "It forms the thin barrier across which gases diffuse"
+        },
+        {
+          "label": "E",
+          "text": "It phagocytoses inhaled debris and pathogens"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The central cell is a type 2 pneumocyte, a cuboidal cell that synthesizes and secretes pulmonary surfactant to reduce surface tension and prevent alveolar collapse; it also serves as a progenitor for type 1 pneumocytes.",
+        "whyCorrect": "The central cell is a type 2 pneumocyte, a cuboidal cell that synthesizes and secretes pulmonary surfactant to reduce surface tension and prevent alveolar collapse; it also serves as a progenitor for type 1 pneumocytes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-163_Brick Exchange - Physiology- Alveolar Gas exchange and Diffusion 2 of 2_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-815",
+      "topicId": "physiology-alveolar-gas-exchange-and-diffusion-2-of-2",
+      "topicName": "Physiology- Alveolar Gas exchange and Diffusion 2 of 2",
+      "stem": "The graph shows blood partial pressure of this gas reaching alveolar levels almost immediately after blood enters the capillary. What does this behavior classify the gas transport as?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Perfusion-limited transport"
+        },
+        {
+          "label": "B",
+          "text": "Ventilation-limited transport"
+        },
+        {
+          "label": "C",
+          "text": "Hemoglobin-buffered transport"
+        },
+        {
+          "label": "D",
+          "text": "Shunt-limited transport"
+        },
+        {
+          "label": "E",
+          "text": "Diffusion-limited transport"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Because hemoglobin does not bind N2O, the free gas equilibrates with alveolar levels almost instantly; further uptake depends only on how much blood flows past, making it the prototype of perfusion-limited gas exchange.",
+        "whyCorrect": "Because hemoglobin does not bind N2O, the free gas equilibrates with alveolar levels almost instantly; further uptake depends only on how much blood flows past, making it the prototype of perfusion-limited gas exchange.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-815_Brick Exchange - Physiology- Alveolar Gas exchange and Diffusion 2 of 2_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-816",
+      "topicId": "physiology-alveolar-gas-exchange-and-diffusion-2-of-2",
+      "topicName": "Physiology- Alveolar Gas exchange and Diffusion 2 of 2",
+      "stem": "At rest, capillary PO2 rises from 40 to 100 mm Hg within about the first third of the capillary and then stays flat until the blood leaves. What does this reserve interval demonstrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oxygen fails to equilibrate, indicating a diffusion limitation at rest"
+        },
+        {
+          "label": "B",
+          "text": "Oxygen normally equilibrates well before the end of the capillary, providing a diffusion reserve"
+        },
+        {
+          "label": "C",
+          "text": "Hemoglobin is fully saturated only as blood exits the capillary"
+        },
+        {
+          "label": "D",
+          "text": "Alveolar PO2 must exceed 150 mm Hg for equilibration"
+        },
+        {
+          "label": "E",
+          "text": "Transit time is too short for equilibration even at rest"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Under resting conditions blood spends about 0.75 s in the capillary but PO2 equilibrates with alveolar gas by ~0.25 s, leaving a large safety margin; this reserve is why O2 transfer is normally perfusion-limited and only becomes diffusion-limited in disease or heavy exercise.",
+        "whyCorrect": "Under resting conditions blood spends about 0.75 s in the capillary but PO2 equilibrates with alveolar gas by ~0.25 s, leaving a large safety margin; this reserve is why O2 transfer is normally perfusion-limited and only becomes diffusion-limited in disease or heavy exercise.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-816_Brick Exchange - Physiology- Alveolar Gas exchange and Diffusion 2 of 2_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-817",
+      "topicId": "physiology-alveolar-gas-exchange-and-diffusion-2-of-2",
+      "topicName": "Physiology- Alveolar Gas exchange and Diffusion 2 of 2",
+      "stem": "On this plot of partial pressure versus time in the capillary, N2O and normal O2 reach the alveolar line quickly while CO stays far below it. What distinguishes the CO curve from the N2O curve?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CO is perfusion-limited and equilibrates fastest of the three gases"
+        },
+        {
+          "label": "B",
+          "text": "CO has a larger molecular size that prevents any uptake"
+        },
+        {
+          "label": "C",
+          "text": "CO equilibrates but is immediately exhaled unchanged"
+        },
+        {
+          "label": "D",
+          "text": "CO is diffusion-limited because hemoglobin avidly binds it, keeping free partial pressure low along the whole capillary"
+        },
+        {
+          "label": "E",
+          "text": "CO transport depends only on cardiac output, not diffusion"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "CO binds hemoglobin so tightly that free partial pressure barely rises, so uptake is limited only by how fast the gas can diffuse across the membrane (diffusion-limited). N2O, which is not bound, equilibrates almost immediately and is perfusion-limited.",
+        "whyCorrect": "CO binds hemoglobin so tightly that free partial pressure barely rises, so uptake is limited only by how fast the gas can diffuse across the membrane (diffusion-limited). N2O, which is not bound, equilibrates almost immediately and is perfusion-limited.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-817_Brick Exchange - Physiology- Alveolar Gas exchange and Diffusion 2 of 2_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-818",
+      "topicId": "physiology-alveolar-gas-exchange-and-diffusion-2-of-2",
+      "topicName": "Physiology- Alveolar Gas exchange and Diffusion 2 of 2",
+      "stem": "The figure shows that free levels of this gas barely rise along the capillary because hemoglobin binds it as soon as it enters. What type of gas exchange does this exemplify?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Perfusion-limited transport"
+        },
+        {
+          "label": "B",
+          "text": "Shunt-dependent transport"
+        },
+        {
+          "label": "C",
+          "text": "Ventilation-limited transport"
+        },
+        {
+          "label": "D",
+          "text": "Solubility-limited transport"
+        },
+        {
+          "label": "E",
+          "text": "Diffusion-limited transport"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Because hemoglobin avidly binds CO, its free partial pressure stays very low, so the alveolar-capillary gradient is maintained and uptake is limited only by diffusion across the membrane; CO is the classic diffusion-limited gas.",
+        "whyCorrect": "Because hemoglobin avidly binds CO, its free partial pressure stays very low, so the alveolar-capillary gradient is maintained and uptake is limited only by diffusion across the membrane; CO is the classic diffusion-limited gas.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-818_Brick Exchange - Physiology- Alveolar Gas exchange and Diffusion 2 of 2_p20_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-819",
+      "topicId": "physiology-alveolar-gas-exchange-and-diffusion-2-of-2",
+      "topicName": "Physiology- Alveolar Gas exchange and Diffusion 2 of 2",
+      "stem": "This diagram shows oxygen moving from an alveolus into a pulmonary capillary and being taken up by red blood cells. What is the primary driving force (labeled here with the blue arrow) that moves O2 across the alveolar-capillary membrane?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The oncotic pressure gradient generated by plasma proteins"
+        },
+        {
+          "label": "B",
+          "text": "Facilitated carrier proteins in the alveolar epithelium"
+        },
+        {
+          "label": "C",
+          "text": "Hydrostatic pressure driving bulk flow of gas into blood"
+        },
+        {
+          "label": "D",
+          "text": "Active transport by membrane pumps in the endothelium"
+        },
+        {
+          "label": "E",
+          "text": "The partial pressure gradient of O2 between alveolar gas and capillary blood"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Gas exchange at the alveolus is passive diffusion driven by the partial pressure difference (ΔP) across the membrane. O2 diffuses down its gradient into the capillary, where it is rapidly bound by hemoglobin during RBC uptake, keeping the gradient favorable as blood flows through.",
+        "whyCorrect": "Gas exchange at the alveolus is passive diffusion driven by the partial pressure difference (ΔP) across the membrane. O2 diffuses down its gradient into the capillary, where it is rapidly bound by hemoglobin during RBC uptake, keeping the gradient favorable as blood flows through.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-819_Brick Exchange - Physiology- Alveolar Gas exchange and Diffusion 2 of 2_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-820",
+      "topicId": "physiology-alveolar-gas-exchange-and-diffusion-2-of-2",
+      "topicName": "Physiology- Alveolar Gas exchange and Diffusion 2 of 2",
+      "stem": "In this figure, inspired air has a PO2 of ~160 mmHg but alveolar PO2 is only ~100 mmHg, while PCO2 rises from atmospheric to ~40 mmHg in the alveolus. What best explains why alveolar PO2 is lower than inspired PO2?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The airway actively secretes oxygen back toward the atmosphere"
+        },
+        {
+          "label": "B",
+          "text": "Humidification with water vapor plus continuous O2 uptake into blood and CO2 addition dilute alveolar O2"
+        },
+        {
+          "label": "C",
+          "text": "Nitrogen displaces oxygen only in the alveolar space"
+        },
+        {
+          "label": "D",
+          "text": "Alveolar O2 is destroyed by surfactant metabolism"
+        },
+        {
+          "label": "E",
+          "text": "Oxygen is chemically consumed by alveolar epithelial cells"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "As air enters the airways it is humidified (water vapor lowers the fraction of each gas), and in the alveolus O2 is continuously removed into pulmonary capillary blood while CO2 is added. The net result is a steady-state alveolar PO2 (~100 mmHg) well below the inspired value, driving diffusion into the blood (40 to 100 mmHg).",
+        "whyCorrect": "As air enters the airways it is humidified (water vapor lowers the fraction of each gas), and in the alveolus O2 is continuously removed into pulmonary capillary blood while CO2 is added. The net result is a steady-state alveolar PO2 (~100 mmHg) well below the inspired value, driving diffusion into the blood (40 to 100 mmHg).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-820_Brick Exchange - Physiology- Alveolar Gas exchange and Diffusion 2 of 2_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-821",
+      "topicId": "physiology-alveolar-gas-exchange-and-diffusion-2-of-2",
+      "topicName": "Physiology- Alveolar Gas exchange and Diffusion 2 of 2",
+      "stem": "This diagram splits the total lung diffusing capacity (D_L) into a membrane component (D_M) and a red-cell reaction component (theta x Vc). What does this partitioning illustrate about oxygen transfer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hemoglobin binding is instantaneous and contributes no resistance"
+        },
+        {
+          "label": "B",
+          "text": "Total gas transfer resistance is the sum of resistance across the membrane and the resistance of O2 binding to hemoglobin"
+        },
+        {
+          "label": "C",
+          "text": "Oxygen transfer depends only on the thickness of the alveolar wall"
+        },
+        {
+          "label": "D",
+          "text": "Diffusing capacity is limited exclusively by capillary blood volume"
+        },
+        {
+          "label": "E",
+          "text": "Membrane diffusion and hemoglobin reaction occur in parallel, not in series"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "1/D_L = 1/D_M + 1/(theta x Vc): the overall diffusing capacity reflects two resistances in series, the physical diffusion across the alveolar-capillary membrane and the rate of chemical reaction of O2 with hemoglobin inside the red cell. Disease can impair either component (e.g., membrane thickening or anemia reducing Vc).",
+        "whyCorrect": "1/D_L = 1/D_M + 1/(theta x Vc): the overall diffusing capacity reflects two resistances in series, the physical diffusion across the alveolar-capillary membrane and the rate of chemical reaction of O2 with hemoglobin inside the red cell. Disease can impair either component (e.g., membrane thickening or anemia reducing Vc).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-821_Brick Exchange - Physiology- Alveolar Gas exchange and Diffusion 2 of 2_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

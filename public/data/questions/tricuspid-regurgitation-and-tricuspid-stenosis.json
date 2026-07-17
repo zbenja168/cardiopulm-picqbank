@@ -1,0 +1,396 @@
+{
+  "categoryId": "tricuspid-regurgitation-and-tricuspid-stenosis",
+  "categoryName": "Tricuspid Regurgitation and Tricuspid Stenosis",
+  "questions": [
+    {
+      "id": "repic-089",
+      "topicId": "tricuspid-regurgitation-and-tricuspid-stenosis",
+      "topicName": "Tricuspid Regurgitation and Tricuspid Stenosis",
+      "stem": "This opened valve specimen has three leaflets and sits between the main pulmonary artery outflow and the right coronary artery groove. Which cardiac valve is displayed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tricuspid valve"
+        },
+        {
+          "label": "B",
+          "text": "Eustachian valve"
+        },
+        {
+          "label": "C",
+          "text": "Pulmonary valve"
+        },
+        {
+          "label": "D",
+          "text": "Mitral valve"
+        },
+        {
+          "label": "E",
+          "text": "Aortic valve"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The valve has anterior, septal, and inferior (posterior) leaflets with intervening commissures and lies adjacent to the AV node region and encircled by the right coronary artery, identifying the right atrioventricular (tricuspid) valve.",
+        "whyCorrect": "The valve has anterior, septal, and inferior (posterior) leaflets with intervening commissures and lies adjacent to the AV node region and encircled by the right coronary artery, identifying the right atrioventricular (tricuspid) valve.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-089_Brick Exchange - Tricuspid Regurgitation and Tricuspid Stenosis_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-392",
+      "topicId": "tricuspid-regurgitation-and-tricuspid-stenosis",
+      "topicName": "Tricuspid Regurgitation and Tricuspid Stenosis",
+      "stem": "This photograph of a patient's neck demonstrates which physical examination finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Carotid artery aneurysm"
+        },
+        {
+          "label": "B",
+          "text": "Jugular venous distension"
+        },
+        {
+          "label": "C",
+          "text": "Diffuse goiter"
+        },
+        {
+          "label": "D",
+          "text": "Cervical lymphadenopathy"
+        },
+        {
+          "label": "E",
+          "text": "Subcutaneous emphysema"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The prominent distended vein coursing up the neck represents elevated jugular venous pressure (distension), a sign of systemic venous congestion seen with right-sided heart failure and severe tricuspid regurgitation.",
+        "whyCorrect": "The prominent distended vein coursing up the neck represents elevated jugular venous pressure (distension), a sign of systemic venous congestion seen with right-sided heart failure and severe tricuspid regurgitation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-392_Brick Exchange - Tricuspid Regurgitation and Tricuspid Stenosis_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-393",
+      "topicId": "tricuspid-regurgitation-and-tricuspid-stenosis",
+      "topicName": "Tricuspid Regurgitation and Tricuspid Stenosis",
+      "stem": "This chest radiograph shows an implanted generator in the left chest with two radiopaque leads terminating in the right atrium and right ventricle. The device is best identified as which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tunneled central venous chest port"
+        },
+        {
+          "label": "B",
+          "text": "Ventriculoperitoneal shunt"
+        },
+        {
+          "label": "C",
+          "text": "Pacemaker/implantable cardioverter-defibrillator"
+        },
+        {
+          "label": "D",
+          "text": "Swan-Ganz pulmonary artery catheter"
+        },
+        {
+          "label": "E",
+          "text": "Peripherally inserted central catheter (PICC)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A subcutaneous pulse generator with leads passing through the subclavian vein to the RA and RV identifies a transvenous pacemaker/ICD. Such intracardiac leads crossing the tricuspid valve are a recognized cause of lead-related tricuspid regurgitation.",
+        "whyCorrect": "A subcutaneous pulse generator with leads passing through the subclavian vein to the RA and RV identifies a transvenous pacemaker/ICD. Such intracardiac leads crossing the tricuspid valve are a recognized cause of lead-related tricuspid regurgitation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-393_Brick Exchange - Tricuspid Regurgitation and Tricuspid Stenosis_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-394",
+      "topicId": "tricuspid-regurgitation-and-tricuspid-stenosis",
+      "topicName": "Tricuspid Regurgitation and Tricuspid Stenosis",
+      "stem": "What imaging modality was used to generate this apical four-chamber cardiac image with a superimposed color-flow map?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nuclear myocardial perfusion imaging"
+        },
+        {
+          "label": "B",
+          "text": "Transthoracic echocardiography with color Doppler"
+        },
+        {
+          "label": "C",
+          "text": "Cardiac magnetic resonance imaging"
+        },
+        {
+          "label": "D",
+          "text": "Contrast-enhanced cardiac CT angiography"
+        },
+        {
+          "label": "E",
+          "text": "Invasive left ventriculography"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The grayscale sector image with a real-time color Doppler overlay (blue/red flow), frame rate, and depth annotations is characteristic of two-dimensional echocardiography. Here color Doppler reveals turbulent flow across a domed, stenotic tricuspid valve.",
+        "whyCorrect": "The grayscale sector image with a real-time color Doppler overlay (blue/red flow), frame rate, and depth annotations is characteristic of two-dimensional echocardiography. Here color Doppler reveals turbulent flow across a domed, stenotic tricuspid valve.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-394_Brick Exchange - Tricuspid Regurgitation and Tricuspid Stenosis_p20_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-577",
+      "topicId": "tricuspid-regurgitation-and-tricuspid-stenosis",
+      "topicName": "Tricuspid Regurgitation and Tricuspid Stenosis",
+      "stem": "In the abnormal heart shown, the tricuspid valve is elongated and displaced apically into the right ventricle. What is the chief functional consequence of this displacement?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Left ventricular outflow tract obstruction"
+        },
+        {
+          "label": "B",
+          "text": "Aortic root dilation with aortic regurgitation"
+        },
+        {
+          "label": "C",
+          "text": "Fixed diastolic obstruction of right ventricular inflow"
+        },
+        {
+          "label": "D",
+          "text": "Reversal of flow across a patent ductus arteriosus"
+        },
+        {
+          "label": "E",
+          "text": "Tricuspid regurgitation with 'atrialization' of a portion of the right ventricle"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Apical displacement of the septal/posterior tricuspid leaflets makes the valve leak backward into the right atrium and incorporates the inflow portion of the RV into a functional (atrialized) chamber, reducing effective RV volume; an associated atrial septal defect permits right-to-left shunting.",
+        "whyCorrect": "Apical displacement of the septal/posterior tricuspid leaflets makes the valve leak backward into the right atrium and incorporates the inflow portion of the RV into a functional (atrialized) chamber, reducing effective RV volume; an associated atrial septal defect permits right-to-left shunting.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-577_Brick Exchange - Tricuspid Regurgitation and Tricuspid Stenosis_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-578",
+      "topicId": "tricuspid-regurgitation-and-tricuspid-stenosis",
+      "topicName": "Tricuspid Regurgitation and Tricuspid Stenosis",
+      "stem": "These three panels (normal, annular dilation, and papillary muscle displacement) illustrate the mechanisms behind which category of tricuspid regurgitation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Infective endocarditis with leaflet perforation"
+        },
+        {
+          "label": "B",
+          "text": "Carcinoid leaflet fibrosis"
+        },
+        {
+          "label": "C",
+          "text": "Congenital Ebstein anomaly"
+        },
+        {
+          "label": "D",
+          "text": "Primary rheumatic leaflet disease"
+        },
+        {
+          "label": "E",
+          "text": "Functional (secondary) tricuspid regurgitation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Functional/secondary TR occurs with structurally normal leaflets that fail to coapt because of tricuspid annular dilation and/or apical tethering of the leaflets from papillary muscle displacement, typically driven by right ventricular or right atrial remodeling.",
+        "whyCorrect": "Functional/secondary TR occurs with structurally normal leaflets that fail to coapt because of tricuspid annular dilation and/or apical tethering of the leaflets from papillary muscle displacement, typically driven by right ventricular or right atrial remodeling.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-578_Brick Exchange - Tricuspid Regurgitation and Tricuspid Stenosis_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-884",
+      "topicId": "tricuspid-regurgitation-and-tricuspid-stenosis",
+      "topicName": "Tricuspid Regurgitation and Tricuspid Stenosis",
+      "stem": "In the lower jugular venous pressure tracing, the normal separate C and V waves are replaced by a single large fused 'CV' wave with loss of the X descent. What mechanism produces this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Complete atrioventricular dissociation with cannon waves"
+        },
+        {
+          "label": "B",
+          "text": "Pericardial constriction limiting late diastolic filling"
+        },
+        {
+          "label": "C",
+          "text": "Impaired atrial emptying across a stenosed valve during diastole"
+        },
+        {
+          "label": "D",
+          "text": "Loss of atrial contraction from atrial fibrillation"
+        },
+        {
+          "label": "E",
+          "text": "Regurgitant flow from the right ventricle into the right atrium during systole"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In tricuspid regurgitation, systolic backflow into the right atrium abolishes the normal systolic X descent and fuses the c and v waves into a giant 'CV' (or 's') wave, a hallmark of the JVP in TR.",
+        "whyCorrect": "In tricuspid regurgitation, systolic backflow into the right atrium abolishes the normal systolic X descent and fuses the c and v waves into a giant 'CV' (or 's') wave, a hallmark of the JVP in TR.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-884_Brick Exchange - Tricuspid Regurgitation and Tricuspid Stenosis_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-885",
+      "topicId": "tricuspid-regurgitation-and-tricuspid-stenosis",
+      "topicName": "Tricuspid Regurgitation and Tricuspid Stenosis",
+      "stem": "The right-hand heart diagram differs from the normal by a thickened, narrowed tricuspid orifice. What is the primary hemodynamic consequence of this lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Obstructed diastolic flow from the right atrium to right ventricle, raising right atrial pressure"
+        },
+        {
+          "label": "B",
+          "text": "Left-to-right shunting through an atrial septal defect"
+        },
+        {
+          "label": "C",
+          "text": "Increased pulmonary arterial pressure from left ventricular failure"
+        },
+        {
+          "label": "D",
+          "text": "Reduced aortic outflow during systole"
+        },
+        {
+          "label": "E",
+          "text": "Systolic backflow from the right ventricle into the right atrium"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Tricuspid stenosis restricts diastolic filling of the right ventricle, creating a diastolic pressure gradient across the valve and elevating right atrial pressure. This produces systemic venous congestion (hepatomegaly, ascites, edema) and a prominent a wave in the JVP.",
+        "whyCorrect": "Tricuspid stenosis restricts diastolic filling of the right ventricle, creating a diastolic pressure gradient across the valve and elevating right atrial pressure. This produces systemic venous congestion (hepatomegaly, ascites, edema) and a prominent a wave in the JVP.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-885_Brick Exchange - Tricuspid Regurgitation and Tricuspid Stenosis_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-886",
+      "topicId": "tricuspid-regurgitation-and-tricuspid-stenosis",
+      "topicName": "Tricuspid Regurgitation and Tricuspid Stenosis",
+      "stem": "Compared with the normal tracing, the lower jugular venous waveform shows a tall/prominent A wave and a slow, blunted Y descent. What underlies these changes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Systolic regurgitation abolishing the X descent"
+        },
+        {
+          "label": "B",
+          "text": "Forceful atrial contraction against, and impaired atrial emptying through, a stenotic tricuspid valve"
+        },
+        {
+          "label": "C",
+          "text": "Rapid ventricular filling from constrictive pericarditis"
+        },
+        {
+          "label": "D",
+          "text": "Cannon a waves from atrioventricular dissociation"
+        },
+        {
+          "label": "E",
+          "text": "Loss of organized atrial activity in atrial fibrillation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In tricuspid stenosis the right atrium contracts vigorously against the obstructed valve, producing a giant a wave, while the narrowed orifice slows diastolic emptying, blunting and prolonging the y descent.",
+        "whyCorrect": "In tricuspid stenosis the right atrium contracts vigorously against the obstructed valve, producing a giant a wave, while the narrowed orifice slows diastolic emptying, blunting and prolonging the y descent.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-886_Brick Exchange - Tricuspid Regurgitation and Tricuspid Stenosis_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-887",
+      "topicId": "tricuspid-regurgitation-and-tricuspid-stenosis",
+      "topicName": "Tricuspid Regurgitation and Tricuspid Stenosis",
+      "stem": "In the abnormal heart shown, the yellow arrow indicates flow crossing the tricuspid valve during systole while the pulmonary valve is open. This lesion most directly raises pressure in which chamber?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Left ventricle"
+        },
+        {
+          "label": "B",
+          "text": "Right atrium"
+        },
+        {
+          "label": "C",
+          "text": "Left atrium"
+        },
+        {
+          "label": "D",
+          "text": "Aortic root"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary vein"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The diagram depicts tricuspid regurgitation: during systole the incompetent tricuspid valve permits backflow into the right atrium, elevating right atrial and systemic venous pressures and producing a large v (CV) wave in the JVP.",
+        "whyCorrect": "The diagram depicts tricuspid regurgitation: during systole the incompetent tricuspid valve permits backflow into the right atrium, elevating right atrial and systemic venous pressures and producing a large v (CV) wave in the JVP.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-887_Brick Exchange - Tricuspid Regurgitation and Tricuspid Stenosis_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

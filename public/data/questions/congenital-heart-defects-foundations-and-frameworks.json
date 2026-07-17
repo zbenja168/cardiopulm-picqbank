@@ -1,0 +1,279 @@
+{
+  "categoryId": "congenital-heart-defects-foundations-and-frameworks",
+  "categoryName": "Congenital Heart Defects: Foundations and Frameworks",
+  "questions": [
+    {
+      "id": "repic-460",
+      "topicId": "congenital-heart-defects-foundations-and-frameworks",
+      "topicName": "Congenital Heart Defects: Foundations and Frameworks",
+      "stem": "These photographs show bluish discoloration of the fingers and toes in a patient with a congenital heart defect. What underlying pathophysiology produces this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Peripheral arterial thrombotic occlusion"
+        },
+        {
+          "label": "B",
+          "text": "Left-to-right shunting increasing pulmonary blood flow"
+        },
+        {
+          "label": "C",
+          "text": "Right-to-left shunting of deoxygenated blood into the systemic circulation"
+        },
+        {
+          "label": "D",
+          "text": "Carbon monoxide poisoning saturating hemoglobin"
+        },
+        {
+          "label": "E",
+          "text": "Iron deficiency anemia reducing hemoglobin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Central cyanosis in congenital heart disease reflects a right-to-left shunt, which delivers deoxygenated blood directly to the systemic circulation, raising deoxyhemoglobin above roughly 5 g/dL and producing the bluish skin and nail discoloration.",
+        "whyCorrect": "Central cyanosis in congenital heart disease reflects a right-to-left shunt, which delivers deoxygenated blood directly to the systemic circulation, raising deoxyhemoglobin above roughly 5 g/dL and producing the bluish skin and nail discoloration.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-460_Brick Exchange - Congenital Heart Defects_ Foundations and Frameworks_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-461",
+      "topicId": "congenital-heart-defects-foundations-and-frameworks",
+      "topicName": "Congenital Heart Defects: Foundations and Frameworks",
+      "stem": "This photograph of a child's hands shows bulbous, rounded fingertips with loss of the normal nail-fold angle. What is this physical finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Raynaud phenomenon"
+        },
+        {
+          "label": "B",
+          "text": "Digital clubbing"
+        },
+        {
+          "label": "C",
+          "text": "Dupuytren contracture"
+        },
+        {
+          "label": "D",
+          "text": "Osler nodes"
+        },
+        {
+          "label": "E",
+          "text": "Koilonychia (spoon nails)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Digital clubbing is the softening and bulbous enlargement of the distal fingertips with loss of the normal nail-bed angle; in congenital heart disease it results from chronic hypoxemia caused by a right-to-left shunt.",
+        "whyCorrect": "Digital clubbing is the softening and bulbous enlargement of the distal fingertips with loss of the normal nail-bed angle; in congenital heart disease it results from chronic hypoxemia caused by a right-to-left shunt.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-461_Brick Exchange - Congenital Heart Defects_ Foundations and Frameworks_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-462",
+      "topicId": "congenital-heart-defects-foundations-and-frameworks",
+      "topicName": "Congenital Heart Defects: Foundations and Frameworks",
+      "stem": "Compared with the normal heart on the left, the right panel shows a long-standing ventricular septal defect. The inset vessel demonstrates a thickened tunica media and narrowed lumen. What process does this illustrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coronary atherosclerosis reducing myocardial perfusion"
+        },
+        {
+          "label": "B",
+          "text": "Deep venous thrombosis of a peripheral vessel"
+        },
+        {
+          "label": "C",
+          "text": "Systemic hypertension from renal artery stenosis"
+        },
+        {
+          "label": "D",
+          "text": "Aortic dissection propagating through the media"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary vascular remodeling causing pulmonary hypertension and RV hypertrophy"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Chronic left-to-right shunting raises pulmonary blood flow and pressure, driving medial hypertrophy and luminal narrowing of pulmonary arteries; the resulting pulmonary hypertension increases right ventricular afterload and causes RV hypertrophy (potentially leading to Eisenmenger shunt reversal).",
+        "whyCorrect": "Chronic left-to-right shunting raises pulmonary blood flow and pressure, driving medial hypertrophy and luminal narrowing of pulmonary arteries; the resulting pulmonary hypertension increases right ventricular afterload and causes RV hypertrophy (potentially leading to Eisenmenger shunt reversal).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-462_Brick Exchange - Congenital Heart Defects_ Foundations and Frameworks_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-463",
+      "topicId": "congenital-heart-defects-foundations-and-frameworks",
+      "topicName": "Congenital Heart Defects: Foundations and Frameworks",
+      "stem": "The right-hand diagram shows a persistent connection between the aorta and pulmonary artery after birth. Which fetal structure has failed to close to produce this defect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Umbilical vein"
+        },
+        {
+          "label": "B",
+          "text": "Ductus arteriosus"
+        },
+        {
+          "label": "C",
+          "text": "Ductus venosus"
+        },
+        {
+          "label": "D",
+          "text": "Coronary sinus"
+        },
+        {
+          "label": "E",
+          "text": "Foramen ovale"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A patent ductus arteriosus results when the fetal ductus arteriosus (which normally shunts blood from the pulmonary artery to the aorta in utero) fails to close after birth, leaving an aorta-to-pulmonary artery connection.",
+        "whyCorrect": "A patent ductus arteriosus results when the fetal ductus arteriosus (which normally shunts blood from the pulmonary artery to the aorta in utero) fails to close after birth, leaving an aorta-to-pulmonary artery connection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-463_Brick Exchange - Congenital Heart Defects_ Foundations and Frameworks_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-692",
+      "topicId": "congenital-heart-defects-foundations-and-frameworks",
+      "topicName": "Congenital Heart Defects: Foundations and Frameworks",
+      "stem": "In the patent ductus arteriosus shown at right, blood flows through the abnormal connection between the aorta and the pulmonary artery. In which direction does blood shunt through this connection after birth?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "From pulmonary artery to aorta (right-to-left)"
+        },
+        {
+          "label": "B",
+          "text": "From aorta to pulmonary artery (left-to-right)"
+        },
+        {
+          "label": "C",
+          "text": "From left ventricle to right ventricle"
+        },
+        {
+          "label": "D",
+          "text": "From right atrium to left atrium"
+        },
+        {
+          "label": "E",
+          "text": "There is no net flow because pressures are equal"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Because systemic (aortic) pressure normally exceeds pulmonary pressure, a patent ductus arteriosus produces a left-to-right shunt from the aorta into the pulmonary artery, increasing pulmonary blood flow.",
+        "whyCorrect": "Because systemic (aortic) pressure normally exceeds pulmonary pressure, a patent ductus arteriosus produces a left-to-right shunt from the aorta into the pulmonary artery, increasing pulmonary blood flow.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-692_Brick Exchange - Congenital Heart Defects_ Foundations and Frameworks_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-693",
+      "topicId": "congenital-heart-defects-foundations-and-frameworks",
+      "topicName": "Congenital Heart Defects: Foundations and Frameworks",
+      "stem": "The arrows in the middle heart illustrate the direction of blood flow through an atrial septal defect and a ventricular septal defect. Why does blood cross both defects in the direction shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Higher pressure on the left side drives blood from left chambers to right chambers"
+        },
+        {
+          "label": "B",
+          "text": "Gravity directs blood downward through the ventricular defect"
+        },
+        {
+          "label": "C",
+          "text": "Lower oxygen content on the left pulls blood leftward"
+        },
+        {
+          "label": "D",
+          "text": "Valve incompetence forces blood from right to left"
+        },
+        {
+          "label": "E",
+          "text": "Equalized chamber pressures cause bidirectional mixing only"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Left-sided chambers operate at higher pressure than the corresponding right-sided chambers, so uncomplicated septal defects initially shunt oxygenated blood left-to-right, increasing pulmonary flow and right heart volume.",
+        "whyCorrect": "Left-sided chambers operate at higher pressure than the corresponding right-sided chambers, so uncomplicated septal defects initially shunt oxygenated blood left-to-right, increasing pulmonary flow and right heart volume.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-693_Brick Exchange - Congenital Heart Defects_ Foundations and Frameworks_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-694",
+      "topicId": "congenital-heart-defects-foundations-and-frameworks",
+      "topicName": "Congenital Heart Defects: Foundations and Frameworks",
+      "stem": "Comparing the fetal heart (left) with the newborn heart (right), what triggers the functional closure of the foramen ovale at birth?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A sudden fall in systemic arterial oxygen tension"
+        },
+        {
+          "label": "B",
+          "text": "Rising left atrial pressure as lung expansion increases pulmonary venous return"
+        },
+        {
+          "label": "C",
+          "text": "A drop in left ventricular contractility after delivery"
+        },
+        {
+          "label": "D",
+          "text": "Increased prostaglandin production by the placenta"
+        },
+        {
+          "label": "E",
+          "text": "Constriction of the umbilical vein at birth"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "With the first breaths, pulmonary vascular resistance falls and pulmonary venous return rises, increasing left atrial pressure above right atrial pressure; this pressure reversal presses the septum primum against the septum secundum, functionally closing the foramen ovale.",
+        "whyCorrect": "With the first breaths, pulmonary vascular resistance falls and pulmonary venous return rises, increasing left atrial pressure above right atrial pressure; this pressure reversal presses the septum primum against the septum secundum, functionally closing the foramen ovale.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-694_Brick Exchange - Congenital Heart Defects_ Foundations and Frameworks_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

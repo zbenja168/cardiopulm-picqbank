@@ -1,0 +1,552 @@
+{
+  "categoryId": "pneumothorax",
+  "categoryName": "Pneumothorax",
+  "questions": [
+    {
+      "id": "repic-086",
+      "topicId": "pneumothorax",
+      "topicName": "Pneumothorax",
+      "stem": "The crosshairs in this diagram and the accompanying photo mark the standard site for emergency needle decompression by the anterior approach. Which landmark do they indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2nd intercostal space, midclavicular line"
+        },
+        {
+          "label": "B",
+          "text": "4th intercostal space, midaxillary line"
+        },
+        {
+          "label": "C",
+          "text": "8th intercostal space, midscapular line"
+        },
+        {
+          "label": "D",
+          "text": "Suprasternal notch, midline"
+        },
+        {
+          "label": "E",
+          "text": "5th intercostal space, anterior axillary line"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The classic anterior approach for needle decompression of a tension pneumothorax targets the 2nd intercostal space in the midclavicular line, passing just above the rib to avoid the neurovascular bundle.",
+        "whyCorrect": "The classic anterior approach for needle decompression of a tension pneumothorax targets the 2nd intercostal space in the midclavicular line, passing just above the rib to avoid the neurovascular bundle.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-086_Brick Exchange - Pneumothorax_p24_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-349",
+      "topicId": "pneumothorax",
+      "topicName": "Pneumothorax",
+      "stem": "This labeled PA chest radiograph is provided as a reference. Compared with a pneumothorax, which feature confirms that this lung is normally expanded?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A sharp visceral pleural line with lucency beyond it"
+        },
+        {
+          "label": "B",
+          "text": "Lung markings (vascular shadows) extend all the way to the chest wall"
+        },
+        {
+          "label": "C",
+          "text": "A collapsed lung crumpled at the hilum"
+        },
+        {
+          "label": "D",
+          "text": "Absence of any lung markings in the periphery"
+        },
+        {
+          "label": "E",
+          "text": "Deviation of the trachea to one side"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In a normal lung, peripheral vascular (lung) markings extend to the inner chest wall. In pneumothorax, air in the pleural space produces a visceral pleural line with absent lung markings peripheral to it. This normal film serves as the comparison baseline.",
+        "whyCorrect": "In a normal lung, peripheral vascular (lung) markings extend to the inner chest wall. In pneumothorax, air in the pleural space produces a visceral pleural line with absent lung markings peripheral to it. This normal film serves as the comparison baseline.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-349_Brick Exchange - Pneumothorax_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-350",
+      "topicId": "pneumothorax",
+      "topicName": "Pneumothorax",
+      "stem": "On this PA chest radiograph, the left upper zone is abnormally lucent with no vascular markings extending to the chest wall. What radiographic feature establishes the diagnosis of pneumothorax?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Widening of the mediastinum"
+        },
+        {
+          "label": "B",
+          "text": "An air-fluid level with a meniscus"
+        },
+        {
+          "label": "C",
+          "text": "Diffuse ground-glass opacification"
+        },
+        {
+          "label": "D",
+          "text": "Absence of lung markings peripheral to a visceral pleural line"
+        },
+        {
+          "label": "E",
+          "text": "Increased vascular markings throughout the affected lung"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Pneumothorax is diagnosed by a thin visceral pleural line with a lucent, avascular space (air) beyond it, since collapsed lung retracts and no vessels reach the chest wall. This left-sided example shows loss of peripheral lung markings.",
+        "whyCorrect": "Pneumothorax is diagnosed by a thin visceral pleural line with a lucent, avascular space (air) beyond it, since collapsed lung retracts and no vessels reach the chest wall. This left-sided example shows loss of peripheral lung markings.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-350_Brick Exchange - Pneumothorax_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-351",
+      "topicId": "pneumothorax",
+      "topicName": "Pneumothorax",
+      "stem": "These images show a right-sided non-tension pneumothorax (highlighted). The overlay demonstrates the mediastinum remaining midline. What key feature distinguishes this from a tension pneumothorax?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Presence of an air-fluid level in the pleural space"
+        },
+        {
+          "label": "B",
+          "text": "Contralateral tracheal deviation with mediastinal shift"
+        },
+        {
+          "label": "C",
+          "text": "Bilateral diffuse infiltrates"
+        },
+        {
+          "label": "D",
+          "text": "Absence of mediastinal shift toward the contralateral side"
+        },
+        {
+          "label": "E",
+          "text": "Complete opacification of the affected hemithorax"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In a simple (non-tension) pneumothorax the mediastinum stays midline because intrapleural pressure does not progressively rise. A tension pneumothorax, by contrast, shifts the mediastinum and trachea away from the affected side and compromises venous return, constituting an emergency.",
+        "whyCorrect": "In a simple (non-tension) pneumothorax the mediastinum stays midline because intrapleural pressure does not progressively rise. A tension pneumothorax, by contrast, shifts the mediastinum and trachea away from the affected side and compromises venous return, constituting an emergency.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-351_Brick Exchange - Pneumothorax_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-352",
+      "topicId": "pneumothorax",
+      "topicName": "Pneumothorax",
+      "stem": "On this chest radiograph, branching lucent streaks outline the fibers of the pectoralis major over the chest wall (the 'ginkgo leaf' appearance). What process produces this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hemorrhage dissecting the muscle bellies"
+        },
+        {
+          "label": "B",
+          "text": "Fat outlining the muscle planes"
+        },
+        {
+          "label": "C",
+          "text": "Calcification deposited along muscle fibers"
+        },
+        {
+          "label": "D",
+          "text": "Fluid infiltrating the chest wall (edema)"
+        },
+        {
+          "label": "E",
+          "text": "Air tracking into the subcutaneous soft tissues"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The ginkgo-leaf sign is caused by free gas (subcutaneous emphysema) dissecting between the fibers of the pectoralis major, here associated with a right pneumothorax marked by a visible pleural edge.",
+        "whyCorrect": "The ginkgo-leaf sign is caused by free gas (subcutaneous emphysema) dissecting between the fibers of the pectoralis major, here associated with a right pneumothorax marked by a visible pleural edge.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-352_Brick Exchange - Pneumothorax_p20_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-353",
+      "topicId": "pneumothorax",
+      "topicName": "Pneumothorax",
+      "stem": "The right (M-mode) panel of this lung ultrasound shows uniform horizontal lines all the way down (a 'barcode' or 'stratosphere' pattern) instead of a granular 'seashore' below the pleural line. What does this indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Normal aerated lung with sliding"
+        },
+        {
+          "label": "B",
+          "text": "Pneumothorax (absent lung sliding)"
+        },
+        {
+          "label": "C",
+          "text": "Lung consolidation"
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary edema with B-lines"
+        },
+        {
+          "label": "E",
+          "text": "Pleural effusion"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Loss of lung sliding abolishes the granular 'seashore' pattern; the resulting uniform horizontal 'barcode/stratosphere' sign in M-mode indicates air in the pleural space (pneumothorax).",
+        "whyCorrect": "Loss of lung sliding abolishes the granular 'seashore' pattern; the resulting uniform horizontal 'barcode/stratosphere' sign in M-mode indicates air in the pleural space (pneumothorax).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-353_Brick Exchange - Pneumothorax_p21_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-354",
+      "topicId": "pneumothorax",
+      "topicName": "Pneumothorax",
+      "stem": "The photo highlights the 'sentinel hole' (the most proximal side-hole, cut through the tube's radiopaque stripe). Why is it clinically important that this hole lies inside the pleural cavity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "If it sits outside the chest wall, air is entrained and the pleural seal is lost"
+        },
+        {
+          "label": "B",
+          "text": "It allows the tube to be flushed with saline"
+        },
+        {
+          "label": "C",
+          "text": "It marks the depth to which sutures must be placed"
+        },
+        {
+          "label": "D",
+          "text": "It is where suction pressure is measured"
+        },
+        {
+          "label": "E",
+          "text": "It is the only hole that actually drains fluid"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The sentinel side-hole is placed through the radiopaque stripe so its position can be confirmed on X-ray; if it lies outside the pleural space it entrains air, causing an air leak, ongoing pneumothorax, or subcutaneous emphysema.",
+        "whyCorrect": "The sentinel side-hole is placed through the radiopaque stripe so its position can be confirmed on X-ray; if it lies outside the pleural space it entrains air, causing an air leak, ongoing pneumothorax, or subcutaneous emphysema.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-354_Brick Exchange - Pneumothorax_p27_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-355",
+      "topicId": "pneumothorax",
+      "topicName": "Pneumothorax",
+      "stem": "The curled radiopaque device seen within the hemithorax (a pigtail catheter) is generally preferred over a large-bore chest tube for draining which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A thick empyema (pus)"
+        },
+        {
+          "label": "B",
+          "text": "Retained clot after thoracic surgery"
+        },
+        {
+          "label": "C",
+          "text": "A simple pneumothorax (air)"
+        },
+        {
+          "label": "D",
+          "text": "A loculated malignant effusion"
+        },
+        {
+          "label": "E",
+          "text": "A large hemothorax (blood)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Small-bore pigtail catheters effectively evacuate air with less pain than large-bore tubes and are well suited to simple pneumothorax; viscous or particulate collections (blood, pus, clot) require a larger-bore chest tube.",
+        "whyCorrect": "Small-bore pigtail catheters effectively evacuate air with less pain than large-bore tubes and are well suited to simple pneumothorax; viscous or particulate collections (blood, pus, clot) require a larger-bore chest tube.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-355_Brick Exchange - Pneumothorax_p28_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-356",
+      "topicId": "pneumothorax",
+      "topicName": "Pneumothorax",
+      "stem": "What imaging study is shown here?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ventilation-perfusion scan"
+        },
+        {
+          "label": "B",
+          "text": "Chest ultrasound"
+        },
+        {
+          "label": "C",
+          "text": "Posteroanterior (PA) chest radiograph"
+        },
+        {
+          "label": "D",
+          "text": "Coronal chest MRI"
+        },
+        {
+          "label": "E",
+          "text": "Chest CT scan"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "This is a standing PA chest radiograph, showing the ribs, lungs, mediastinum, and hemidiaphragms with the characteristic grayscale of plain film.",
+        "whyCorrect": "This is a standing PA chest radiograph, showing the ribs, lungs, mediastinum, and hemidiaphragms with the characteristic grayscale of plain film.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-356_Brick Exchange - Pneumothorax_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-546",
+      "topicId": "pneumothorax",
+      "topicName": "Pneumothorax",
+      "stem": "The inset shows apical thin-walled air sacs on the lung surface. Rupture of these lesions classically causes primary spontaneous pneumothorax in which patient group?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Elderly women with severe COPD"
+        },
+        {
+          "label": "B",
+          "text": "Young children with asthma"
+        },
+        {
+          "label": "C",
+          "text": "Obese middle-aged smokers"
+        },
+        {
+          "label": "D",
+          "text": "Tall, thin young men"
+        },
+        {
+          "label": "E",
+          "text": "Pregnant women in the third trimester"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Rupture of subpleural apical blebs/bullae causes primary spontaneous pneumothorax, which classically occurs in tall, thin young men without underlying lung disease.",
+        "whyCorrect": "Rupture of subpleural apical blebs/bullae causes primary spontaneous pneumothorax, which classically occurs in tall, thin young men without underlying lung disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-546_Brick Exchange - Pneumothorax_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-547",
+      "topicId": "pneumothorax",
+      "topicName": "Pneumothorax",
+      "stem": "This thoracoscopic view shows a thin-walled, translucent air-filled blister on the surface of the lung. What is it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pulmonary metastasis"
+        },
+        {
+          "label": "B",
+          "text": "Bleb / bulla"
+        },
+        {
+          "label": "C",
+          "text": "Caseating granuloma"
+        },
+        {
+          "label": "D",
+          "text": "Bronchogenic cyst"
+        },
+        {
+          "label": "E",
+          "text": "Pleural plaque"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The pale, thin-walled outpouching on the visceral pleural surface is a bleb/bulla; rupture of such lesions is the usual cause of spontaneous pneumothorax and they are often stapled/resected at VATS.",
+        "whyCorrect": "The pale, thin-walled outpouching on the visceral pleural surface is a bleb/bulla; rupture of such lesions is the usual cause of spontaneous pneumothorax and they are often stapled/resected at VATS.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-547_Brick Exchange - Pneumothorax_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-829",
+      "topicId": "pneumothorax",
+      "topicName": "Pneumothorax",
+      "stem": "This clinical illustration shows distended neck veins, tracheal deviation toward the uninjured side, hyperresonance with absent breath sounds on one side, hypotension, and air hunger. What emergency is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cardiac tamponade"
+        },
+        {
+          "label": "B",
+          "text": "Simple (non-tension) pneumothorax"
+        },
+        {
+          "label": "C",
+          "text": "Tension pneumothorax"
+        },
+        {
+          "label": "D",
+          "text": "Massive hemothorax"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary embolism"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Tension pneumothorax occurs when a one-way air leak progressively raises intrapleural pressure, shifting the mediastinum/trachea toward the contralateral side, impeding venous return (distended neck veins, hypotension), and causing hyperresonance with absent breath sounds. It requires immediate needle decompression.",
+        "whyCorrect": "Tension pneumothorax occurs when a one-way air leak progressively raises intrapleural pressure, shifting the mediastinum/trachea toward the contralateral side, impeding venous return (distended neck veins, hypotension), and causing hyperresonance with absent breath sounds. It requires immediate needle decompression.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-829_Brick Exchange - Pneumothorax_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-830",
+      "topicId": "pneumothorax",
+      "topicName": "Pneumothorax",
+      "stem": "In this three-bottle chest drainage setup, what is the function of the middle 'water seal' bottle?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It humidifies air returning to the lung"
+        },
+        {
+          "label": "B",
+          "text": "It acts as a one-way valve that lets air out but prevents air re-entering the pleural space"
+        },
+        {
+          "label": "C",
+          "text": "It regulates the maximum applied suction pressure"
+        },
+        {
+          "label": "D",
+          "text": "It measures the volume of the pleural air leak directly"
+        },
+        {
+          "label": "E",
+          "text": "It collects drained fluid from the lung"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The water seal bottle is a one-way valve: air from the pleural space bubbles out through the submerged tube but water prevents atmospheric air from being drawn back in. The pressure-regulating bottle sets suction and the collection bottle traps fluid.",
+        "whyCorrect": "The water seal bottle is a one-way valve: air from the pleural space bubbles out through the submerged tube but water prevents atmospheric air from being drawn back in. The pressure-regulating bottle sets suction and the collection bottle traps fluid.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-830_Brick Exchange - Pneumothorax_p26_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-831",
+      "topicId": "pneumothorax",
+      "topicName": "Pneumothorax",
+      "stem": "This diagram compares a normal lung with a pneumothorax. When air accumulates in the pleural space, why does the underlying lung collapse?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blood displaces air from the alveoli"
+        },
+        {
+          "label": "B",
+          "text": "The lung parenchyma is destroyed by the entering air"
+        },
+        {
+          "label": "C",
+          "text": "The diaphragm actively compresses the lung"
+        },
+        {
+          "label": "D",
+          "text": "Bronchial mucus plugging blocks airflow to the lobe"
+        },
+        {
+          "label": "E",
+          "text": "The air abolishes the negative intrapleural pressure that normally holds the lung expanded"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The lung is normally held open by negative intrapleural pressure. When air enters the pleural space this negative pressure is lost, the lung's elastic recoil is unopposed, and it collapses inward.",
+        "whyCorrect": "The lung is normally held open by negative intrapleural pressure. When air enters the pleural space this negative pressure is lost, the lung's elastic recoil is unopposed, and it collapses inward.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-831_Brick Exchange - Pneumothorax_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

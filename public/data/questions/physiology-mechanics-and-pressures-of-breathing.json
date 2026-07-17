@@ -1,0 +1,279 @@
+{
+  "categoryId": "physiology-mechanics-and-pressures-of-breathing",
+  "categoryName": "Physiology: Mechanics and pressures of breathing",
+  "questions": [
+    {
+      "id": "repic-085",
+      "topicId": "physiology-mechanics-and-pressures-of-breathing",
+      "topicName": "Physiology: Mechanics and pressures of breathing",
+      "stem": "This diagram labels the muscles involved in breathing. Which of the labeled muscles is the primary muscle of quiet inspiration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Internal intercostals"
+        },
+        {
+          "label": "B",
+          "text": "Rectus abdominis"
+        },
+        {
+          "label": "C",
+          "text": "Scalenes"
+        },
+        {
+          "label": "D",
+          "text": "Diaphragm"
+        },
+        {
+          "label": "E",
+          "text": "Sternocleidomastoid"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The diaphragm is the principal muscle of inspiration; its contraction flattens the dome, increasing thoracic volume and lowering intrathoracic pressure to draw air in. Scalenes and sternocleidomastoid are accessory inspiratory muscles used with increased effort, while the internal intercostals and abdominal muscles (rectus abdominis, obliques) drive active/forced expiration.",
+        "whyCorrect": "The diaphragm is the principal muscle of inspiration; its contraction flattens the dome, increasing thoracic volume and lowering intrathoracic pressure to draw air in. Scalenes and sternocleidomastoid are accessory inspiratory muscles used with increased effort, while the internal intercostals and abdominal muscles (rectus abdominis, obliques) drive active/forced expiration.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-085_Brick Exchange - Physiology_ Mechanics and pressures of breathing_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-336",
+      "topicId": "physiology-mechanics-and-pressures-of-breathing",
+      "topicName": "Physiology: Mechanics and pressures of breathing",
+      "stem": "On this chest radiograph the arrows point to normal, air-filled lung, which appears dark (radiolucent). What accounts for this dark appearance compared with the surrounding bone and soft tissue?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lung tissue emits its own radiation that darkens the film"
+        },
+        {
+          "label": "B",
+          "text": "Air attenuates (absorbs) very few X-rays, so more radiation reaches the detector and the region appears dark"
+        },
+        {
+          "label": "C",
+          "text": "Air fluoresces under X-ray exposure, producing the dark region"
+        },
+        {
+          "label": "D",
+          "text": "Air strongly absorbs X-rays, blocking them from the detector"
+        },
+        {
+          "label": "E",
+          "text": "The darkness reflects increased calcium density in the lung"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Radiographic density depends on tissue attenuation of X-rays. Air-filled lung attenuates little radiation, so most X-rays pass through to the detector, rendering the lung dark. Denser structures (bone, effusion, consolidation) absorb more X-rays and appear white, which is why replacement of lung air by fluid or tissue produces opacity.",
+        "whyCorrect": "Radiographic density depends on tissue attenuation of X-rays. Air-filled lung attenuates little radiation, so most X-rays pass through to the detector, rendering the lung dark. Denser structures (bone, effusion, consolidation) absorb more X-rays and appear white, which is why replacement of lung air by fluid or tissue produces opacity.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-336_Brick Exchange - Physiology_ Mechanics and pressures of breathing_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-822",
+      "topicId": "physiology-mechanics-and-pressures-of-breathing",
+      "topicName": "Physiology: Mechanics and pressures of breathing",
+      "stem": "In this cycle diagram, air flows into the lungs during inspiration and stops when alveolar pressure returns to a certain value. Based on the mechanics shown, air stops flowing in at end-inspiration because:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Airway resistance abruptly falls to zero"
+        },
+        {
+          "label": "B",
+          "text": "Alveolar pressure has returned to 0 (equal to atmospheric pressure), eliminating the driving gradient"
+        },
+        {
+          "label": "C",
+          "text": "Pleural pressure becomes positive and pushes air back out"
+        },
+        {
+          "label": "D",
+          "text": "The inspiratory muscles have reached maximal contraction"
+        },
+        {
+          "label": "E",
+          "text": "Lung volume reaches residual volume"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Airflow is driven by the difference between alveolar and atmospheric pressure. During inspiration, muscle contraction and thoracic expansion make alveolar pressure negative, drawing air in. As the lung fills, alveolar pressure rises back toward 0; when it equals atmospheric pressure the gradient is gone and flow ceases, even though lung volume is at its peak.",
+        "whyCorrect": "Airflow is driven by the difference between alveolar and atmospheric pressure. During inspiration, muscle contraction and thoracic expansion make alveolar pressure negative, drawing air in. As the lung fills, alveolar pressure rises back toward 0; when it equals atmospheric pressure the gradient is gone and flow ceases, even though lung volume is at its peak.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-822_Brick Exchange - Physiology_ Mechanics and pressures of breathing_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-823",
+      "topicId": "physiology-mechanics-and-pressures-of-breathing",
+      "topicName": "Physiology: Mechanics and pressures of breathing",
+      "stem": "This figure shows the thorax expanding during inspiration (pleural pressure -4 cmH2O) and recoiling during expiration (+4 cmH2O), annotated with the equation P1V1 = P2V2. Which gas law governs the pressure-volume relationship this figure illustrates?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Charles's law relating volume and temperature"
+        },
+        {
+          "label": "B",
+          "text": "Boyle's law (at constant temperature, pressure and volume are inversely related)"
+        },
+        {
+          "label": "C",
+          "text": "Dalton's law of partial pressures"
+        },
+        {
+          "label": "D",
+          "text": "Fick's law of diffusion"
+        },
+        {
+          "label": "E",
+          "text": "Henry's law of gas solubility"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "When the diaphragm contracts and the thoracic cavity enlarges, the increase in intrathoracic volume lowers pressure (P1V1 = P2V2), drawing air in; expiration reverses this. This inverse pressure-volume relationship at constant temperature is Boyle's law, the fundamental basis of the mechanics of ventilation.",
+        "whyCorrect": "When the diaphragm contracts and the thoracic cavity enlarges, the increase in intrathoracic volume lowers pressure (P1V1 = P2V2), drawing air in; expiration reverses this. This inverse pressure-volume relationship at constant temperature is Boyle's law, the fundamental basis of the mechanics of ventilation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-823_Brick Exchange - Physiology_ Mechanics and pressures of breathing_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-824",
+      "topicId": "physiology-mechanics-and-pressures-of-breathing",
+      "topicName": "Physiology: Mechanics and pressures of breathing",
+      "stem": "The shaded band with double-headed arrows between the two lower curves is labeled the transpulmonary pressure. What does this quantity represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The difference between atmospheric and alveolar pressure"
+        },
+        {
+          "label": "B",
+          "text": "The absolute pressure inside the pleural space"
+        },
+        {
+          "label": "C",
+          "text": "The sum of alveolar and pleural pressures"
+        },
+        {
+          "label": "D",
+          "text": "The difference between alveolar pressure and pleural (intrapleural) pressure"
+        },
+        {
+          "label": "E",
+          "text": "The pressure generated solely by elastic recoil of the chest wall"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Transpulmonary pressure = alveolar pressure - pleural pressure, and it is the net distending pressure holding the lungs open. The plot shows it widening during inspiration (as pleural pressure becomes more negative) and correlating with the rise in lung volume, illustrating why a more negative pleural pressure inflates the lung.",
+        "whyCorrect": "Transpulmonary pressure = alveolar pressure - pleural pressure, and it is the net distending pressure holding the lungs open. The plot shows it widening during inspiration (as pleural pressure becomes more negative) and correlating with the rise in lung volume, illustrating why a more negative pleural pressure inflates the lung.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-824_Brick Exchange - Physiology_ Mechanics and pressures of breathing_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-825",
+      "topicId": "physiology-mechanics-and-pressures-of-breathing",
+      "topicName": "Physiology: Mechanics and pressures of breathing",
+      "stem": "This figure shows two connected alveoli of different radii (r), each with an internal pressure (P) tending to collapse it. Which principle explains why the smaller alveolus tends to collapse into the larger one?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fick's law, because smaller alveoli have a shorter diffusion distance"
+        },
+        {
+          "label": "B",
+          "text": "Boyle's law, because smaller alveoli hold gas at lower temperature"
+        },
+        {
+          "label": "C",
+          "text": "Poiseuille's law, because airway radius sets the resistance"
+        },
+        {
+          "label": "D",
+          "text": "The Law of Laplace (collapsing pressure = 2T/r), so a smaller radius generates a higher pressure"
+        },
+        {
+          "label": "E",
+          "text": "Bernoulli's principle, because faster airflow lowers alveolar pressure"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "By the Law of Laplace (P = 2T/r), for a given surface tension a smaller alveolar radius produces a higher collapsing pressure, so small alveoli would tend to empty into larger ones. Surfactant counteracts this by lowering surface tension more in smaller alveoli, stabilizing them and preventing collapse.",
+        "whyCorrect": "By the Law of Laplace (P = 2T/r), for a given surface tension a smaller alveolar radius produces a higher collapsing pressure, so small alveoli would tend to empty into larger ones. Surfactant counteracts this by lowering surface tension more in smaller alveoli, stabilizing them and preventing collapse.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-825_Brick Exchange - Physiology_ Mechanics and pressures of breathing_p21_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-826",
+      "topicId": "physiology-mechanics-and-pressures-of-breathing",
+      "topicName": "Physiology: Mechanics and pressures of breathing",
+      "stem": "In this diagram, intra-alveolar pressure is 0 cmH2O and intrapleural pressure is -4 cmH2O, giving a transpulmonary pressure of +4 cmH2O. What is the functional significance of this positive transpulmonary pressure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It reflects the oncotic pressure keeping the pleural space dry"
+        },
+        {
+          "label": "B",
+          "text": "It is the net distending pressure that holds the lungs open against their elastic recoil"
+        },
+        {
+          "label": "C",
+          "text": "It is the pressure that closes the airways at end-expiration"
+        },
+        {
+          "label": "D",
+          "text": "It drives bulk airflow out of the lungs during passive expiration"
+        },
+        {
+          "label": "E",
+          "text": "It represents the pressure gradient for O2 diffusion into blood"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Transpulmonary pressure = alveolar pressure - intrapleural pressure = 0 - (-4) = +4 cmH2O. This positive distending pressure keeps the lungs inflated and apposed to the chest wall despite their inward elastic recoil. If the pleural seal is lost (e.g., pneumothorax), transpulmonary pressure falls and the lung collapses.",
+        "whyCorrect": "Transpulmonary pressure = alveolar pressure - intrapleural pressure = 0 - (-4) = +4 cmH2O. This positive distending pressure keeps the lungs inflated and apposed to the chest wall despite their inward elastic recoil. If the pleural seal is lost (e.g., pneumothorax), transpulmonary pressure falls and the lung collapses.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-826_Brick Exchange - Physiology_ Mechanics and pressures of breathing_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "categoryId": "small-vessel-vasculitis",
+  "categoryName": "Small-Vessel Vasculitis",
+  "questions": [
+    {
+      "id": "repic-559",
+      "topicId": "small-vessel-vasculitis",
+      "topicName": "Small-Vessel Vasculitis",
+      "stem": "A patient presents with the non-blanching skin lesions shown. These raised, palpable lesions are the classic cutaneous finding of which underlying process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Spider angiomata from liver disease"
+        },
+        {
+          "label": "B",
+          "text": "Thrombocytopenic petechiae from marrow failure"
+        },
+        {
+          "label": "C",
+          "text": "Stasis dermatitis with hemosiderin deposition"
+        },
+        {
+          "label": "D",
+          "text": "Cherry hemangiomas of aging skin"
+        },
+        {
+          "label": "E",
+          "text": "Small-vessel leukocytoclastic vasculitis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Raised, palpable purpura that does not blanch reflects inflammatory damage and leakage of postcapillary venules, the hallmark of small-vessel (leukocytoclastic) vasculitis, distinguishing it from flat non-palpable purpura seen with pure platelet defects.",
+        "whyCorrect": "Raised, palpable purpura that does not blanch reflects inflammatory damage and leakage of postcapillary venules, the hallmark of small-vessel (leukocytoclastic) vasculitis, distinguishing it from flat non-palpable purpura seen with pure platelet defects.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-559_Brick Exchange - Small-Vessel Vasculitis_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-560",
+      "topicId": "small-vessel-vasculitis",
+      "topicName": "Small-Vessel Vasculitis",
+      "stem": "The dependent lower extremities show a symmetric eruption most concentrated on the buttocks, legs, and feet. This gravity-dependent distribution of palpable purpura best reflects which mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Immune-complex deposition in dependent small vessels with hydrostatic accentuation"
+        },
+        {
+          "label": "B",
+          "text": "Contact allergen exposure on exposed skin"
+        },
+        {
+          "label": "C",
+          "text": "Venous valvular incompetence causing varicosities"
+        },
+        {
+          "label": "D",
+          "text": "Arterial embolization to distal digits"
+        },
+        {
+          "label": "E",
+          "text": "Photosensitivity in sun-exposed areas"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Small-vessel vasculitides (e.g., IgA vasculitis) favor dependent regions because increased hydrostatic pressure promotes immune-complex deposition and vessel damage in the legs and buttocks, producing the pattern shown.",
+        "whyCorrect": "Small-vessel vasculitides (e.g., IgA vasculitis) favor dependent regions because increased hydrostatic pressure promotes immune-complex deposition and vessel damage in the legs and buttocks, producing the pattern shown.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-560_Brick Exchange - Small-Vessel Vasculitis_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-561",
+      "topicId": "small-vessel-vasculitis",
+      "topicName": "Small-Vessel Vasculitis",
+      "stem": "This facial profile depicts a collapse of the nasal bridge. Development of this deformity from destruction of nasal cartilage is most characteristic of which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Marfan syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Systemic lupus erythematosus"
+        },
+        {
+          "label": "C",
+          "text": "Granulomatosis with polyangiitis"
+        },
+        {
+          "label": "D",
+          "text": "Hereditary hemorrhagic telangiectasia"
+        },
+        {
+          "label": "E",
+          "text": "Sarcoidosis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Granulomatous inflammation destroying the nasal septal cartilage causes the saddle-nose deformity, a classic feature of granulomatosis with polyangiitis (GPA) involving the upper respiratory tract.",
+        "whyCorrect": "Granulomatous inflammation destroying the nasal septal cartilage causes the saddle-nose deformity, a classic feature of granulomatosis with polyangiitis (GPA) involving the upper respiratory tract.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-561_Brick Exchange - Small-Vessel Vasculitis_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-562",
+      "topicId": "small-vessel-vasculitis",
+      "topicName": "Small-Vessel Vasculitis",
+      "stem": "A lung specimen shows histology with vascular inflammation (arrows) alongside a gross cut section containing well-defined cavitary nodules. This combination of necrotizing granulomatous inflammation with cavitating pulmonary nodules is most consistent with which diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Metastatic adenocarcinoma"
+        },
+        {
+          "label": "B",
+          "text": "Emphysematous bullae"
+        },
+        {
+          "label": "C",
+          "text": "Pulmonary arteriovenous malformation"
+        },
+        {
+          "label": "D",
+          "text": "Chronic thromboembolic disease"
+        },
+        {
+          "label": "E",
+          "text": "Granulomatosis with polyangiitis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Cavitary lung nodules with necrotizing granulomatous vasculitis are characteristic of granulomatosis with polyangiitis, an ANCA-associated small-vessel vasculitis affecting the respiratory tract.",
+        "whyCorrect": "Cavitary lung nodules with necrotizing granulomatous vasculitis are characteristic of granulomatosis with polyangiitis, an ANCA-associated small-vessel vasculitis affecting the respiratory tract.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-562_Brick Exchange - Small-Vessel Vasculitis_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-563",
+      "topicId": "small-vessel-vasculitis",
+      "topicName": "Small-Vessel Vasculitis",
+      "stem": "This renal biopsy shows glomeruli with proliferative changes and cellular expansions filling Bowman space (arrow). This rapidly progressive glomerular lesion in an ANCA-associated vasculitis is produced by which mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nodular mesangial sclerosis from chronic hyperglycemia"
+        },
+        {
+          "label": "B",
+          "text": "Rupture of glomerular capillaries with proliferation of parietal epithelial cells and fibrin"
+        },
+        {
+          "label": "C",
+          "text": "Subepithelial immune-complex humps"
+        },
+        {
+          "label": "D",
+          "text": "Thrombotic microangiopathy from shiga toxin"
+        },
+        {
+          "label": "E",
+          "text": "Amyloid fibril deposition in the mesangium"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Crescents form when severe capillary wall injury allows fibrin and inflammatory cells to leak into Bowman space, triggering parietal epithelial proliferation. This crescentic (rapidly progressive) glomerulonephritis is typical of pauci-immune ANCA-associated vasculitis.",
+        "whyCorrect": "Crescents form when severe capillary wall injury allows fibrin and inflammatory cells to leak into Bowman space, triggering parietal epithelial proliferation. This crescentic (rapidly progressive) glomerulonephritis is typical of pauci-immune ANCA-associated vasculitis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-563_Brick Exchange - Small-Vessel Vasculitis_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-564",
+      "topicId": "small-vessel-vasculitis",
+      "topicName": "Small-Vessel Vasculitis",
+      "stem": "This sinus diagram shows soft rounded growths arising from the nasal mucosa, one obstructing a sinus while an adjacent sinus fills with mucus. These growths represent which entity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nasal foreign body"
+        },
+        {
+          "label": "B",
+          "text": "Squamous cell carcinoma"
+        },
+        {
+          "label": "C",
+          "text": "Inverted papilloma"
+        },
+        {
+          "label": "D",
+          "text": "Turbinate hypertrophy"
+        },
+        {
+          "label": "E",
+          "text": "Nasal polyps"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Nasal polyps are edematous outgrowths of chronically inflamed sinonasal mucosa; when they obstruct a sinus ostium, mucus accumulates and impairs drainage, as shown.",
+        "whyCorrect": "Nasal polyps are edematous outgrowths of chronically inflamed sinonasal mucosa; when they obstruct a sinus ostium, mucus accumulates and impairs drainage, as shown.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-564_Brick Exchange - Small-Vessel Vasculitis_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

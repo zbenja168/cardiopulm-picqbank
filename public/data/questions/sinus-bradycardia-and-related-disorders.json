@@ -1,0 +1,123 @@
+{
+  "categoryId": "sinus-bradycardia-and-related-disorders",
+  "categoryName": "Sinus Bradycardia and Related Disorders",
+  "questions": [
+    {
+      "id": "repic-378",
+      "topicId": "sinus-bradycardia-and-related-disorders",
+      "topicName": "Sinus Bradycardia and Related Disorders",
+      "stem": "This ECG shows narrow QRS complexes with no discernible P waves before them at a regular, slow rate. What rhythm is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Junctional (nodal) rhythm"
+        },
+        {
+          "label": "B",
+          "text": "First-degree AV block"
+        },
+        {
+          "label": "C",
+          "text": "Normal sinus rhythm"
+        },
+        {
+          "label": "D",
+          "text": "Ventricular tachycardia"
+        },
+        {
+          "label": "E",
+          "text": "Atrial flutter"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "When the SA node fails, an AV-junctional pacemaker takes over. Because the impulse originates near the AV node, the QRS stays narrow but P waves are absent or buried, producing a junctional escape rhythm.",
+        "whyCorrect": "When the SA node fails, an AV-junctional pacemaker takes over. Because the impulse originates near the AV node, the QRS stays narrow but P waves are absent or buried, producing a junctional escape rhythm.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-378_Brick Exchange - Sinus Bradycardia and Related Disorders_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-379",
+      "topicId": "sinus-bradycardia-and-related-disorders",
+      "topicName": "Sinus Bradycardia and Related Disorders",
+      "stem": "This 12-lead ECG shows a regular rhythm with an upright P wave preceding each narrow QRS complex. What is the underlying rhythm?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atrial fibrillation"
+        },
+        {
+          "label": "B",
+          "text": "Normal sinus rhythm"
+        },
+        {
+          "label": "C",
+          "text": "Atrial flutter"
+        },
+        {
+          "label": "D",
+          "text": "Third-degree (complete) heart block"
+        },
+        {
+          "label": "E",
+          "text": "Junctional rhythm"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A consistent P wave before every narrow QRS at a regular interval indicates that the SA node is pacing and conduction is intact, the definition of normal sinus rhythm.",
+        "whyCorrect": "A consistent P wave before every narrow QRS at a regular interval indicates that the SA node is pacing and conduction is intact, the definition of normal sinus rhythm.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-379_Brick Exchange - Sinus Bradycardia and Related Disorders_p1_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-869",
+      "topicId": "sinus-bradycardia-and-related-disorders",
+      "topicName": "Sinus Bradycardia and Related Disorders",
+      "stem": "On this rhythm strip a normal complex is followed by a flat line of two or more seconds before the next beat. This absence of electrical activity reflects failure of which structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An ectopic ventricular focus"
+        },
+        {
+          "label": "B",
+          "text": "Sinoatrial (SA) node"
+        },
+        {
+          "label": "C",
+          "text": "Bundle of His"
+        },
+        {
+          "label": "D",
+          "text": "Purkinje fibers"
+        },
+        {
+          "label": "E",
+          "text": "Atrioventricular (AV) node"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A sinus pause occurs when the SA node transiently fails to depolarize, producing a flat baseline with no P-QRS-T until sinus activity resumes or an escape beat intervenes.",
+        "whyCorrect": "A sinus pause occurs when the SA node transiently fails to depolarize, producing a flat baseline with no P-QRS-T until sinus activity resumes or an escape beat intervenes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-869_Brick Exchange - Sinus Bradycardia and Related Disorders_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

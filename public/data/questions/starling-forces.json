@@ -1,0 +1,357 @@
+{
+  "categoryId": "starling-forces",
+  "categoryName": "Starling Forces",
+  "questions": [
+    {
+      "id": "repic-173",
+      "topicId": "starling-forces",
+      "topicName": "Starling Forces",
+      "stem": "Three endothelial architectures are compared. Which of the labeled types permits the freest passage of cells and large plasma proteins between blood and tissue?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A capillary with intact intercellular tight junctions"
+        },
+        {
+          "label": "B",
+          "text": "Continuous capillary"
+        },
+        {
+          "label": "C",
+          "text": "Sinusoidal (discontinuous) capillary"
+        },
+        {
+          "label": "D",
+          "text": "A capillary relying only on transcytotic vesicles"
+        },
+        {
+          "label": "E",
+          "text": "Fenestrated capillary with diaphragms"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Sinusoidal capillaries have large fenestrations and intercellular gaps with a discontinuous basement membrane, allowing cells and large proteins to pass; continuous capillaries are least permeable and fenestrated ones are intermediate.",
+        "whyCorrect": "Sinusoidal capillaries have large fenestrations and intercellular gaps with a discontinuous basement membrane, allowing cells and large proteins to pass; continuous capillaries are least permeable and fenestrated ones are intermediate.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-173_Brick Exchange - Starling Forces_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-380",
+      "topicId": "starling-forces",
+      "topicName": "Starling Forces",
+      "stem": "Pressing a finger against this swollen lower leg leaves a persistent indentation (right image). This finding indicates which type of edema?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Myxedema"
+        },
+        {
+          "label": "B",
+          "text": "Subcutaneous emphysema"
+        },
+        {
+          "label": "C",
+          "text": "Pitting edema"
+        },
+        {
+          "label": "D",
+          "text": "Non-pitting lymphedema"
+        },
+        {
+          "label": "E",
+          "text": "Chronic lipedema"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "When fingertip pressure displaces excess interstitial fluid and leaves a lingering depression, the edema is 'pitting,' typically reflecting increased capillary filtration (e.g., elevated hydrostatic pressure or low plasma oncotic pressure).",
+        "whyCorrect": "When fingertip pressure displaces excess interstitial fluid and leaves a lingering depression, the edema is 'pitting,' typically reflecting increased capillary filtration (e.g., elevated hydrostatic pressure or low plasma oncotic pressure).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-380_Brick Exchange - Starling Forces_p19_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-872",
+      "topicId": "starling-forces",
+      "topicName": "Starling Forces",
+      "stem": "At this point along a capillary the outward hydrostatic pressure is 36 while the inward oncotic pressure is 26 (interstitial forces each +1). What is the net effect on fluid movement here?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Net oncotic pull exceeding hydrostatic push"
+        },
+        {
+          "label": "B",
+          "text": "Net reabsorption of fluid into the capillary"
+        },
+        {
+          "label": "C",
+          "text": "No net movement because forces are balanced"
+        },
+        {
+          "label": "D",
+          "text": "Osmotic movement of fluid into the red cells"
+        },
+        {
+          "label": "E",
+          "text": "Net filtration of fluid out of the capillary"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Net filtration pressure = outward forces minus inward forces. With capillary hydrostatic pressure (36) dominating oncotic pressure (26), the net drive is outward, favoring filtration at the arteriolar end.",
+        "whyCorrect": "Net filtration pressure = outward forces minus inward forces. With capillary hydrostatic pressure (36) dominating oncotic pressure (26), the net drive is outward, favoring filtration at the arteriolar end.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-872_Brick Exchange - Starling Forces_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-873",
+      "topicId": "starling-forces",
+      "topicName": "Starling Forces",
+      "stem": "Toward the venular end the capillary hydrostatic pressure has fallen to 17 while plasma oncotic pressure remains 26 (interstitial forces each +1). What is the net direction of fluid movement?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Active transport of water against the gradient"
+        },
+        {
+          "label": "B",
+          "text": "No net movement of fluid"
+        },
+        {
+          "label": "C",
+          "text": "Net reabsorption of fluid into the capillary"
+        },
+        {
+          "label": "D",
+          "text": "Bulk flow into the lymphatics only"
+        },
+        {
+          "label": "E",
+          "text": "Net filtration out of the capillary"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "As hydrostatic pressure drops below the plasma oncotic pressure along the capillary, the inward oncotic pull (26) exceeds the outward hydrostatic push (17), producing net reabsorption toward the venular end.",
+        "whyCorrect": "As hydrostatic pressure drops below the plasma oncotic pressure along the capillary, the inward oncotic pull (26) exceeds the outward hydrostatic push (17), producing net reabsorption toward the venular end.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-873_Brick Exchange - Starling Forces_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-874",
+      "topicId": "starling-forces",
+      "topicName": "Starling Forces",
+      "stem": "This schematic links a capillary to a one-way-valved lymphatic vessel. What is the primary role of the lymphatic in this system?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Return of the net filtered interstitial fluid and protein back to the circulation"
+        },
+        {
+          "label": "B",
+          "text": "Generate the capillary hydrostatic pressure"
+        },
+        {
+          "label": "C",
+          "text": "Reabsorb fluid directly at the venous end of the capillary"
+        },
+        {
+          "label": "D",
+          "text": "Add oncotic protein to the plasma at the arterial end"
+        },
+        {
+          "label": "E",
+          "text": "Actively secrete fluid into the interstitium"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Because filtration slightly exceeds reabsorption across a capillary, the lymphatics collect the excess interstitial fluid and escaped protein and return them to the circulation, preventing edema; one-way valves ensure unidirectional lymph flow.",
+        "whyCorrect": "Because filtration slightly exceeds reabsorption across a capillary, the lymphatics collect the excess interstitial fluid and escaped protein and return them to the circulation, preventing edema; one-way valves ensure unidirectional lymph flow.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-874_Brick Exchange - Starling Forces_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-875",
+      "topicId": "starling-forces",
+      "topicName": "Starling Forces",
+      "stem": "This diagram traces fluid exchange from the arterial to venous end of a capillary, through the interstitium, into a lymphatic capillary. What overall principle does it illustrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lymphatics deliver oxygen to the interstitial cells"
+        },
+        {
+          "label": "B",
+          "text": "Fluid moves only by active transport across endothelium"
+        },
+        {
+          "label": "C",
+          "text": "All filtered fluid is reabsorbed by the same capillary"
+        },
+        {
+          "label": "D",
+          "text": "The interstitium generates the driving pressure for flow"
+        },
+        {
+          "label": "E",
+          "text": "Net capillary filtration is drained by lymphatics to maintain interstitial fluid balance"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The figure shows the Starling equilibrium: hydrostatic and oncotic forces drive filtration and reabsorption across the capillary, with the small net filtered volume collected by lymphatics and returned to the circulation.",
+        "whyCorrect": "The figure shows the Starling equilibrium: hydrostatic and oncotic forces drive filtration and reabsorption across the capillary, with the small net filtered volume collected by lymphatics and returned to the circulation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-875_Brick Exchange - Starling Forces_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-876",
+      "topicId": "starling-forces",
+      "topicName": "Starling Forces",
+      "stem": "This diagram partitions body water across a capillary wall and a cell membrane into three compartments. The capillary wall separates plasma from which compartment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lymphatic fluid"
+        },
+        {
+          "label": "B",
+          "text": "Intracellular fluid"
+        },
+        {
+          "label": "C",
+          "text": "Cerebrospinal fluid"
+        },
+        {
+          "label": "D",
+          "text": "Transcellular fluid"
+        },
+        {
+          "label": "E",
+          "text": "Interstitial fluid"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Plasma and interstitial fluid together form the extracellular fluid (ECF) and are separated by the capillary wall, which is freely permeable to water and small solutes but not large proteins. The cell membrane separates ECF from intracellular fluid (ICF).",
+        "whyCorrect": "Plasma and interstitial fluid together form the extracellular fluid (ECF) and are separated by the capillary wall, which is freely permeable to water and small solutes but not large proteins. The cell membrane separates ECF from intracellular fluid (ICF).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-876_Brick Exchange - Starling Forces_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-877",
+      "topicId": "starling-forces",
+      "topicName": "Starling Forces",
+      "stem": "Along this capillary between an arteriole and a venule, filtration occurs near the arteriolar end and reabsorption near the venular end. What changes along the length of the vessel to drive this shift?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Capillary hydrostatic pressure declines from the arteriolar to the venular end"
+        },
+        {
+          "label": "B",
+          "text": "Plasma oncotic pressure rises sharply along the capillary"
+        },
+        {
+          "label": "C",
+          "text": "Endothelial permeability falls to zero at the venule"
+        },
+        {
+          "label": "D",
+          "text": "Blood flow reverses direction at the midpoint"
+        },
+        {
+          "label": "E",
+          "text": "Interstitial pressure becomes strongly negative at the venule"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Capillary hydrostatic pressure (Pc) is highest near the arteriole, favoring filtration, and falls toward the venule; once it drops below the relatively constant plasma oncotic pressure, reabsorption predominates.",
+        "whyCorrect": "Capillary hydrostatic pressure (Pc) is highest near the arteriole, favoring filtration, and falls toward the venule; once it drops below the relatively constant plasma oncotic pressure, reabsorption predominates.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-877_Brick Exchange - Starling Forces_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-878",
+      "topicId": "starling-forces",
+      "topicName": "Starling Forces",
+      "stem": "In this capillary, an upward 'push' force and a downward 'pull' force are compared as blood flows from the arteriolar to the venular end. The declining line represents which force?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Interstitial hydrostatic pressure, which rises steadily"
+        },
+        {
+          "label": "B",
+          "text": "Hydrostatic pressure, which decreases along the capillary"
+        },
+        {
+          "label": "C",
+          "text": "Oncotic pressure, which increases along the capillary"
+        },
+        {
+          "label": "D",
+          "text": "Oncotic pressure, which decreases along the capillary"
+        },
+        {
+          "label": "E",
+          "text": "Blood velocity, which is constant throughout"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Hydrostatic pressure ('push,' favoring outward flow) falls progressively from the arteriolar to venular end, while oncotic pressure ('pull,' favoring inward flow) stays relatively constant, so filtration predominates early and reabsorption later.",
+        "whyCorrect": "Hydrostatic pressure ('push,' favoring outward flow) falls progressively from the arteriolar to venular end, while oncotic pressure ('pull,' favoring inward flow) stays relatively constant, so filtration predominates early and reabsorption later.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-878_Brick Exchange - Starling Forces_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "categoryId": "deep-vein-thrombosis",
+  "categoryName": "Deep Vein Thrombosis",
+  "questions": [
+    {
+      "id": "repic-241",
+      "topicId": "deep-vein-thrombosis",
+      "topicName": "Deep Vein Thrombosis",
+      "stem": "This diagram shows a fibrin-rich thrombus being broken down, with the circled laboratory marker rising. What does elevation of that marker reflect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Impaired thrombin generation"
+        },
+        {
+          "label": "B",
+          "text": "Vitamin K deficiency"
+        },
+        {
+          "label": "C",
+          "text": "Ongoing breakdown of cross-linked fibrin (fibrinolysis)"
+        },
+        {
+          "label": "D",
+          "text": "Depletion of circulating platelets"
+        },
+        {
+          "label": "E",
+          "text": "Increased hepatic fibrinogen synthesis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The circled marker is released when plasmin degrades cross-linked fibrin within a clot; its elevation is a sensitive but nonspecific indicator of active clot formation and breakdown, useful for excluding DVT when low.",
+        "whyCorrect": "The circled marker is released when plasmin degrades cross-linked fibrin within a clot; its elevation is a sensitive but nonspecific indicator of active clot formation and breakdown, useful for excluding DVT when low.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-241_Brick Exchange - Deep Vein Thrombosis_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-242",
+      "topicId": "deep-vein-thrombosis",
+      "topicName": "Deep Vein Thrombosis",
+      "stem": "This paired imaging test evaluates whether a vein flattens under probe pressure to detect thrombus. What imaging modality is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Compression ultrasonography"
+        },
+        {
+          "label": "B",
+          "text": "CT pulmonary angiography"
+        },
+        {
+          "label": "C",
+          "text": "Magnetic resonance venography"
+        },
+        {
+          "label": "D",
+          "text": "Contrast venography"
+        },
+        {
+          "label": "E",
+          "text": "Ventilation-perfusion scan"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In compression ultrasound, a normal vein collapses fully under probe pressure; a vein that fails to compress contains thrombus. It is the first-line imaging test for diagnosing deep vein thrombosis.",
+        "whyCorrect": "In compression ultrasound, a normal vein collapses fully under probe pressure; a vein that fails to compress contains thrombus. It is the first-line imaging test for diagnosing deep vein thrombosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-242_Brick Exchange - Deep Vein Thrombosis_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-243",
+      "topicId": "deep-vein-thrombosis",
+      "topicName": "Deep Vein Thrombosis",
+      "stem": "This flowchart integrates pretest probability (Wells score), D-dimer testing, and compression ultrasound. Which clinical decision does it support?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Staging lung cancer"
+        },
+        {
+          "label": "B",
+          "text": "Grading heart failure severity"
+        },
+        {
+          "label": "C",
+          "text": "Classifying congenital heart defects"
+        },
+        {
+          "label": "D",
+          "text": "Selecting an antibiotic for pneumonia"
+        },
+        {
+          "label": "E",
+          "text": "Diagnosing or excluding deep vein thrombosis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The algorithm combines clinical pretest probability, D-dimer, and compression ultrasound results to confirm or rule out DVT while minimizing unnecessary imaging.",
+        "whyCorrect": "The algorithm combines clinical pretest probability, D-dimer, and compression ultrasound results to confirm or rule out DVT while minimizing unnecessary imaging.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-243_Brick Exchange - Deep Vein Thrombosis_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-472",
+      "topicId": "deep-vein-thrombosis",
+      "topicName": "Deep Vein Thrombosis",
+      "stem": "This patient has unilateral swelling, erythema, and dusky discoloration of the left lower limb. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute peripheral arterial occlusion"
+        },
+        {
+          "label": "B",
+          "text": "Deep vein thrombosis"
+        },
+        {
+          "label": "C",
+          "text": "Bilateral edema from heart failure"
+        },
+        {
+          "label": "D",
+          "text": "Cellulitis of both legs"
+        },
+        {
+          "label": "E",
+          "text": "Chronic lymphedema"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Acute unilateral leg swelling with discoloration and warmth reflects venous outflow obstruction from a deep vein thrombosis; the contrast with the normal opposite limb supports a localized venous cause.",
+        "whyCorrect": "Acute unilateral leg swelling with discoloration and warmth reflects venous outflow obstruction from a deep vein thrombosis; the contrast with the normal opposite limb supports a localized venous cause.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-472_Brick Exchange - Deep Vein Thrombosis_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-473",
+      "topicId": "deep-vein-thrombosis",
+      "topicName": "Deep Vein Thrombosis",
+      "stem": "The diagram shows a clot fixed within a vein and, below, a fragment of that clot breaking free and moving downstream. What is the most dangerous consequence when such a fragment travels through the venous circulation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It dissolves harmlessly before reaching any organ"
+        },
+        {
+          "label": "B",
+          "text": "It settles in the coronary arteries, causing myocardial infarction"
+        },
+        {
+          "label": "C",
+          "text": "It travels to the brain, causing an ischemic stroke"
+        },
+        {
+          "label": "D",
+          "text": "It lodges in the pulmonary arteries, causing pulmonary embolism"
+        },
+        {
+          "label": "E",
+          "text": "It blocks the renal artery, causing acute kidney injury"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A detached venous thrombus (embolus) follows venous return to the right heart and is pumped into the pulmonary arteries, where it obstructs pulmonary blood flow, i.e., a pulmonary embolism. Venous emboli reach the lungs, not the systemic arterial circulation, unless a right-to-left shunt exists.",
+        "whyCorrect": "A detached venous thrombus (embolus) follows venous return to the right heart and is pumped into the pulmonary arteries, where it obstructs pulmonary blood flow, i.e., a pulmonary embolism. Venous emboli reach the lungs, not the systemic arterial circulation, unless a right-to-left shunt exists.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-473_Brick Exchange - Deep Vein Thrombosis_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-474",
+      "topicId": "deep-vein-thrombosis",
+      "topicName": "Deep Vein Thrombosis",
+      "stem": "This figure links a clot at a lower-leg deep vein (bottom) with a blockage in the lungs (top) by way of the large central vein. What pathophysiologic sequence does it illustrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An arterial plaque ruptures and travels to the legs"
+        },
+        {
+          "label": "B",
+          "text": "A lower-limb thrombus embolizes up the IVC to the right heart and into the lungs"
+        },
+        {
+          "label": "C",
+          "text": "Bronchial mucus plugs migrate into the pulmonary veins"
+        },
+        {
+          "label": "D",
+          "text": "A leg infection spreads through lymphatics to the lung"
+        },
+        {
+          "label": "E",
+          "text": "A lung clot showers emboli down into the leg veins"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A deep vein thrombosis in the leg can dislodge and travel up the inferior vena cava to the right heart, then into the pulmonary arteries, producing a pulmonary embolism. This DVT-to-PE progression is the central danger of lower-extremity venous thrombosis.",
+        "whyCorrect": "A deep vein thrombosis in the leg can dislodge and travel up the inferior vena cava to the right heart, then into the pulmonary arteries, producing a pulmonary embolism. This DVT-to-PE progression is the central danger of lower-extremity venous thrombosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-474_Brick Exchange - Deep Vein Thrombosis_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-475",
+      "topicId": "deep-vein-thrombosis",
+      "topicName": "Deep Vein Thrombosis",
+      "stem": "This clinical photograph (arrow) shows one calf that is noticeably larger and more swollen than the other. In a patient with recent immobilization, this asymmetric finding most strongly suggests which diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Peripheral arterial occlusion"
+        },
+        {
+          "label": "B",
+          "text": "Bilateral heart-failure edema"
+        },
+        {
+          "label": "C",
+          "text": "Chronic lymphedema of the foot"
+        },
+        {
+          "label": "D",
+          "text": "Deep vein thrombosis of the affected leg"
+        },
+        {
+          "label": "E",
+          "text": "Cellulitis of both lower limbs"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Unilateral leg swelling, with one calf larger than the other, is a classic sign of deep vein thrombosis. The obstructing venous thrombus impairs outflow, causing edema, warmth, and tenderness confined to that limb, unlike the symmetric swelling of systemic causes.",
+        "whyCorrect": "Unilateral leg swelling, with one calf larger than the other, is a classic sign of deep vein thrombosis. The obstructing venous thrombus impairs outflow, causing edema, warmth, and tenderness confined to that limb, unlike the symmetric swelling of systemic causes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-475_Brick Exchange - Deep Vein Thrombosis_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-476",
+      "topicId": "deep-vein-thrombosis",
+      "topicName": "Deep Vein Thrombosis",
+      "stem": "This Venn diagram places thrombosis at the intersection of endothelial damage, a hypercoagulable state, and abnormal blood flow/venous stasis. By what eponymous name is this trio of predisposing factors known?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Samter's triad"
+        },
+        {
+          "label": "B",
+          "text": "Virchow's triad"
+        },
+        {
+          "label": "C",
+          "text": "Beck's triad"
+        },
+        {
+          "label": "D",
+          "text": "Charcot's triad"
+        },
+        {
+          "label": "E",
+          "text": "Cushing's triad"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The three overlapping contributors to thrombus formation, endothelial injury, hypercoagulability, and stasis/turbulent flow, constitute Virchow's triad. Any one component predisposes to thrombosis, and their overlap markedly increases risk.",
+        "whyCorrect": "The three overlapping contributors to thrombus formation, endothelial injury, hypercoagulability, and stasis/turbulent flow, constitute Virchow's triad. Any one component predisposes to thrombosis, and their overlap markedly increases risk.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-476_Brick Exchange - Deep Vein Thrombosis_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-713",
+      "topicId": "deep-vein-thrombosis",
+      "topicName": "Deep Vein Thrombosis",
+      "stem": "A hospitalized, immobile patient has these inflatable sleeves wrapped around the calves and thighs, cyclically inflating and deflating. What is the primary purpose of this device?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Immobilize a fractured tibia during healing"
+        },
+        {
+          "label": "B",
+          "text": "Promote venous return and prevent deep vein thrombosis"
+        },
+        {
+          "label": "C",
+          "text": "Reduce arterial blood pressure in the lower limb"
+        },
+        {
+          "label": "D",
+          "text": "Warm the extremity to treat hypothermia"
+        },
+        {
+          "label": "E",
+          "text": "Deliver localized chemotherapy to the leg"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "This is an intermittent pneumatic compression device. By rhythmically compressing the legs it augments venous flow and counteracts the venous stasis of Virchow's triad, providing mechanical prophylaxis against DVT in immobile patients.",
+        "whyCorrect": "This is an intermittent pneumatic compression device. By rhythmically compressing the legs it augments venous flow and counteracts the venous stasis of Virchow's triad, providing mechanical prophylaxis against DVT in immobile patients.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-713_Brick Exchange - Deep Vein Thrombosis_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-714",
+      "topicId": "deep-vein-thrombosis",
+      "topicName": "Deep Vein Thrombosis",
+      "stem": "The upper vessel shows blood moving in smooth parallel streamlines while the lower vessel shows chaotic swirling eddies. Which flow pattern (and associated hemodynamic condition) most favors venous thrombus formation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Neither pattern affects thrombosis risk"
+        },
+        {
+          "label": "B",
+          "text": "Only high-velocity laminar flow promotes clotting"
+        },
+        {
+          "label": "C",
+          "text": "Both patterns equally promote clotting"
+        },
+        {
+          "label": "D",
+          "text": "The lower, turbulent/stagnant flow pattern"
+        },
+        {
+          "label": "E",
+          "text": "The upper, smooth streamlined pattern"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Laminar flow (top) keeps cells centered and endothelium undisturbed, whereas turbulence and stasis (bottom) allow platelet contact with the wall, activate clotting factors, and injure endothelium, the flow abnormalities of Virchow's triad that promote thrombosis.",
+        "whyCorrect": "Laminar flow (top) keeps cells centered and endothelium undisturbed, whereas turbulence and stasis (bottom) allow platelet contact with the wall, activate clotting factors, and injure endothelium, the flow abnormalities of Virchow's triad that promote thrombosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-714_Brick Exchange - Deep Vein Thrombosis_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

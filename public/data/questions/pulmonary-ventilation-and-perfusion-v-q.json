@@ -1,0 +1,201 @@
+{
+  "categoryId": "pulmonary-ventilation-and-perfusion-v-q",
+  "categoryName": "Pulmonary Ventilation and Perfusion (V Q)",
+  "questions": [
+    {
+      "id": "repic-849",
+      "topicId": "pulmonary-ventilation-and-perfusion-v-q",
+      "topicName": "Pulmonary Ventilation and Perfusion (V Q)",
+      "stem": "In the left-hand alveolar unit, ventilation is absent while perfusion continues, giving a V/Q of 0. What is the expected effect on arterial oxygenation, and does it correct with supplemental oxygen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hyperoxemia due to increased diffusion gradient"
+        },
+        {
+          "label": "B",
+          "text": "Hypoxemia that corrects completely with 100% oxygen"
+        },
+        {
+          "label": "C",
+          "text": "No change in oxygenation, only a rise in PaCO2"
+        },
+        {
+          "label": "D",
+          "text": "Hypoxemia that does not fully correct with 100% oxygen"
+        },
+        {
+          "label": "E",
+          "text": "Improved oxygenation because CO2 is washed out"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A V/Q of 0 is a true shunt (e.g., pneumonia, atelectasis): blood passes the alveolus without gas exchange, so added oxygen cannot reach the shunted blood and hypoxemia is refractory. Dead space (V/Q = infinity) is the opposite—ventilation without perfusion.",
+        "whyCorrect": "A V/Q of 0 is a true shunt (e.g., pneumonia, atelectasis): blood passes the alveolus without gas exchange, so added oxygen cannot reach the shunted blood and hypoxemia is refractory. Dead space (V/Q = infinity) is the opposite—ventilation without perfusion.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-849_Brick Exchange - Pulmonary Ventilation and Perfusion (V_Q)_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-850",
+      "topicId": "pulmonary-ventilation-and-perfusion-v-q",
+      "topicName": "Pulmonary Ventilation and Perfusion (V Q)",
+      "stem": "This diagram shows deoxygenated bronchial venous blood draining into the pulmonary veins. What is the physiologic consequence of this normal anatomical connection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Blood entering the left atrium has a slightly lower O2 than alveolar gas"
+        },
+        {
+          "label": "B",
+          "text": "Arterial O2 exceeds alveolar O2 due to concentration"
+        },
+        {
+          "label": "C",
+          "text": "PaCO2 falls below alveolar CO2"
+        },
+        {
+          "label": "D",
+          "text": "It shunts oxygenated blood into the systemic veins"
+        },
+        {
+          "label": "E",
+          "text": "It abolishes the normal A-a gradient"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Bronchial circulation is part of the normal physiologic (anatomic) shunt: deoxygenated bronchial venous blood mixes with oxygenated pulmonary venous blood, so left atrial/arterial O2 is slightly below alveolar O2, contributing to the normal alveolar-arterial gradient.",
+        "whyCorrect": "Bronchial circulation is part of the normal physiologic (anatomic) shunt: deoxygenated bronchial venous blood mixes with oxygenated pulmonary venous blood, so left atrial/arterial O2 is slightly below alveolar O2, contributing to the normal alveolar-arterial gradient.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-850_Brick Exchange - Pulmonary Ventilation and Perfusion (V_Q)_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-851",
+      "topicId": "pulmonary-ventilation-and-perfusion-v-q",
+      "topicName": "Pulmonary Ventilation and Perfusion (V Q)",
+      "stem": "The curve moves from an alveolar unit with O2=40/CO2=45 (left) to one with O2=150/CO2=0 (right). What does progression along the curve toward the right represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increasing perfusion relative to ventilation (shunt)"
+        },
+        {
+          "label": "B",
+          "text": "Progressive CO2 retention with hypoventilation"
+        },
+        {
+          "label": "C",
+          "text": "Increasing ventilation-perfusion ratio approaching dead space"
+        },
+        {
+          "label": "D",
+          "text": "Falling inspired oxygen fraction"
+        },
+        {
+          "label": "E",
+          "text": "A rising cardiac output with fixed ventilation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "As V/Q rises from 0 (shunt-like, gas approaching mixed venous values) through 1 (normal) toward infinity (dead space), alveolar PO2 rises toward inspired air (150) and PCO2 falls toward 0. The curve is the V/Q line connecting shunt and dead-space extremes.",
+        "whyCorrect": "As V/Q rises from 0 (shunt-like, gas approaching mixed venous values) through 1 (normal) toward infinity (dead space), alveolar PO2 rises toward inspired air (150) and PCO2 falls toward 0. The curve is the V/Q line connecting shunt and dead-space extremes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-851_Brick Exchange - Pulmonary Ventilation and Perfusion (V_Q)_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-852",
+      "topicId": "pulmonary-ventilation-and-perfusion-v-q",
+      "topicName": "Pulmonary Ventilation and Perfusion (V Q)",
+      "stem": "In this plot from lung base to apex, both perfusion and ventilation fall toward the apex but perfusion falls more steeply. What is the resulting regional V/Q pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "V/Q is highest at the base and lowest at the apex"
+        },
+        {
+          "label": "B",
+          "text": "V/Q is highest at the apex and lowest at the base"
+        },
+        {
+          "label": "C",
+          "text": "Perfusion exceeds ventilation everywhere in the lung"
+        },
+        {
+          "label": "D",
+          "text": "V/Q peaks in the mid-lung and falls toward both ends"
+        },
+        {
+          "label": "E",
+          "text": "V/Q is uniform throughout the upright lung"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Gravity makes both ventilation and perfusion greater at the base, but perfusion decreases more sharply toward the apex. Because perfusion falls faster than ventilation, the V/Q ratio increases from base to apex (approaching ~3 at the apex).",
+        "whyCorrect": "Gravity makes both ventilation and perfusion greater at the base, but perfusion decreases more sharply toward the apex. Because perfusion falls faster than ventilation, the V/Q ratio increases from base to apex (approaching ~3 at the apex).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-852_Brick Exchange - Pulmonary Ventilation and Perfusion (V_Q)_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-853",
+      "topicId": "pulmonary-ventilation-and-perfusion-v-q",
+      "topicName": "Pulmonary Ventilation and Perfusion (V Q)",
+      "stem": "This figure divides the upright lung into three regions defined by the relationship among alveolar (PA), arterial (Pa), and venous (Pv) pressures. In the uppermost region, what limits blood flow?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Capillaries are maximally recruited and flow is highest"
+        },
+        {
+          "label": "B",
+          "text": "Hypoxic vasoconstriction is absent, increasing flow"
+        },
+        {
+          "label": "C",
+          "text": "Arterial pressure exceeds alveolar pressure throughout"
+        },
+        {
+          "label": "D",
+          "text": "Venous pressure exceeds alveolar pressure, causing congestion"
+        },
+        {
+          "label": "E",
+          "text": "Alveolar pressure exceeds capillary pressures and compresses the vessels"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "These are the West zones. In zone 1 (apex) alveolar pressure > arterial > venous (PA>Pa>Pv), so alveolar pressure compresses capillaries and flow is minimal. Zone 3 (base) has Pa>Pv>PA with continuous flow.",
+        "whyCorrect": "These are the West zones. In zone 1 (apex) alveolar pressure > arterial > venous (PA>Pa>Pv), so alveolar pressure compresses capillaries and flow is minimal. Zone 3 (base) has Pa>Pv>PA with continuous flow.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-853_Brick Exchange - Pulmonary Ventilation and Perfusion (V_Q)_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

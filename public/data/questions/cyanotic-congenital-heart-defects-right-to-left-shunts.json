@@ -1,0 +1,474 @@
+{
+  "categoryId": "cyanotic-congenital-heart-defects-right-to-left-shunts",
+  "categoryName": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+  "questions": [
+    {
+      "id": "repic-236",
+      "topicId": "cyanotic-congenital-heart-defects-right-to-left-shunts",
+      "topicName": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+      "stem": "This chest radiograph shows a cardiac silhouette resembling the boot placed beside it. This classic 'boot-shaped heart' is most characteristic of which cyanotic congenital defect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Persistent truncus arteriosus"
+        },
+        {
+          "label": "B",
+          "text": "Transposition of the great arteries"
+        },
+        {
+          "label": "C",
+          "text": "Tetralogy of Fallot"
+        },
+        {
+          "label": "D",
+          "text": "Tricuspid atresia"
+        },
+        {
+          "label": "E",
+          "text": "Total anomalous pulmonary venous return"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In Tetralogy of Fallot, right ventricular hypertrophy with an upturned apex and a concave (small) pulmonary artery segment produces the characteristic coeur en sabot, or boot-shaped, cardiac silhouette.",
+        "whyCorrect": "In Tetralogy of Fallot, right ventricular hypertrophy with an upturned apex and a concave (small) pulmonary artery segment produces the characteristic coeur en sabot, or boot-shaped, cardiac silhouette.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-236_Brick Exchange - Cyanotic Congenital Heart Defects (Right-to-Left Shunts)_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-237",
+      "topicId": "cyanotic-congenital-heart-defects-right-to-left-shunts",
+      "topicName": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+      "stem": "This echocardiogram demonstrates an enlarged right ventricle, a ventricular septal defect, and an aorta that overrides the ventricular septum. Which condition is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Isolated atrial septal defect"
+        },
+        {
+          "label": "B",
+          "text": "Coarctation of the aorta"
+        },
+        {
+          "label": "C",
+          "text": "Patent ductus arteriosus"
+        },
+        {
+          "label": "D",
+          "text": "Tetralogy of Fallot"
+        },
+        {
+          "label": "E",
+          "text": "Isolated mitral stenosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "An overriding aorta and VSD with right ventricular hypertrophy are two of the four hallmark features of Tetralogy of Fallot (the others being pulmonary stenosis and RVH driving the right-to-left shunt).",
+        "whyCorrect": "An overriding aorta and VSD with right ventricular hypertrophy are two of the four hallmark features of Tetralogy of Fallot (the others being pulmonary stenosis and RVH driving the right-to-left shunt).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-237_Brick Exchange - Cyanotic Congenital Heart Defects (Right-to-Left Shunts)_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-238",
+      "topicId": "cyanotic-congenital-heart-defects-right-to-left-shunts",
+      "topicName": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+      "stem": "This echocardiogram is annotated to show an absent tricuspid valve together with a ventricular septal defect. Which cyanotic congenital defect does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tetralogy of Fallot"
+        },
+        {
+          "label": "B",
+          "text": "Tricuspid atresia"
+        },
+        {
+          "label": "C",
+          "text": "Ebstein anomaly"
+        },
+        {
+          "label": "D",
+          "text": "Transposition of the great arteries"
+        },
+        {
+          "label": "E",
+          "text": "Persistent truncus arteriosus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Tricuspid atresia is the complete absence of the tricuspid valve, so blood must cross an atrial-level shunt and a VSD to reach the hypoplastic right ventricle and lungs, producing cyanosis.",
+        "whyCorrect": "Tricuspid atresia is the complete absence of the tricuspid valve, so blood must cross an atrial-level shunt and a VSD to reach the hypoplastic right ventricle and lungs, producing cyanosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-238_Brick Exchange - Cyanotic Congenital Heart Defects (Right-to-Left Shunts)_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-239",
+      "topicId": "cyanotic-congenital-heart-defects-right-to-left-shunts",
+      "topicName": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+      "stem": "These paired grayscale cross-sectional cardiac images with bright blood pool, labeled by chamber (RA, LA, RV, LV), were obtained using which imaging modality?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coronary angiography"
+        },
+        {
+          "label": "B",
+          "text": "Positron emission tomography (PET)"
+        },
+        {
+          "label": "C",
+          "text": "Cardiac MRI"
+        },
+        {
+          "label": "D",
+          "text": "Transthoracic echocardiography"
+        },
+        {
+          "label": "E",
+          "text": "Plain chest radiograph"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The tomographic slices with uniformly bright intracavitary blood and high soft-tissue contrast delineating myocardium and chambers are typical of cine cardiac MRI rather than ultrasound or radiographic techniques.",
+        "whyCorrect": "The tomographic slices with uniformly bright intracavitary blood and high soft-tissue contrast delineating myocardium and chambers are typical of cine cardiac MRI rather than ultrasound or radiographic techniques.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-239_Brick Exchange - Cyanotic Congenital Heart Defects (Right-to-Left Shunts)_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-240",
+      "topicId": "cyanotic-congenital-heart-defects-right-to-left-shunts",
+      "topicName": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+      "stem": "What imaging modality produced this labeled cross-sectional view of the cardiac chambers and great vessels?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cardiac MRI"
+        },
+        {
+          "label": "B",
+          "text": "Chest radiograph"
+        },
+        {
+          "label": "C",
+          "text": "Coronary angiography"
+        },
+        {
+          "label": "D",
+          "text": "Transthoracic echocardiogram"
+        },
+        {
+          "label": "E",
+          "text": "Nuclear myocardial perfusion scan"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The grayscale tomographic soft-tissue image showing the ventricles and great vessels in a single slice is characteristic of cardiac magnetic resonance imaging.",
+        "whyCorrect": "The grayscale tomographic soft-tissue image showing the ventricles and great vessels in a single slice is characteristic of cardiac magnetic resonance imaging.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-240_Brick Exchange - Cyanotic Congenital Heart Defects (Right-to-Left Shunts)_p23_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-466",
+      "topicId": "cyanotic-congenital-heart-defects-right-to-left-shunts",
+      "topicName": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+      "stem": "This diagram shows a single arterial trunk leaving the heart that gives rise to both the aorta and the pulmonary arteries, guarded by one truncal valve. What defect is illustrated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aortopulmonary window"
+        },
+        {
+          "label": "B",
+          "text": "Persistent truncus arteriosus"
+        },
+        {
+          "label": "C",
+          "text": "Transposition of the great arteries"
+        },
+        {
+          "label": "D",
+          "text": "Tetralogy of Fallot"
+        },
+        {
+          "label": "E",
+          "text": "Double outlet right ventricle"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Persistent truncus arteriosus results from failure of the truncus to septate into separate aortic and pulmonary trunks, leaving a single truncal vessel and valve overriding a VSD that mixes systemic and pulmonary blood.",
+        "whyCorrect": "Persistent truncus arteriosus results from failure of the truncus to septate into separate aortic and pulmonary trunks, leaving a single truncal vessel and valve overriding a VSD that mixes systemic and pulmonary blood.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-466_Brick Exchange - Cyanotic Congenital Heart Defects (Right-to-Left Shunts)_p19_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-467",
+      "topicId": "cyanotic-congenital-heart-defects-right-to-left-shunts",
+      "topicName": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+      "stem": "This patient's fingers and toes show a bluish-dusky discoloration. What underlying abnormality does this finding most directly reflect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bilirubin deposition in the skin"
+        },
+        {
+          "label": "B",
+          "text": "Excess methemoglobin from a genetic enzyme defect"
+        },
+        {
+          "label": "C",
+          "text": "Increased deoxygenated hemoglobin in the peripheral blood"
+        },
+        {
+          "label": "D",
+          "text": "Dermal iron deposition from iron overload"
+        },
+        {
+          "label": "E",
+          "text": "Carboxyhemoglobin from carbon monoxide poisoning"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Cyanosis of the digits appears when the absolute amount of deoxygenated (reduced) hemoglobin in the blood rises, giving skin and mucosa a bluish color; in right-to-left shunts this reflects poorly oxygenated blood reaching the systemic circulation.",
+        "whyCorrect": "Cyanosis of the digits appears when the absolute amount of deoxygenated (reduced) hemoglobin in the blood rises, giving skin and mucosa a bluish color; in right-to-left shunts this reflects poorly oxygenated blood reaching the systemic circulation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-467_Brick Exchange - Cyanotic Congenital Heart Defects (Right-to-Left Shunts)_p1_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-468",
+      "topicId": "cyanotic-congenital-heart-defects-right-to-left-shunts",
+      "topicName": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+      "stem": "This heart shows four features: pulmonary valve stenosis, an overriding aorta, a ventricular septal defect, and an enlarged (hypertrophied) right ventricle. What is the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tricuspid atresia"
+        },
+        {
+          "label": "B",
+          "text": "Tetralogy of Fallot"
+        },
+        {
+          "label": "C",
+          "text": "Transposition of the great arteries"
+        },
+        {
+          "label": "D",
+          "text": "Truncus arteriosus"
+        },
+        {
+          "label": "E",
+          "text": "Total anomalous pulmonary venous return"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The tetrad of pulmonary stenosis, overriding aorta, ventricular septal defect, and right ventricular hypertrophy defines Tetralogy of Fallot, the most common cyanotic congenital heart disease of childhood.",
+        "whyCorrect": "The tetrad of pulmonary stenosis, overriding aorta, ventricular septal defect, and right ventricular hypertrophy defines Tetralogy of Fallot, the most common cyanotic congenital heart disease of childhood.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-468_Brick Exchange - Cyanotic Congenital Heart Defects (Right-to-Left Shunts)_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-469",
+      "topicId": "cyanotic-congenital-heart-defects-right-to-left-shunts",
+      "topicName": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+      "stem": "This infant illustration shows bluish discoloration of the lips, hands, and feet. What does this appearance most likely indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bruising from birth trauma"
+        },
+        {
+          "label": "B",
+          "text": "Pallor from severe anemia"
+        },
+        {
+          "label": "C",
+          "text": "Normal newborn acrocyanosis that resolves within hours"
+        },
+        {
+          "label": "D",
+          "text": "Central cyanosis from a right-to-left cardiac shunt"
+        },
+        {
+          "label": "E",
+          "text": "Jaundice from hemolytic disease of the newborn"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Bluish discoloration involving the lips and trunk (not just the extremities) indicates central cyanosis, seen when a right-to-left shunt delivers deoxygenated blood to the systemic circulation.",
+        "whyCorrect": "Bluish discoloration involving the lips and trunk (not just the extremities) indicates central cyanosis, seen when a right-to-left shunt delivers deoxygenated blood to the systemic circulation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-469_Brick Exchange - Cyanotic Congenital Heart Defects (Right-to-Left Shunts)_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-470",
+      "topicId": "cyanotic-congenital-heart-defects-right-to-left-shunts",
+      "topicName": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+      "stem": "This patient's fingertips appear dusky and bulbous. Chronic hypoxemia from a cyanotic heart defect classically produces which finger finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Leukonychia"
+        },
+        {
+          "label": "B",
+          "text": "Digital clubbing"
+        },
+        {
+          "label": "C",
+          "text": "Splinter hemorrhages"
+        },
+        {
+          "label": "D",
+          "text": "Koilonychia (spoon nails)"
+        },
+        {
+          "label": "E",
+          "text": "Beau's lines"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Long-standing hypoxemia stimulates soft-tissue proliferation at the nail beds, producing the bulbous fingertips and increased nail curvature known as digital clubbing.",
+        "whyCorrect": "Long-standing hypoxemia stimulates soft-tissue proliferation at the nail beds, producing the bulbous fingertips and increased nail curvature known as digital clubbing.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-470_Brick Exchange - Cyanotic Congenital Heart Defects (Right-to-Left Shunts)_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-708",
+      "topicId": "cyanotic-congenital-heart-defects-right-to-left-shunts",
+      "topicName": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+      "stem": "In this diagram the aorta carries purple 'mixed blood' because blood crosses the labeled shunts. What is the physiologic consequence of this mixing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reduced pulmonary blood flow with normal systemic oxygenation"
+        },
+        {
+          "label": "B",
+          "text": "Complete separation of the pulmonary and systemic circulations"
+        },
+        {
+          "label": "C",
+          "text": "Isolated left ventricular hypertrophy without cyanosis"
+        },
+        {
+          "label": "D",
+          "text": "Left-to-right shunting causing pulmonary overcirculation only"
+        },
+        {
+          "label": "E",
+          "text": "Systemic delivery of partially deoxygenated blood, producing cyanosis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "When oxygen-poor and oxygen-rich blood mix through connections such as a patent ductus arteriosus and foramen ovale, the aorta ejects blood of intermediate oxygen content to the body, causing cyanosis.",
+        "whyCorrect": "When oxygen-poor and oxygen-rich blood mix through connections such as a patent ductus arteriosus and foramen ovale, the aorta ejects blood of intermediate oxygen content to the body, causing cyanosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-708_Brick Exchange - Cyanotic Congenital Heart Defects (Right-to-Left Shunts)_p22_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-709",
+      "topicId": "cyanotic-congenital-heart-defects-right-to-left-shunts",
+      "topicName": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+      "stem": "In the anomaly on the right, all pulmonary venous blood returns to the right atrium. Why is the labeled atrial septal defect essential for the infant to survive?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It equalizes pressures to reverse the direction of shunting"
+        },
+        {
+          "label": "B",
+          "text": "It allows deoxygenated blood to bypass stenotic lungs"
+        },
+        {
+          "label": "C",
+          "text": "It reflexively closes the ductus arteriosus"
+        },
+        {
+          "label": "D",
+          "text": "It decompresses the left ventricle to prevent failure"
+        },
+        {
+          "label": "E",
+          "text": "It is the only route for oxygenated blood to reach the systemic circulation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "When pulmonary veins connect anomalously to the systemic venous system, all blood collects in the right atrium; a right-to-left shunt across an atrial septal defect is the only way oxygenated blood can pass to the left heart and body.",
+        "whyCorrect": "When pulmonary veins connect anomalously to the systemic venous system, all blood collects in the right atrium; a right-to-left shunt across an atrial septal defect is the only way oxygenated blood can pass to the left heart and body.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-709_Brick Exchange - Cyanotic Congenital Heart Defects (Right-to-Left Shunts)_p25_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

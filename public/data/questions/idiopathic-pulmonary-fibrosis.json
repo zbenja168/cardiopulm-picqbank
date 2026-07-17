@@ -1,0 +1,279 @@
+{
+  "categoryId": "idiopathic-pulmonary-fibrosis",
+  "categoryName": "Idiopathic Pulmonary Fibrosis",
+  "questions": [
+    {
+      "id": "repic-152",
+      "topicId": "idiopathic-pulmonary-fibrosis",
+      "topicName": "Idiopathic Pulmonary Fibrosis",
+      "stem": "These H&E lung sections show patchy dense collagenous fibrosis with cystically remodeled airspaces lined by bronchiolar epithelium. Which histologic pattern is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Usual interstitial pneumonia"
+        },
+        {
+          "label": "B",
+          "text": "Diffuse alveolar damage"
+        },
+        {
+          "label": "C",
+          "text": "Nonspecific interstitial pneumonia"
+        },
+        {
+          "label": "D",
+          "text": "Respiratory bronchiolitis"
+        },
+        {
+          "label": "E",
+          "text": "Organizing pneumonia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Spatially heterogeneous fibrosis with microscopic honeycombing defines the UIP pattern of IPF. NSIP is uniform, DAD shows hyaline membranes, and organizing pneumonia shows intraluminal fibroblastic plugs.",
+        "whyCorrect": "Spatially heterogeneous fibrosis with microscopic honeycombing defines the UIP pattern of IPF. NSIP is uniform, DAD shows hyaline membranes, and organizing pneumonia shows intraluminal fibroblastic plugs.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-152_Brick Exchange - Idiopathic Pulmonary Fibrosis_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-153",
+      "topicId": "idiopathic-pulmonary-fibrosis",
+      "topicName": "Idiopathic Pulmonary Fibrosis",
+      "stem": "Comparing the left panel (arrow, asterisk) with the normal thin alveolar walls on the right, what abnormality is present on the left?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alveolar edema fluid"
+        },
+        {
+          "label": "B",
+          "text": "Normal age-related change"
+        },
+        {
+          "label": "C",
+          "text": "Interstitial fibrosis with honeycomb remodeling"
+        },
+        {
+          "label": "D",
+          "text": "Panacinar emphysema"
+        },
+        {
+          "label": "E",
+          "text": "Acute suppurative pneumonia"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The left panel shows thickened, collagen-rich interstitium with distorted cystic spaces, contrasting with the delicate normal alveolar septa on the right. This confirms established fibrosis rather than edema or acute inflammation.",
+        "whyCorrect": "The left panel shows thickened, collagen-rich interstitium with distorted cystic spaces, contrasting with the delicate normal alveolar septa on the right. This confirms established fibrosis rather than edema or acute inflammation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-153_Brick Exchange - Idiopathic Pulmonary Fibrosis_p9_2.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-295",
+      "topicId": "idiopathic-pulmonary-fibrosis",
+      "topicName": "Idiopathic Pulmonary Fibrosis",
+      "stem": "This PA chest radiograph shows bilateral, basal-predominant reticular opacities with reduced lung volumes. Which diagnosis is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tension pneumothorax"
+        },
+        {
+          "label": "B",
+          "text": "Idiopathic pulmonary fibrosis"
+        },
+        {
+          "label": "C",
+          "text": "Cardiogenic pulmonary edema"
+        },
+        {
+          "label": "D",
+          "text": "Lobar bacterial pneumonia"
+        },
+        {
+          "label": "E",
+          "text": "Centrilobular emphysema"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Peripheral, lower-zone reticular opacities with volume loss are the classic radiographic pattern of a fibrosing interstitial lung disease such as IPF, in contrast to the alveolar or hyperlucent patterns of the distractors.",
+        "whyCorrect": "Peripheral, lower-zone reticular opacities with volume loss are the classic radiographic pattern of a fibrosing interstitial lung disease such as IPF, in contrast to the alveolar or hyperlucent patterns of the distractors.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-295_Brick Exchange - Idiopathic Pulmonary Fibrosis_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-296",
+      "topicId": "idiopathic-pulmonary-fibrosis",
+      "topicName": "Idiopathic Pulmonary Fibrosis",
+      "stem": "On this high-resolution chest CT, the peripheral clustered cystic finding adjacent to the heart is the imaging hallmark of which histopathologic pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Organizing pneumonia"
+        },
+        {
+          "label": "B",
+          "text": "Hypersensitivity pneumonitis"
+        },
+        {
+          "label": "C",
+          "text": "Nonspecific interstitial pneumonia (NSIP)"
+        },
+        {
+          "label": "D",
+          "text": "Usual interstitial pneumonia (UIP)"
+        },
+        {
+          "label": "E",
+          "text": "Diffuse alveolar damage"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Subpleural, basal honeycombing on HRCT is the defining feature of a UIP pattern, which underlies idiopathic pulmonary fibrosis. The other patterns show ground-glass or consolidative changes rather than honeycombing.",
+        "whyCorrect": "Subpleural, basal honeycombing on HRCT is the defining feature of a UIP pattern, which underlies idiopathic pulmonary fibrosis. The other patterns show ground-glass or consolidative changes rather than honeycombing.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-296_Brick Exchange - Idiopathic Pulmonary Fibrosis_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-493",
+      "topicId": "idiopathic-pulmonary-fibrosis",
+      "topicName": "Idiopathic Pulmonary Fibrosis",
+      "stem": "This cut surface of a lung shows diffuse remodeling into dense walls surrounding numerous cystic airspaces. What is this end-stage gross finding called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cavitary tuberculosis"
+        },
+        {
+          "label": "B",
+          "text": "Emphysematous bullae"
+        },
+        {
+          "label": "C",
+          "text": "Honeycomb lung"
+        },
+        {
+          "label": "D",
+          "text": "Cystic bronchiectasis"
+        },
+        {
+          "label": "E",
+          "text": "Multiple lung abscesses"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "End-stage fibrosis destroys normal architecture, leaving thick fibrous bands enclosing dilated airspaces, grossly termed honeycomb lung. The distractors produce localized or thin-walled cavities rather than diffuse fibrotic remodeling.",
+        "whyCorrect": "End-stage fibrosis destroys normal architecture, leaving thick fibrous bands enclosing dilated airspaces, grossly termed honeycomb lung. The distractors produce localized or thin-walled cavities rather than diffuse fibrotic remodeling.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-493_Brick Exchange - Idiopathic Pulmonary Fibrosis_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-494",
+      "topicId": "idiopathic-pulmonary-fibrosis",
+      "topicName": "Idiopathic Pulmonary Fibrosis",
+      "stem": "The external pleural surface of this lung shows a diffuse coarse, cobblestone-nodular texture. This gross appearance is most characteristic of what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Panacinar emphysema"
+        },
+        {
+          "label": "B",
+          "text": "Pulmonary fibrosis"
+        },
+        {
+          "label": "C",
+          "text": "Normal aerated lung"
+        },
+        {
+          "label": "D",
+          "text": "Pleural metastatic carcinomatosis"
+        },
+        {
+          "label": "E",
+          "text": "Sarcoid granulomatous nodules"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Subpleural fibrous scarring puckers and nodulates the pleural surface, giving the coarse cobblestone appearance typical of end-stage fibrotic lung disease.",
+        "whyCorrect": "Subpleural fibrous scarring puckers and nodulates the pleural surface, giving the coarse cobblestone appearance typical of end-stage fibrotic lung disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-494_Brick Exchange - Idiopathic Pulmonary Fibrosis_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-759",
+      "topicId": "idiopathic-pulmonary-fibrosis",
+      "topicName": "Idiopathic Pulmonary Fibrosis",
+      "stem": "This schematic traces a pathway beginning with environmental injury to at-risk epithelium and ending in scarring. Which cell type does the pathway identify as the key effector producing collagen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Capillary endothelial cell"
+        },
+        {
+          "label": "B",
+          "text": "Fibroblast/myofibroblast"
+        },
+        {
+          "label": "C",
+          "text": "Neutrophil"
+        },
+        {
+          "label": "D",
+          "text": "Type II alveolar pneumocyte"
+        },
+        {
+          "label": "E",
+          "text": "Alveolar macrophage"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Repeated epithelial injury releases pro-fibrogenic factors that activate fibroblasts and myofibroblasts, which proliferate and deposit collagen, driving irreversible fibrosis. The epithelium is the initiating, not the effector, compartment.",
+        "whyCorrect": "Repeated epithelial injury releases pro-fibrogenic factors that activate fibroblasts and myofibroblasts, which proliferate and deposit collagen, driving irreversible fibrosis. The epithelium is the initiating, not the effector, compartment.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-759_Brick Exchange - Idiopathic Pulmonary Fibrosis_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

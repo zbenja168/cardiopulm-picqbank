@@ -1,0 +1,318 @@
+{
+  "categoryId": "cardiac-tumors",
+  "categoryName": "Cardiac Tumors",
+  "questions": [
+    {
+      "id": "repic-227",
+      "topicId": "cardiac-tumors",
+      "topicName": "Cardiac Tumors",
+      "stem": "This echocardiogram of a young child shows a well-circumscribed intramural mass involving the ventricular myocardium. This tumor type is most strongly associated with which systemic condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Marfan syndrome"
+        },
+        {
+          "label": "B",
+          "text": "Carney complex"
+        },
+        {
+          "label": "C",
+          "text": "von Hippel-Lindau disease"
+        },
+        {
+          "label": "D",
+          "text": "Tuberous sclerosis"
+        },
+        {
+          "label": "E",
+          "text": "Neurofibromatosis type 1"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Cardiac rhabdomyomas are the most common cardiac tumor in children and are strongly linked to tuberous sclerosis (mutations in TSC1/TSC2). Many are detected prenatally or in infancy and frequently regress spontaneously.",
+        "whyCorrect": "Cardiac rhabdomyomas are the most common cardiac tumor in children and are strongly linked to tuberous sclerosis (mutations in TSC1/TSC2). Many are detected prenatally or in infancy and frequently regress spontaneously.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-227_Brick Exchange - Cardiac Tumors_p20_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-447",
+      "topicId": "cardiac-tumors",
+      "topicName": "Cardiac Tumors",
+      "stem": "This echocardiogram shows a mobile, lobulated mass attached within a cardiac chamber, most often the left atrium near the interatrial septum. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Left atrial thrombus"
+        },
+        {
+          "label": "B",
+          "text": "Rhabdomyoma"
+        },
+        {
+          "label": "C",
+          "text": "Cardiac myxoma"
+        },
+        {
+          "label": "D",
+          "text": "Papillary fibroelastoma of the aortic valve"
+        },
+        {
+          "label": "E",
+          "text": "Metastatic melanoma to the myocardium"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Myxoma is the most common primary cardiac tumor in adults, classically a gelatinous, pedunculated mass arising in the left atrium near the fossa ovalis; it can prolapse across the mitral valve and cause obstructive or embolic symptoms.",
+        "whyCorrect": "Myxoma is the most common primary cardiac tumor in adults, classically a gelatinous, pedunculated mass arising in the left atrium near the fossa ovalis; it can prolapse across the mitral valve and cause obstructive or embolic symptoms.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-447_Brick Exchange - Cardiac Tumors_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-448",
+      "topicId": "cardiac-tumors",
+      "topicName": "Cardiac Tumors",
+      "stem": "This gross specimen shows a heart sectioned to reveal a bulky, gelatinous, pale intracavitary mass filling an atrial chamber. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacterial vegetation from endocarditis"
+        },
+        {
+          "label": "B",
+          "text": "Metastatic carcinoma nodule"
+        },
+        {
+          "label": "C",
+          "text": "Organized mural thrombus"
+        },
+        {
+          "label": "D",
+          "text": "Cardiac lipoma"
+        },
+        {
+          "label": "E",
+          "text": "Cardiac myxoma"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The soft, gelatinous, myxoid appearance of a mass filling an atrial cavity is characteristic of myxoma, the most common primary cardiac tumor, which grows within the chamber and can obstruct valve inflow.",
+        "whyCorrect": "The soft, gelatinous, myxoid appearance of a mass filling an atrial cavity is characteristic of myxoma, the most common primary cardiac tumor, which grows within the chamber and can obstruct valve inflow.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-448_Brick Exchange - Cardiac Tumors_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-449",
+      "topicId": "cardiac-tumors",
+      "topicName": "Cardiac Tumors",
+      "stem": "This H&E section of cardiac muscle shows enlarged cells with abundant clear, glycogen-filled vacuolated cytoplasm and thin cytoplasmic strands crossing the vacuoles (arrows). Which cardiac tumor does this histology represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Papillary fibroelastoma"
+        },
+        {
+          "label": "B",
+          "text": "Cardiac angiosarcoma"
+        },
+        {
+          "label": "C",
+          "text": "Cardiac myxoma"
+        },
+        {
+          "label": "D",
+          "text": "Metastatic melanoma"
+        },
+        {
+          "label": "E",
+          "text": "Cardiac rhabdomyoma"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Rhabdomyoma, the most common primary cardiac tumor of children, is a hamartoma of cardiac myocytes. The tumor cells are large and vacuolated because glycogen is dissolved during processing, leaving strands of cytoplasm suspended across the clear space (the characteristic 'spider cell').",
+        "whyCorrect": "Rhabdomyoma, the most common primary cardiac tumor of children, is a hamartoma of cardiac myocytes. The tumor cells are large and vacuolated because glycogen is dissolved during processing, leaving strands of cytoplasm suspended across the clear space (the characteristic 'spider cell').",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-449_Brick Exchange - Cardiac Tumors_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-450",
+      "topicId": "cardiac-tumors",
+      "topicName": "Cardiac Tumors",
+      "stem": "This high-power H&E image shows a large cell with a central mass of eosinophilic cytoplasm and thin cytoplasmic processes radiating outward to the cell membrane across a clear space. This 'spider cell' is characteristic of which tumor?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cardiac rhabdomyoma"
+        },
+        {
+          "label": "B",
+          "text": "Lipomatous hypertrophy"
+        },
+        {
+          "label": "C",
+          "text": "Angiosarcoma"
+        },
+        {
+          "label": "D",
+          "text": "Fibroma"
+        },
+        {
+          "label": "E",
+          "text": "Cardiac myxoma"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The 'spider cell' is pathognomonic of cardiac rhabdomyoma: glycogen is washed out during processing, leaving a large vacuolated cell whose residual cytoplasm forms strands stretching from a central nucleus-containing mass to the periphery.",
+        "whyCorrect": "The 'spider cell' is pathognomonic of cardiac rhabdomyoma: glycogen is washed out during processing, leaving a large vacuolated cell whose residual cytoplasm forms strands stretching from a central nucleus-containing mass to the periphery.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-450_Brick Exchange - Cardiac Tumors_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-451",
+      "topicId": "cardiac-tumors",
+      "topicName": "Cardiac Tumors",
+      "stem": "This diagram shows a pedunculated mass arising from the interatrial septum and projecting into the left atrium (magnified inset). What is this most common primary cardiac tumor of adults?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rhabdomyoma"
+        },
+        {
+          "label": "B",
+          "text": "Cardiac fibroma"
+        },
+        {
+          "label": "C",
+          "text": "Papillary fibroelastoma"
+        },
+        {
+          "label": "D",
+          "text": "Cardiac myxoma"
+        },
+        {
+          "label": "E",
+          "text": "Angiosarcoma"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Myxoma is the most common primary cardiac tumor in adults, typically arising from the interatrial septum near the fossa ovalis in the left atrium. A pedunculated, mobile mass can obstruct the mitral valve ('ball-valve' effect) and embolize.",
+        "whyCorrect": "Myxoma is the most common primary cardiac tumor in adults, typically arising from the interatrial septum near the fossa ovalis in the left atrium. A pedunculated, mobile mass can obstruct the mitral valve ('ball-valve' effect) and embolize.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-451_Brick Exchange - Cardiac Tumors_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-452",
+      "topicId": "cardiac-tumors",
+      "topicName": "Cardiac Tumors",
+      "stem": "This gross specimen of an opened heart shows a soft, pale, gelatinous mass attached by a stalk to the interatrial septum and protruding into the atrial chamber. What is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Papillary fibroelastoma"
+        },
+        {
+          "label": "B",
+          "text": "Rhabdomyoma"
+        },
+        {
+          "label": "C",
+          "text": "Cardiac myxoma"
+        },
+        {
+          "label": "D",
+          "text": "Cardiac angiosarcoma"
+        },
+        {
+          "label": "E",
+          "text": "Metastatic carcinoma"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Cardiac myxomas are typically soft, pale, gelatinous, pedunculated masses arising from the left atrial septum. Their friable surface predisposes to systemic embolization, and obstruction of the mitral valve can cause syncope or a 'tumor plop'.",
+        "whyCorrect": "Cardiac myxomas are typically soft, pale, gelatinous, pedunculated masses arising from the left atrial septum. Their friable surface predisposes to systemic embolization, and obstruction of the mitral valve can cause syncope or a 'tumor plop'.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-452_Brick Exchange - Cardiac Tumors_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-453",
+      "topicId": "cardiac-tumors",
+      "topicName": "Cardiac Tumors",
+      "stem": "This H&E section shows scattered stellate and spindled cells (arrows), some forming small cords and rings, embedded in an abundant loose, pale myxoid (mucopolysaccharide-rich) stroma. Which cardiac tumor is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Angiosarcoma"
+        },
+        {
+          "label": "B",
+          "text": "Rhabdomyoma"
+        },
+        {
+          "label": "C",
+          "text": "Fibroma"
+        },
+        {
+          "label": "D",
+          "text": "Cardiac myxoma"
+        },
+        {
+          "label": "E",
+          "text": "Lipoma"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Myxoma histology shows scattered stellate/lepidic myxoma cells, often arranged around vessels in rings and cords, set within a copious mucopolysaccharide (myxoid) matrix. The cells are thought to derive from primitive multipotent mesenchymal cells.",
+        "whyCorrect": "Myxoma histology shows scattered stellate/lepidic myxoma cells, often arranged around vessels in rings and cords, set within a copious mucopolysaccharide (myxoid) matrix. The cells are thought to derive from primitive multipotent mesenchymal cells.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-453_Brick Exchange - Cardiac Tumors_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

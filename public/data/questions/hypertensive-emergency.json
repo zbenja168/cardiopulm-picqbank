@@ -1,0 +1,162 @@
+{
+  "categoryId": "hypertensive-emergency",
+  "categoryName": "Hypertensive Emergency",
+  "questions": [
+    {
+      "id": "repic-293",
+      "topicId": "hypertensive-emergency",
+      "topicName": "Hypertensive Emergency",
+      "stem": "Comparing these two fundus photos: the left shows a sharp normal optic disc, while the right shows a swollen, elevated disc with blurred margins and engorged vessels. In a patient with a blood pressure of 220/130 mmHg, the finding on the right indicates what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A retinal detachment"
+        },
+        {
+          "label": "B",
+          "text": "Papilledema signaling a hypertensive emergency with end-organ damage"
+        },
+        {
+          "label": "C",
+          "text": "Glaucomatous optic disc cupping"
+        },
+        {
+          "label": "D",
+          "text": "Optic atrophy"
+        },
+        {
+          "label": "E",
+          "text": "A normal physiologic optic cup"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Disc swelling with blurred margins and engorged vessels is papilledema; in the setting of severely elevated blood pressure it defines a hypertensive emergency (grade IV/malignant hypertension) requiring urgent BP lowering.",
+        "whyCorrect": "Disc swelling with blurred margins and engorged vessels is papilledema; in the setting of severely elevated blood pressure it defines a hypertensive emergency (grade IV/malignant hypertension) requiring urgent BP lowering.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-293_Brick Exchange - Hypertensive Emergency_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-294",
+      "topicId": "hypertensive-emergency",
+      "topicName": "Hypertensive Emergency",
+      "stem": "This peripheral blood smear (abnormal cells circled) shows fragmented red cells with sharp points and helmet shapes. In a patient with malignant hypertension and rising creatinine, these cells indicate which process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Schistocytes from microangiopathic hemolytic anemia"
+        },
+        {
+          "label": "B",
+          "text": "Spherocytes from hereditary spherocytosis"
+        },
+        {
+          "label": "C",
+          "text": "Rouleaux from multiple myeloma"
+        },
+        {
+          "label": "D",
+          "text": "Sickle cells from sickle cell disease"
+        },
+        {
+          "label": "E",
+          "text": "Target cells from thalassemia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Schistocytes are red cells sheared as they pass through fibrin/damaged small vessels. In malignant hypertension the microvascular injury causes a microangiopathic hemolytic anemia, evidenced by these fragmented cells on the smear.",
+        "whyCorrect": "Schistocytes are red cells sheared as they pass through fibrin/damaged small vessels. In malignant hypertension the microvascular injury causes a microangiopathic hemolytic anemia, evidenced by these fragmented cells on the smear.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-294_Brick Exchange - Hypertensive Emergency_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-491",
+      "topicId": "hypertensive-emergency",
+      "topicName": "Hypertensive Emergency",
+      "stem": "This renal biopsy from a patient with severely elevated blood pressure shows an arteriole with concentric laminated 'onion-skin' wall thickening and marked luminal narrowing next to a glomerulus and tubules. This vascular lesion is characteristic of which entity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Renal artery atherosclerosis"
+        },
+        {
+          "label": "B",
+          "text": "Hyperplastic arteriolosclerosis of malignant hypertension"
+        },
+        {
+          "label": "C",
+          "text": "Membranous glomerulonephritis"
+        },
+        {
+          "label": "D",
+          "text": "Acute tubular necrosis"
+        },
+        {
+          "label": "E",
+          "text": "Diabetic nodular glomerulosclerosis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Malignant/accelerated hypertension causes hyperplastic arteriolosclerosis, with concentric onion-skin layering of smooth muscle and basement membrane that severely narrows the lumen and produces ischemic renal injury.",
+        "whyCorrect": "Malignant/accelerated hypertension causes hyperplastic arteriolosclerosis, with concentric onion-skin layering of smooth muscle and basement membrane that severely narrows the lumen and produces ischemic renal injury.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-491_Brick Exchange - Hypertensive Emergency_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-492",
+      "topicId": "hypertensive-emergency",
+      "topicName": "Hypertensive Emergency",
+      "stem": "This H&E section of a small arteriole shows the vessel wall replaced by a bright eosinophilic, smudgy acellular deposit with surrounding inflammation. In a patient with a hypertensive emergency, what is the significance of this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amyloid deposition"
+        },
+        {
+          "label": "B",
+          "text": "Fibrinoid necrosis indicating acute severe (malignant) hypertensive vascular injury"
+        },
+        {
+          "label": "C",
+          "text": "Benign hyaline change of aging"
+        },
+        {
+          "label": "D",
+          "text": "Atherosclerotic plaque with a lipid core"
+        },
+        {
+          "label": "E",
+          "text": "Caseating granulomatous vasculitis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Fibrinoid necrosis is deposition of plasma proteins and fibrin in a necrotic vessel wall and is the hallmark acute lesion of malignant hypertension, reflecting endothelial injury from abruptly, severely elevated pressures.",
+        "whyCorrect": "Fibrinoid necrosis is deposition of plasma proteins and fibrin in a necrotic vessel wall and is the hallmark acute lesion of malignant hypertension, reflecting endothelial injury from abruptly, severely elevated pressures.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-492_Brick Exchange - Hypertensive Emergency_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

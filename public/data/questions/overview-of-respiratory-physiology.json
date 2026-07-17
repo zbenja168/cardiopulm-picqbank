@@ -1,0 +1,201 @@
+{
+  "categoryId": "overview-of-respiratory-physiology",
+  "categoryName": "Overview of Respiratory Physiology",
+  "questions": [
+    {
+      "id": "repic-083",
+      "topicId": "overview-of-respiratory-physiology",
+      "topicName": "Overview of Respiratory Physiology",
+      "stem": "This diagram divides the airway from the nose down to the alveoli into two functional regions. What best defines the region that begins at the respiratory bronchioles and includes the alveolar ducts and sacs?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The conducting zone, which only warms and humidifies air"
+        },
+        {
+          "label": "B",
+          "text": "The respiratory zone, where gas exchange occurs"
+        },
+        {
+          "label": "C",
+          "text": "The upper airway responsible for phonation"
+        },
+        {
+          "label": "D",
+          "text": "The anatomic dead space that does not participate in gas exchange"
+        },
+        {
+          "label": "E",
+          "text": "The pleural space surrounding the lung"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The airway is split into the conducting zone (nose through terminal bronchioles, which transports but does not exchange gas) and the respiratory zone (respiratory bronchioles, alveolar ducts, and alveoli), where actual gas exchange takes place.",
+        "whyCorrect": "The airway is split into the conducting zone (nose through terminal bronchioles, which transports but does not exchange gas) and the respiratory zone (respiratory bronchioles, alveolar ducts, and alveoli), where actual gas exchange takes place.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-083_Brick Exchange - Overview of Respiratory Physiology_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-160",
+      "topicId": "overview-of-respiratory-physiology",
+      "topicName": "Overview of Respiratory Physiology",
+      "stem": "This detailed view of the tracheal wall shows a fluid layer, beating hair-like projections, mucus-producing cells, and an upward-directed arrow toward the pharynx. What protective function is being depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mucociliary clearance (the mucociliary escalator)"
+        },
+        {
+          "label": "B",
+          "text": "Surfactant production to reduce surface tension"
+        },
+        {
+          "label": "C",
+          "text": "Gas exchange across the epithelium"
+        },
+        {
+          "label": "D",
+          "text": "Cartilage remodeling of the airway"
+        },
+        {
+          "label": "E",
+          "text": "Antibody secretion into the bloodstream"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Goblet cells and submucosal glands secrete mucus that traps pathogens and debris, while coordinated ciliary beating propels the mucus layer upward toward the pharynx to be cleared, forming the mucociliary escalator.",
+        "whyCorrect": "Goblet cells and submucosal glands secrete mucus that traps pathogens and debris, while coordinated ciliary beating propels the mucus layer upward toward the pharynx to be cleared, forming the mucociliary escalator.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-160_Brick Exchange - Overview of Respiratory Physiology_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-161",
+      "topicId": "overview-of-respiratory-physiology",
+      "topicName": "Overview of Respiratory Physiology",
+      "stem": "This close-up of respiratory epithelium shows tall cells bearing hair-like projections alongside taller cells packed with secretory granules, over a periciliary fluid layer with apical ion channels. Which cell type is chiefly responsible for producing the overlying mucus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ciliated cell"
+        },
+        {
+          "label": "B",
+          "text": "Basal cell"
+        },
+        {
+          "label": "C",
+          "text": "Club (Clara) cell"
+        },
+        {
+          "label": "D",
+          "text": "Type II pneumocyte"
+        },
+        {
+          "label": "E",
+          "text": "Goblet cell"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Goblet cells synthesize and secrete mucin granules that form the airway mucus layer, while adjacent ciliated cells propel the mucus and basal cells serve as progenitors; ion channels regulate the periciliary fluid depth needed for effective ciliary beating.",
+        "whyCorrect": "Goblet cells synthesize and secrete mucin granules that form the airway mucus layer, while adjacent ciliated cells propel the mucus and basal cells serve as progenitors; ion channels regulate the periciliary fluid depth needed for effective ciliary beating.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-161_Brick Exchange - Overview of Respiratory Physiology_p5_2.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-795",
+      "topicId": "overview-of-respiratory-physiology",
+      "topicName": "Overview of Respiratory Physiology",
+      "stem": "This cross-section of the alveolar-capillary interface shows gas movement across the barrier. What is the primary mechanism driving O2 into the capillary and CO2 into the alveolus here?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Passive diffusion down partial-pressure gradients"
+        },
+        {
+          "label": "B",
+          "text": "Primary active transport by membrane pumps"
+        },
+        {
+          "label": "C",
+          "text": "Facilitated transport by membrane channel proteins"
+        },
+        {
+          "label": "D",
+          "text": "Bulk flow through intercellular pores"
+        },
+        {
+          "label": "E",
+          "text": "Secondary active co-transport with sodium"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Gas exchange at the respiratory membrane occurs by simple passive diffusion: each gas moves from higher to lower partial pressure, with O2 entering blood to bind hemoglobin and CO2 leaving blood into the alveolus.",
+        "whyCorrect": "Gas exchange at the respiratory membrane occurs by simple passive diffusion: each gas moves from higher to lower partial pressure, with O2 entering blood to bind hemoglobin and CO2 leaving blood into the alveolus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-795_Brick Exchange - Overview of Respiratory Physiology_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-796",
+      "topicId": "overview-of-respiratory-physiology",
+      "topicName": "Overview of Respiratory Physiology",
+      "stem": "This diagram illustrates the variables governing gas transfer across the alveolar wall (area, membrane thickness, partial-pressure difference, and gas diffusivity). Based on these relationships, thickening of the membrane (as in pulmonary fibrosis) would do what to gas transfer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increase diffusion only for oxygen"
+        },
+        {
+          "label": "B",
+          "text": "Increase the rate of gas diffusion"
+        },
+        {
+          "label": "C",
+          "text": "Decrease the rate of gas diffusion"
+        },
+        {
+          "label": "D",
+          "text": "Have no effect on diffusion"
+        },
+        {
+          "label": "E",
+          "text": "Reverse the direction of CO2 flow"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "By Fick's law of diffusion, transfer rate is inversely proportional to membrane thickness; interstitial thickening increases the diffusion distance and reduces gas transfer, impairing oxygenation.",
+        "whyCorrect": "By Fick's law of diffusion, transfer rate is inversely proportional to membrane thickness; interstitial thickening increases the diffusion distance and reduces gas transfer, impairing oxygenation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-796_Brick Exchange - Overview of Respiratory Physiology_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

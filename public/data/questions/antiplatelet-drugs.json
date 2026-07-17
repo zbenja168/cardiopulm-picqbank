@@ -1,0 +1,84 @@
+{
+  "categoryId": "antiplatelet-drugs",
+  "categoryName": "Antiplatelet Drugs",
+  "questions": [
+    {
+      "id": "repic-586",
+      "topicId": "antiplatelet-drugs",
+      "topicName": "Antiplatelet Drugs",
+      "stem": "The two agents in this diagram act on the enzyme that degrades cyclic AMP within the platelet. What is the downstream consequence of their action that reduces platelet activation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intracellular cAMP falls, releasing more thromboxane A2"
+        },
+        {
+          "label": "B",
+          "text": "Adenylate cyclase is irreversibly inhibited"
+        },
+        {
+          "label": "C",
+          "text": "GPIIb/IIIa fibrinogen bridging is prevented"
+        },
+        {
+          "label": "D",
+          "text": "Thromboxane A2 receptors are directly blocked"
+        },
+        {
+          "label": "E",
+          "text": "Intracellular cAMP rises, suppressing platelet activation and aggregation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Cilostazol and dipyridamole inhibit phosphodiesterase-3, preventing breakdown of cAMP to 5'AMP. Elevated cAMP inhibits platelet activation and aggregation (and causes vasodilation).",
+        "whyCorrect": "Cilostazol and dipyridamole inhibit phosphodiesterase-3, preventing breakdown of cAMP to 5'AMP. Elevated cAMP inhibits platelet activation and aggregation (and causes vasodilation).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-586_Brick Exchange - Antiplatelet Drugs_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-587",
+      "topicId": "antiplatelet-drugs",
+      "topicName": "Antiplatelet Drugs",
+      "stem": "This pathway shows how a common antiplatelet drug acts on the cyclooxygenase step of arachidonic acid metabolism. What feature of this drug's enzyme inhibition explains why its antiplatelet effect lasts the entire platelet lifespan?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It irreversibly acetylates cyclooxygenase, and platelets cannot synthesize new enzyme"
+        },
+        {
+          "label": "B",
+          "text": "It reversibly competes with arachidonic acid at the active site"
+        },
+        {
+          "label": "C",
+          "text": "It chelates calcium needed for enzyme activity"
+        },
+        {
+          "label": "D",
+          "text": "It antagonizes the thromboxane receptor on platelets"
+        },
+        {
+          "label": "E",
+          "text": "It blocks phospholipase A2, halting substrate supply"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Aspirin irreversibly acetylates COX-1, permanently abolishing thromboxane A2 production. Because anucleate platelets cannot make new enzyme, the effect persists for the ~7-10 day platelet lifespan.",
+        "whyCorrect": "Aspirin irreversibly acetylates COX-1, permanently abolishing thromboxane A2 production. Because anucleate platelets cannot make new enzyme, the effect persists for the ~7-10 day platelet lifespan.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-587_Brick Exchange - Antiplatelet Drugs_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

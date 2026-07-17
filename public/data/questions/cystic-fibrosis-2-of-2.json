@@ -1,0 +1,45 @@
+{
+  "categoryId": "cystic-fibrosis-2-of-2",
+  "categoryName": "Cystic Fibrosis (2 of 2)",
+  "questions": [
+    {
+      "id": "repic-712",
+      "topicId": "cystic-fibrosis-2-of-2",
+      "topicName": "Cystic Fibrosis (2 of 2)",
+      "stem": "This child with cystic fibrosis wears an inflatable garment connected to an oscillation generator. What is the therapeutic purpose of this device?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mechanical chest compressions for cardiac support"
+        },
+        {
+          "label": "B",
+          "text": "Delivery of nebulized chemotherapy"
+        },
+        {
+          "label": "C",
+          "text": "High-frequency chest wall oscillation to loosen and clear airway mucus"
+        },
+        {
+          "label": "D",
+          "text": "External cardiac defibrillation"
+        },
+        {
+          "label": "E",
+          "text": "Non-invasive positive-pressure ventilation for hypercapnia"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The vest rapidly inflates and deflates to vibrate the chest wall, mobilizing thick secretions toward the large airways where they can be coughed out—an airway clearance therapy central to CF care.",
+        "whyCorrect": "The vest rapidly inflates and deflates to vibrate the chest wall, mobilizing thick secretions toward the large airways where they can be coughed out—an airway clearance therapy central to CF care.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-712_Brick Exchange - Cystic Fibrosis (2 of 2)_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

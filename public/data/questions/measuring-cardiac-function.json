@@ -1,0 +1,123 @@
+{
+  "categoryId": "measuring-cardiac-function",
+  "categoryName": "Measuring Cardiac Function",
+  "questions": [
+    {
+      "id": "repic-774",
+      "topicId": "measuring-cardiac-function",
+      "topicName": "Measuring Cardiac Function",
+      "stem": "These left ventricular pressure-volume loops compare a control loop with altered loops. What does the leftward shift of the end-systolic point along the steeper dashed line in the right panel primarily represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased preload from venous pooling"
+        },
+        {
+          "label": "B",
+          "text": "Reduced heart rate prolonging diastole"
+        },
+        {
+          "label": "C",
+          "text": "Increased venous compliance"
+        },
+        {
+          "label": "D",
+          "text": "Increased afterload with reduced stroke volume"
+        },
+        {
+          "label": "E",
+          "text": "Increased contractility (greater ejection to a smaller end-systolic volume)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The end-systolic pressure-volume relationship (ESPVR) line steepens with increased contractility, allowing the ventricle to eject to a smaller end-systolic volume at any given pressure, independent of loading conditions.",
+        "whyCorrect": "The end-systolic pressure-volume relationship (ESPVR) line steepens with increased contractility, allowing the ventricle to eject to a smaller end-systolic volume at any given pressure, independent of loading conditions.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-774_Brick Exchange - Measuring Cardiac Function_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-775",
+      "topicId": "measuring-cardiac-function",
+      "topicName": "Measuring Cardiac Function",
+      "stem": "This diagram shows oxygen consumption measured at the mouth, pulmonary artery saturation of 75%, and arterial saturation of 95%. Which method of determining cardiac output does it illustrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Echocardiographic Doppler velocity-time integral"
+        },
+        {
+          "label": "B",
+          "text": "Indicator (dye) dilution method"
+        },
+        {
+          "label": "C",
+          "text": "Pulse contour analysis"
+        },
+        {
+          "label": "D",
+          "text": "Thermodilution via Swan-Ganz catheter"
+        },
+        {
+          "label": "E",
+          "text": "Fick principle (cardiac output = VO2 / arteriovenous O2 difference)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The Fick principle calculates cardiac output by dividing whole-body oxygen consumption (VO2) by the arteriovenous oxygen content difference, here estimated from the mixed venous (PA, 75%) versus arterial (95%) saturations.",
+        "whyCorrect": "The Fick principle calculates cardiac output by dividing whole-body oxygen consumption (VO2) by the arteriovenous oxygen content difference, here estimated from the mixed venous (PA, 75%) versus arterial (95%) saturations.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-775_Brick Exchange - Measuring Cardiac Function_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-776",
+      "topicId": "measuring-cardiac-function",
+      "topicName": "Measuring Cardiac Function",
+      "stem": "An indicator is injected at a venous site and sampled from an artery, producing the concentration-versus-time curve shown, including a second smaller hump requiring extrapolation. What is that second hump, and why must it be excluded?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The arterial pulse pressure waveform"
+        },
+        {
+          "label": "B",
+          "text": "Baseline drift from sensor warming"
+        },
+        {
+          "label": "C",
+          "text": "A second bolus given to confirm the reading"
+        },
+        {
+          "label": "D",
+          "text": "A calibration artifact that is added back to the curve"
+        },
+        {
+          "label": "E",
+          "text": "Recirculation of indicator, which is excluded by extrapolating the downslope to avoid overestimating flow"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In indicator-dilution measurement of cardiac output, dye recirculates back to the sampling site before it fully clears; the primary washout curve is extrapolated exponentially so recirculated indicator does not falsely lower the calculated mean concentration and inflate estimated flow.",
+        "whyCorrect": "In indicator-dilution measurement of cardiac output, dye recirculates back to the sampling site before it fully clears; the primary washout curve is extrapolated exponentially so recirculated indicator does not falsely lower the calculated mean concentration and inflate estimated flow.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-776_Brick Exchange - Measuring Cardiac Function_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

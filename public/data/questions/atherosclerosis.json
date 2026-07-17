@@ -1,0 +1,357 @@
+{
+  "categoryId": "atherosclerosis",
+  "categoryName": "Atherosclerosis",
+  "questions": [
+    {
+      "id": "repic-102",
+      "topicId": "atherosclerosis",
+      "topicName": "Atherosclerosis",
+      "stem": "In this atheroma histology, the pale vacuolated cells sitting beneath the fibrous cap and above the lipid core are what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lipid-laden macrophages (foam cells)"
+        },
+        {
+          "label": "B",
+          "text": "Neutrophils in an acute abscess"
+        },
+        {
+          "label": "C",
+          "text": "Multinucleated giant cells of granuloma"
+        },
+        {
+          "label": "D",
+          "text": "Metastatic clear-cell carcinoma cells"
+        },
+        {
+          "label": "E",
+          "text": "Extramedullary hematopoietic precursors"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The foamy vacuolated cells are macrophages engorged with oxidized LDL (foam cells). Their accumulation forms the fatty streak, and their death contributes to the lipid/necrotic core beneath the fibrous cap.",
+        "whyCorrect": "The foamy vacuolated cells are macrophages engorged with oxidized LDL (foam cells). Their accumulation forms the fatty streak, and their death contributes to the lipid/necrotic core beneath the fibrous cap.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-102_Brick Exchange - Atherosclerosis_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-216",
+      "topicId": "atherosclerosis",
+      "topicName": "Atherosclerosis",
+      "stem": "This angiogram shows contrast filling a focal saccular outpouching (arrows) arising from a large artery. What is this lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Venous varix"
+        },
+        {
+          "label": "B",
+          "text": "Arterial aneurysm"
+        },
+        {
+          "label": "C",
+          "text": "Focal atherosclerotic stenosis"
+        },
+        {
+          "label": "D",
+          "text": "Dissection flap"
+        },
+        {
+          "label": "E",
+          "text": "Arteriovenous fistula"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The rounded contrast-filled sac projecting from the vessel is an aneurysm, a localized dilation of the arterial wall. Atherosclerosis with medial weakening is a common cause, and rupture is the feared complication.",
+        "whyCorrect": "The rounded contrast-filled sac projecting from the vessel is an aneurysm, a localized dilation of the arterial wall. Atherosclerosis with medial weakening is a common cause, and rupture is the feared complication.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-216_Brick Exchange - Atherosclerosis_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-217",
+      "topicId": "atherosclerosis",
+      "topicName": "Atherosclerosis",
+      "stem": "On this angiogram the contrast column shows multiple irregular focal narrowings (arrows) along the vessel. What do these findings represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Normal branching side vessels"
+        },
+        {
+          "label": "B",
+          "text": "Uniform vasospasm of the whole segment"
+        },
+        {
+          "label": "C",
+          "text": "External compression by a mass"
+        },
+        {
+          "label": "D",
+          "text": "Contrast layering artifact only"
+        },
+        {
+          "label": "E",
+          "text": "Atherosclerotic stenoses of the artery"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The beaded, irregular luminal narrowings mark atherosclerotic plaques causing focal stenoses that reduce distal perfusion, the imaging correlate of obstructive peripheral or aortoiliac atherosclerosis.",
+        "whyCorrect": "The beaded, irregular luminal narrowings mark atherosclerotic plaques causing focal stenoses that reduce distal perfusion, the imaging correlate of obstructive peripheral or aortoiliac atherosclerosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-217_Brick Exchange - Atherosclerosis_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-442",
+      "topicId": "atherosclerosis",
+      "topicName": "Atherosclerosis",
+      "stem": "This cross-section of a coronary-caliber artery shows the lumen markedly narrowed by an eccentric lesion with a fibrous cap overlying a lipid-rich core. What is the greatest acute risk from this lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Spontaneous resorption of the lipid core restoring flow"
+        },
+        {
+          "label": "B",
+          "text": "Cap rupture with superimposed thrombosis occluding the lumen"
+        },
+        {
+          "label": "C",
+          "text": "Embolization of the entire tunica media"
+        },
+        {
+          "label": "D",
+          "text": "Aneurysmal dilation from medial thinning"
+        },
+        {
+          "label": "E",
+          "text": "Dissection of the tunica adventitia into surrounding fat"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The image is an atheromatous plaque with a fibrous cap over a lipid/necrotic core. A thin or inflamed cap can rupture, exposing thrombogenic core material and triggering acute thrombosis, the mechanism of most myocardial infarctions.",
+        "whyCorrect": "The image is an atheromatous plaque with a fibrous cap over a lipid/necrotic core. A thin or inflamed cap can rupture, exposing thrombogenic core material and triggering acute thrombosis, the mechanism of most myocardial infarctions.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-442_Brick Exchange - Atherosclerosis_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-443",
+      "topicId": "atherosclerosis",
+      "topicName": "Atherosclerosis",
+      "stem": "These opened arterial specimens progress from mild luminal change (A) to the raised, ulcerated, calcified lesions in (B). What are the advanced lesions in B best described as?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vasculitic aneurysms of small vessels"
+        },
+        {
+          "label": "B",
+          "text": "Fibromuscular dysplasia of the media"
+        },
+        {
+          "label": "C",
+          "text": "Metastatic tumor deposits on the intima"
+        },
+        {
+          "label": "D",
+          "text": "Fresh post-mortem clot adherent to normal intima"
+        },
+        {
+          "label": "E",
+          "text": "Complicated atherosclerotic plaques with ulceration and calcification"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Panel B shows complicated atheroma: raised plaques with surface ulceration, hemorrhage, and calcification. These complicated lesions are prone to thrombosis and are the substrate for clinical events.",
+        "whyCorrect": "Panel B shows complicated atheroma: raised plaques with surface ulceration, hemorrhage, and calcification. These complicated lesions are prone to thrombosis and are the substrate for clinical events.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-443_Brick Exchange - Atherosclerosis_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-444",
+      "topicId": "atherosclerosis",
+      "topicName": "Atherosclerosis",
+      "stem": "This artery shows a plaque that has broken open with material filling the lumen. What is the labeled luminal material and its immediate consequence?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Contrast dye retained after angiography"
+        },
+        {
+          "label": "B",
+          "text": "A cholesterol embolus originating from a distant valve"
+        },
+        {
+          "label": "C",
+          "text": "Pooled lymph draining from the adventitia"
+        },
+        {
+          "label": "D",
+          "text": "A thrombus that acutely occludes the vessel and causes downstream ischemia"
+        },
+        {
+          "label": "E",
+          "text": "Reactive granulation tissue healing the lumen"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The disrupted plaque exposed thrombogenic core, triggering thrombus formation shown filling the lumen. Such acute thrombotic occlusion over a ruptured plaque underlies myocardial infarction and ischemic stroke.",
+        "whyCorrect": "The disrupted plaque exposed thrombogenic core, triggering thrombus formation shown filling the lumen. Such acute thrombotic occlusion over a ruptured plaque underlies myocardial infarction and ischemic stroke.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-444_Brick Exchange - Atherosclerosis_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-657",
+      "topicId": "atherosclerosis",
+      "topicName": "Atherosclerosis",
+      "stem": "This sequence begins with endothelial dysfunction and ends in a fibrous plaque. Which event links the fatty streak stage to plaque formation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Endothelial cells proliferate to fill the lumen with a benign polyp"
+        },
+        {
+          "label": "B",
+          "text": "Medial calcification precedes any lipid accumulation"
+        },
+        {
+          "label": "C",
+          "text": "Platelet plugs alone form the entire fibrous cap without cells"
+        },
+        {
+          "label": "D",
+          "text": "LDL-laden macrophages become foam cells, then smooth muscle migrates and lays down a fibrous cap"
+        },
+        {
+          "label": "E",
+          "text": "Bacterial colonization of the intima seeds the plaque"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "After endothelial injury, LDL enters the intima and is engulfed by macrophages forming foam cells (fatty streak). Smooth muscle cells then migrate from the media and produce extracellular matrix, creating the fibrous plaque.",
+        "whyCorrect": "After endothelial injury, LDL enters the intima and is engulfed by macrophages forming foam cells (fatty streak). Smooth muscle cells then migrate from the media and produce extracellular matrix, creating the fibrous plaque.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-657_Brick Exchange - Atherosclerosis_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-658",
+      "topicId": "atherosclerosis",
+      "topicName": "Atherosclerosis",
+      "stem": "Comparing the normal artery (A) to the narrowed artery (B), what is the direct hemodynamic consequence shown by the plaque?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The plaque only affects the outer adventitia with no flow change"
+        },
+        {
+          "label": "B",
+          "text": "The plaque thins the wall producing an aneurysm"
+        },
+        {
+          "label": "C",
+          "text": "Plaque encroaches on the lumen, reducing and disturbing blood flow"
+        },
+        {
+          "label": "D",
+          "text": "The plaque widens the lumen and increases flow"
+        },
+        {
+          "label": "E",
+          "text": "The plaque replaces the blood with fibrous tissue"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The cross-sections show plaque building within the intima and bulging into the lumen, narrowing it and producing the abnormal/turbulent flow depicted, which limits oxygen delivery and predisposes to thrombosis.",
+        "whyCorrect": "The cross-sections show plaque building within the intima and bulging into the lumen, narrowing it and producing the abnormal/turbulent flow depicted, which limits oxygen delivery and predisposes to thrombosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-658_Brick Exchange - Atherosclerosis_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-659",
+      "topicId": "atherosclerosis",
+      "topicName": "Atherosclerosis",
+      "stem": "In this schematic of plaque development, what is the role of VCAM-1 expressed on the activated endothelium (step 2)?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It directly oxidizes LDL within the blood"
+        },
+        {
+          "label": "B",
+          "text": "It forms the fibrous cap over the necrotic core"
+        },
+        {
+          "label": "C",
+          "text": "It triggers smooth muscle apoptosis in the media"
+        },
+        {
+          "label": "D",
+          "text": "It degrades the internal elastic membrane"
+        },
+        {
+          "label": "E",
+          "text": "It mediates monocyte adhesion so they can migrate into the intima"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "After endothelial damage, adhesion molecules such as VCAM-1 capture circulating monocytes, which transmigrate into the intima and differentiate into macrophages that take up LDL to become foam cells, driving plaque growth.",
+        "whyCorrect": "After endothelial damage, adhesion molecules such as VCAM-1 capture circulating monocytes, which transmigrate into the intima and differentiate into macrophages that take up LDL to become foam cells, driving plaque growth.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-659_Brick Exchange - Atherosclerosis_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

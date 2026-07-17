@@ -1,0 +1,240 @@
+{
+  "categoryId": "coronary-blood-flow-vascular-physiology",
+  "categoryName": "Coronary Blood Flow- Vascular Physiology",
+  "questions": [
+    {
+      "id": "repic-044",
+      "topicId": "coronary-blood-flow-vascular-physiology",
+      "topicName": "Coronary Blood Flow- Vascular Physiology",
+      "stem": "This illustration shows the red vessels coursing over the surface of the heart from the base of the aorta. From where do these vessels originate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The pulmonary trunk"
+        },
+        {
+          "label": "B",
+          "text": "The coronary sinus"
+        },
+        {
+          "label": "C",
+          "text": "The right atrium directly"
+        },
+        {
+          "label": "D",
+          "text": "The superior vena cava"
+        },
+        {
+          "label": "E",
+          "text": "The coronary ostia at the base of the aorta, just above the aortic valve cusps"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The coronary arteries arise from the aortic sinuses (of Valsalva) immediately above the aortic valve, so they fill preferentially during diastole when the valve closes.",
+        "whyCorrect": "The coronary arteries arise from the aortic sinuses (of Valsalva) immediately above the aortic valve, so they fill preferentially during diastole when the valve closes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-044_Brick Exchange - Coronary Blood Flow- Vascular Physiology_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-703",
+      "topicId": "coronary-blood-flow-vascular-physiology",
+      "topicName": "Coronary Blood Flow- Vascular Physiology",
+      "stem": "This graph plots coronary blood flow against myocardial oxygen consumption for normal versus diseased coronary arteries, with a shaded 'oxygen deficit' region. What does that shaded region physiologically represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased oxygen extraction by normal myocardium"
+        },
+        {
+          "label": "B",
+          "text": "Reduced oxygen demand in the diseased heart"
+        },
+        {
+          "label": "C",
+          "text": "Excess oxygen delivered to the myocardium at rest"
+        },
+        {
+          "label": "D",
+          "text": "Oxygen consumed by the coronary endothelium"
+        },
+        {
+          "label": "E",
+          "text": "The failure of diseased coronaries to raise flow enough to meet rising myocardial oxygen demand"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Diseased (stenotic) coronaries have limited flow reserve; as myocardial oxygen demand rises they cannot augment flow proportionally, creating a supply-demand mismatch that manifests as ischemia.",
+        "whyCorrect": "Diseased (stenotic) coronaries have limited flow reserve; as myocardial oxygen demand rises they cannot augment flow proportionally, creating a supply-demand mismatch that manifests as ischemia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-703_Brick Exchange - Coronary Blood Flow- Vascular Physiology_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-704",
+      "topicId": "coronary-blood-flow-vascular-physiology",
+      "topicName": "Coronary Blood Flow- Vascular Physiology",
+      "stem": "This cross-section of the ventricular wall shows coronary vessels penetrating from the outer surface inward. Which layer of the myocardium is most vulnerable to ischemia?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The visceral pleura"
+        },
+        {
+          "label": "B",
+          "text": "The subendocardium (innermost layer)"
+        },
+        {
+          "label": "C",
+          "text": "The pericardium"
+        },
+        {
+          "label": "D",
+          "text": "The mid-myocardium only"
+        },
+        {
+          "label": "E",
+          "text": "The epicardium (outer layer)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Penetrating coronary arteries reach the subendocardium last and it is exposed to the highest wall tension during systole, making the inner layer the most susceptible to ischemic injury.",
+        "whyCorrect": "Penetrating coronary arteries reach the subendocardium last and it is exposed to the highest wall tension during systole, making the inner layer the most susceptible to ischemic injury.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-704_Brick Exchange - Coronary Blood Flow- Vascular Physiology_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-705",
+      "topicId": "coronary-blood-flow-vascular-physiology",
+      "topicName": "Coronary Blood Flow- Vascular Physiology",
+      "stem": "The boxed region of the ventricular wall highlights how coronary arteries traverse the myocardium. In which direction do these arteries perfuse the muscle?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "From the endocardium outward to the epicardium"
+        },
+        {
+          "label": "B",
+          "text": "From the epicardial (outer) surface toward the endocardium (inner surface)"
+        },
+        {
+          "label": "C",
+          "text": "Circumferentially within the pericardial sac"
+        },
+        {
+          "label": "D",
+          "text": "From the coronary sinus into the wall"
+        },
+        {
+          "label": "E",
+          "text": "Directly from cavity blood into the muscle"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Coronary arteries run on the epicardial surface and send penetrating branches inward toward the endocardium; this outer-to-inner course makes the subendocardium most susceptible to compression and ischemia.",
+        "whyCorrect": "Coronary arteries run on the epicardial surface and send penetrating branches inward toward the endocardium; this outer-to-inner course makes the subendocardium most susceptible to compression and ischemia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-705_Brick Exchange - Coronary Blood Flow- Vascular Physiology_p3_2.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-706",
+      "topicId": "coronary-blood-flow-vascular-physiology",
+      "topicName": "Coronary Blood Flow- Vascular Physiology",
+      "stem": "These tracings of aortic pressure and coronary flow, paired with the muscle-fiber diagrams, compare the cardiac phases. When is left coronary blood flow greatest?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "During systole at peak ventricular contraction"
+        },
+        {
+          "label": "B",
+          "text": "During isovolumetric contraction"
+        },
+        {
+          "label": "C",
+          "text": "During the ejection phase of systole"
+        },
+        {
+          "label": "D",
+          "text": "During diastole, when the relaxed myocardium no longer compresses the vessels"
+        },
+        {
+          "label": "E",
+          "text": "Equally throughout the cardiac cycle"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In systole, contracting myocardial fibers compress the intramural coronary vessels and left coronary flow falls toward zero; flow is maximal in diastole when the muscle relaxes and aortic pressure keeps the arteries perfused.",
+        "whyCorrect": "In systole, contracting myocardial fibers compress the intramural coronary vessels and left coronary flow falls toward zero; flow is maximal in diastole when the muscle relaxes and aortic pressure keeps the arteries perfused.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-706_Brick Exchange - Coronary Blood Flow- Vascular Physiology_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-707",
+      "topicId": "coronary-blood-flow-vascular-physiology",
+      "topicName": "Coronary Blood Flow- Vascular Physiology",
+      "stem": "This diagram contrasts ventricular contraction and relaxation with respect to the aortic valve and coronary arteries. During which phase do the coronary arteries fill?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "When the AV valves are open in early filling"
+        },
+        {
+          "label": "B",
+          "text": "Ventricular contraction with the aortic valve open"
+        },
+        {
+          "label": "C",
+          "text": "Continuously and equally in both phases"
+        },
+        {
+          "label": "D",
+          "text": "During atrial systole only"
+        },
+        {
+          "label": "E",
+          "text": "Ventricular relaxation (diastole), when backflow closes the aortic valve and fills the coronary ostia"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "As the ventricle relaxes, aortic backflow snaps the aortic valve shut and drives blood into the coronary ostia sitting just above the cusps, so coronary filling occurs chiefly during diastole.",
+        "whyCorrect": "As the ventricle relaxes, aortic backflow snaps the aortic valve shut and drives blood into the coronary ostia sitting just above the cusps, so coronary filling occurs chiefly during diastole.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-707_Brick Exchange - Coronary Blood Flow- Vascular Physiology_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

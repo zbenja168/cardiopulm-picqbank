@@ -1,0 +1,318 @@
+{
+  "categoryId": "mitral-stenosis",
+  "categoryName": "Mitral Stenosis",
+  "questions": [
+    {
+      "id": "repic-081",
+      "topicId": "mitral-stenosis",
+      "topicName": "Mitral Stenosis",
+      "stem": "This labeled diagram shows leaflets anchored by chordae tendineae to papillary muscles, with an anterior leaflet and anterior annulus. Which structure normally prevents these leaflets from everting into the atrium during systole?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The moderator band bracing the free wall"
+        },
+        {
+          "label": "B",
+          "text": "Chordae tendineae anchoring the leaflets to the papillary muscles"
+        },
+        {
+          "label": "C",
+          "text": "The trabeculae carneae lining the ventricular apex"
+        },
+        {
+          "label": "D",
+          "text": "The interventricular septum pushing the leaflets shut"
+        },
+        {
+          "label": "E",
+          "text": "The annular ring contracting to seal the orifice"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "During systole the papillary muscles contract and the chordae tendineae hold the mitral leaflets in a closed position, preventing them from prolapsing back into the left atrium. Failure of this apparatus (e.g., chordal rupture) leads to regurgitation.",
+        "whyCorrect": "During systole the papillary muscles contract and the chordae tendineae hold the mitral leaflets in a closed position, preventing them from prolapsing back into the left atrium. Failure of this apparatus (e.g., chordal rupture) leads to regurgitation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-081_Brick Exchange - Mitral Stenosis_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-082",
+      "topicId": "mitral-stenosis",
+      "topicName": "Mitral Stenosis",
+      "stem": "This cadaveric atrial-view photograph shows a large anterior leaflet, a scalloped posterior leaflet (P1-P3 segments), and anterolateral and posteromedial commissures. Which cardiac valve is displayed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aortic valve"
+        },
+        {
+          "label": "B",
+          "text": "Pulmonary valve"
+        },
+        {
+          "label": "C",
+          "text": "Mitral valve"
+        },
+        {
+          "label": "D",
+          "text": "Tricuspid valve"
+        },
+        {
+          "label": "E",
+          "text": "Coronary sinus ostium"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The bileaflet arrangement with a single broad anterior leaflet, a scalloped three-segment posterior leaflet, and two commissures is the hallmark surgical anatomy of the mitral valve viewed from the left atrium.",
+        "whyCorrect": "The bileaflet arrangement with a single broad anterior leaflet, a scalloped three-segment posterior leaflet, and two commissures is the hallmark surgical anatomy of the mitral valve viewed from the left atrium.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-082_Brick Exchange - Mitral Stenosis_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-321",
+      "topicId": "mitral-stenosis",
+      "topicName": "Mitral Stenosis",
+      "stem": "This diagram shows a catheter advanced from the inferior vena cava through the right atrium, across a transseptal puncture into the left atrium, with a balloon inflated at the mitral valve. What procedure is being performed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mitral annuloplasty ring placement"
+        },
+        {
+          "label": "B",
+          "text": "Transcatheter aortic valve replacement"
+        },
+        {
+          "label": "C",
+          "text": "Radiofrequency pulmonary vein ablation"
+        },
+        {
+          "label": "D",
+          "text": "Percutaneous balloon mitral valvuloplasty"
+        },
+        {
+          "label": "E",
+          "text": "Left atrial appendage occlusion"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A catheter reaches the left atrium via a transseptal puncture, and a balloon is inflated across the stenotic mitral orifice to split the fused commissures. This percutaneous balloon mitral valvuloplasty relieves obstruction in favorable rheumatic mitral stenosis.",
+        "whyCorrect": "A catheter reaches the left atrium via a transseptal puncture, and a balloon is inflated across the stenotic mitral orifice to split the fused commissures. This percutaneous balloon mitral valvuloplasty relieves obstruction in favorable rheumatic mitral stenosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-321_Brick Exchange - Mitral Stenosis_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-528",
+      "topicId": "mitral-stenosis",
+      "topicName": "Mitral Stenosis",
+      "stem": "This illustration traces a clot forming in the heart and lodging in a cerebral artery, with atrial fibrillation labeled at the heart. In a patient with mitral stenosis, what best explains this sequence?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aortic atherosclerotic plaque ruptures and showers the cerebral arteries"
+        },
+        {
+          "label": "B",
+          "text": "Carotid stenosis alone produces the obstruction, unrelated to the heart"
+        },
+        {
+          "label": "C",
+          "text": "Right-to-left shunting sends venous clots directly into the carotid"
+        },
+        {
+          "label": "D",
+          "text": "Endocarditis vegetations embolize from the aortic valve"
+        },
+        {
+          "label": "E",
+          "text": "Left atrial stasis and atrial fibrillation promote thrombus that embolizes to the brain, causing stroke"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Mitral stenosis dilates the left atrium and predisposes to atrial fibrillation. Blood stasis in the fibrillating, enlarged atrium fosters thrombus formation; dislodged clot travels through the systemic circulation and can occlude a cerebral artery, producing a cardioembolic stroke.",
+        "whyCorrect": "Mitral stenosis dilates the left atrium and predisposes to atrial fibrillation. Blood stasis in the fibrillating, enlarged atrium fosters thrombus formation; dislodged clot travels through the systemic circulation and can occlude a cerebral artery, producing a cardioembolic stroke.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-528_Brick Exchange - Mitral Stenosis_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-529",
+      "topicId": "mitral-stenosis",
+      "topicName": "Mitral Stenosis",
+      "stem": "This gross specimen shows a mitral valve viewed from the atrium with a narrowed, slit-like central orifice and thickened, retracted leaflets. What diagnosis does this appearance represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A bicuspid aortic valve"
+        },
+        {
+          "label": "B",
+          "text": "A flail leaflet from ruptured chordae"
+        },
+        {
+          "label": "C",
+          "text": "A normal, widely patent mitral valve"
+        },
+        {
+          "label": "D",
+          "text": "Bacterial vegetations of infective endocarditis"
+        },
+        {
+          "label": "E",
+          "text": "Mitral stenosis with a fish-mouth orifice"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Chronic (usually rheumatic) inflammation fuses the commissures and thickens the leaflets, reducing the opening to a narrow fish-mouth slit. This is the classic gross appearance of mitral stenosis.",
+        "whyCorrect": "Chronic (usually rheumatic) inflammation fuses the commissures and thickens the leaflets, reducing the opening to a narrow fish-mouth slit. This is the classic gross appearance of mitral stenosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-529_Brick Exchange - Mitral Stenosis_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-530",
+      "topicId": "mitral-stenosis",
+      "topicName": "Mitral Stenosis",
+      "stem": "This gross specimen (panel C) shows a mitral valve with a reduced orifice and an arrow pointing to yellow-tan nodular material along the thickened leaflet. What does the arrowed material most likely represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fresh red thrombus adherent to the leaflet"
+        },
+        {
+          "label": "B",
+          "text": "Fatty streaks of early atheroma"
+        },
+        {
+          "label": "C",
+          "text": "Myxomatous ground substance expanding the leaflet"
+        },
+        {
+          "label": "D",
+          "text": "Friable infective vegetations"
+        },
+        {
+          "label": "E",
+          "text": "Calcific deposits within the fibrotic stenotic valve"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Long-standing mitral stenosis leads to fibrosis with dystrophic calcification of the leaflets and commissures. The firm yellow-tan nodular deposits indicated by the arrow are calcium, which stiffens the valve and further narrows the orifice.",
+        "whyCorrect": "Long-standing mitral stenosis leads to fibrosis with dystrophic calcification of the leaflets and commissures. The firm yellow-tan nodular deposits indicated by the arrow are calcium, which stiffens the valve and further narrows the orifice.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-530_Brick Exchange - Mitral Stenosis_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-784",
+      "topicId": "mitral-stenosis",
+      "topicName": "Mitral Stenosis",
+      "stem": "This diagram compares a normal heart with one showing mitral valve stenosis, where the mitral orifice is narrowed as blood passes from the left atrium to the left ventricle. What is the principal hemodynamic consequence of the narrowing shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Impaired diastolic filling of the left ventricle with elevated left atrial pressure"
+        },
+        {
+          "label": "B",
+          "text": "Reduced afterload allowing rapid ventricular emptying"
+        },
+        {
+          "label": "C",
+          "text": "Backflow from the aorta into the left ventricle in diastole"
+        },
+        {
+          "label": "D",
+          "text": "Systolic backflow from the left ventricle into the left atrium"
+        },
+        {
+          "label": "E",
+          "text": "Increased forward stroke volume from the left ventricle"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A narrowed mitral orifice obstructs flow from the left atrium into the left ventricle during diastole. Pressure builds behind the valve, raising left atrial and pulmonary venous pressures while the left ventricle remains underfilled, producing the diastolic rumble and pulmonary congestion of mitral stenosis.",
+        "whyCorrect": "A narrowed mitral orifice obstructs flow from the left atrium into the left ventricle during diastole. Pressure builds behind the valve, raising left atrial and pulmonary venous pressures while the left ventricle remains underfilled, producing the diastolic rumble and pulmonary congestion of mitral stenosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-784_Brick Exchange - Mitral Stenosis_p1_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-785",
+      "topicId": "mitral-stenosis",
+      "topicName": "Mitral Stenosis",
+      "stem": "The left panel shows pressure-volume loops (normal vs mitral stenosis) and the right panel shows pressure tracings where left atrial pressure exceeds left ventricular pressure during diastole. What does this persistent diastolic LA-to-LV pressure difference represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A regurgitant v wave from mitral incompetence"
+        },
+        {
+          "label": "B",
+          "text": "The transmitral diastolic pressure gradient caused by the stenotic valve"
+        },
+        {
+          "label": "C",
+          "text": "Normal ventricular-arterial coupling during ejection"
+        },
+        {
+          "label": "D",
+          "text": "The systolic gradient across a stenotic aortic valve"
+        },
+        {
+          "label": "E",
+          "text": "The pressure drop across an obstructed pulmonary valve"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A normal open mitral valve allows LA and LV diastolic pressures to equalize. In mitral stenosis the narrowed orifice sustains a pressure gradient, so LA pressure stays above LV pressure throughout diastole. The PV loop also shows the reduced LV filling and smaller stroke volume that result.",
+        "whyCorrect": "A normal open mitral valve allows LA and LV diastolic pressures to equalize. In mitral stenosis the narrowed orifice sustains a pressure gradient, so LA pressure stays above LV pressure throughout diastole. The PV loop also shows the reduced LV filling and smaller stroke volume that result.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-785_Brick Exchange - Mitral Stenosis_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

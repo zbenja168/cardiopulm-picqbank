@@ -1,0 +1,45 @@
+{
+  "categoryId": "dyslipidemia-pharmacological-and-non-pharmacological-options",
+  "categoryName": "Dyslipidemia: Pharmacological and Non-Pharmacological options",
+  "questions": [
+    {
+      "id": "repic-589",
+      "topicId": "dyslipidemia-pharmacological-and-non-pharmacological-options",
+      "topicName": "Dyslipidemia: Pharmacological and Non-Pharmacological options",
+      "stem": "This diagram shows a drug entering a hepatocyte, being loaded onto the RISC complex, and directing degradation of PCSK9 mRNA. By what mechanism does this agent (inclisiran) lower LDL cholesterol?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is a small interfering RNA that silences PCSK9 mRNA, reducing PCSK9 synthesis so more LDL receptors persist on the hepatocyte surface"
+        },
+        {
+          "label": "B",
+          "text": "It blocks intestinal absorption of dietary and biliary cholesterol at the brush border"
+        },
+        {
+          "label": "C",
+          "text": "It sequesters bile acids in the gut lumen to increase their fecal excretion"
+        },
+        {
+          "label": "D",
+          "text": "It is a monoclonal antibody that directly binds and neutralizes circulating LDL particles"
+        },
+        {
+          "label": "E",
+          "text": "It competitively inhibits HMG-CoA reductase to block hepatic cholesterol synthesis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Inclisiran is a siRNA that harnesses the RISC pathway to degrade PCSK9 mRNA. Less PCSK9 means fewer LDL receptors are targeted for lysosomal destruction, so more receptors recycle to the surface and clear more LDL from the blood.",
+        "whyCorrect": "Inclisiran is a siRNA that harnesses the RISC pathway to degrade PCSK9 mRNA. Less PCSK9 means fewer LDL receptors are targeted for lysosomal destruction, so more receptors recycle to the surface and clear more LDL from the blood.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-589_Brick Exchange - Dyslipidemia_ Pharmacological and Non-Pharmacological options_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

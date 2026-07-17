@@ -1,0 +1,123 @@
+{
+  "categoryId": "respiratory-alveolar-ventilation-and-dead-space-1-of-2",
+  "categoryName": "Respiratory: Alveolar ventilation and Dead space 1 of 2",
+  "questions": [
+    {
+      "id": "repic-854",
+      "topicId": "respiratory-alveolar-ventilation-and-dead-space-1-of-2",
+      "topicName": "Respiratory: Alveolar ventilation and Dead space 1 of 2",
+      "stem": "Using the values shown (tidal volume 500 ml, anatomic dead space 150 ml, frequency 15/min), what is the alveolar ventilation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2,250 ml/min"
+        },
+        {
+          "label": "B",
+          "text": "Approximately 5,250 ml/min"
+        },
+        {
+          "label": "C",
+          "text": "750 ml/min"
+        },
+        {
+          "label": "D",
+          "text": "7,500 ml/min"
+        },
+        {
+          "label": "E",
+          "text": "3,000 ml/min"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Alveolar ventilation = (tidal volume - dead space) x respiratory rate = (500 - 150) x 15 = 5,250 ml/min. Total (minute) ventilation of 7,500 ml/min overstates gas exchange because ~150 ml per breath fills conducting airways.",
+        "whyCorrect": "Alveolar ventilation = (tidal volume - dead space) x respiratory rate = (500 - 150) x 15 = 5,250 ml/min. Total (minute) ventilation of 7,500 ml/min overstates gas exchange because ~150 ml per breath fills conducting airways.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-854_Brick Exchange - Respiratory_ Alveolar ventilation and Dead space 1 of 2_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-855",
+      "topicId": "respiratory-alveolar-ventilation-and-dead-space-1-of-2",
+      "topicName": "Respiratory: Alveolar ventilation and Dead space 1 of 2",
+      "stem": "This figure plots the partial pressure of oxygen falling stepwise from atmospheric air (159) through alveolar gas and arterial blood down to mitochondria (5 mmHg). What concept does it illustrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The oxyhemoglobin dissociation curve"
+        },
+        {
+          "label": "B",
+          "text": "The oxygen cascade from ambient air to the mitochondria"
+        },
+        {
+          "label": "C",
+          "text": "The Bohr shift with rising CO2"
+        },
+        {
+          "label": "D",
+          "text": "Carbon dioxide transport in blood"
+        },
+        {
+          "label": "E",
+          "text": "The alveolar-arterial gradient reversal during exercise"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The stepwise decline in PO2 from inspired air through humidification, alveolar dilution, diffusion, venous admixture, and tissue diffusion down to mitochondria is the oxygen cascade—the sequential pressure drops driving O2 from atmosphere to cells.",
+        "whyCorrect": "The stepwise decline in PO2 from inspired air through humidification, alveolar dilution, diffusion, venous admixture, and tissue diffusion down to mitochondria is the oxygen cascade—the sequential pressure drops driving O2 from atmosphere to cells.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-855_Brick Exchange - Respiratory_ Alveolar ventilation and Dead space 1 of 2_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-856",
+      "topicId": "respiratory-alveolar-ventilation-and-dead-space-1-of-2",
+      "topicName": "Respiratory: Alveolar ventilation and Dead space 1 of 2",
+      "stem": "This equation computes alveolar oxygen tension from inspired oxygen, barometric and water vapor pressures, and PaCO2 divided by the respiratory quotient. It is most directly used clinically to calculate which value?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The bicarbonate deficit"
+        },
+        {
+          "label": "B",
+          "text": "The alveolar-arterial (A-a) oxygen gradient"
+        },
+        {
+          "label": "C",
+          "text": "The oxygen content of arterial blood (CaO2)"
+        },
+        {
+          "label": "D",
+          "text": "The dead space fraction (Vd/Vt)"
+        },
+        {
+          "label": "E",
+          "text": "The anion gap"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "This is the alveolar gas equation. Solving for alveolar PO2 (PAO2) and subtracting measured arterial PO2 (PaO2) yields the A-a gradient, which helps distinguish causes of hypoxemia (e.g., shunt/V-Q mismatch versus hypoventilation).",
+        "whyCorrect": "This is the alveolar gas equation. Solving for alveolar PO2 (PAO2) and subtracting measured arterial PO2 (PaO2) yields the A-a gradient, which helps distinguish causes of hypoxemia (e.g., shunt/V-Q mismatch versus hypoventilation).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-856_Brick Exchange - Respiratory_ Alveolar ventilation and Dead space 1 of 2_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

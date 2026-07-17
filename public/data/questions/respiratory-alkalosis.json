@@ -1,0 +1,45 @@
+{
+  "categoryId": "respiratory-alkalosis",
+  "categoryName": "Respiratory Alkalosis",
+  "questions": [
+    {
+      "id": "repic-361",
+      "topicId": "respiratory-alkalosis",
+      "topicName": "Respiratory Alkalosis",
+      "stem": "This contrast-enhanced axial CT of the chest shows red arrows pointing to filling defects within the central pulmonary arteries. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute pulmonary embolism"
+        },
+        {
+          "label": "B",
+          "text": "Aortic dissection"
+        },
+        {
+          "label": "C",
+          "text": "Lung abscess"
+        },
+        {
+          "label": "D",
+          "text": "Pericardial effusion"
+        },
+        {
+          "label": "E",
+          "text": "Mediastinal lymphadenopathy"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "On CT pulmonary angiography, hypodense (dark) filling defects within the contrast-opacified pulmonary arteries indicate thromboemboli. Large central emboli can cause hyperventilation and a secondary respiratory alkalosis.",
+        "whyCorrect": "On CT pulmonary angiography, hypodense (dark) filling defects within the contrast-opacified pulmonary arteries indicate thromboemboli. Large central emboli can cause hyperventilation and a secondary respiratory alkalosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-361_Brick Exchange - Respiratory Alkalosis_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

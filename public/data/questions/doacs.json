@@ -1,0 +1,45 @@
+{
+  "categoryId": "doacs",
+  "categoryName": "DOACs",
+  "questions": [
+    {
+      "id": "repic-588",
+      "topicId": "doacs",
+      "topicName": "DOACs",
+      "stem": "The boxed drugs (apixaban, rivaroxaban, edoxaban) block the circled clotting factor in this cascade. That factor normally catalyzes which reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Conversion of plasminogen to plasmin"
+        },
+        {
+          "label": "B",
+          "text": "Conversion of prothrombin to thrombin"
+        },
+        {
+          "label": "C",
+          "text": "Cross-linking of fibrin by factor XIII"
+        },
+        {
+          "label": "D",
+          "text": "Activation of factor VII by tissue factor"
+        },
+        {
+          "label": "E",
+          "text": "Conversion of fibrinogen to fibrin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Factor Xa sits at the start of the common pathway and converts prothrombin (II) to thrombin (IIa); the '-xaban' direct oral anticoagulants inhibit Xa, reducing thrombin generation and clot formation.",
+        "whyCorrect": "Factor Xa sits at the start of the common pathway and converts prothrombin (II) to thrombin (IIa); the '-xaban' direct oral anticoagulants inhibit Xa, reducing thrombin generation and clot formation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-588_Brick Exchange - DOACs_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

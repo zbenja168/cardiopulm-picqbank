@@ -1,0 +1,123 @@
+{
+  "categoryId": "acute-respiratory-distress-syndrome",
+  "categoryName": "Acute Respiratory Distress Syndrome",
+  "questions": [
+    {
+      "id": "repic-177",
+      "topicId": "acute-respiratory-distress-syndrome",
+      "topicName": "Acute Respiratory Distress Syndrome",
+      "stem": "These three bedside images compare a normal aerated lung with two patterns of increased lung water at the pleural surface. What imaging modality is being used?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "MRI of the thorax"
+        },
+        {
+          "label": "B",
+          "text": "High-resolution CT"
+        },
+        {
+          "label": "C",
+          "text": "Ventilation-perfusion scan"
+        },
+        {
+          "label": "D",
+          "text": "Lung ultrasound"
+        },
+        {
+          "label": "E",
+          "text": "Chest radiograph"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Horizontal A-lines and vertical B-lines are reverberation artifacts seen on lung ultrasound; a heterogeneous, patchy B-line distribution favors ARDS over the homogeneous pattern of cardiogenic pulmonary edema.",
+        "whyCorrect": "Horizontal A-lines and vertical B-lines are reverberation artifacts seen on lung ultrasound; a heterogeneous, patchy B-line distribution favors ARDS over the homogeneous pattern of cardiogenic pulmonary edema.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-177_Brick Exchange - Acute Respiratory Distress Syndrome_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-405",
+      "topicId": "acute-respiratory-distress-syndrome",
+      "topicName": "Acute Respiratory Distress Syndrome",
+      "stem": "This lung section from a patient with acute respiratory failure shows widened alveolar septa, intra-alveolar hemorrhage, and inflammatory cells filling airspaces. What underlying process does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Caseating granulomatous inflammation"
+        },
+        {
+          "label": "B",
+          "text": "Diffuse alveolar damage"
+        },
+        {
+          "label": "C",
+          "text": "Usual interstitial pneumonia"
+        },
+        {
+          "label": "D",
+          "text": "Bronchopneumonia with abscess"
+        },
+        {
+          "label": "E",
+          "text": "Emphysematous airspace destruction"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "ARDS is the clinical correlate of diffuse alveolar damage, characterized by alveolar epithelial and endothelial injury, protein-rich exudate, and inflammatory infiltration of airspaces.",
+        "whyCorrect": "ARDS is the clinical correlate of diffuse alveolar damage, characterized by alveolar epithelial and endothelial injury, protein-rich exudate, and inflammatory infiltration of airspaces.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-405_Brick Exchange - Acute Respiratory Distress Syndrome_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-406",
+      "topicId": "acute-respiratory-distress-syndrome",
+      "topicName": "Acute Respiratory Distress Syndrome",
+      "stem": "This lung histology from a patient with acute hypoxemic respiratory failure shows airspaces lined by glassy, eosinophilic material together with inflammatory cells. This lining material indicates which phase of which disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Exudative phase of diffuse alveolar damage (ARDS)"
+        },
+        {
+          "label": "B",
+          "text": "Resolution phase of cardiogenic pulmonary edema"
+        },
+        {
+          "label": "C",
+          "text": "Organizing phase of usual interstitial pneumonia"
+        },
+        {
+          "label": "D",
+          "text": "Chronic phase of emphysema"
+        },
+        {
+          "label": "E",
+          "text": "Acute phase of lobar pneumonia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Eosinophilic hyaline membranes lining alveolar ducts are the histologic hallmark of the early exudative phase of diffuse alveolar damage seen in ARDS.",
+        "whyCorrect": "Eosinophilic hyaline membranes lining alveolar ducts are the histologic hallmark of the early exudative phase of diffuse alveolar damage seen in ARDS.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-406_Brick Exchange - Acute Respiratory Distress Syndrome_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

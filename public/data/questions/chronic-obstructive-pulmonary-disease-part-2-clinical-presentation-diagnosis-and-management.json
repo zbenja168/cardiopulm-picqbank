@@ -1,0 +1,123 @@
+{
+  "categoryId": "chronic-obstructive-pulmonary-disease-part-2-clinical-presentation-diagnosis-and-management",
+  "categoryName": "Chronic Obstructive Pulmonary Disease Part 2: Clinical Presentation, Diagnosis, and Management",
+  "questions": [
+    {
+      "id": "repic-232",
+      "topicId": "chronic-obstructive-pulmonary-disease-part-2-clinical-presentation-diagnosis-and-management",
+      "topicName": "Chronic Obstructive Pulmonary Disease Part 2: Clinical Presentation, Diagnosis, and Management",
+      "stem": "This PA chest radiograph shows hyperlucent, hyperinflated lungs with flattened hemidiaphragms and a narrow vertical cardiac silhouette. These findings are most typical of which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tension pneumothorax"
+        },
+        {
+          "label": "B",
+          "text": "Cardiogenic pulmonary edema"
+        },
+        {
+          "label": "C",
+          "text": "Large pleural effusion"
+        },
+        {
+          "label": "D",
+          "text": "COPD with emphysematous hyperinflation"
+        },
+        {
+          "label": "E",
+          "text": "Lobar pneumonia"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In emphysema, air trapping expands lung volumes, flattening the diaphragms, increasing lung lucency, widening the retrosternal space, and narrowing the heart shadow. These are the classic radiographic signs of COPD hyperinflation.",
+        "whyCorrect": "In emphysema, air trapping expands lung volumes, flattening the diaphragms, increasing lung lucency, widening the retrosternal space, and narrowing the heart shadow. These are the classic radiographic signs of COPD hyperinflation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-232_Brick Exchange - Chronic Obstructive Pulmonary Disease Part 2_ Clinical Presentation, Diagnosis, and Management_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-233",
+      "topicId": "chronic-obstructive-pulmonary-disease-part-2-clinical-presentation-diagnosis-and-management",
+      "topicName": "Chronic Obstructive Pulmonary Disease Part 2: Clinical Presentation, Diagnosis, and Management",
+      "stem": "On this lateral chest radiograph (trachea, lungs, and heart labeled), which finding is specifically assessed as a sign of hyperinflation in COPD?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An enlarged retrosternal air space"
+        },
+        {
+          "label": "B",
+          "text": "Enlargement of the cardiac silhouette"
+        },
+        {
+          "label": "C",
+          "text": "Widening of the superior mediastinum"
+        },
+        {
+          "label": "D",
+          "text": "Calcification of the pleura"
+        },
+        {
+          "label": "E",
+          "text": "Deviation of the trachea to one side"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The lateral view demonstrates hyperinflation as an increased lucent retrosternal air space and flattening of the diaphragm. This complements the flattened diaphragms and hyperlucency seen on the frontal film.",
+        "whyCorrect": "The lateral view demonstrates hyperinflation as an increased lucent retrosternal air space and flattening of the diaphragm. This complements the flattened diaphragms and hyperlucency seen on the frontal film.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-233_Brick Exchange - Chronic Obstructive Pulmonary Disease Part 2_ Clinical Presentation, Diagnosis, and Management_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-459",
+      "topicId": "chronic-obstructive-pulmonary-disease-part-2-clinical-presentation-diagnosis-and-management",
+      "topicName": "Chronic Obstructive Pulmonary Disease Part 2: Clinical Presentation, Diagnosis, and Management",
+      "stem": "This classic clinical illustration shows an elderly man with marked muscle wasting and a barrel-shaped chest sitting forward. Which COPD phenotype is being depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic bronchitis-predominant ('blue bloater')"
+        },
+        {
+          "label": "B",
+          "text": "Acute severe asthma exacerbation"
+        },
+        {
+          "label": "C",
+          "text": "Emphysema-predominant ('pink puffer')"
+        },
+        {
+          "label": "D",
+          "text": "Decompensated congestive heart failure"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary tuberculosis with cachexia"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The cachectic, barrel-chested patient who leans forward and uses accessory muscles represents the emphysema-predominant 'pink puffer,' who maintains near-normal oxygenation through increased work of breathing rather than becoming cyanotic and edematous.",
+        "whyCorrect": "The cachectic, barrel-chested patient who leans forward and uses accessory muscles represents the emphysema-predominant 'pink puffer,' who maintains near-normal oxygenation through increased work of breathing rather than becoming cyanotic and edematous.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-459_Brick Exchange - Chronic Obstructive Pulmonary Disease Part 2_ Clinical Presentation, Diagnosis, and Management_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

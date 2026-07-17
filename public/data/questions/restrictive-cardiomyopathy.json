@@ -1,0 +1,318 @@
+{
+  "categoryId": "restrictive-cardiomyopathy",
+  "categoryName": "Restrictive Cardiomyopathy",
+  "questions": [
+    {
+      "id": "repic-171",
+      "topicId": "restrictive-cardiomyopathy",
+      "topicName": "Restrictive Cardiomyopathy",
+      "stem": "This H&E-stained myocardial biopsy shows myocytes separated by expanded pale-staining fibrocollagenous tissue. This histologic pattern of interstitial infiltration/fibrosis stiffening the ventricular wall is the hallmark of which cardiomyopathy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dilated cardiomyopathy"
+        },
+        {
+          "label": "B",
+          "text": "Hypertrophic cardiomyopathy"
+        },
+        {
+          "label": "C",
+          "text": "Arrhythmogenic right ventricular cardiomyopathy"
+        },
+        {
+          "label": "D",
+          "text": "Acute lymphocytic myocarditis"
+        },
+        {
+          "label": "E",
+          "text": "Restrictive cardiomyopathy"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Restrictive cardiomyopathy is characterized by increased ventricular wall stiffness from interstitial fibrosis or infiltration between myocytes, impairing diastolic filling while systolic function is often preserved.",
+        "whyCorrect": "Restrictive cardiomyopathy is characterized by increased ventricular wall stiffness from interstitial fibrosis or infiltration between myocytes, impairing diastolic filling while systolic function is often preserved.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-171_Brick Exchange - Restrictive Cardiomyopathy_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-366",
+      "topicId": "restrictive-cardiomyopathy",
+      "topicName": "Restrictive Cardiomyopathy",
+      "stem": "The left panel shows myocardium stained with a special dye, and the right panel shows the same field under polarized light where the deposits display apple-green birefringence. Which material is being demonstrated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Collagen demonstrated by trichrome"
+        },
+        {
+          "label": "B",
+          "text": "Glycogen demonstrated by PAS"
+        },
+        {
+          "label": "C",
+          "text": "Calcium demonstrated by von Kossa"
+        },
+        {
+          "label": "D",
+          "text": "Iron demonstrated by Prussian blue"
+        },
+        {
+          "label": "E",
+          "text": "Amyloid demonstrated by Congo red apple-green birefringence"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Congo red stains amyloid, which shows pathognomonic apple-green birefringence under polarized light due to the beta-pleated sheet structure. This confirms cardiac amyloidosis as the cause of restrictive cardiomyopathy.",
+        "whyCorrect": "Congo red stains amyloid, which shows pathognomonic apple-green birefringence under polarized light due to the beta-pleated sheet structure. This confirms cardiac amyloidosis as the cause of restrictive cardiomyopathy.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-366_Brick Exchange - Restrictive Cardiomyopathy_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-367",
+      "topicId": "restrictive-cardiomyopathy",
+      "topicName": "Restrictive Cardiomyopathy",
+      "stem": "This myocardial section is stained with a histochemical dye that turns intracellular deposits bright blue. In a patient with restrictive cardiomyopathy, diabetes, and bronze skin, what does the blue reaction identify?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Copper accumulation"
+        },
+        {
+          "label": "B",
+          "text": "Amyloid protein"
+        },
+        {
+          "label": "C",
+          "text": "Lipofuscin pigment"
+        },
+        {
+          "label": "D",
+          "text": "Iron deposition (Prussian blue positive), consistent with hemochromatosis"
+        },
+        {
+          "label": "E",
+          "text": "Melanin deposition"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The Prussian blue (Perls) reaction stains ferric iron blue. Myocardial iron overload in hereditary hemochromatosis or transfusional siderosis causes a restrictive/dilated cardiomyopathy; the triad of diabetes, skin pigmentation, and organ deposition is classic.",
+        "whyCorrect": "The Prussian blue (Perls) reaction stains ferric iron blue. Myocardial iron overload in hereditary hemochromatosis or transfusional siderosis causes a restrictive/dilated cardiomyopathy; the triad of diabetes, skin pigmentation, and organ deposition is classic.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-367_Brick Exchange - Restrictive Cardiomyopathy_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-368",
+      "topicId": "restrictive-cardiomyopathy",
+      "topicName": "Restrictive Cardiomyopathy",
+      "stem": "This cardiac imaging study (arrows indicating myocardial signal abnormality) is increasingly used to characterize infiltrative cardiomyopathies noninvasively, using late gadolinium enhancement and tissue mapping. Which modality is shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coronary CT angiography"
+        },
+        {
+          "label": "B",
+          "text": "Nuclear SPECT perfusion scan"
+        },
+        {
+          "label": "C",
+          "text": "Chest radiograph"
+        },
+        {
+          "label": "D",
+          "text": "Transthoracic echocardiography"
+        },
+        {
+          "label": "E",
+          "text": "Cardiac magnetic resonance imaging (cardiac MRI)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Cardiac MRI provides tissue characterization; late gadolinium enhancement patterns and T1/T2 mapping help identify infiltrative and inflammatory causes of restrictive cardiomyopathy such as amyloid, sarcoid, and fibrosis.",
+        "whyCorrect": "Cardiac MRI provides tissue characterization; late gadolinium enhancement patterns and T1/T2 mapping help identify infiltrative and inflammatory causes of restrictive cardiomyopathy such as amyloid, sarcoid, and fibrosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-368_Brick Exchange - Restrictive Cardiomyopathy_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-553",
+      "topicId": "restrictive-cardiomyopathy",
+      "topicName": "Restrictive Cardiomyopathy",
+      "stem": "This H&E section of myocardium from a patient with restrictive physiology shows cardiomyocytes separated and surrounded by abundant pale, amorphous, acellular pink interstitial material. Which deposition process does this most likely represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Metastatic calcification"
+        },
+        {
+          "label": "B",
+          "text": "Iron overload deposition"
+        },
+        {
+          "label": "C",
+          "text": "Amyloid deposition (cardiac amyloidosis)"
+        },
+        {
+          "label": "D",
+          "text": "Glycogen accumulation"
+        },
+        {
+          "label": "E",
+          "text": "Interstitial fibrosis from prior infarction"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Cardiac amyloidosis deposits amorphous, eosinophilic, acellular protein in the interstitium and around myocytes, stiffening the ventricle and producing a restrictive cardiomyopathy with impaired diastolic filling.",
+        "whyCorrect": "Cardiac amyloidosis deposits amorphous, eosinophilic, acellular protein in the interstitium and around myocytes, stiffening the ventricle and producing a restrictive cardiomyopathy with impaired diastolic filling.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-553_Brick Exchange - Restrictive Cardiomyopathy_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-554",
+      "topicId": "restrictive-cardiomyopathy",
+      "topicName": "Restrictive Cardiomyopathy",
+      "stem": "This myocardial biopsy shows a focal collection of epithelioid histiocytes and mixed inflammatory cells forming a granuloma surrounded by scarring, in a patient with heart block and restrictive physiology. Which infiltrative disease is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cardiac sarcoidosis"
+        },
+        {
+          "label": "B",
+          "text": "Hemochromatosis"
+        },
+        {
+          "label": "C",
+          "text": "Acute rheumatic carditis"
+        },
+        {
+          "label": "D",
+          "text": "Giant cell arteritis"
+        },
+        {
+          "label": "E",
+          "text": "Ischemic myocardial scar"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Cardiac sarcoidosis produces noncaseating granulomas in the myocardium that can cause conduction blocks, arrhythmias, and a restrictive/infiltrative cardiomyopathy. Granulomatous inflammation with epithelioid histiocytes distinguishes it from bland fibrosis.",
+        "whyCorrect": "Cardiac sarcoidosis produces noncaseating granulomas in the myocardium that can cause conduction blocks, arrhythmias, and a restrictive/infiltrative cardiomyopathy. Granulomatous inflammation with epithelioid histiocytes distinguishes it from bland fibrosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-554_Brick Exchange - Restrictive Cardiomyopathy_p11_2.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-555",
+      "topicId": "restrictive-cardiomyopathy",
+      "topicName": "Restrictive Cardiomyopathy",
+      "stem": "This gross four-chamber section of the heart shows markedly dilated left and right atria with non-dilated ventricles of relatively normal wall thickness. This atrial-predominant enlargement is the classic morphologic signature of which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mitral stenosis alone"
+        },
+        {
+          "label": "B",
+          "text": "Restrictive cardiomyopathy"
+        },
+        {
+          "label": "C",
+          "text": "Chronic ischemic heart disease"
+        },
+        {
+          "label": "D",
+          "text": "Dilated cardiomyopathy"
+        },
+        {
+          "label": "E",
+          "text": "Hypertrophic cardiomyopathy"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Restrictive cardiomyopathy produces stiff ventricles with impaired diastolic filling; chronically elevated filling pressures dilate both atria while the ventricles remain normal in size. Marked biatrial enlargement with normal-sized ventricles is the hallmark gross finding.",
+        "whyCorrect": "Restrictive cardiomyopathy produces stiff ventricles with impaired diastolic filling; chronically elevated filling pressures dilate both atria while the ventricles remain normal in size. Marked biatrial enlargement with normal-sized ventricles is the hallmark gross finding.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-555_Brick Exchange - Restrictive Cardiomyopathy_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-858",
+      "topicId": "restrictive-cardiomyopathy",
+      "topicName": "Restrictive Cardiomyopathy",
+      "stem": "Comparing the two labeled diagrams of the heart, the abnormal one on the right has a stiffened ventricular wall with preserved chamber size. What is the primary hemodynamic consequence of this change?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Outflow tract obstruction during systole"
+        },
+        {
+          "label": "B",
+          "text": "Reduced systolic contractility with a dilated ventricle"
+        },
+        {
+          "label": "C",
+          "text": "Valvular regurgitation causing volume overload"
+        },
+        {
+          "label": "D",
+          "text": "Increased ventricular compliance allowing overfilling"
+        },
+        {
+          "label": "E",
+          "text": "Impaired diastolic filling (restricted ventricular relaxation) with preserved systolic function"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "In restrictive cardiomyopathy the myocardium becomes stiff and non-compliant, limiting diastolic filling and raising filling pressures while ejection fraction is initially preserved. This causes biatrial enlargement and signs of right- and left-sided congestion.",
+        "whyCorrect": "In restrictive cardiomyopathy the myocardium becomes stiff and non-compliant, limiting diastolic filling and raising filling pressures while ejection fraction is initially preserved. This causes biatrial enlargement and signs of right- and left-sided congestion.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-858_Brick Exchange - Restrictive Cardiomyopathy_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

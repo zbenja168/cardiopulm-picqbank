@@ -1,0 +1,318 @@
+{
+  "categoryId": "acute-pericarditis",
+  "categoryName": "Acute Pericarditis",
+  "questions": [
+    {
+      "id": "repic-001",
+      "topicId": "acute-pericarditis",
+      "topicName": "Acute Pericarditis",
+      "stem": "This diagram illustrates the layered wrapping around the heart. Because the outer fibrous layer is tough and poorly distensible, rapid filling of the space between the serous layers produces which acute complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Constrictive pericarditis"
+        },
+        {
+          "label": "B",
+          "text": "Pleural effusion"
+        },
+        {
+          "label": "C",
+          "text": "Dilated cardiomyopathy"
+        },
+        {
+          "label": "D",
+          "text": "Aortic aneurysm"
+        },
+        {
+          "label": "E",
+          "text": "Cardiac tamponade"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The non-compliant fibrous pericardium cannot accommodate rapidly accumulating fluid, so intrapericardial pressure rises and compresses the heart, producing tamponade.",
+        "whyCorrect": "The non-compliant fibrous pericardium cannot accommodate rapidly accumulating fluid, so intrapericardial pressure rises and compresses the heart, producing tamponade.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-001_Brick Exchange - Acute Pericarditis_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-097",
+      "topicId": "acute-pericarditis",
+      "topicName": "Acute Pericarditis",
+      "stem": "This is a normal histologic section taken from the outer surface of the heart. The thin mesothelial lining at the labeled surface normally performs which function?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Forms the heart's fibrous skeleton"
+        },
+        {
+          "label": "B",
+          "text": "Generates the cardiac action potential"
+        },
+        {
+          "label": "C",
+          "text": "Contracts to pump blood"
+        },
+        {
+          "label": "D",
+          "text": "Secretes serous fluid that lubricates the pericardial space"
+        },
+        {
+          "label": "E",
+          "text": "Filters lymph before it enters the thoracic duct"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The visceral pericardium (epicardium) is lined by mesothelium that secretes a small amount of serous fluid, allowing frictionless movement of the heart within the pericardial sac.",
+        "whyCorrect": "The visceral pericardium (epicardium) is lined by mesothelium that secretes a small amount of serous fluid, allowing frictionless movement of the heart within the pericardial sac.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-097_Brick Exchange - Acute Pericarditis_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-174",
+      "topicId": "acute-pericarditis",
+      "topicName": "Acute Pericarditis",
+      "stem": "This 12-lead ECG shows diffuse concave ST-segment elevation across multiple leads together with PR-segment depression. Which diagnosis do these findings most strongly suggest?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute pericarditis"
+        },
+        {
+          "label": "B",
+          "text": "Left ventricular aneurysm"
+        },
+        {
+          "label": "C",
+          "text": "Acute anterior STEMI"
+        },
+        {
+          "label": "D",
+          "text": "Brugada syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Hyperkalemia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Diffuse (non-territorial) concave ST elevation with PR depression, typically sparing aVR, is characteristic of acute pericarditis rather than the regional ST elevation of an infarct.",
+        "whyCorrect": "Diffuse (non-territorial) concave ST elevation with PR depression, typically sparing aVR, is characteristic of acute pericarditis rather than the regional ST elevation of an infarct.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-174_Brick Exchange - Acute Pericarditis_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-175",
+      "topicId": "acute-pericarditis",
+      "topicName": "Acute Pericarditis",
+      "stem": "This axial CT of the chest shows a large fluid collection surrounding the heart within the pericardial sac. If this fluid accumulates rapidly, what is the most immediately life-threatening consequence?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aortic dissection"
+        },
+        {
+          "label": "B",
+          "text": "Myocardial rupture"
+        },
+        {
+          "label": "C",
+          "text": "Tension pneumothorax"
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary embolism"
+        },
+        {
+          "label": "E",
+          "text": "Cardiac tamponade"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Rapid accumulation of pericardial fluid raises intrapericardial pressure faster than the fibrous pericardium can stretch, compressing the chambers and impairing diastolic filling — cardiac tamponade.",
+        "whyCorrect": "Rapid accumulation of pericardial fluid raises intrapericardial pressure faster than the fibrous pericardium can stretch, compressing the chambers and impairing diastolic filling — cardiac tamponade.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-175_Brick Exchange - Acute Pericarditis_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-176",
+      "topicId": "acute-pericarditis",
+      "topicName": "Acute Pericarditis",
+      "stem": "This illustration shows a needle being advanced at roughly 45 degrees just below the xiphoid toward the fluid-filled sac around the heart. What procedure is being depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pericardiocentesis"
+        },
+        {
+          "label": "B",
+          "text": "Endomyocardial biopsy"
+        },
+        {
+          "label": "C",
+          "text": "Chest tube thoracostomy"
+        },
+        {
+          "label": "D",
+          "text": "Thoracentesis"
+        },
+        {
+          "label": "E",
+          "text": "Central venous catheterization"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A needle inserted from a subxiphoid position at ~45 degrees to aspirate fluid from the pericardial sac defines pericardiocentesis, the emergency treatment for cardiac tamponade.",
+        "whyCorrect": "A needle inserted from a subxiphoid position at ~45 degrees to aspirate fluid from the pericardial sac defines pericardiocentesis, the emergency treatment for cardiac tamponade.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-176_Brick Exchange - Acute Pericarditis_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-402",
+      "topicId": "acute-pericarditis",
+      "topicName": "Acute Pericarditis",
+      "stem": "This section of pericardium shows a thickened, inflamed surface coated by eosinophilic strands of fibrin. This appearance is the hallmark of which type of pericarditis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hemorrhagic pericarditis"
+        },
+        {
+          "label": "B",
+          "text": "Constrictive (calcific) pericarditis"
+        },
+        {
+          "label": "C",
+          "text": "Fibrinous pericarditis"
+        },
+        {
+          "label": "D",
+          "text": "Purulent (suppurative) pericarditis"
+        },
+        {
+          "label": "E",
+          "text": "Caseous pericarditis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Fibrin deposition over an inflamed, thickened pericardial surface — the most common pattern in acute pericarditis — defines fibrinous pericarditis and underlies the auscultated friction rub.",
+        "whyCorrect": "Fibrin deposition over an inflamed, thickened pericardial surface — the most common pattern in acute pericarditis — defines fibrinous pericarditis and underlies the auscultated friction rub.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-402_Brick Exchange - Acute Pericarditis_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-403",
+      "topicId": "acute-pericarditis",
+      "topicName": "Acute Pericarditis",
+      "stem": "This heart, lifted at autopsy, has a shaggy, roughened epicardial surface covered by a thick fibrinous exudate (a 'bread-and-butter' appearance). What is the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Metastatic carcinoma of the pericardium"
+        },
+        {
+          "label": "B",
+          "text": "Fibrinous pericarditis"
+        },
+        {
+          "label": "C",
+          "text": "Constrictive pericarditis"
+        },
+        {
+          "label": "D",
+          "text": "Serous pericardial effusion"
+        },
+        {
+          "label": "E",
+          "text": "Hemopericardium"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The shaggy 'bread-and-butter' epicardial exudate of fibrin is the classic gross appearance of fibrinous pericarditis.",
+        "whyCorrect": "The shaggy 'bread-and-butter' epicardial exudate of fibrin is the classic gross appearance of fibrinous pericarditis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-403_Brick Exchange - Acute Pericarditis_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-404",
+      "topicId": "acute-pericarditis",
+      "topicName": "Acute Pericarditis",
+      "stem": "This pericardial section is filled with a dense infiltrate of neutrophils forming purulent fluid. Which underlying cause is most consistent with this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacterial infection"
+        },
+        {
+          "label": "B",
+          "text": "Uremia"
+        },
+        {
+          "label": "C",
+          "text": "Post-myocardial infarction (Dressler) reaction"
+        },
+        {
+          "label": "D",
+          "text": "Viral (coxsackievirus) infection"
+        },
+        {
+          "label": "E",
+          "text": "Autoimmune (SLE) inflammation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A neutrophil-rich, purulent exudate indicates suppurative (bacterial) pericarditis, typically from direct spread or hematogenous seeding of pyogenic organisms.",
+        "whyCorrect": "A neutrophil-rich, purulent exudate indicates suppurative (bacterial) pericarditis, typically from direct spread or hematogenous seeding of pyogenic organisms.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-404_Brick Exchange - Acute Pericarditis_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

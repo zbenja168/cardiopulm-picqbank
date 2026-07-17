@@ -1,0 +1,162 @@
+{
+  "categoryId": "hypoxemia",
+  "categoryName": "Hypoxemia",
+  "questions": [
+    {
+      "id": "repic-755",
+      "topicId": "hypoxemia",
+      "topicName": "Hypoxemia",
+      "stem": "In this diagram, blood from the right ventricle reaches two alveoli: unit A is normally ventilated and perfused, while unit B is ventilated but its supplying vessel is occluded by an embolus (shaded 'dead space'). What gas-exchange abnormality does unit B represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Global hypoventilation"
+        },
+        {
+          "label": "B",
+          "text": "Right-to-left shunt (perfusion without ventilation)"
+        },
+        {
+          "label": "C",
+          "text": "Diffusion limitation"
+        },
+        {
+          "label": "D",
+          "text": "Alveolar dead space (ventilation without perfusion)"
+        },
+        {
+          "label": "E",
+          "text": "Low inspired oxygen tension"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "An embolus blocking perfusion to a ventilated alveolus creates dead space: the alveolus is ventilated but receives no blood, so that ventilation is wasted. This is the hallmark gas-exchange defect of pulmonary embolism.",
+        "whyCorrect": "An embolus blocking perfusion to a ventilated alveolus creates dead space: the alveolus is ventilated but receives no blood, so that ventilation is wasted. This is the hallmark gas-exchange defect of pulmonary embolism.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-755_Brick Exchange - Hypoxemia_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-756",
+      "topicId": "hypoxemia",
+      "topicName": "Hypoxemia",
+      "stem": "This curve plots hemoglobin percent saturation against oxygen partial pressure, with a characteristic sigmoidal (S) shape and a marked P50 near 27 mmHg. What key physiologic property does the steep middle portion of this curve explain?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "That CO2 is the sole determinant of saturation"
+        },
+        {
+          "label": "B",
+          "text": "That hemoglobin saturation is independent of PO2"
+        },
+        {
+          "label": "C",
+          "text": "That plasma-dissolved O2 carries most oxygen"
+        },
+        {
+          "label": "D",
+          "text": "Large O2 unloading to tissues for small drops in PO2 (cooperative binding)"
+        },
+        {
+          "label": "E",
+          "text": "Linear, proportional oxygen carriage across all PO2 values"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The sigmoid shape reflects cooperative O2 binding: on the steep segment (around venous PO2) small decreases in PO2 release large amounts of O2 to tissues, while the upper plateau ensures near-full loading in the lungs despite modest PO2 variation.",
+        "whyCorrect": "The sigmoid shape reflects cooperative O2 binding: on the steep segment (around venous PO2) small decreases in PO2 release large amounts of O2 to tissues, while the upper plateau ensures near-full loading in the lungs despite modest PO2 variation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-756_Brick Exchange - Hypoxemia_p23_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-757",
+      "topicId": "hypoxemia",
+      "topicName": "Hypoxemia",
+      "stem": "This hand from a hypoxemic patient shows a dusky bluish discoloration of the skin and nail beds. What is the direct physiologic cause of this clinical sign?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Excess methemoglobin from an oxidizing drug"
+        },
+        {
+          "label": "B",
+          "text": "Increased carboxyhemoglobin from CO exposure"
+        },
+        {
+          "label": "C",
+          "text": "Elevated total bilirubin deposited in skin"
+        },
+        {
+          "label": "D",
+          "text": "Excess deoxygenated hemoglobin (>5 g/dL) in the capillary blood"
+        },
+        {
+          "label": "E",
+          "text": "Reduced cutaneous blood flow from arterial spasm"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Cyanosis appears when the absolute concentration of deoxygenated hemoglobin exceeds roughly 5 g/dL, which occurs in hypoxemia with poor oxygen loading. It reflects absolute deoxyhemoglobin, not oxygen saturation alone.",
+        "whyCorrect": "Cyanosis appears when the absolute concentration of deoxygenated hemoglobin exceeds roughly 5 g/dL, which occurs in hypoxemia with poor oxygen loading. It reflects absolute deoxyhemoglobin, not oxygen saturation alone.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-757_Brick Exchange - Hypoxemia_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-758",
+      "topicId": "hypoxemia",
+      "topicName": "Hypoxemia",
+      "stem": "This diagram depicts an alveolus and its adjacent capillary with two gases moving in opposite directions across the wall. What process drives this movement?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Passive diffusion down partial-pressure gradients"
+        },
+        {
+          "label": "B",
+          "text": "Osmosis following water movement"
+        },
+        {
+          "label": "C",
+          "text": "ATP-dependent active transport by membrane pumps"
+        },
+        {
+          "label": "D",
+          "text": "Facilitated transport via specific carrier proteins"
+        },
+        {
+          "label": "E",
+          "text": "Bulk flow driven by hydrostatic pressure"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Oxygen and carbon dioxide cross the alveolar-capillary membrane passively, each moving from higher to lower partial pressure. No energy or carriers are required; the gradient alone drives exchange.",
+        "whyCorrect": "Oxygen and carbon dioxide cross the alveolar-capillary membrane passively, each moving from higher to lower partial pressure. No energy or carriers are required; the gradient alone drives exchange.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-758_Brick Exchange - Hypoxemia_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

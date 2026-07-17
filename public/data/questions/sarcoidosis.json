@@ -1,0 +1,162 @@
+{
+  "categoryId": "sarcoidosis",
+  "categoryName": "Sarcoidosis",
+  "questions": [
+    {
+      "id": "repic-172",
+      "topicId": "sarcoidosis",
+      "topicName": "Sarcoidosis",
+      "stem": "This diagram shows the microscopic organization of the granuloma of sarcoidosis, with a central core of epithelioid macrophages and a giant cell surrounded by a rim of lymphocytes. What key feature distinguishes this granuloma from that of tuberculosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It always contains acid-fast bacilli"
+        },
+        {
+          "label": "B",
+          "text": "It is non-caseating (lacks central necrosis)"
+        },
+        {
+          "label": "C",
+          "text": "It is dominated by neutrophils"
+        },
+        {
+          "label": "D",
+          "text": "It lacks any giant cells"
+        },
+        {
+          "label": "E",
+          "text": "It contains central caseous necrosis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Sarcoid granulomas are non-caseating (no central necrosis), which helps distinguish them from the caseating granulomas of tuberculosis; they are compact collections of epithelioid macrophages, multinucleated giant cells, and a surrounding lymphocyte cuff.",
+        "whyCorrect": "Sarcoid granulomas are non-caseating (no central necrosis), which helps distinguish them from the caseating granulomas of tuberculosis; they are compact collections of epithelioid macrophages, multinucleated giant cells, and a surrounding lymphocyte cuff.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-172_Brick Exchange - Sarcoidosis_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-374",
+      "topicId": "sarcoidosis",
+      "topicName": "Sarcoidosis",
+      "stem": "This chest radiograph is annotated with symmetric enlargement of both the hilar and mediastinal lymph nodes with clear lung fields. This finding is most characteristic of which disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pulmonary embolism"
+        },
+        {
+          "label": "B",
+          "text": "Sarcoidosis"
+        },
+        {
+          "label": "C",
+          "text": "Primary lung adenocarcinoma"
+        },
+        {
+          "label": "D",
+          "text": "Congestive heart failure"
+        },
+        {
+          "label": "E",
+          "text": "Community-acquired pneumonia"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Bilateral symmetric hilar (and mediastinal) lymphadenopathy is the classic radiographic hallmark of sarcoidosis (stage I), reflecting non-caseating granulomatous inflammation of the lymph nodes.",
+        "whyCorrect": "Bilateral symmetric hilar (and mediastinal) lymphadenopathy is the classic radiographic hallmark of sarcoidosis (stage I), reflecting non-caseating granulomatous inflammation of the lymph nodes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-374_Brick Exchange - Sarcoidosis_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-375",
+      "topicId": "sarcoidosis",
+      "topicName": "Sarcoidosis",
+      "stem": "This chest radiograph shows hilar adenopathy together with reticular infiltrates and nodules within the lung parenchyma. In the staging of this granulomatous disease, what does the addition of parenchymal involvement to hilar adenopathy indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Isolated cardiac involvement"
+        },
+        {
+          "label": "B",
+          "text": "More advanced (stage II) pulmonary sarcoidosis with parenchymal disease"
+        },
+        {
+          "label": "C",
+          "text": "Normal chest radiograph"
+        },
+        {
+          "label": "D",
+          "text": "Complete radiographic resolution"
+        },
+        {
+          "label": "E",
+          "text": "Purely pleural disease"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Sarcoidosis staging progresses from hilar adenopathy alone (stage I) to adenopathy plus parenchymal infiltrates (stage II) and eventually to parenchymal disease with fibrosis; parenchymal nodules and reticular infiltrates signal established pulmonary involvement.",
+        "whyCorrect": "Sarcoidosis staging progresses from hilar adenopathy alone (stage I) to adenopathy plus parenchymal infiltrates (stage II) and eventually to parenchymal disease with fibrosis; parenchymal nodules and reticular infiltrates signal established pulmonary involvement.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-375_Brick Exchange - Sarcoidosis_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-556",
+      "topicId": "sarcoidosis",
+      "topicName": "Sarcoidosis",
+      "stem": "This tender, warm, erythematous nodule on the anterior shin is a classic reactive panniculitis seen in acute sarcoidosis (Lofgren syndrome). What is this skin lesion called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Erythema multiforme"
+        },
+        {
+          "label": "B",
+          "text": "Lupus pernio"
+        },
+        {
+          "label": "C",
+          "text": "Necrobiosis lipoidica"
+        },
+        {
+          "label": "D",
+          "text": "Pyoderma gangrenosum"
+        },
+        {
+          "label": "E",
+          "text": "Erythema nodosum"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Erythema nodosum is a septal panniculitis producing tender red nodules on the shins; in sarcoidosis its presence with bilateral hilar adenopathy and arthritis constitutes Lofgren syndrome and carries a good prognosis.",
+        "whyCorrect": "Erythema nodosum is a septal panniculitis producing tender red nodules on the shins; in sarcoidosis its presence with bilateral hilar adenopathy and arthritis constitutes Lofgren syndrome and carries a good prognosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-556_Brick Exchange - Sarcoidosis_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

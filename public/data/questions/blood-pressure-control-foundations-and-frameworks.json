@@ -1,0 +1,123 @@
+{
+  "categoryId": "blood-pressure-control-foundations-and-frameworks",
+  "categoryName": "Blood Pressure Control: Foundations and Frameworks",
+  "questions": [
+    {
+      "id": "repic-663",
+      "topicId": "blood-pressure-control-foundations-and-frameworks",
+      "topicName": "Blood Pressure Control: Foundations and Frameworks",
+      "stem": "This diagram shows a single hormone acting simultaneously on arterioles (constriction), the proximal tubule (Na+/H+ exchange), the adrenal cortex (aldosterone), and the hypothalamus/posterior pituitary (thirst and ADH). What is the net physiologic effect of all these coordinated actions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An increase in arterial blood pressure"
+        },
+        {
+          "label": "B",
+          "text": "A fall in systemic vascular resistance"
+        },
+        {
+          "label": "C",
+          "text": "A net loss of sodium and water"
+        },
+        {
+          "label": "D",
+          "text": "Suppression of thirst and diuresis"
+        },
+        {
+          "label": "E",
+          "text": "A decrease in arterial blood pressure"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "These are the downstream actions of angiotensin II; vasoconstriction plus sodium and water retention (directly, via aldosterone, and via ADH) all converge to raise blood pressure.",
+        "whyCorrect": "These are the downstream actions of angiotensin II; vasoconstriction plus sodium and water retention (directly, via aldosterone, and via ADH) all converge to raise blood pressure.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-663_Brick Exchange - Blood Pressure Control_ Foundations and Frameworks_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-664",
+      "topicId": "blood-pressure-control-foundations-and-frameworks",
+      "topicName": "Blood Pressure Control: Foundations and Frameworks",
+      "stem": "This illustration contrasts a vessel whose smooth muscle has narrowed the lumen (left) with one whose lumen has widened (right). Compared with the left vessel, what effect does the right vessel's state have on systemic vascular resistance and blood pressure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It raises systemic vascular resistance and increases blood pressure"
+        },
+        {
+          "label": "B",
+          "text": "It has no effect on resistance or blood pressure"
+        },
+        {
+          "label": "C",
+          "text": "It raises resistance but lowers blood pressure"
+        },
+        {
+          "label": "D",
+          "text": "It lowers systemic vascular resistance and decreases blood pressure"
+        },
+        {
+          "label": "E",
+          "text": "It increases resistance only in veins, not arterioles"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A wider lumen (vasodilation) reduces resistance to flow; since blood pressure equals cardiac output times systemic vascular resistance, falling resistance lowers blood pressure.",
+        "whyCorrect": "A wider lumen (vasodilation) reduces resistance to flow; since blood pressure equals cardiac output times systemic vascular resistance, falling resistance lowers blood pressure.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-664_Brick Exchange - Blood Pressure Control_ Foundations and Frameworks_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-665",
+      "topicId": "blood-pressure-control-foundations-and-frameworks",
+      "topicName": "Blood Pressure Control: Foundations and Frameworks",
+      "stem": "In this framework the kidney feeds into blood pressure through a different pathway than vasoconstriction does. By which route does increased renal sodium handling raise blood pressure in this scheme?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "By reducing cardiac contractility"
+        },
+        {
+          "label": "B",
+          "text": "By decreasing venous return to the heart"
+        },
+        {
+          "label": "C",
+          "text": "By increasing blood volume, which raises cardiac output"
+        },
+        {
+          "label": "D",
+          "text": "By lowering blood volume through diuresis"
+        },
+        {
+          "label": "E",
+          "text": "By directly increasing systemic vascular resistance"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The diagram splits blood pressure into SVR (set by vascular tone) and cardiac output; renal sodium retention expands blood volume, increasing preload and cardiac output rather than acting on vascular resistance.",
+        "whyCorrect": "The diagram splits blood pressure into SVR (set by vascular tone) and cardiac output; renal sodium retention expands blood volume, increasing preload and cardiac output rather than acting on vascular resistance.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-665_Brick Exchange - Blood Pressure Control_ Foundations and Frameworks_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

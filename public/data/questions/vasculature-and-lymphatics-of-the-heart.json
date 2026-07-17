@@ -1,0 +1,396 @@
+{
+  "categoryId": "vasculature-and-lymphatics-of-the-heart",
+  "categoryName": "Vasculature and Lymphatics of the Heart",
+  "questions": [
+    {
+      "id": "repic-090",
+      "topicId": "vasculature-and-lymphatics-of-the-heart",
+      "topicName": "Vasculature and Lymphatics of the Heart",
+      "stem": "The vessel labeled here with its anatomical name, the 'anterior interventricular artery,' is more commonly known by which clinical name?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Right coronary artery"
+        },
+        {
+          "label": "B",
+          "text": "Obtuse marginal artery"
+        },
+        {
+          "label": "C",
+          "text": "Left circumflex artery"
+        },
+        {
+          "label": "D",
+          "text": "Left anterior descending (LAD) artery"
+        },
+        {
+          "label": "E",
+          "text": "Posterior descending artery"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The anterior interventricular artery, a branch of the left main coronary artery running in the anterior interventricular groove, is clinically termed the left anterior descending (LAD). It supplies the anterior LV wall, anterior two-thirds of the septum, and apex.",
+        "whyCorrect": "The anterior interventricular artery, a branch of the left main coronary artery running in the anterior interventricular groove, is clinically termed the left anterior descending (LAD). It supplies the anterior LV wall, anterior two-thirds of the septum, and apex.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-090_Brick Exchange - Vasculature and Lymphatics of the Heart_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-091",
+      "topicId": "vasculature-and-lymphatics-of-the-heart",
+      "topicName": "Vasculature and Lymphatics of the Heart",
+      "stem": "In the posterior view, the great, middle, and small cardiac veins converge into the large vein highlighted along the posterior atrioventricular groove. Into which chamber does this collecting vein ultimately drain?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Right atrium"
+        },
+        {
+          "label": "B",
+          "text": "Right ventricle"
+        },
+        {
+          "label": "C",
+          "text": "Left ventricle"
+        },
+        {
+          "label": "D",
+          "text": "Left atrium"
+        },
+        {
+          "label": "E",
+          "text": "Superior vena cava"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The great, middle, and small cardiac veins empty into the coronary sinus, which runs in the posterior AV groove and drains the majority of cardiac venous blood into the right atrium (near the tricuspid valve and IVC orifice).",
+        "whyCorrect": "The great, middle, and small cardiac veins empty into the coronary sinus, which runs in the posterior AV groove and drains the majority of cardiac venous blood into the right atrium (near the tricuspid valve and IVC orifice).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-091_Brick Exchange - Vasculature and Lymphatics of the Heart_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-092",
+      "topicId": "vasculature-and-lymphatics-of-the-heart",
+      "topicName": "Vasculature and Lymphatics of the Heart",
+      "stem": "This diagram shows the lymphatic drainage of the heart and mediastinum, including the thoracic duct. Into which venous structure does the thoracic duct ultimately empty its lymph?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Junction of the right subclavian and right internal jugular veins"
+        },
+        {
+          "label": "B",
+          "text": "Superior vena cava directly"
+        },
+        {
+          "label": "C",
+          "text": "Coronary sinus"
+        },
+        {
+          "label": "D",
+          "text": "Junction of the left subclavian and left internal jugular veins"
+        },
+        {
+          "label": "E",
+          "text": "Right atrium directly"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The thoracic duct carries lymph from most of the body and drains into the venous system at the left venous angle, the junction of the left subclavian and left internal jugular veins. Cardiac and mediastinal lymphatics feed into this system.",
+        "whyCorrect": "The thoracic duct carries lymph from most of the body and drains into the venous system at the left venous angle, the junction of the left subclavian and left internal jugular veins. Cardiac and mediastinal lymphatics feed into this system.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-092_Brick Exchange - Vasculature and Lymphatics of the Heart_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-093",
+      "topicId": "vasculature-and-lymphatics-of-the-heart",
+      "topicName": "Vasculature and Lymphatics of the Heart",
+      "stem": "This magnified cut section through the heart wall shows a vessel running within a groove and giving off branching tributaries into the surrounding myocardium. What is this vessel?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pulmonary vein"
+        },
+        {
+          "label": "B",
+          "text": "Coronary artery"
+        },
+        {
+          "label": "C",
+          "text": "Cardiac lymphatic vessel"
+        },
+        {
+          "label": "D",
+          "text": "Cardiac (autonomic) nerve"
+        },
+        {
+          "label": "E",
+          "text": "Purkinje fiber bundle"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The epicardial vessel coursing in a groove and sending penetrating branches deep into the myocardium to perfuse it is a coronary artery. Coronary arteries lie in the epicardial fat and give off intramural branches.",
+        "whyCorrect": "The epicardial vessel coursing in a groove and sending penetrating branches deep into the myocardium to perfuse it is a coronary artery. Coronary arteries lie in the epicardial fat and give off intramural branches.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-093_Brick Exchange - Vasculature and Lymphatics of the Heart_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-094",
+      "topicId": "vasculature-and-lymphatics-of-the-heart",
+      "topicName": "Vasculature and Lymphatics of the Heart",
+      "stem": "In this view of the heart, the boxed inset magnifies an epicardial vessel coursing along the surface of the myocardium. What class of vessel is being highlighted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aortic arch branch"
+        },
+        {
+          "label": "B",
+          "text": "Coronary artery"
+        },
+        {
+          "label": "C",
+          "text": "Thoracic duct"
+        },
+        {
+          "label": "D",
+          "text": "Great cardiac vein"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary artery"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The boxed region highlights an epicardial coronary artery running over the surface of the heart within the epicardial fat, the vessels that supply the myocardium with oxygenated blood.",
+        "whyCorrect": "The boxed region highlights an epicardial coronary artery running over the surface of the heart within the epicardial fat, the vessels that supply the myocardium with oxygenated blood.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-094_Brick Exchange - Vasculature and Lymphatics of the Heart_p3_2.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-095",
+      "topicId": "vasculature-and-lymphatics-of-the-heart",
+      "topicName": "Vasculature and Lymphatics of the Heart",
+      "stem": "In this diagram the pacemaker of the heart is highlighted in green in the wall of the right atrium. In most individuals, the branch supplying this structure arises from which vessel?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Left main coronary artery"
+        },
+        {
+          "label": "B",
+          "text": "Right coronary artery"
+        },
+        {
+          "label": "C",
+          "text": "Left anterior descending artery"
+        },
+        {
+          "label": "D",
+          "text": "Left circumflex coronary artery"
+        },
+        {
+          "label": "E",
+          "text": "Posterior descending artery"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The green structure is the sinoatrial (SA) node. In about 60% of people the SA nodal artery arises from the right coronary artery, making RCA occlusion a cause of sinus node dysfunction.",
+        "whyCorrect": "The green structure is the sinoatrial (SA) node. In about 60% of people the SA nodal artery arises from the right coronary artery, making RCA occlusion a cause of sinus node dysfunction.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-095_Brick Exchange - Vasculature and Lymphatics of the Heart_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-096",
+      "topicId": "vasculature-and-lymphatics-of-the-heart",
+      "topicName": "Vasculature and Lymphatics of the Heart",
+      "stem": "This cadaveric dissection shows the great vessels emerging superiorly with the anterior interventricular (LAD) artery descending toward the apex. Which surface of the heart is being displayed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Right pulmonary surface"
+        },
+        {
+          "label": "B",
+          "text": "Anterior (sternocostal) surface"
+        },
+        {
+          "label": "C",
+          "text": "Diaphragmatic (inferior) surface"
+        },
+        {
+          "label": "D",
+          "text": "Posterior (base) surface"
+        },
+        {
+          "label": "E",
+          "text": "Left pulmonary surface"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The presence of the anterior interventricular groove with the LAD, the right ventricle forming most of the visible surface, and the ascending aorta/pulmonary trunk identify the anterior sternocostal surface of the heart.",
+        "whyCorrect": "The presence of the anterior interventricular groove with the LAD, the right ventricle forming most of the visible surface, and the ascending aorta/pulmonary trunk identify the anterior sternocostal surface of the heart.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-096_Brick Exchange - Vasculature and Lymphatics of the Heart_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-395",
+      "topicId": "vasculature-and-lymphatics-of-the-heart",
+      "topicName": "Vasculature and Lymphatics of the Heart",
+      "stem": "This image was produced by injecting radio-opaque contrast into a vessel and imaging under fluoroscopy, showing the left main artery branching into the LAD and circumflex. What is this diagnostic procedure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Transthoracic echocardiography"
+        },
+        {
+          "label": "B",
+          "text": "Cardiac MRI"
+        },
+        {
+          "label": "C",
+          "text": "Left ventriculography"
+        },
+        {
+          "label": "D",
+          "text": "CT pulmonary angiography"
+        },
+        {
+          "label": "E",
+          "text": "Coronary angiography"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Selective injection of iodinated contrast into a coronary ostium with fluoroscopic imaging is coronary angiography, the gold standard for defining coronary anatomy and stenoses.",
+        "whyCorrect": "Selective injection of iodinated contrast into a coronary ostium with fluoroscopic imaging is coronary angiography, the gold standard for defining coronary anatomy and stenoses.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-395_Brick Exchange - Vasculature and Lymphatics of the Heart_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-396",
+      "topicId": "vasculature-and-lymphatics-of-the-heart",
+      "topicName": "Vasculature and Lymphatics of the Heart",
+      "stem": "In this coronary angiogram, the right coronary artery is seen continuing to give off the posterior descending artery. What does this finding indicate about the coronary circulation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Co-dominant circulation"
+        },
+        {
+          "label": "B",
+          "text": "Left-dominant circulation"
+        },
+        {
+          "label": "C",
+          "text": "Anomalous coronary origin"
+        },
+        {
+          "label": "D",
+          "text": "Right-dominant circulation"
+        },
+        {
+          "label": "E",
+          "text": "Absent coronary sinus"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Coronary dominance is defined by the origin of the posterior descending artery (PDA). When the PDA arises from the RCA, as here, the patient has a right-dominant circulation, the most common pattern (~85%).",
+        "whyCorrect": "Coronary dominance is defined by the origin of the posterior descending artery (PDA). When the PDA arises from the RCA, as here, the patient has a right-dominant circulation, the most common pattern (~85%).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-396_Brick Exchange - Vasculature and Lymphatics of the Heart_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-579",
+      "topicId": "vasculature-and-lymphatics-of-the-heart",
+      "topicName": "Vasculature and Lymphatics of the Heart",
+      "stem": "The magnified insets over these coronary arteries show a vessel lumen narrowed by a yellow, lipid-rich deposit within the wall. What process is being depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute coronary vasospasm"
+        },
+        {
+          "label": "B",
+          "text": "Coronary atherosclerotic plaque causing luminal stenosis"
+        },
+        {
+          "label": "C",
+          "text": "Septic embolic occlusion"
+        },
+        {
+          "label": "D",
+          "text": "Coronary artery aneurysm"
+        },
+        {
+          "label": "E",
+          "text": "Spontaneous coronary artery dissection"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The insets illustrate an atherosclerotic plaque (lipid core with fibrous cap) encroaching on the coronary lumen. Progressive stenosis limits myocardial perfusion and, with plaque rupture and thrombosis, precipitates acute coronary syndromes.",
+        "whyCorrect": "The insets illustrate an atherosclerotic plaque (lipid core with fibrous cap) encroaching on the coronary lumen. Progressive stenosis limits myocardial perfusion and, with plaque rupture and thrombosis, precipitates acute coronary syndromes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-579_Brick Exchange - Vasculature and Lymphatics of the Heart_p13_2.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

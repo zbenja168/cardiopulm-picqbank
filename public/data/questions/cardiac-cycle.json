@@ -1,0 +1,240 @@
+{
+  "categoryId": "cardiac-cycle",
+  "categoryName": "Cardiac Cycle",
+  "questions": [
+    {
+      "id": "repic-040",
+      "topicId": "cardiac-cycle",
+      "topicName": "Cardiac Cycle",
+      "stem": "In this cross-section of the heart, blood returning from the systemic circulation via the vena cavae must pass through which valve to enter the right ventricle?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tricuspid valve"
+        },
+        {
+          "label": "B",
+          "text": "Aortic valve"
+        },
+        {
+          "label": "C",
+          "text": "Mitral valve"
+        },
+        {
+          "label": "D",
+          "text": "Eustachian valve"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary valve"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Deoxygenated blood enters the right atrium from the vena cavae and crosses the tricuspid valve into the right ventricle; the pulmonary valve then guards the outflow to the lungs.",
+        "whyCorrect": "Deoxygenated blood enters the right atrium from the vena cavae and crosses the tricuspid valve into the right ventricle; the pulmonary valve then guards the outflow to the lungs.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-040_Brick Exchange - Cardiac Cycle_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-226",
+      "topicId": "cardiac-cycle",
+      "topicName": "Cardiac Cycle",
+      "stem": "This diagram shows a patient reclined at 30-45 degrees with the vertical distance from the sternal angle to the top of the venous column measured. What is being clinically estimated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pulse pressure across the aortic valve"
+        },
+        {
+          "label": "B",
+          "text": "Mean arterial pressure by auscultation"
+        },
+        {
+          "label": "C",
+          "text": "Pulmonary capillary wedge pressure"
+        },
+        {
+          "label": "D",
+          "text": "Central venous pressure via the jugular venous pressure"
+        },
+        {
+          "label": "E",
+          "text": "Carotid pulse amplitude"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Jugular venous pressure is estimated by the height of the venous pulsation above the sternal angle; adding roughly 5 cm (sternal angle to right atrium) gives central venous pressure, reflecting right atrial filling.",
+        "whyCorrect": "Jugular venous pressure is estimated by the height of the venous pulsation above the sternal angle; adding roughly 5 cm (sternal angle to right atrium) gives central venous pressure, reflecting right atrial filling.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-226_Brick Exchange - Cardiac Cycle_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-673",
+      "topicId": "cardiac-cycle",
+      "topicName": "Cardiac Cycle",
+      "stem": "On this aortic pressure tracing, the brief downward deflection immediately following peak pressure marks which cardiac event?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Peak of atrial systole"
+        },
+        {
+          "label": "B",
+          "text": "Opening of the mitral valve during rapid filling"
+        },
+        {
+          "label": "C",
+          "text": "Opening of the aortic valve at the start of ejection"
+        },
+        {
+          "label": "D",
+          "text": "Closure of the aortic valve (dicrotic notch)"
+        },
+        {
+          "label": "E",
+          "text": "Closure of the mitral valve at the onset of systole"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The dicrotic notch is the small dip in the aortic pressure curve produced by a brief backflow and elastic recoil as the aortic valve snaps shut, marking the end of ventricular ejection and start of diastole.",
+        "whyCorrect": "The dicrotic notch is the small dip in the aortic pressure curve produced by a brief backflow and elastic recoil as the aortic valve snaps shut, marking the end of ventricular ejection and start of diastole.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-673_Brick Exchange - Cardiac Cycle_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-674",
+      "topicId": "cardiac-cycle",
+      "topicName": "Cardiac Cycle",
+      "stem": "On this venous pressure tracing, the descent that occurs as the tricuspid valve is pulled down during ventricular systole (while the atrium relaxes) is labeled which wave?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "a wave"
+        },
+        {
+          "label": "B",
+          "text": "x descent"
+        },
+        {
+          "label": "C",
+          "text": "y descent"
+        },
+        {
+          "label": "D",
+          "text": "c wave"
+        },
+        {
+          "label": "E",
+          "text": "v wave"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The x descent reflects the fall in atrial pressure during ventricular systole as the atrium relaxes and the tricuspid annulus is pulled downward; the y descent instead follows tricuspid opening and atrial emptying.",
+        "whyCorrect": "The x descent reflects the fall in atrial pressure during ventricular systole as the atrium relaxes and the tricuspid annulus is pulled downward; the y descent instead follows tricuspid opening and atrial emptying.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-674_Brick Exchange - Cardiac Cycle_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-675",
+      "topicId": "cardiac-cycle",
+      "topicName": "Cardiac Cycle",
+      "stem": "On this Wiggers diagram, the S1 heart sound coincides with which mechanical event?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atrial contraction producing the a wave"
+        },
+        {
+          "label": "B",
+          "text": "Opening of the mitral valve during rapid filling"
+        },
+        {
+          "label": "C",
+          "text": "Closure of the aortic and pulmonary valves (S2)"
+        },
+        {
+          "label": "D",
+          "text": "Opening of the aortic valve during rapid ejection"
+        },
+        {
+          "label": "E",
+          "text": "Closure of the mitral (and tricuspid) valves at the onset of ventricular systole"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "S1 marks the beginning of systole and is produced by closure of the atrioventricular (mitral and tricuspid) valves as ventricular pressure rises above atrial pressure; S2 corresponds to semilunar valve closure at the end of ejection.",
+        "whyCorrect": "S1 marks the beginning of systole and is produced by closure of the atrioventricular (mitral and tricuspid) valves as ventricular pressure rises above atrial pressure; S2 corresponds to semilunar valve closure at the end of ejection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-675_Brick Exchange - Cardiac Cycle_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-676",
+      "topicId": "cardiac-cycle",
+      "topicName": "Cardiac Cycle",
+      "stem": "On this combined pressure and LV volume tracing, ventricular volume reaches its minimum (ESV) immediately after which event?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mitral valve closure at the start of isovolumetric contraction"
+        },
+        {
+          "label": "B",
+          "text": "Atrial contraction adding the final filling volume"
+        },
+        {
+          "label": "C",
+          "text": "Aortic valve closure at the end of ejection"
+        },
+        {
+          "label": "D",
+          "text": "Mitral valve opening at the start of filling"
+        },
+        {
+          "label": "E",
+          "text": "Aortic valve opening at the onset of ejection"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Ejection empties the ventricle until the aortic valve closes; at that point LV volume is at its lowest (end-systolic volume). Filling then resumes only after the mitral valve opens, raising volume back toward EDV.",
+        "whyCorrect": "Ejection empties the ventricle until the aortic valve closes; at that point LV volume is at its lowest (end-systolic volume). Filling then resumes only after the mitral valve opens, raising volume back toward EDV.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-676_Brick Exchange - Cardiac Cycle_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

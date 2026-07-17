@@ -1,0 +1,201 @@
+{
+  "categoryId": "interstitial-lung-disease-foundations-and-frameworks",
+  "categoryName": "Interstitial Lung Disease: Foundations and Frameworks",
+  "questions": [
+    {
+      "id": "repic-304",
+      "topicId": "interstitial-lung-disease-foundations-and-frameworks",
+      "topicName": "Interstitial Lung Disease: Foundations and Frameworks",
+      "stem": "This PA chest radiograph with a magnified inset of the lower lung shows fine, net-like linear opacities superimposed on the lung markings. This pattern is most characteristic of what category of disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lobar bacterial pneumonia"
+        },
+        {
+          "label": "B",
+          "text": "Large pleural effusion"
+        },
+        {
+          "label": "C",
+          "text": "Tension pneumothorax"
+        },
+        {
+          "label": "D",
+          "text": "Interstitial lung disease (pulmonary fibrosis)"
+        },
+        {
+          "label": "E",
+          "text": "Cardiomegaly with chamber enlargement"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A bilateral reticular (net-like) interstitial pattern, often basal-predominant, reflects thickening of the pulmonary interstitium seen in interstitial lung disease and fibrosis, as opposed to the alveolar/consolidative pattern of pneumonia.",
+        "whyCorrect": "A bilateral reticular (net-like) interstitial pattern, often basal-predominant, reflects thickening of the pulmonary interstitium seen in interstitial lung disease and fibrosis, as opposed to the alveolar/consolidative pattern of pneumonia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-304_Brick Exchange - Interstitial Lung Disease_ Foundations and Frameworks_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-305",
+      "topicId": "interstitial-lung-disease-foundations-and-frameworks",
+      "topicName": "Interstitial Lung Disease: Foundations and Frameworks",
+      "stem": "This chest radiograph from a patient with progressive dyspnea shows bilateral, predominantly basal reticulonodular opacities with reduced lung volumes. What underlying process best explains this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased hydrostatic pressure causing cardiogenic edema"
+        },
+        {
+          "label": "B",
+          "text": "Lobar consolidation from bacterial pneumonia"
+        },
+        {
+          "label": "C",
+          "text": "Diffuse interstitial fibrosis restricting lung expansion"
+        },
+        {
+          "label": "D",
+          "text": "Focal cavitary destruction from reactivation tuberculosis"
+        },
+        {
+          "label": "E",
+          "text": "Air trapping from small-airway obstruction"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The bilateral reticular/reticulonodular opacities with small lung volumes are characteristic of interstitial lung disease, in which fibrosis of the interstitium restricts expansion and produces a restrictive pattern rather than airflow obstruction or alveolar filling.",
+        "whyCorrect": "The bilateral reticular/reticulonodular opacities with small lung volumes are characteristic of interstitial lung disease, in which fibrosis of the interstitium restricts expansion and produces a restrictive pattern rather than airflow obstruction or alveolar filling.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-305_Brick Exchange - Interstitial Lung Disease_ Foundations and Frameworks_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-306",
+      "topicId": "interstitial-lung-disease-foundations-and-frameworks",
+      "topicName": "Interstitial Lung Disease: Foundations and Frameworks",
+      "stem": "This high-resolution chest CT shows peripheral, subpleural, basal-predominant reticulation with clustered cystic airspaces (honeycombing). This imaging pattern is most specific for which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lymphangitic carcinomatosis"
+        },
+        {
+          "label": "B",
+          "text": "Centrilobular emphysema"
+        },
+        {
+          "label": "C",
+          "text": "Diffuse alveolar hemorrhage"
+        },
+        {
+          "label": "D",
+          "text": "Ground-glass-only hypersensitivity pneumonitis"
+        },
+        {
+          "label": "E",
+          "text": "Usual interstitial pneumonia (UIP) pattern of pulmonary fibrosis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Subpleural, basal-predominant reticulation with honeycombing and traction bronchiectasis defines the UIP pattern, the radiologic hallmark of idiopathic pulmonary fibrosis and other fibrotic interstitial lung diseases.",
+        "whyCorrect": "Subpleural, basal-predominant reticulation with honeycombing and traction bronchiectasis defines the UIP pattern, the radiologic hallmark of idiopathic pulmonary fibrosis and other fibrotic interstitial lung diseases.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-306_Brick Exchange - Interstitial Lung Disease_ Foundations and Frameworks_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-504",
+      "topicId": "interstitial-lung-disease-foundations-and-frameworks",
+      "topicName": "Interstitial Lung Disease: Foundations and Frameworks",
+      "stem": "These fingertips show bulbous soft-tissue enlargement of the distal phalanges with loss of the normal nail-fold angle. This finding is a recognized extrapulmonary sign of which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute compartment syndrome of the hand"
+        },
+        {
+          "label": "B",
+          "text": "Raynaud phenomenon"
+        },
+        {
+          "label": "C",
+          "text": "Dupuytren contracture"
+        },
+        {
+          "label": "D",
+          "text": "Osler nodes of infective endocarditis"
+        },
+        {
+          "label": "E",
+          "text": "Digital clubbing associated with chronic hypoxemic lung disease such as pulmonary fibrosis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Clubbing is bulbous swelling of the distal digits with increased nail-bed angle and is commonly linked to chronic hypoxemia, interstitial lung disease, lung cancer, and cyanotic heart disease.",
+        "whyCorrect": "Clubbing is bulbous swelling of the distal digits with increased nail-bed angle and is commonly linked to chronic hypoxemia, interstitial lung disease, lung cancer, and cyanotic heart disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-504_Brick Exchange - Interstitial Lung Disease_ Foundations and Frameworks_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-761",
+      "topicId": "interstitial-lung-disease-foundations-and-frameworks",
+      "topicName": "Interstitial Lung Disease: Foundations and Frameworks",
+      "stem": "This figure compares lung volume subdivisions of a normal lung with those of a restricted lung. What is the defining physiologic change seen in the restricted lung?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A proportional reduction in all lung volumes and capacities, including total lung capacity"
+        },
+        {
+          "label": "B",
+          "text": "An isolated fall in tidal volume with all other volumes unchanged"
+        },
+        {
+          "label": "C",
+          "text": "An increase in residual volume with air trapping"
+        },
+        {
+          "label": "D",
+          "text": "A selectively reduced FEV1 with preserved total lung capacity"
+        },
+        {
+          "label": "E",
+          "text": "An elevated total lung capacity from loss of elastic recoil"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In restrictive disease the stiff, fibrotic lung cannot expand, so all volumes and capacities shrink together and total lung capacity falls, distinguishing it from obstructive disease where residual volume and TLC rise.",
+        "whyCorrect": "In restrictive disease the stiff, fibrotic lung cannot expand, so all volumes and capacities shrink together and total lung capacity falls, distinguishing it from obstructive disease where residual volume and TLC rise.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-761_Brick Exchange - Interstitial Lung Disease_ Foundations and Frameworks_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

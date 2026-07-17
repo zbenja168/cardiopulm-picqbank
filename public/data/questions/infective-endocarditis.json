@@ -1,0 +1,357 @@
+{
+  "categoryId": "infective-endocarditis",
+  "categoryName": "Infective Endocarditis",
+  "questions": [
+    {
+      "id": "repic-297",
+      "topicId": "infective-endocarditis",
+      "topicName": "Infective Endocarditis",
+      "stem": "In a patient with right-sided infective endocarditis, this chest imaging shows multiple bilateral peripheral nodular lung lesions. What are they?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hematogenous metastases"
+        },
+        {
+          "label": "B",
+          "text": "Pulmonary sarcoid nodules"
+        },
+        {
+          "label": "C",
+          "text": "Septic pulmonary emboli"
+        },
+        {
+          "label": "D",
+          "text": "Bland (non-infected) pulmonary infarcts"
+        },
+        {
+          "label": "E",
+          "text": "Miliary tuberculosis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Tricuspid valve vegetations shed infected fragments into the pulmonary circulation, producing multiple peripheral septic emboli that may cavitate. Their embolic, peripheral distribution and clinical context distinguish them from metastases or granulomatous disease.",
+        "whyCorrect": "Tricuspid valve vegetations shed infected fragments into the pulmonary circulation, producing multiple peripheral septic emboli that may cavitate. Their embolic, peripheral distribution and clinical context distinguish them from metastases or granulomatous disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-297_Brick Exchange - Infective Endocarditis_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-298",
+      "topicId": "infective-endocarditis",
+      "topicName": "Infective Endocarditis",
+      "stem": "This lumbar spine MRI (circled) in a patient with endocarditis and new back pain shows a destructive disc and adjacent endplate lesion. What complication does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Spinal canal stenosis"
+        },
+        {
+          "label": "B",
+          "text": "Vertebral osteomyelitis/discitis"
+        },
+        {
+          "label": "C",
+          "text": "Degenerative disc herniation"
+        },
+        {
+          "label": "D",
+          "text": "Vertebral metastasis"
+        },
+        {
+          "label": "E",
+          "text": "Osteoporotic compression fracture"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Hematogenous seeding from endocarditis can infect the intervertebral disc and adjacent vertebrae, producing pyogenic discitis-osteomyelitis. Disc-centered destruction with endplate involvement distinguishes it from the non-infectious distractors.",
+        "whyCorrect": "Hematogenous seeding from endocarditis can infect the intervertebral disc and adjacent vertebrae, producing pyogenic discitis-osteomyelitis. Disc-centered destruction with endplate involvement distinguishes it from the non-infectious distractors.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-298_Brick Exchange - Infective Endocarditis_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-299",
+      "topicId": "infective-endocarditis",
+      "topicName": "Infective Endocarditis",
+      "stem": "This fundus photograph in a patient with endocarditis shows retinal hemorrhages that have a pale center. What does that pale center chiefly consist of?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bacterial abscess (pus)"
+        },
+        {
+          "label": "B",
+          "text": "Melanin pigment"
+        },
+        {
+          "label": "C",
+          "text": "Fibrin and inflammatory cells"
+        },
+        {
+          "label": "D",
+          "text": "Calcium deposition"
+        },
+        {
+          "label": "E",
+          "text": "Lipid (hard) exudate"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The white center of a retinal hemorrhage in endocarditis is composed of fibrin, platelets, and inflammatory cells, marking it as an embolic/immunologic lesion rather than a lipid or pigmented deposit.",
+        "whyCorrect": "The white center of a retinal hemorrhage in endocarditis is composed of fibrin, platelets, and inflammatory cells, marking it as an embolic/immunologic lesion rather than a lipid or pigmented deposit.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-299_Brick Exchange - Infective Endocarditis_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-300",
+      "topicId": "infective-endocarditis",
+      "topicName": "Infective Endocarditis",
+      "stem": "This echocardiogram shows a mobile mass attached to a heart valve (arrow) in suspected endocarditis. Which imaging test is the most sensitive gold standard for detecting this lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coronary angiography"
+        },
+        {
+          "label": "B",
+          "text": "Transesophageal echocardiography"
+        },
+        {
+          "label": "C",
+          "text": "Contrast chest CT"
+        },
+        {
+          "label": "D",
+          "text": "Cardiac MRI"
+        },
+        {
+          "label": "E",
+          "text": "Chest radiography"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Transesophageal echocardiography provides the highest sensitivity for valvular vegetations because the probe sits directly behind the heart, avoiding chest-wall attenuation. It is the diagnostic standard when transthoracic imaging is inconclusive.",
+        "whyCorrect": "Transesophageal echocardiography provides the highest sensitivity for valvular vegetations because the probe sits directly behind the heart, avoiding chest-wall attenuation. It is the diagnostic standard when transthoracic imaging is inconclusive.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-300_Brick Exchange - Infective Endocarditis_p19_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-301",
+      "topicId": "infective-endocarditis",
+      "topicName": "Infective Endocarditis",
+      "stem": "This echocardiogram shows a mobile echogenic mass attached to the tricuspid valve at the right atrial-right ventricular junction. In an afebrile-to-febrile patient, what is the classic risk factor for a vegetation in this location?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intravenous drug use"
+        },
+        {
+          "label": "B",
+          "text": "Recent dental extraction"
+        },
+        {
+          "label": "C",
+          "text": "Prosthetic aortic valve"
+        },
+        {
+          "label": "D",
+          "text": "Rheumatic heart disease"
+        },
+        {
+          "label": "E",
+          "text": "Congenital bicuspid aortic valve"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Right-sided (tricuspid) endocarditis is strongly associated with intravenous drug use, as injected material and skin flora are delivered first to the right heart. It classically embolizes to the lungs rather than the systemic circulation.",
+        "whyCorrect": "Right-sided (tricuspid) endocarditis is strongly associated with intravenous drug use, as injected material and skin flora are delivered first to the right heart. It classically embolizes to the lungs rather than the systemic circulation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-301_Brick Exchange - Infective Endocarditis_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-495",
+      "topicId": "infective-endocarditis",
+      "topicName": "Infective Endocarditis",
+      "stem": "The tender nodular lesions indicated on the finger pads are a peripheral stigma of infective endocarditis. What mechanism is classically responsible?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic venous stasis"
+        },
+        {
+          "label": "B",
+          "text": "Immune-complex deposition"
+        },
+        {
+          "label": "C",
+          "text": "Platelet-fibrin thrombosis of arterioles"
+        },
+        {
+          "label": "D",
+          "text": "Direct bacterial invasion of the epidermis"
+        },
+        {
+          "label": "E",
+          "text": "Septic microemboli lodging in dermal vessels"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "These tender lesions are attributed to immune-complex mediated vasculitis, which accounts for their pain. This contrasts with the painless palmar/plantar lesions that arise from septic emboli.",
+        "whyCorrect": "These tender lesions are attributed to immune-complex mediated vasculitis, which accounts for their pain. This contrasts with the painless palmar/plantar lesions that arise from septic emboli.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-495_Brick Exchange - Infective Endocarditis_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-496",
+      "topicId": "infective-endocarditis",
+      "topicName": "Infective Endocarditis",
+      "stem": "The non-tender hemorrhagic macule on the palm indicated here is a peripheral sign of endocarditis. What mechanism produces it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Immune-complex mediated vasculitis"
+        },
+        {
+          "label": "B",
+          "text": "Cold-induced vasospasm"
+        },
+        {
+          "label": "C",
+          "text": "Chronic venous hypertension"
+        },
+        {
+          "label": "D",
+          "text": "Septic microemboli to dermal capillaries"
+        },
+        {
+          "label": "E",
+          "text": "Unconjugated hyperbilirubinemia"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "These painless palmar/plantar macules result from septic emboli seeding small dermal vessels. Their painlessness and embolic origin distinguish them from the tender, immune-complex lesions of the finger pads.",
+        "whyCorrect": "These painless palmar/plantar macules result from septic emboli seeding small dermal vessels. Their painlessness and embolic origin distinguish them from the tender, immune-complex lesions of the finger pads.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-496_Brick Exchange - Infective Endocarditis_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-497",
+      "topicId": "infective-endocarditis",
+      "topicName": "Infective Endocarditis",
+      "stem": "This close-up of a fingernail shows thin, longitudinal reddish-brown streaks beneath the nail plate in a patient with fever and a new murmur. What are these?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Onycholysis"
+        },
+        {
+          "label": "B",
+          "text": "Nail plate pitting"
+        },
+        {
+          "label": "C",
+          "text": "Splinter hemorrhages"
+        },
+        {
+          "label": "D",
+          "text": "Subungual melanoma"
+        },
+        {
+          "label": "E",
+          "text": "Beau's lines"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Splinter hemorrhages are linear subungual microhemorrhages from embolic or vascular damage and are a recognized peripheral sign of infective endocarditis. Their thin linear form along the nail axis distinguishes them from pigmented or structural nail lesions.",
+        "whyCorrect": "Splinter hemorrhages are linear subungual microhemorrhages from embolic or vascular damage and are a recognized peripheral sign of infective endocarditis. Their thin linear form along the nail axis distinguishes them from pigmented or structural nail lesions.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-497_Brick Exchange - Infective Endocarditis_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-498",
+      "topicId": "infective-endocarditis",
+      "topicName": "Infective Endocarditis",
+      "stem": "This gross specimen of an opened heart shows bulky, friable masses on the atrioventricular valve leaflets, formed by platelets, fibrin, and microorganisms deposited at sites of endothelial injury. What is the most common complication of these left-sided lesions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute pericardial tamponade"
+        },
+        {
+          "label": "B",
+          "text": "Pulmonary thromboembolism"
+        },
+        {
+          "label": "C",
+          "text": "Aortic dissection"
+        },
+        {
+          "label": "D",
+          "text": "Coronary artery vasospasm"
+        },
+        {
+          "label": "E",
+          "text": "Systemic septic embolization"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The masses are vegetations of infective endocarditis. Left-sided vegetations can break off and travel through the systemic circulation, producing septic emboli to the brain, kidneys, spleen, and extremities.",
+        "whyCorrect": "The masses are vegetations of infective endocarditis. Left-sided vegetations can break off and travel through the systemic circulation, producing septic emboli to the brain, kidneys, spleen, and extremities.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-498_Brick Exchange - Infective Endocarditis_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

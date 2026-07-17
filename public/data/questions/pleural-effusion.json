@@ -1,0 +1,435 @@
+{
+  "categoryId": "pleural-effusion",
+  "categoryName": "Pleural Effusion",
+  "questions": [
+    {
+      "id": "repic-337",
+      "topicId": "pleural-effusion",
+      "topicName": "Pleural Effusion",
+      "stem": "This upright chest radiograph shows blunting of the costophrenic angle with a meniscus at the lung base. What is the underlying reason fluid produces this blunting at the costophrenic angle first?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Calcified pleural plaques accumulate at the lung base"
+        },
+        {
+          "label": "B",
+          "text": "Fluid settles in the most gravity-dependent part of the pleural space, obscuring the costophrenic angle"
+        },
+        {
+          "label": "C",
+          "text": "The heart border shifts laterally and covers the angle"
+        },
+        {
+          "label": "D",
+          "text": "Air preferentially rises to the lung apex, sparing the base"
+        },
+        {
+          "label": "E",
+          "text": "Consolidated lung tissue retracts the diaphragm downward"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "On an upright film, free pleural fluid layers in the most dependent region, the posterior and lateral costophrenic recesses, blunting the normally sharp angle and forming a meniscus. Several hundred milliliters are usually needed before this sign appears; smaller effusions may only be visible on lateral or decubitus views.",
+        "whyCorrect": "On an upright film, free pleural fluid layers in the most dependent region, the posterior and lateral costophrenic recesses, blunting the normally sharp angle and forming a meniscus. Several hundred milliliters are usually needed before this sign appears; smaller effusions may only be visible on lateral or decubitus views.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-337_Brick Exchange - Pleural Effusion_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-338",
+      "topicId": "pleural-effusion",
+      "topicName": "Pleural Effusion",
+      "stem": "This normal chest radiograph highlights sharp, well-defined costophrenic angles at both lung bases. What does a sharp costophrenic angle indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Early consolidation of the lower lobe"
+        },
+        {
+          "label": "B",
+          "text": "Elevation of the hemidiaphragm from phrenic nerve palsy"
+        },
+        {
+          "label": "C",
+          "text": "A normal, fluid-free pleural space at the lung base"
+        },
+        {
+          "label": "D",
+          "text": "A small pneumothorax at the lung base"
+        },
+        {
+          "label": "E",
+          "text": "Fibrotic scarring of the visceral pleura"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The costophrenic angle is where the diaphragm meets the chest wall. When the pleural space is normal and air-filled lung extends fully into the recess, the angle appears sharp and acute. Loss of this sharpness (blunting) is an early radiographic sign of pleural fluid, so a crisp angle argues against effusion.",
+        "whyCorrect": "The costophrenic angle is where the diaphragm meets the chest wall. When the pleural space is normal and air-filled lung extends fully into the recess, the angle appears sharp and acute. Loss of this sharpness (blunting) is an early radiographic sign of pleural fluid, so a crisp angle argues against effusion.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-338_Brick Exchange - Pleural Effusion_p12_2.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-339",
+      "topicId": "pleural-effusion",
+      "topicName": "Pleural Effusion",
+      "stem": "This chest radiograph shows near-complete homogeneous white-out of one hemithorax with a concave upper (meniscus) border. What does this appearance most likely represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A large pleural effusion"
+        },
+        {
+          "label": "B",
+          "text": "A tension pneumothorax"
+        },
+        {
+          "label": "C",
+          "text": "Bilateral interstitial fibrosis"
+        },
+        {
+          "label": "D",
+          "text": "Complete lobar emphysema"
+        },
+        {
+          "label": "E",
+          "text": "A large pulmonary embolus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A large volume of pleural fluid produces a homogeneous opacity that obscures the lung and diaphragm, with a characteristic meniscus (concave superior margin) as fluid tracks up the lateral chest wall. Massive effusions can white-out the hemithorax; if under tension they may push the mediastinum away from the affected side.",
+        "whyCorrect": "A large volume of pleural fluid produces a homogeneous opacity that obscures the lung and diaphragm, with a characteristic meniscus (concave superior margin) as fluid tracks up the lateral chest wall. Massive effusions can white-out the hemithorax; if under tension they may push the mediastinum away from the affected side.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-339_Brick Exchange - Pleural Effusion_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-340",
+      "topicId": "pleural-effusion",
+      "topicName": "Pleural Effusion",
+      "stem": "This case pairs a frontal (PA) and a lateral chest radiograph, with dashed lines marking blunting at the diaphragm/costophrenic recess. Why is the lateral view especially useful when a small pleural effusion is suspected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It reveals the deep posterior costophrenic recess, where small effusions collect and blunt earlier than on the frontal view"
+        },
+        {
+          "label": "B",
+          "text": "It measures the exact protein content of the pleural fluid"
+        },
+        {
+          "label": "C",
+          "text": "It shows the heart size more accurately than any effusion"
+        },
+        {
+          "label": "D",
+          "text": "It eliminates the need for any dependent-position imaging"
+        },
+        {
+          "label": "E",
+          "text": "It distinguishes transudates from exudates by density"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The posterior costophrenic sulcus is the deepest, most dependent part of the pleural space and is only seen on the lateral projection. Because fluid pools there first, blunting of the posterior sulcus on the lateral film can detect effusions too small to blunt the lateral costophrenic angle on the frontal view; decubitus films add further sensitivity for free-flowing fluid.",
+        "whyCorrect": "The posterior costophrenic sulcus is the deepest, most dependent part of the pleural space and is only seen on the lateral projection. Because fluid pools there first, blunting of the posterior sulcus on the lateral film can detect effusions too small to blunt the lateral costophrenic angle on the frontal view; decubitus films add further sensitivity for free-flowing fluid.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-340_Brick Exchange - Pleural Effusion_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-341",
+      "topicId": "pleural-effusion",
+      "topicName": "Pleural Effusion",
+      "stem": "Bilateral pleural effusions are shown on these lateral decubitus chest radiographs. What is the primary diagnostic purpose of obtaining a lateral decubitus view in a patient with suspected pleural effusion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "To quantify the ejection fraction of the heart"
+        },
+        {
+          "label": "B",
+          "text": "To assess for endobronchial tumor obstruction"
+        },
+        {
+          "label": "C",
+          "text": "To evaluate coronary artery calcium burden"
+        },
+        {
+          "label": "D",
+          "text": "To determine whether the effusion is free-flowing or loculated"
+        },
+        {
+          "label": "E",
+          "text": "To measure the diameter of the pulmonary artery"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "On a lateral decubitus film, a free-flowing effusion layers dependently along the dependent chest wall, whereas a loculated effusion stays fixed. Demonstrating layering confirms the fluid is mobile and can be safely sampled or drained.",
+        "whyCorrect": "On a lateral decubitus film, a free-flowing effusion layers dependently along the dependent chest wall, whereas a loculated effusion stays fixed. Demonstrating layering confirms the fluid is mobile and can be safely sampled or drained.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-341_Brick Exchange - Pleural Effusion_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-342",
+      "topicId": "pleural-effusion",
+      "topicName": "Pleural Effusion",
+      "stem": "These paired thoracic ultrasound images contrast a normal scan (top) with an abnormal one (bottom) in which the vertebral bodies remain visible above the diaphragm. What does this 'spine sign' indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A normally aerated lung base"
+        },
+        {
+          "label": "B",
+          "text": "Diaphragmatic paralysis"
+        },
+        {
+          "label": "C",
+          "text": "Pericardial tamponade"
+        },
+        {
+          "label": "D",
+          "text": "Presence of a pleural effusion"
+        },
+        {
+          "label": "E",
+          "text": "Free intraperitoneal air"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Normally, air in the lung scatters ultrasound so the spine cannot be traced above the diaphragm (spine sign absent). When pleural fluid is present, it transmits sound and allows the vertebral column to be seen above the diaphragm, producing a positive spine sign.",
+        "whyCorrect": "Normally, air in the lung scatters ultrasound so the spine cannot be traced above the diaphragm (spine sign absent). When pleural fluid is present, it transmits sound and allows the vertebral column to be seen above the diaphragm, producing a positive spine sign.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-342_Brick Exchange - Pleural Effusion_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-343",
+      "topicId": "pleural-effusion",
+      "topicName": "Pleural Effusion",
+      "stem": "This illustration shows a patient sitting upright and leaning forward while a needle drains fluid from the pleural space into a collection bag. What procedure is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bronchoalveolar lavage"
+        },
+        {
+          "label": "B",
+          "text": "Pericardiocentesis"
+        },
+        {
+          "label": "C",
+          "text": "Paracentesis"
+        },
+        {
+          "label": "D",
+          "text": "Thoracentesis"
+        },
+        {
+          "label": "E",
+          "text": "Lumbar puncture"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Thoracentesis is performed with the patient upright and leaning forward so that fluid pools posteriorly and inferiorly; a needle is introduced above a rib into the pleural space to withdraw the effusion for diagnostic analysis or symptomatic relief.",
+        "whyCorrect": "Thoracentesis is performed with the patient upright and leaning forward so that fluid pools posteriorly and inferiorly; a needle is introduced above a rib into the pleural space to withdraw the effusion for diagnostic analysis or symptomatic relief.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-343_Brick Exchange - Pleural Effusion_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-344",
+      "topicId": "pleural-effusion",
+      "topicName": "Pleural Effusion",
+      "stem": "On the lateral view of this chest radiograph, fluid tracks upward along the chest wall producing an upwardly concave border. What is this radiographic finding called and what does it signify?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Meniscus sign, indicating a free-flowing pleural effusion"
+        },
+        {
+          "label": "B",
+          "text": "Deep sulcus sign, indicating pneumothorax"
+        },
+        {
+          "label": "C",
+          "text": "Kerley B lines, indicating interstitial edema"
+        },
+        {
+          "label": "D",
+          "text": "Silhouette sign, indicating right middle lobe collapse"
+        },
+        {
+          "label": "E",
+          "text": "Air bronchogram, indicating alveolar consolidation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The meniscus sign is the upwardly concave interface of pleural fluid against the chest wall, caused by surface tension and the fluid tracking higher laterally. It confirms a free-flowing effusion and results in blunting/loss of the costophrenic angles.",
+        "whyCorrect": "The meniscus sign is the upwardly concave interface of pleural fluid against the chest wall, caused by surface tension and the fluid tracking higher laterally. It confirms a free-flowing effusion and results in blunting/loss of the costophrenic angles.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-344_Brick Exchange - Pleural Effusion_p1_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-345",
+      "topicId": "pleural-effusion",
+      "topicName": "Pleural Effusion",
+      "stem": "On this axial chest CT, the arrow labeled 'dilated bronchi' points to abnormally widened, thick-walled airways in the right lung. What term describes this permanent airway dilation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Emphysema"
+        },
+        {
+          "label": "B",
+          "text": "Bronchiectasis"
+        },
+        {
+          "label": "C",
+          "text": "Atelectasis"
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary embolism"
+        },
+        {
+          "label": "E",
+          "text": "Pneumothorax"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Permanent, abnormal dilation of the bronchi with thickened walls is bronchiectasis, often resulting from chronic infection or inflammation with destruction of the airway wall. Here it accompanies pneumonia and a pleural effusion in the right lung.",
+        "whyCorrect": "Permanent, abnormal dilation of the bronchi with thickened walls is bronchiectasis, often resulting from chronic infection or inflammation with destruction of the airway wall. Here it accompanies pneumonia and a pleural effusion in the right lung.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-345_Brick Exchange - Pleural Effusion_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-827",
+      "topicId": "pleural-effusion",
+      "topicName": "Pleural Effusion",
+      "stem": "This diagram compares a normal hemithorax with one containing a pleural effusion. Approximately what volume of pleural fluid must accumulate before it becomes clinically/radiographically significant, as contrasted here?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Any amount above 1 mL"
+        },
+        {
+          "label": "B",
+          "text": "Greater than about 2 liters"
+        },
+        {
+          "label": "C",
+          "text": "Only when it exceeds 5 liters"
+        },
+        {
+          "label": "D",
+          "text": "Greater than about 500 mL"
+        },
+        {
+          "label": "E",
+          "text": "Greater than about 15 mL"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The normal pleural space contains only a few milliliters of lubricating fluid (<15 mL). Accumulation beyond this small physiologic amount represents a pleural effusion, which compresses the underlying lung.",
+        "whyCorrect": "The normal pleural space contains only a few milliliters of lubricating fluid (<15 mL). Accumulation beyond this small physiologic amount represents a pleural effusion, which compresses the underlying lung.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-827_Brick Exchange - Pleural Effusion_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-828",
+      "topicId": "pleural-effusion",
+      "topicName": "Pleural Effusion",
+      "stem": "This diagram of a capillary shows four Starling forces (Pc, Pi, πc, πi) governing fluid movement into and out of the pleural/interstitial space. Which force is the principal driver pushing fluid OUT of the capillary?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Capillary oncotic pressure (πc)"
+        },
+        {
+          "label": "B",
+          "text": "Capillary hydrostatic pressure (Pc)"
+        },
+        {
+          "label": "C",
+          "text": "Interstitial oncotic pressure (πi)"
+        },
+        {
+          "label": "D",
+          "text": "Interstitial hydrostatic pressure (Pi)"
+        },
+        {
+          "label": "E",
+          "text": "Plasma viscosity"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Capillary hydrostatic pressure (Pc) is the dominant outward force driving filtration of fluid across the capillary wall. Capillary oncotic pressure (πc) is the main opposing force pulling fluid back in. Imbalance of these Starling forces (e.g., elevated Pc in heart failure or reduced πc in hypoalbuminemia) leads to effusion formation.",
+        "whyCorrect": "Capillary hydrostatic pressure (Pc) is the dominant outward force driving filtration of fluid across the capillary wall. Capillary oncotic pressure (πc) is the main opposing force pulling fluid back in. Imbalance of these Starling forces (e.g., elevated Pc in heart failure or reduced πc in hypoalbuminemia) leads to effusion formation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-828_Brick Exchange - Pleural Effusion_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

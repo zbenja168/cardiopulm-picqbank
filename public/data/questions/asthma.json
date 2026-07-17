@@ -1,0 +1,201 @@
+{
+  "categoryId": "asthma",
+  "categoryName": "Asthma",
+  "questions": [
+    {
+      "id": "repic-214",
+      "topicId": "asthma",
+      "topicName": "Asthma",
+      "stem": "Comparing the two spirometry tracings, which feature best identifies the asthma tracing as a reversible obstructive process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A reduced total exhaled volume that does not change with bronchodilator"
+        },
+        {
+          "label": "B",
+          "text": "A restrictive pattern with proportionally reduced FVC and FEV1"
+        },
+        {
+          "label": "C",
+          "text": "A faster-than-normal rise to a higher plateau"
+        },
+        {
+          "label": "D",
+          "text": "Slowed initial rise with FEV1 improving substantially after bronchodilator"
+        },
+        {
+          "label": "E",
+          "text": "An unchanged FEV1 before and after bronchodilator"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In asthma the volume-time curve rises slowly (airflow obstruction, low FEV1), and the dashed post-bronchodilator curve shows marked improvement toward normal, demonstrating reversibility, the hallmark distinguishing asthma from fixed obstruction.",
+        "whyCorrect": "In asthma the volume-time curve rises slowly (airflow obstruction, low FEV1), and the dashed post-bronchodilator curve shows marked improvement toward normal, demonstrating reversibility, the hallmark distinguishing asthma from fixed obstruction.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-214_Brick Exchange - Asthma_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-215",
+      "topicId": "asthma",
+      "topicName": "Asthma",
+      "stem": "On this bronchoprovocation test, the asthmatic curve reaches a 20% fall in FEV1 at a much lower inhaled agent dose than normal. What does this indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reduced diffusing capacity of the lung"
+        },
+        {
+          "label": "B",
+          "text": "Increased static lung compliance"
+        },
+        {
+          "label": "C",
+          "text": "Fixed irreversible airflow obstruction"
+        },
+        {
+          "label": "D",
+          "text": "Impaired respiratory muscle strength"
+        },
+        {
+          "label": "E",
+          "text": "Airway hyperresponsiveness (bronchial hyperreactivity)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A low PC20 (here 0.8 vs 20 mg/mL) means only a small provocative concentration of methacholine produces a 20% FEV1 drop, defining airway hyperresponsiveness characteristic of asthma.",
+        "whyCorrect": "A low PC20 (here 0.8 vs 20 mg/mL) means only a small provocative concentration of methacholine produces a 20% FEV1 drop, defining airway hyperresponsiveness characteristic of asthma.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-215_Brick Exchange - Asthma_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-440",
+      "topicId": "asthma",
+      "topicName": "Asthma",
+      "stem": "This H&E section of a bronchus shows a thickened, hyalinized basement membrane, hypertrophied bronchial smooth muscle (blue arrow), goblet-cell/mucus change (green arrow), and a dense eosinophil-rich inflammatory infiltrate (yellow arrow). These airway-remodeling features are characteristic of which disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bronchiectasis"
+        },
+        {
+          "label": "B",
+          "text": "Emphysema"
+        },
+        {
+          "label": "C",
+          "text": "Asthma"
+        },
+        {
+          "label": "D",
+          "text": "Chronic bronchitis"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary tuberculosis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Basement membrane thickening, smooth muscle hypertrophy, goblet-cell/mucous hyperplasia, and eosinophilic inflammation are the histologic hallmarks of chronic asthmatic airway remodeling.",
+        "whyCorrect": "Basement membrane thickening, smooth muscle hypertrophy, goblet-cell/mucous hyperplasia, and eosinophilic inflammation are the histologic hallmarks of chronic asthmatic airway remodeling.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-440_Brick Exchange - Asthma_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-441",
+      "topicId": "asthma",
+      "topicName": "Asthma",
+      "stem": "This mucus-plug finding on sputum microscopy from a patient with an obstructive airway disease is most directly formed by which process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Degenerated red blood cells forming a cast"
+        },
+        {
+          "label": "B",
+          "text": "Aggregated fibrin strands from alveolar hemorrhage"
+        },
+        {
+          "label": "C",
+          "text": "Calcified bronchial cartilage fragments"
+        },
+        {
+          "label": "D",
+          "text": "Crystallized surfactant lipoprotein"
+        },
+        {
+          "label": "E",
+          "text": "Shed/casted bronchial epithelium and mucus from small airways"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The spiral shown is a Curschmann spiral, a whorled cast of mucus and shed epithelial cells from occluded small bronchioles, classically seen in asthma sputum alongside eosinophils and Charcot-Leyden crystals.",
+        "whyCorrect": "The spiral shown is a Curschmann spiral, a whorled cast of mucus and shed epithelial cells from occluded small bronchioles, classically seen in asthma sputum alongside eosinophils and Charcot-Leyden crystals.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-441_Brick Exchange - Asthma_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-656",
+      "topicId": "asthma",
+      "topicName": "Asthma",
+      "stem": "In the rightmost airway (asthmatic airway during an acute attack), which combination of changes is most responsible for the reduced airflow?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accumulation of fluid within the alveoli only"
+        },
+        {
+          "label": "B",
+          "text": "Smooth muscle constriction plus wall inflammation, causing luminal narrowing and air trapping"
+        },
+        {
+          "label": "C",
+          "text": "Loss of alveolar walls with permanent airspace enlargement"
+        },
+        {
+          "label": "D",
+          "text": "Thinning and dilation of the bronchial wall"
+        },
+        {
+          "label": "E",
+          "text": "Replacement of airway epithelium by fibrous scar with a fixed rigid lumen"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "During an asthma attack bronchial smooth muscle contracts and the inflamed, thickened wall narrows the lumen, trapping air distally in alveoli. This bronchoconstriction plus inflammation is reversible, unlike the fixed destruction of emphysema.",
+        "whyCorrect": "During an asthma attack bronchial smooth muscle contracts and the inflamed, thickened wall narrows the lumen, trapping air distally in alveoli. This bronchoconstriction plus inflammation is reversible, unlike the fixed destruction of emphysema.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-656_Brick Exchange - Asthma_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

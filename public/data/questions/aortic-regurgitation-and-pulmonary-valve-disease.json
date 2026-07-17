@@ -1,0 +1,474 @@
+{
+  "categoryId": "aortic-regurgitation-and-pulmonary-valve-disease",
+  "categoryName": "Aortic Regurgitation and Pulmonary Valve Disease",
+  "questions": [
+    {
+      "id": "repic-205",
+      "topicId": "aortic-regurgitation-and-pulmonary-valve-disease",
+      "topicName": "Aortic Regurgitation and Pulmonary Valve Disease",
+      "stem": "In the top phonocardiogram tracing, the murmur begins right after the second heart sound and fades across diastole. How is this murmur best characterized?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An opening snap followed by a mid-diastolic rumble"
+        },
+        {
+          "label": "B",
+          "text": "A continuous machinery murmur"
+        },
+        {
+          "label": "C",
+          "text": "A mid-systolic crescendo-decrescendo ejection murmur"
+        },
+        {
+          "label": "D",
+          "text": "A holosystolic (pansystolic) plateau murmur"
+        },
+        {
+          "label": "E",
+          "text": "An early diastolic decrescendo murmur"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Aortic regurgitation produces a high-pitched, early diastolic decrescendo murmur that begins immediately after S2 as blood leaks back into the LV during diastole. This contrasts with the lower tracing (mitral stenosis), which shows an opening snap and mid-diastolic rumble.",
+        "whyCorrect": "Aortic regurgitation produces a high-pitched, early diastolic decrescendo murmur that begins immediately after S2 as blood leaks back into the LV during diastole. This contrasts with the lower tracing (mitral stenosis), which shows an opening snap and mid-diastolic rumble.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-205_Brick Exchange - Aortic Regurgitation and Pulmonary Valve Disease_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-206",
+      "topicId": "aortic-regurgitation-and-pulmonary-valve-disease",
+      "topicName": "Aortic Regurgitation and Pulmonary Valve Disease",
+      "stem": "On this chest wall map of cardiac auscultation points, the point marked 'E' (Erb's point, left 3rd intercostal space) is classically the best location to hear which murmur?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A pericardial friction rub only"
+        },
+        {
+          "label": "B",
+          "text": "The murmur of pulmonary stenosis"
+        },
+        {
+          "label": "C",
+          "text": "The murmur of mitral regurgitation"
+        },
+        {
+          "label": "D",
+          "text": "The early diastolic murmur of aortic regurgitation"
+        },
+        {
+          "label": "E",
+          "text": "The murmur of tricuspid stenosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Erb's point (left 3rd intercostal space at the sternal border) is where the aortic regurgitation murmur is often best appreciated, especially with the patient leaning forward in expiration. The other points (A=aortic, P=pulmonary, T=tricuspid, M=mitral) localize their respective valve sounds.",
+        "whyCorrect": "Erb's point (left 3rd intercostal space at the sternal border) is where the aortic regurgitation murmur is often best appreciated, especially with the patient leaning forward in expiration. The other points (A=aortic, P=pulmonary, T=tricuspid, M=mitral) localize their respective valve sounds.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-206_Brick Exchange - Aortic Regurgitation and Pulmonary Valve Disease_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-427",
+      "topicId": "aortic-regurgitation-and-pulmonary-valve-disease",
+      "topicName": "Aortic Regurgitation and Pulmonary Valve Disease",
+      "stem": "This short-axis gross section of the ventricles shows a markedly thickened left-sided chamber wall. What does this specimen demonstrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Right ventricular hypertrophy"
+        },
+        {
+          "label": "B",
+          "text": "Dilated cardiomyopathy with wall thinning"
+        },
+        {
+          "label": "C",
+          "text": "Left ventricular hypertrophy"
+        },
+        {
+          "label": "D",
+          "text": "Fibrinous pericarditis"
+        },
+        {
+          "label": "E",
+          "text": "Acute myocardial infarction with rupture"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The left ventricular free wall and septum are conspicuously thicker than the right ventricular wall, indicating left ventricular hypertrophy. This is a chronic adaptation to increased LV workload, as in hypertension or aortic valve disease.",
+        "whyCorrect": "The left ventricular free wall and septum are conspicuously thicker than the right ventricular wall, indicating left ventricular hypertrophy. This is a chronic adaptation to increased LV workload, as in hypertension or aortic valve disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-427_Brick Exchange - Aortic Regurgitation and Pulmonary Valve Disease_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-428",
+      "topicId": "aortic-regurgitation-and-pulmonary-valve-disease",
+      "topicName": "Aortic Regurgitation and Pulmonary Valve Disease",
+      "stem": "This intraoperative view of an infant heart shows a domed, fused pulmonary valve creating a narrowed outflow orifice above the right ventricle. What chronic cardiac adaptation does this obstruction impose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Left ventricular dilation from volume overload"
+        },
+        {
+          "label": "B",
+          "text": "Right ventricular hypertrophy from pressure overload"
+        },
+        {
+          "label": "C",
+          "text": "Global four-chamber dilation from cardiomyopathy"
+        },
+        {
+          "label": "D",
+          "text": "Left atrial enlargement from mitral regurgitation"
+        },
+        {
+          "label": "E",
+          "text": "Right atrial thinning from tricuspid regurgitation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Congenital pulmonary valve stenosis with fused commissures obstructs right ventricular outflow. The RV must generate higher systolic pressure to eject across the narrowed valve, and chronic pressure overload leads to concentric right ventricular hypertrophy.",
+        "whyCorrect": "Congenital pulmonary valve stenosis with fused commissures obstructs right ventricular outflow. The RV must generate higher systolic pressure to eject across the narrowed valve, and chronic pressure overload leads to concentric right ventricular hypertrophy.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-428_Brick Exchange - Aortic Regurgitation and Pulmonary Valve Disease_p23_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-429",
+      "topicId": "aortic-regurgitation-and-pulmonary-valve-disease",
+      "topicName": "Aortic Regurgitation and Pulmonary Valve Disease",
+      "stem": "This illustration shows a proximal (type A) aortic dissection whose flap disrupts the aortic valve leaflet alignment. If this produces acute severe aortic regurgitation, what is the most immediate life-threatening consequence?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Systemic hypertension with a widened pulse pressure over months"
+        },
+        {
+          "label": "B",
+          "text": "Gradual, well-tolerated LV dilation over many years"
+        },
+        {
+          "label": "C",
+          "text": "Acute pulmonary edema and cardiogenic shock, because the unadapted LV cannot accommodate the sudden regurgitant volume"
+        },
+        {
+          "label": "D",
+          "text": "Isolated right-heart failure with peripheral edema"
+        },
+        {
+          "label": "E",
+          "text": "Chronic compensated eccentric hypertrophy"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In acute aortic regurgitation the left ventricle has not had time to dilate, so it cannot buffer the regurgitant volume. LV end-diastolic pressure rises sharply, transmitting back to the lungs and causing acute pulmonary edema and cardiogenic shock, a surgical emergency, unlike the well-tolerated chronic form.",
+        "whyCorrect": "In acute aortic regurgitation the left ventricle has not had time to dilate, so it cannot buffer the regurgitant volume. LV end-diastolic pressure rises sharply, transmitting back to the lungs and causing acute pulmonary edema and cardiogenic shock, a surgical emergency, unlike the well-tolerated chronic form.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-429_Brick Exchange - Aortic Regurgitation and Pulmonary Valve Disease_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-637",
+      "topicId": "aortic-regurgitation-and-pulmonary-valve-disease",
+      "topicName": "Aortic Regurgitation and Pulmonary Valve Disease",
+      "stem": "The lower pathway shows sarcomeres added in series with a dilated, thin-walled ventricle, contrasting with the middle pathway. Which hemodynamic burden classically drives the lower (eccentric) pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic pressure overload from systemic hypertension"
+        },
+        {
+          "label": "B",
+          "text": "Acute coronary occlusion"
+        },
+        {
+          "label": "C",
+          "text": "Chronic volume overload (e.g., aortic or mitral regurgitation)"
+        },
+        {
+          "label": "D",
+          "text": "Chronic pericardial constriction"
+        },
+        {
+          "label": "E",
+          "text": "Acute pressure overload from aortic stenosis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Adding sarcomeres in series lengthens myocytes, producing eccentric hypertrophy with chamber dilation, the response to chronic volume overload. Adding sarcomeres in parallel thickens myocytes, producing concentric hypertrophy in response to pressure overload.",
+        "whyCorrect": "Adding sarcomeres in series lengthens myocytes, producing eccentric hypertrophy with chamber dilation, the response to chronic volume overload. Adding sarcomeres in parallel thickens myocytes, producing concentric hypertrophy in response to pressure overload.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-637_Brick Exchange - Aortic Regurgitation and Pulmonary Valve Disease_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-638",
+      "topicId": "aortic-regurgitation-and-pulmonary-valve-disease",
+      "topicName": "Aortic Regurgitation and Pulmonary Valve Disease",
+      "stem": "Using the Laplace relationship shown (T = P·r / 2h), what is the functional purpose of the increased wall thickness (h) that develops in concentric hypertrophy during pressure overload?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increasing wall thickness has no effect on wall tension"
+        },
+        {
+          "label": "B",
+          "text": "Increasing wall thickness reduces the intraventricular pressure directly"
+        },
+        {
+          "label": "C",
+          "text": "Increasing wall thickness enlarges the chamber radius"
+        },
+        {
+          "label": "D",
+          "text": "Increasing wall thickness raises wall tension to boost contraction"
+        },
+        {
+          "label": "E",
+          "text": "Increasing wall thickness lowers wall tension back toward normal despite the elevated pressure"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "By the law of Laplace, wall tension is proportional to pressure times radius and inversely proportional to wall thickness. In pressure overload, thickening the wall (increased h) offsets the increased pressure so that tension is normalized. In volume overload, the radius rises and eccentric hypertrophy predominates.",
+        "whyCorrect": "By the law of Laplace, wall tension is proportional to pressure times radius and inversely proportional to wall thickness. In pressure overload, thickening the wall (increased h) offsets the increased pressure so that tension is normalized. In volume overload, the radius rises and eccentric hypertrophy predominates.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-638_Brick Exchange - Aortic Regurgitation and Pulmonary Valve Disease_p11_2.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-639",
+      "topicId": "aortic-regurgitation-and-pulmonary-valve-disease",
+      "topicName": "Aortic Regurgitation and Pulmonary Valve Disease",
+      "stem": "This cross-section through the base of the heart shows the two atrioventricular valves shut while the two semilunar valves (a red one and a blue one) are open. Which phase of the cardiac cycle is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Isovolumetric relaxation"
+        },
+        {
+          "label": "B",
+          "text": "Ventricular systole"
+        },
+        {
+          "label": "C",
+          "text": "The isovolumetric contraction phase"
+        },
+        {
+          "label": "D",
+          "text": "Ventricular diastole (filling)"
+        },
+        {
+          "label": "E",
+          "text": "Atrial systole only"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "With the mitral and tricuspid (AV) valves closed and the aortic and pulmonary (semilunar) valves open, blood is being ejected from the ventricles into the great arteries, which defines ventricular systole (ejection phase).",
+        "whyCorrect": "With the mitral and tricuspid (AV) valves closed and the aortic and pulmonary (semilunar) valves open, blood is being ejected from the ventricles into the great arteries, which defines ventricular systole (ejection phase).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-639_Brick Exchange - Aortic Regurgitation and Pulmonary Valve Disease_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-640",
+      "topicId": "aortic-regurgitation-and-pulmonary-valve-disease",
+      "topicName": "Aortic Regurgitation and Pulmonary Valve Disease",
+      "stem": "In this heart diagram, yellow arrows show blood leaking backward from the aorta through the aortic valve into the left ventricle during diastole while the mitral valve is open. What is the chronic consequence of this lesion on the left ventricle?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Concentric hypertrophy with a small chamber cavity"
+        },
+        {
+          "label": "B",
+          "text": "Right ventricular hypertrophy"
+        },
+        {
+          "label": "C",
+          "text": "Acute LV wall rupture"
+        },
+        {
+          "label": "D",
+          "text": "Left atrial thrombus formation"
+        },
+        {
+          "label": "E",
+          "text": "Eccentric hypertrophy with progressive LV dilation from volume overload"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The arrows depict aortic regurgitation. Each diastole the LV receives both normal atrial inflow and the regurgitant volume, imposing chronic volume overload. The LV compensates by dilating and adding sarcomeres in series (eccentric hypertrophy) to accommodate the increased end-diastolic volume.",
+        "whyCorrect": "The arrows depict aortic regurgitation. Each diastole the LV receives both normal atrial inflow and the regurgitant volume, imposing chronic volume overload. The LV compensates by dilating and adding sarcomeres in series (eccentric hypertrophy) to accommodate the increased end-diastolic volume.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-640_Brick Exchange - Aortic Regurgitation and Pulmonary Valve Disease_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-641",
+      "topicId": "aortic-regurgitation-and-pulmonary-valve-disease",
+      "topicName": "Aortic Regurgitation and Pulmonary Valve Disease",
+      "stem": "Compared with the normal aortic root and valve on the left, the right side shows a widened root in which the leaflets no longer meet in the center. Which mechanism of aortic regurgitation does this illustrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rheumatic thickening and fusion of the leaflets"
+        },
+        {
+          "label": "B",
+          "text": "Calcific stenosis restricting leaflet opening"
+        },
+        {
+          "label": "C",
+          "text": "A bacterial vegetation perforating a cusp"
+        },
+        {
+          "label": "D",
+          "text": "Congenital fusion into a bicuspid valve"
+        },
+        {
+          "label": "E",
+          "text": "Aortic root/annular dilation causing failure of leaflet coaptation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Even with structurally intact leaflets, dilation of the aortic root and annulus pulls the cusps apart so they cannot coapt during diastole, producing regurgitation. This is the mechanism seen in aortic root aneurysm, Marfan syndrome, and dissection, as opposed to primary leaflet disease.",
+        "whyCorrect": "Even with structurally intact leaflets, dilation of the aortic root and annulus pulls the cusps apart so they cannot coapt during diastole, producing regurgitation. This is the mechanism seen in aortic root aneurysm, Marfan syndrome, and dissection, as opposed to primary leaflet disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-641_Brick Exchange - Aortic Regurgitation and Pulmonary Valve Disease_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-642",
+      "topicId": "aortic-regurgitation-and-pulmonary-valve-disease",
+      "topicName": "Aortic Regurgitation and Pulmonary Valve Disease",
+      "stem": "This left ventricular pressure-volume loop (shifted rightward with a very large stroke-volume width and high end-diastolic volume) together with the arterial tracing showing a large pulse pressure is characteristic of which valvular lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute mitral regurgitation"
+        },
+        {
+          "label": "B",
+          "text": "Constrictive pericarditis"
+        },
+        {
+          "label": "C",
+          "text": "Chronic aortic regurgitation"
+        },
+        {
+          "label": "D",
+          "text": "Mitral stenosis"
+        },
+        {
+          "label": "E",
+          "text": "Aortic stenosis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Chronic aortic regurgitation produces combined volume and pressure overload: the PV loop enlarges with a greatly increased end-diastolic volume and stroke volume, while diastolic runoff of blood back into the LV lowers diastolic aortic pressure, widening the pulse pressure.",
+        "whyCorrect": "Chronic aortic regurgitation produces combined volume and pressure overload: the PV loop enlarges with a greatly increased end-diastolic volume and stroke volume, while diastolic runoff of blood back into the LV lowers diastolic aortic pressure, widening the pulse pressure.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-642_Brick Exchange - Aortic Regurgitation and Pulmonary Valve Disease_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-643",
+      "topicId": "aortic-regurgitation-and-pulmonary-valve-disease",
+      "topicName": "Aortic Regurgitation and Pulmonary Valve Disease",
+      "stem": "This curve plots stroke volume against ventricular end-diastolic volume. Which physiological principle does it illustrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The Bowditch (treppe) effect of rate on contractility"
+        },
+        {
+          "label": "B",
+          "text": "Anrep effect of afterload on intrinsic contractility"
+        },
+        {
+          "label": "C",
+          "text": "The Frank-Starling mechanism: increased preload stretches myocytes and augments stroke volume up to an optimum"
+        },
+        {
+          "label": "D",
+          "text": "The Bainbridge reflex increasing heart rate with venous return"
+        },
+        {
+          "label": "E",
+          "text": "Laplace's law relating wall tension to radius and pressure"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "As end-diastolic volume (preload) rises, sarcomere stretch optimizes actin-myosin overlap so stroke volume increases, peaking around ~170 mL before declining with overstretch. This is the Frank-Starling relationship.",
+        "whyCorrect": "As end-diastolic volume (preload) rises, sarcomere stretch optimizes actin-myosin overlap so stroke volume increases, peaking around ~170 mL before declining with overstretch. This is the Frank-Starling relationship.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-643_Brick Exchange - Aortic Regurgitation and Pulmonary Valve Disease_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "categoryId": "aortic-dissection",
+  "categoryName": "Aortic Dissection",
+  "questions": [
+    {
+      "id": "repic-100",
+      "topicId": "aortic-dissection",
+      "topicName": "Aortic Dissection",
+      "stem": "These elastic-stained sections of aortic media compare a diseased region (A, arrows) with adjacent tissue (B). The arrows in A mark fragmentation and pooling within the media. What predisposing lesion does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atherosclerotic plaque with a lipid core"
+        },
+        {
+          "label": "B",
+          "text": "Acute suppurative (neutrophilic) arteritis"
+        },
+        {
+          "label": "C",
+          "text": "Amyloid deposition in the intima"
+        },
+        {
+          "label": "D",
+          "text": "Cystic medial degeneration (loss/fragmentation of elastic fibers in the media)"
+        },
+        {
+          "label": "E",
+          "text": "Fibromuscular dysplasia of the media"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Panel A shows disruption and fragmentation of the elastic lamellae with mucoid pooling (cystic medial degeneration), which weakens the aortic media and predisposes to dissection and aneurysm. It is associated with aging, hypertension, and connective-tissue disorders such as Marfan syndrome.",
+        "whyCorrect": "Panel A shows disruption and fragmentation of the elastic lamellae with mucoid pooling (cystic medial degeneration), which weakens the aortic media and predisposes to dissection and aneurysm. It is associated with aging, hypertension, and connective-tissue disorders such as Marfan syndrome.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-100_Brick Exchange - Aortic Dissection_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-203",
+      "topicId": "aortic-dissection",
+      "topicName": "Aortic Dissection",
+      "stem": "This contrast CT of the chest shows the ascending aorta divided into two contrast-filled channels separated by a thin membrane. What is the underlying diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aortic dissection"
+        },
+        {
+          "label": "B",
+          "text": "Aortic aneurysm without dissection"
+        },
+        {
+          "label": "C",
+          "text": "Coarctation of the aorta"
+        },
+        {
+          "label": "D",
+          "text": "Pericardial effusion"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary embolism"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The image shows a true lumen and a false lumen separated by an intimal flap within the ascending aorta, the diagnostic hallmark of aortic dissection. Blood enters through an intimal tear and tracks within the media, creating the false lumen.",
+        "whyCorrect": "The image shows a true lumen and a false lumen separated by an intimal flap within the ascending aorta, the diagnostic hallmark of aortic dissection. Blood enters through an intimal tear and tracks within the media, creating the false lumen.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-203_Brick Exchange - Aortic Dissection_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-204",
+      "topicId": "aortic-dissection",
+      "topicName": "Aortic Dissection",
+      "stem": "This transesophageal echocardiogram shows a mobile linear membrane oscillating within the aortic lumen, dividing it into two channels. What does this finding represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A pericardial fat pad"
+        },
+        {
+          "label": "B",
+          "text": "A vegetation on the aortic valve"
+        },
+        {
+          "label": "C",
+          "text": "A left atrial myxoma"
+        },
+        {
+          "label": "D",
+          "text": "An interatrial septal aneurysm"
+        },
+        {
+          "label": "E",
+          "text": "Aortic dissection with an intimal flap"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Transesophageal echocardiography (TEE) is highly sensitive for aortic dissection, showing the intimal flap separating true and false lumens. TEE can be performed at the bedside in unstable patients and also assesses complications such as aortic regurgitation and pericardial effusion.",
+        "whyCorrect": "Transesophageal echocardiography (TEE) is highly sensitive for aortic dissection, showing the intimal flap separating true and false lumens. TEE can be performed at the bedside in unstable patients and also assesses complications such as aortic regurgitation and pericardial effusion.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-204_Brick Exchange - Aortic Dissection_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-425",
+      "topicId": "aortic-dissection",
+      "topicName": "Aortic Dissection",
+      "stem": "This classification divides aortic dissections by whether they involve the ascending aorta (left/middle) or are confined distal to it (right). Which group, as depicted on the left/middle, generally mandates urgent surgical repair?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dissections involving the ascending aorta (Stanford type A)"
+        },
+        {
+          "label": "B",
+          "text": "Dissections limited to the aortic arch vessels only"
+        },
+        {
+          "label": "C",
+          "text": "Dissections confined to the descending aorta (Stanford type B)"
+        },
+        {
+          "label": "D",
+          "text": "Both groups are always managed medically first"
+        },
+        {
+          "label": "E",
+          "text": "Only dissections that reach the iliac bifurcation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "This is the Stanford classification. Type A involves the ascending aorta and risks lethal complications (tamponade, coronary occlusion, acute aortic regurgitation), so it requires emergency surgery. Type B, distal to the left subclavian, is usually managed medically with blood-pressure control unless complications arise.",
+        "whyCorrect": "This is the Stanford classification. Type A involves the ascending aorta and risks lethal complications (tamponade, coronary occlusion, acute aortic regurgitation), so it requires emergency surgery. Type B, distal to the left subclavian, is usually managed medically with blood-pressure control unless complications arise.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-425_Brick Exchange - Aortic Dissection_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-426",
+      "topicId": "aortic-dissection",
+      "topicName": "Aortic Dissection",
+      "stem": "The right panel shows blood entering through a wall tear and splitting the vessel wall, compared with the normal vessel on the left. In which vessel does this process most characteristically occur because of the high intraluminal pressure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The aorta"
+        },
+        {
+          "label": "B",
+          "text": "A peripheral capillary bed"
+        },
+        {
+          "label": "C",
+          "text": "The pulmonary veins"
+        },
+        {
+          "label": "D",
+          "text": "The inferior vena cava"
+        },
+        {
+          "label": "E",
+          "text": "The portal vein"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Dissection occurs when blood enters through an intimal tear and cleaves the tunica media, creating a false lumen. High-pressure arterial flow drives this, making the aorta the classic site; hypertension and connective-tissue disease (e.g., Marfan) are major risk factors.",
+        "whyCorrect": "Dissection occurs when blood enters through an intimal tear and cleaves the tunica media, creating a false lumen. High-pressure arterial flow drives this, making the aorta the classic site; hypertension and connective-tissue disease (e.g., Marfan) are major risk factors.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-426_Brick Exchange - Aortic Dissection_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

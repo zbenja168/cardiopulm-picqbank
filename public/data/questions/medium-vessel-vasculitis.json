@@ -1,0 +1,357 @@
+{
+  "categoryId": "medium-vessel-vasculitis",
+  "categoryName": "Medium-Vessel Vasculitis",
+  "questions": [
+    {
+      "id": "repic-315",
+      "topicId": "medium-vessel-vasculitis",
+      "topicName": "Medium-Vessel Vasculitis",
+      "stem": "This visceral angiogram (arrows) demonstrates multiple small saccular outpouchings along medium-sized arteries. In a patient with fever, weight loss, and renal involvement, these findings are most characteristic of which disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Takayasu arteritis"
+        },
+        {
+          "label": "B",
+          "text": "Granulomatosis with polyangiitis (Wegener)"
+        },
+        {
+          "label": "C",
+          "text": "Giant cell (temporal) arteritis"
+        },
+        {
+          "label": "D",
+          "text": "Polyarteritis nodosa"
+        },
+        {
+          "label": "E",
+          "text": "Kawasaki disease"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Multiple microaneurysms of renal and mesenteric medium-sized arteries on angiography are a hallmark of polyarteritis nodosa. The other named vasculitides preferentially affect large vessels or present differently.",
+        "whyCorrect": "Multiple microaneurysms of renal and mesenteric medium-sized arteries on angiography are a hallmark of polyarteritis nodosa. The other named vasculitides preferentially affect large vessels or present differently.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-315_Brick Exchange - Medium-Vessel Vasculitis_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-316",
+      "topicId": "medium-vessel-vasculitis",
+      "topicName": "Medium-Vessel Vasculitis",
+      "stem": "This catheter-based imaging study displays the left coronary circulation. In a child recovering from Kawasaki disease, this modality is performed chiefly to detect which abnormality of these vessels?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atherosclerotic calcified plaque"
+        },
+        {
+          "label": "B",
+          "text": "Anomalous coronary origin"
+        },
+        {
+          "label": "C",
+          "text": "Myocardial bridging"
+        },
+        {
+          "label": "D",
+          "text": "Coronary artery vasospasm"
+        },
+        {
+          "label": "E",
+          "text": "Aneurysmal dilation of the coronary arteries"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Coronary angiography (and echocardiography) is used to surveil for coronary artery aneurysms, the principal complication of Kawasaki disease affecting these medium-sized muscular arteries.",
+        "whyCorrect": "Coronary angiography (and echocardiography) is used to surveil for coronary artery aneurysms, the principal complication of Kawasaki disease affecting these medium-sized muscular arteries.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-316_Brick Exchange - Medium-Vessel Vasculitis_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-516",
+      "topicId": "medium-vessel-vasculitis",
+      "topicName": "Medium-Vessel Vasculitis",
+      "stem": "This high-power H&E shows an artery with bright pink structureless deposition in the wall and surrounding inflammatory cells. This appearance is most characteristic of which process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atherosclerotic plaque with lipid core"
+        },
+        {
+          "label": "B",
+          "text": "Necrotizing vasculitis with fibrinoid necrosis (e.g., polyarteritis nodosa)"
+        },
+        {
+          "label": "C",
+          "text": "Organizing thrombus with recanalization"
+        },
+        {
+          "label": "D",
+          "text": "Amyloid deposition in the media"
+        },
+        {
+          "label": "E",
+          "text": "Dystrophic calcification of the internal elastic lamina"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Transmural inflammation with fibrinoid necrosis (eosinophilic, smudgy protein/fibrin in the vessel wall) is the histologic hallmark of necrotizing medium-vessel vasculitis such as polyarteritis nodosa.",
+        "whyCorrect": "Transmural inflammation with fibrinoid necrosis (eosinophilic, smudgy protein/fibrin in the vessel wall) is the histologic hallmark of necrotizing medium-vessel vasculitis such as polyarteritis nodosa.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-516_Brick Exchange - Medium-Vessel Vasculitis_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-517",
+      "topicId": "medium-vessel-vasculitis",
+      "topicName": "Medium-Vessel Vasculitis",
+      "stem": "This artery shows transmural necrotizing inflammation with fibrinoid necrosis. In classic polyarteritis nodosa, lesions at different stages coexisting in the same vessel are typical. What complication does this weakened, inflamed wall characteristically produce?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Concentric onion-skin fibrosis without inflammation"
+        },
+        {
+          "label": "B",
+          "text": "Diffuse arterial ectasia sparing the media"
+        },
+        {
+          "label": "C",
+          "text": "Microaneurysm formation with risk of rupture and thrombosis"
+        },
+        {
+          "label": "D",
+          "text": "Granulomatous giant-cell replacement of the intima only"
+        },
+        {
+          "label": "E",
+          "text": "Caseating necrosis with Langhans giant cells"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Fibrinoid necrosis weakens the medium-sized muscular artery wall, producing the small aneurysms (and thrombosis/infarction) characteristic of polyarteritis nodosa. Lesions of varying age in the same vessel are a classic feature.",
+        "whyCorrect": "Fibrinoid necrosis weakens the medium-sized muscular artery wall, producing the small aneurysms (and thrombosis/infarction) characteristic of polyarteritis nodosa. Lesions of varying age in the same vessel are a classic feature.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-517_Brick Exchange - Medium-Vessel Vasculitis_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-518",
+      "topicId": "medium-vessel-vasculitis",
+      "topicName": "Medium-Vessel Vasculitis",
+      "stem": "This patient with a medium-vessel vasculitis has blackened, necrotic toe tips. What is the underlying mechanism of these lesions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Autoimmune blistering of the epidermis"
+        },
+        {
+          "label": "B",
+          "text": "Frostbite from cold exposure"
+        },
+        {
+          "label": "C",
+          "text": "Fungal invasion of the nail bed"
+        },
+        {
+          "label": "D",
+          "text": "Venous stasis ulceration from chronic venous insufficiency"
+        },
+        {
+          "label": "E",
+          "text": "Ischemic gangrene from inflammatory occlusion/thrombosis of medium-sized digital arteries"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Necrotizing inflammation of medium-sized arteries causes luminal narrowing and thrombosis, cutting off distal perfusion. The resulting critical ischemia produces digital gangrene, a recognized manifestation of medium-vessel vasculitis.",
+        "whyCorrect": "Necrotizing inflammation of medium-sized arteries causes luminal narrowing and thrombosis, cutting off distal perfusion. The resulting critical ischemia produces digital gangrene, a recognized manifestation of medium-vessel vasculitis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-518_Brick Exchange - Medium-Vessel Vasculitis_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-519",
+      "topicId": "medium-vessel-vasculitis",
+      "topicName": "Medium-Vessel Vasculitis",
+      "stem": "This medium-sized muscular artery shows circumferential transmural inflammation with fibrinoid necrosis and a compromised lumen (arrow). Which vasculitis is most consistent with this histology in an adult?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cystic medial degeneration"
+        },
+        {
+          "label": "B",
+          "text": "Hypersensitivity (leukocytoclastic) vasculitis of small vessels"
+        },
+        {
+          "label": "C",
+          "text": "Giant cell arteritis"
+        },
+        {
+          "label": "D",
+          "text": "Polyarteritis nodosa"
+        },
+        {
+          "label": "E",
+          "text": "Buerger disease (thromboangiitis obliterans)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Transmural necrotizing inflammation of a medium-sized muscular artery with fibrinoid necrosis and luminal compromise is classic for polyarteritis nodosa, which spares small vessels and typically shows no granulomas.",
+        "whyCorrect": "Transmural necrotizing inflammation of a medium-sized muscular artery with fibrinoid necrosis and luminal compromise is classic for polyarteritis nodosa, which spares small vessels and typically shows no granulomas.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-519_Brick Exchange - Medium-Vessel Vasculitis_p20_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-520",
+      "topicId": "medium-vessel-vasculitis",
+      "topicName": "Medium-Vessel Vasculitis",
+      "stem": "A young child presents with prolonged fever, and this oral finding is seen. In the context of medium-vessel vasculitis, this mucosal change is most characteristic of which disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Kawasaki disease"
+        },
+        {
+          "label": "B",
+          "text": "Polyarteritis nodosa"
+        },
+        {
+          "label": "C",
+          "text": "Henoch-Schonlein purpura"
+        },
+        {
+          "label": "D",
+          "text": "Behcet disease"
+        },
+        {
+          "label": "E",
+          "text": "Granulomatosis with polyangiitis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Oral mucosal changes (injected/cracked lips, strawberry tongue) are part of the mucocutaneous syndrome of Kawasaki disease, the prototypical medium-vessel vasculitis of childhood that threatens the coronary arteries.",
+        "whyCorrect": "Oral mucosal changes (injected/cracked lips, strawberry tongue) are part of the mucocutaneous syndrome of Kawasaki disease, the prototypical medium-vessel vasculitis of childhood that threatens the coronary arteries.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-520_Brick Exchange - Medium-Vessel Vasculitis_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-521",
+      "topicId": "medium-vessel-vasculitis",
+      "topicName": "Medium-Vessel Vasculitis",
+      "stem": "This febrile toddler has a diffuse polymorphous truncal rash together with conjunctival injection and extremity changes. Which complication most threatens long-term prognosis in this condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pulmonary hemorrhage"
+        },
+        {
+          "label": "B",
+          "text": "Coronary artery aneurysms"
+        },
+        {
+          "label": "C",
+          "text": "Glomerulonephritis"
+        },
+        {
+          "label": "D",
+          "text": "Cerebral vasculitis with stroke"
+        },
+        {
+          "label": "E",
+          "text": "Aortic dissection"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The polymorphous rash is a diagnostic criterion of Kawasaki disease; the feared sequela of this medium-vessel vasculitis is coronary artery aneurysm formation, which drives management with IVIG and aspirin.",
+        "whyCorrect": "The polymorphous rash is a diagnostic criterion of Kawasaki disease; the feared sequela of this medium-vessel vasculitis is coronary artery aneurysm formation, which drives management with IVIG and aspirin.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-521_Brick Exchange - Medium-Vessel Vasculitis_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-522",
+      "topicId": "medium-vessel-vasculitis",
+      "topicName": "Medium-Vessel Vasculitis",
+      "stem": "A child with 5 days of fever shows erythema and firm swelling of the palms, which later desquamate. This extremity finding supports a diagnosis in which vessels are the primary target?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Glomerular capillaries"
+        },
+        {
+          "label": "B",
+          "text": "Large elastic arteries such as the aorta"
+        },
+        {
+          "label": "C",
+          "text": "Pulmonary arterioles"
+        },
+        {
+          "label": "D",
+          "text": "Postcapillary venules"
+        },
+        {
+          "label": "E",
+          "text": "Medium-sized muscular arteries (e.g., coronary arteries)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Erythema and edema of the hands and feet followed by periungual peeling are hallmark extremity changes of Kawasaki disease, a medium-vessel vasculitis with predilection for the coronary arteries.",
+        "whyCorrect": "Erythema and edema of the hands and feet followed by periungual peeling are hallmark extremity changes of Kawasaki disease, a medium-vessel vasculitis with predilection for the coronary arteries.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-522_Brick Exchange - Medium-Vessel Vasculitis_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

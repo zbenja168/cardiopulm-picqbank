@@ -1,0 +1,240 @@
+{
+  "categoryId": "antiarrhythmic-agents-class-i-drugs",
+  "categoryName": "Antiarrhythmic Agents - Class I Drugs",
+  "questions": [
+    {
+      "id": "repic-194",
+      "topicId": "antiarrhythmic-agents-class-i-drugs",
+      "topicName": "Antiarrhythmic Agents - Class I Drugs",
+      "stem": "This rhythm strip shows a wide-complex tachycardia whose QRS amplitude progressively waxes and wanes, appearing to twist around the baseline. In a patient on a QT-prolonging Class IA antiarrhythmic, what is this rhythm?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Monomorphic ventricular tachycardia"
+        },
+        {
+          "label": "B",
+          "text": "First-degree AV block"
+        },
+        {
+          "label": "C",
+          "text": "Torsades de pointes"
+        },
+        {
+          "label": "D",
+          "text": "Atrial flutter"
+        },
+        {
+          "label": "E",
+          "text": "Atrial fibrillation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The characteristic twisting of QRS amplitude around the baseline is torsades de pointes, a polymorphic ventricular tachycardia associated with QT prolongation. Class IA agents (and other QT-prolonging drugs) can precipitate it.",
+        "whyCorrect": "The characteristic twisting of QRS amplitude around the baseline is torsades de pointes, a polymorphic ventricular tachycardia associated with QT prolongation. Class IA agents (and other QT-prolonging drugs) can precipitate it.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-194_Brick Exchange - Antiarrhythmic Agents - Class I Drugs_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-581",
+      "topicId": "antiarrhythmic-agents-class-i-drugs",
+      "topicName": "Antiarrhythmic Agents - Class I Drugs",
+      "stem": "This overlay compares a normal cardiac action potential (black) with one altered by a drug (red): phase 0 is minimally changed while the action potential duration is shortened. A drug producing this pattern is best exemplified by which agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Flecainide"
+        },
+        {
+          "label": "B",
+          "text": "Amiodarone"
+        },
+        {
+          "label": "C",
+          "text": "Quinidine"
+        },
+        {
+          "label": "D",
+          "text": "Lidocaine"
+        },
+        {
+          "label": "E",
+          "text": "Verapamil"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The pattern (weak Na+ channel block with shortened action potential duration) is characteristic of Class IB agents such as lidocaine and mexiletine, which preferentially act on ischemic/depolarized ventricular tissue. Quinidine is IA, flecainide is IC, amiodarone is III, verapamil is IV.",
+        "whyCorrect": "The pattern (weak Na+ channel block with shortened action potential duration) is characteristic of Class IB agents such as lidocaine and mexiletine, which preferentially act on ischemic/depolarized ventricular tissue. Quinidine is IA, flecainide is IC, amiodarone is III, verapamil is IV.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-581_Brick Exchange - Antiarrhythmic Agents - Class I Drugs_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-582",
+      "topicId": "antiarrhythmic-agents-class-i-drugs",
+      "topicName": "Antiarrhythmic Agents - Class I Drugs",
+      "stem": "This overlay compares a normal action potential (black) with one altered by a drug (red): the phase 0 upstroke slope is markedly reduced while the overall action potential duration is essentially unchanged. Which agent typifies this effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sotalol"
+        },
+        {
+          "label": "B",
+          "text": "Lidocaine"
+        },
+        {
+          "label": "C",
+          "text": "Quinidine"
+        },
+        {
+          "label": "D",
+          "text": "Flecainide"
+        },
+        {
+          "label": "E",
+          "text": "Diltiazem"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Marked slowing of phase 0 (strong Na+ channel block) with little change in action potential duration is the hallmark of Class IC agents such as flecainide and propafenone. Lidocaine is IB (shortens APD), quinidine is IA (prolongs APD), sotalol is III, diltiazem is IV.",
+        "whyCorrect": "Marked slowing of phase 0 (strong Na+ channel block) with little change in action potential duration is the hallmark of Class IC agents such as flecainide and propafenone. Lidocaine is IB (shortens APD), quinidine is IA (prolongs APD), sotalol is III, diltiazem is IV.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-582_Brick Exchange - Antiarrhythmic Agents - Class I Drugs_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-583",
+      "topicId": "antiarrhythmic-agents-class-i-drugs",
+      "topicName": "Antiarrhythmic Agents - Class I Drugs",
+      "stem": "This overlay compares a normal action potential (black) with one altered by a drug (red): the phase 0 slope is reduced AND repolarization is prolonged, increasing action potential duration and effective refractory period. Which agent produces this combined effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Propranolol"
+        },
+        {
+          "label": "B",
+          "text": "Lidocaine"
+        },
+        {
+          "label": "C",
+          "text": "Quinidine"
+        },
+        {
+          "label": "D",
+          "text": "Flecainide"
+        },
+        {
+          "label": "E",
+          "text": "Verapamil"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Combined moderate Na+ channel block (slowed phase 0) plus K+ channel block (prolonged repolarization, increased APD/ERP) is characteristic of Class IA agents such as quinidine, procainamide, and disopyramide. This QT prolongation predisposes to torsades de pointes.",
+        "whyCorrect": "Combined moderate Na+ channel block (slowed phase 0) plus K+ channel block (prolonged repolarization, increased APD/ERP) is characteristic of Class IA agents such as quinidine, procainamide, and disopyramide. This QT prolongation predisposes to torsades de pointes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-583_Brick Exchange - Antiarrhythmic Agents - Class I Drugs_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-634",
+      "topicId": "antiarrhythmic-agents-class-i-drugs",
+      "topicName": "Antiarrhythmic Agents - Class I Drugs",
+      "stem": "This ventricular cardiac action potential is annotated with its phases and the corresponding transmembrane ion movements shown below. What ionic mechanism produces the sustained plateau (phase 2)?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inward Cl- current alone"
+        },
+        {
+          "label": "B",
+          "text": "Rapid inward Na+ current"
+        },
+        {
+          "label": "C",
+          "text": "Activity of the Na+/K+-ATPase pumping Na+ inward"
+        },
+        {
+          "label": "D",
+          "text": "Inward Ca2+ current balanced by outward K+ current"
+        },
+        {
+          "label": "E",
+          "text": "Outward K+ current with no inward current"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Phase 2 (plateau) results from a balance between inward Ca2+ current (through L-type channels) and outward K+ current. Phase 0 is the rapid Na+ influx, and phase 3 repolarization is dominated by K+ efflux once Ca2+ channels close.",
+        "whyCorrect": "Phase 2 (plateau) results from a balance between inward Ca2+ current (through L-type channels) and outward K+ current. Phase 0 is the rapid Na+ influx, and phase 3 repolarization is dominated by K+ efflux once Ca2+ channels close.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-634_Brick Exchange - Antiarrhythmic Agents - Class I Drugs_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-635",
+      "topicId": "antiarrhythmic-agents-class-i-drugs",
+      "topicName": "Antiarrhythmic Agents - Class I Drugs",
+      "stem": "This diagram depicts a voltage-gated sodium channel cycling through three conformations, with an activation gate and an inactivation gate labeled. In the resting state (left panel), what is the configuration of the two gates?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Activation gate open, inactivation gate open"
+        },
+        {
+          "label": "B",
+          "text": "Activation gate open, inactivation gate closed"
+        },
+        {
+          "label": "C",
+          "text": "Both gates fused into a single open pore"
+        },
+        {
+          "label": "D",
+          "text": "Activation gate closed, inactivation gate open"
+        },
+        {
+          "label": "E",
+          "text": "Activation gate closed, inactivation gate closed"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "At rest, the activation gate is closed and the inactivation gate is open, so no Na+ flows. On depolarization the activation gate opens (activated state, Na+ flows), then the inactivation gate closes (inactivated state). Class I drugs bind preferentially to the activated/inactivated states.",
+        "whyCorrect": "At rest, the activation gate is closed and the inactivation gate is open, so no Na+ flows. On depolarization the activation gate opens (activated state, Na+ flows), then the inactivation gate closes (inactivated state). Class I drugs bind preferentially to the activated/inactivated states.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-635_Brick Exchange - Antiarrhythmic Agents - Class I Drugs_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

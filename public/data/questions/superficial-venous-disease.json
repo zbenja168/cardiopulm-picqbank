@@ -1,0 +1,396 @@
+{
+  "categoryId": "superficial-venous-disease",
+  "categoryName": "Superficial Venous Disease",
+  "questions": [
+    {
+      "id": "repic-565",
+      "topicId": "superficial-venous-disease",
+      "topicName": "Superficial Venous Disease",
+      "stem": "An indwelling catheter in a hand vein produces localized redness, and the adjacent vein contains a clot with wall inflammation. This combination is best described as which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Arterial embolism"
+        },
+        {
+          "label": "B",
+          "text": "Lymphangitis"
+        },
+        {
+          "label": "C",
+          "text": "Superficial thrombophlebitis"
+        },
+        {
+          "label": "D",
+          "text": "Deep vein thrombosis"
+        },
+        {
+          "label": "E",
+          "text": "Cellulitis without vascular involvement"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Trauma from an indwelling catheter injures the venous endothelium, promoting inflammation and clot formation within a superficial vein, i.e., superficial thrombophlebitis, typically presenting as a tender, red, cord-like vessel.",
+        "whyCorrect": "Trauma from an indwelling catheter injures the venous endothelium, promoting inflammation and clot formation within a superficial vein, i.e., superficial thrombophlebitis, typically presenting as a tender, red, cord-like vessel.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-565_Brick Exchange - Superficial Venous Disease_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-566",
+      "topicId": "superficial-venous-disease",
+      "topicName": "Superficial Venous Disease",
+      "stem": "This three-circle diagram shows the central overlap of endothelial damage, a hypercoagulable state, and abnormal blood flow. The central intersection represents the outcome favored when all three coexist. Clinically, which scenario most directly reflects this concept?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vasodilation causing distributive shock"
+        },
+        {
+          "label": "B",
+          "text": "Postoperative immobility plus a vessel injury and inherited clotting tendency raise thrombosis risk"
+        },
+        {
+          "label": "C",
+          "text": "Iron deficiency causing microcytic anemia"
+        },
+        {
+          "label": "D",
+          "text": "Excess bleeding from platelet dysfunction"
+        },
+        {
+          "label": "E",
+          "text": "Hemolysis from a mechanical valve alone"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The figure depicts Virchow triad: endothelial injury, hypercoagulability, and stasis (abnormal flow). Convergence of these factors, as in an immobile postoperative patient with vessel injury and a thrombophilia, predisposes to venous thrombosis.",
+        "whyCorrect": "The figure depicts Virchow triad: endothelial injury, hypercoagulability, and stasis (abnormal flow). Convergence of these factors, as in an immobile postoperative patient with vessel injury and a thrombophilia, predisposes to venous thrombosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-566_Brick Exchange - Superficial Venous Disease_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-567",
+      "topicId": "superficial-venous-disease",
+      "topicName": "Superficial Venous Disease",
+      "stem": "This leg shows a tender, erythematous, indurated cord-like streak with reddish nodularity tracking along the course of a superficial vein. This finding is most consistent with which diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Superficial thrombophlebitis"
+        },
+        {
+          "label": "B",
+          "text": "Deep vein thrombosis"
+        },
+        {
+          "label": "C",
+          "text": "Cellulitis of the entire limb"
+        },
+        {
+          "label": "D",
+          "text": "Stasis dermatitis with hemosiderin"
+        },
+        {
+          "label": "E",
+          "text": "Erythema nodosum"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A palpable, tender, red cord following a superficial vein reflects thrombosis with surrounding inflammation of that vein (superficial thrombophlebitis), distinct from the diffuse swelling of DVT or the septal panniculitis of erythema nodosum.",
+        "whyCorrect": "A palpable, tender, red cord following a superficial vein reflects thrombosis with surrounding inflammation of that vein (superficial thrombophlebitis), distinct from the diffuse swelling of DVT or the septal panniculitis of erythema nodosum.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-567_Brick Exchange - Superficial Venous Disease_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-568",
+      "topicId": "superficial-venous-disease",
+      "topicName": "Superficial Venous Disease",
+      "stem": "A patient's lower legs are shown: one leg has marked distal swelling, skin thickening, and dark discoloration compared with the other. What chronic condition does this appearance most likely represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Peripheral arterial occlusive disease"
+        },
+        {
+          "label": "B",
+          "text": "Congestive heart failure edema"
+        },
+        {
+          "label": "C",
+          "text": "Acute deep vein thrombosis"
+        },
+        {
+          "label": "D",
+          "text": "Bacterial cellulitis"
+        },
+        {
+          "label": "E",
+          "text": "Chronic venous insufficiency"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Long-standing venous hypertension from valvular incompetence produces dependent edema, skin thickening, and hemosiderin/pigment changes of the lower leg, the hallmark of chronic venous insufficiency.",
+        "whyCorrect": "Long-standing venous hypertension from valvular incompetence produces dependent edema, skin thickening, and hemosiderin/pigment changes of the lower leg, the hallmark of chronic venous insufficiency.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-568_Brick Exchange - Superficial Venous Disease_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-569",
+      "topicId": "superficial-venous-disease",
+      "topicName": "Superficial Venous Disease",
+      "stem": "The medial ankle and foot show brownish pigmentation, induration, and scaling in a patient with long-standing venous disease. This skin change is best described as?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cellulitis with abscess"
+        },
+        {
+          "label": "B",
+          "text": "Arterial ischemic gangrene"
+        },
+        {
+          "label": "C",
+          "text": "Venous stasis dermatitis with hemosiderin deposition"
+        },
+        {
+          "label": "D",
+          "text": "Tinea pedis fungal infection"
+        },
+        {
+          "label": "E",
+          "text": "Acute contact dermatitis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Chronic venous hypertension causes red-cell extravasation; breakdown of hemoglobin deposits hemosiderin, giving the characteristic brown pigmentation and eczematous change of stasis dermatitis in the gaiter area.",
+        "whyCorrect": "Chronic venous hypertension causes red-cell extravasation; breakdown of hemoglobin deposits hemosiderin, giving the characteristic brown pigmentation and eczematous change of stasis dermatitis in the gaiter area.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-569_Brick Exchange - Superficial Venous Disease_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-570",
+      "topicId": "superficial-venous-disease",
+      "topicName": "Superficial Venous Disease",
+      "stem": "A dilated, tortuous, rope-like subcutaneous vein bulges from the calf of this patient. What is this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Superficial thrombophlebitis cord"
+        },
+        {
+          "label": "B",
+          "text": "Varicose vein"
+        },
+        {
+          "label": "C",
+          "text": "Arteriovenous fistula"
+        },
+        {
+          "label": "D",
+          "text": "Ruptured Baker cyst"
+        },
+        {
+          "label": "E",
+          "text": "Lymphangitic streak"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Sustained venous reflux dilates superficial veins into the visible, tortuous, elongated cords known as varicose veins.",
+        "whyCorrect": "Sustained venous reflux dilates superficial veins into the visible, tortuous, elongated cords known as varicose veins.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-570_Brick Exchange - Superficial Venous Disease_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-571",
+      "topicId": "superficial-venous-disease",
+      "topicName": "Superficial Venous Disease",
+      "stem": "Both lower legs show woody induration with confluent purple-brown discoloration and scaling over the gaiter region in advanced venous disease. This end-stage skin/subcutaneous change is termed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Erythema nodosum"
+        },
+        {
+          "label": "B",
+          "text": "Lipodermatosclerosis"
+        },
+        {
+          "label": "C",
+          "text": "Pretibial myxedema"
+        },
+        {
+          "label": "D",
+          "text": "Necrotizing fasciitis"
+        },
+        {
+          "label": "E",
+          "text": "Kaposi sarcoma"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Chronic venous hypertension drives fibrosis of dermis and subcutaneous fat, producing the firm, hyperpigmented, inverted-champagne-bottle change called lipodermatosclerosis, often preceding venous ulceration.",
+        "whyCorrect": "Chronic venous hypertension drives fibrosis of dermis and subcutaneous fat, producing the firm, hyperpigmented, inverted-champagne-bottle change called lipodermatosclerosis, often preceding venous ulceration.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-571_Brick Exchange - Superficial Venous Disease_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-879",
+      "topicId": "superficial-venous-disease",
+      "topicName": "Superficial Venous Disease",
+      "stem": "This diagram contrasts normal and abnormal venous return in the leg. What underlying defect explains the abnormal (refluxing) blood flow and varicosities shown on the right?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atherosclerotic narrowing of leg arteries"
+        },
+        {
+          "label": "B",
+          "text": "Increased arterial inflow pressure"
+        },
+        {
+          "label": "C",
+          "text": "Incompetent venous valves allowing retrograde reflux"
+        },
+        {
+          "label": "D",
+          "text": "Occlusion of the deep vein by thrombus"
+        },
+        {
+          "label": "E",
+          "text": "Obstruction of lymphatic channels"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "When one-way venous valves fail, blood refluxes distally under gravity, raising venous pressure and dilating superficial veins into varicosities, in contrast with competent valves that direct flow upward.",
+        "whyCorrect": "When one-way venous valves fail, blood refluxes distally under gravity, raising venous pressure and dilating superficial veins into varicosities, in contrast with competent valves that direct flow upward.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-879_Brick Exchange - Superficial Venous Disease_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-880",
+      "topicId": "superficial-venous-disease",
+      "topicName": "Superficial Venous Disease",
+      "stem": "The illustration shows a needle injecting an agent directly into a superficial vein, with a magnified view of the vein lumen filling with a fibrotic/occluding mass. What treatment does this depict?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vein stripping surgery"
+        },
+        {
+          "label": "B",
+          "text": "Arterial angioplasty"
+        },
+        {
+          "label": "C",
+          "text": "Sclerotherapy"
+        },
+        {
+          "label": "D",
+          "text": "Endovenous thermal ablation"
+        },
+        {
+          "label": "E",
+          "text": "Deep venous thrombolysis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Sclerotherapy injects a chemical sclerosant into the target vein, damaging the endothelium so the vein fibroses and is obliterated, as shown by the occluded lumen.",
+        "whyCorrect": "Sclerotherapy injects a chemical sclerosant into the target vein, damaging the endothelium so the vein fibroses and is obliterated, as shown by the occluded lumen.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-880_Brick Exchange - Superficial Venous Disease_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-881",
+      "topicId": "superficial-venous-disease",
+      "topicName": "Superficial Venous Disease",
+      "stem": "This 4-step sequence shows a catheter introduced and advanced up a vein, then the vein narrowing and closing as the catheter is withdrawn. By what mechanism is the vein closed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The vein is surgically tied off and removed"
+        },
+        {
+          "label": "B",
+          "text": "A metal stent holds the vein permanently open"
+        },
+        {
+          "label": "C",
+          "text": "Thermal energy from the catheter injures the vein wall, causing it to contract and seal"
+        },
+        {
+          "label": "D",
+          "text": "A chemical sclerosant is injected into the lumen"
+        },
+        {
+          "label": "E",
+          "text": "A clot-dissolving drug is infused to reopen it"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Endovenous thermal (radiofrequency or laser) ablation delivers heat that denatures the vein wall collagen, causing contraction and fibrotic closure as the catheter is slowly withdrawn.",
+        "whyCorrect": "Endovenous thermal (radiofrequency or laser) ablation delivers heat that denatures the vein wall collagen, causing contraction and fibrotic closure as the catheter is slowly withdrawn.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-881_Brick Exchange - Superficial Venous Disease_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,357 @@
+{
+  "categoryId": "respiratory-b-pertussis-and-c-diphtheriae",
+  "categoryName": "Respiratory: B. pertussis and C. diphtheriae",
+  "questions": [
+    {
+      "id": "repic-168",
+      "topicId": "respiratory-b-pertussis-and-c-diphtheriae",
+      "topicName": "Respiratory: B. pertussis and C. diphtheriae",
+      "stem": "This stained smear from a respiratory specimen shows numerous tiny red-staining, poorly-staining coccobacilli. In a young infant with paroxysmal coughing fits followed by an inspiratory whoop, which organism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Haemophilus influenzae"
+        },
+        {
+          "label": "B",
+          "text": "Corynebacterium diphtheriae"
+        },
+        {
+          "label": "C",
+          "text": "Legionella pneumophila"
+        },
+        {
+          "label": "D",
+          "text": "Bordetella pertussis"
+        },
+        {
+          "label": "E",
+          "text": "Streptococcus pneumoniae"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Bordetella pertussis is a small, fastidious Gram-negative coccobacillus that stains faintly. It causes whooping cough with the characteristic catarrhal, paroxysmal, and convalescent stages; toxin-mediated ciliary damage produces the severe coughing paroxysms.",
+        "whyCorrect": "Bordetella pertussis is a small, fastidious Gram-negative coccobacillus that stains faintly. It causes whooping cough with the characteristic catarrhal, paroxysmal, and convalescent stages; toxin-mediated ciliary damage produces the severe coughing paroxysms.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-168_Brick Exchange - Respiratory_ B. pertussis and C. diphtheriae_p19_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-169",
+      "topicId": "respiratory-b-pertussis-and-c-diphtheriae",
+      "topicName": "Respiratory: B. pertussis and C. diphtheriae",
+      "stem": "This Gram stain shows club-shaped, pleomorphic Gram-positive rods arranged at angles resembling 'Chinese letters' or a V/Y palisade pattern. Which organism has this classic morphology?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Corynebacterium diphtheriae"
+        },
+        {
+          "label": "B",
+          "text": "Actinomyces israelii"
+        },
+        {
+          "label": "C",
+          "text": "Clostridium tetani"
+        },
+        {
+          "label": "D",
+          "text": "Listeria monocytogenes"
+        },
+        {
+          "label": "E",
+          "text": "Bacillus anthracis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Corynebacterium diphtheriae is a Gram-positive, club-shaped bacillus that divides to form V- and Y-shaped 'Chinese letter' arrangements. Its exotoxin (ADP-ribosylates EF-2) causes the pseudomembranous pharyngitis and systemic toxicity of diphtheria.",
+        "whyCorrect": "Corynebacterium diphtheriae is a Gram-positive, club-shaped bacillus that divides to form V- and Y-shaped 'Chinese letter' arrangements. Its exotoxin (ADP-ribosylates EF-2) causes the pseudomembranous pharyngitis and systemic toxicity of diphtheria.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-169_Brick Exchange - Respiratory_ B. pertussis and C. diphtheriae_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-170",
+      "topicId": "respiratory-b-pertussis-and-c-diphtheriae",
+      "topicName": "Respiratory: B. pertussis and C. diphtheriae",
+      "stem": "This special stain of a club-shaped bacillus reveals dark, reddish-purple granules concentrated at the poles of the green-stained rods. These granules are most useful diagnostically because they represent what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Capsular polysaccharide deposits"
+        },
+        {
+          "label": "B",
+          "text": "Intracellular glycogen vacuoles"
+        },
+        {
+          "label": "C",
+          "text": "Sulfur granules of actinomycotic colonies"
+        },
+        {
+          "label": "D",
+          "text": "Metachromatic (volutin) granules of stored polyphosphate characteristic of Corynebacterium diphtheriae"
+        },
+        {
+          "label": "E",
+          "text": "Terminal endospores resistant to heat"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Corynebacterium diphtheriae stores polyphosphate as metachromatic (Babes-Ernst/volutin) granules that stain a contrasting color at the cell poles with stains such as Albert or Neisser, aiding presumptive identification.",
+        "whyCorrect": "Corynebacterium diphtheriae stores polyphosphate as metachromatic (Babes-Ernst/volutin) granules that stain a contrasting color at the cell poles with stains such as Albert or Neisser, aiding presumptive identification.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-170_Brick Exchange - Respiratory_ B. pertussis and C. diphtheriae_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-362",
+      "topicId": "respiratory-b-pertussis-and-c-diphtheriae",
+      "topicName": "Respiratory: B. pertussis and C. diphtheriae",
+      "stem": "This selective/differential medium shows colonies that have turned black-gray on a tellurite-containing agar. Which organism does this appearance suggest?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "B",
+          "text": "Corynebacterium diphtheriae"
+        },
+        {
+          "label": "C",
+          "text": "Streptococcus pyogenes"
+        },
+        {
+          "label": "D",
+          "text": "Haemophilus influenzae"
+        },
+        {
+          "label": "E",
+          "text": "Bordetella pertussis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "C. diphtheriae reduces potassium tellurite, producing characteristic black/gray-brown colonies on tellurite-containing media (cystine-tellurite/Tinsdale agar). This is a selective and differential medium for isolating the organism.",
+        "whyCorrect": "C. diphtheriae reduces potassium tellurite, producing characteristic black/gray-brown colonies on tellurite-containing media (cystine-tellurite/Tinsdale agar). This is a selective and differential medium for isolating the organism.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-362_Brick Exchange - Respiratory_ B. pertussis and C. diphtheriae_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-363",
+      "topicId": "respiratory-b-pertussis-and-c-diphtheriae",
+      "topicName": "Respiratory: B. pertussis and C. diphtheriae",
+      "stem": "In this assay, a strip of filter paper soaked in diphtheria antitoxin is placed between bacterial streaks, and precipitin lines form only where toxin meets antitoxin. What does this test determine?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibiotic susceptibility of the isolate"
+        },
+        {
+          "label": "B",
+          "text": "Whether the isolate can ferment cystine"
+        },
+        {
+          "label": "C",
+          "text": "Whether a C. diphtheriae isolate produces diphtheria toxin (toxigenicity)"
+        },
+        {
+          "label": "D",
+          "text": "The serotype of the organism"
+        },
+        {
+          "label": "E",
+          "text": "Beta-hemolytic activity of the isolate"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "This is the Elek test, an immunodiffusion assay. Antitoxin diffusing from the filter paper meets toxin from a toxigenic strain, forming precipitin lines; a non-toxigenic strain produces none. It confirms toxin production rather than mere isolation.",
+        "whyCorrect": "This is the Elek test, an immunodiffusion assay. Antitoxin diffusing from the filter paper meets toxin from a toxigenic strain, forming precipitin lines; a non-toxigenic strain produces none. It confirms toxin production rather than mere isolation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-363_Brick Exchange - Respiratory_ B. pertussis and C. diphtheriae_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-364",
+      "topicId": "respiratory-b-pertussis-and-c-diphtheriae",
+      "topicName": "Respiratory: B. pertussis and C. diphtheriae",
+      "stem": "Recovery of the organism responsible for this clinical picture requires a special enriched medium (e.g., Bordet-Gengou or Regan-Lowe), on which it forms small, smooth 'mercury-drop' colonies as shown. Which feature of this pathogen most directly explains the need for such specialized culture media?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is highly fastidious and inhibited by fatty acids/peroxides absorbed by charcoal or starch in the medium"
+        },
+        {
+          "label": "B",
+          "text": "It is an obligate intracellular organism that cannot grow on agar"
+        },
+        {
+          "label": "C",
+          "text": "It only grows within embryonated eggs"
+        },
+        {
+          "label": "D",
+          "text": "It requires cysteine and a silver-containing medium to grow"
+        },
+        {
+          "label": "E",
+          "text": "It requires strictly anaerobic incubation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Bordetella pertussis is extremely fastidious; its growth is inhibited by toxic substances in ordinary media, so charcoal (Regan-Lowe) or potato-blood-glycerol (Bordet-Gengou) media are used to absorb inhibitors, yielding characteristic mercury-drop colonies.",
+        "whyCorrect": "Bordetella pertussis is extremely fastidious; its growth is inhibited by toxic substances in ordinary media, so charcoal (Regan-Lowe) or potato-blood-glycerol (Bordet-Gengou) media are used to absorb inhibitors, yielding characteristic mercury-drop colonies.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-364_Brick Exchange - Respiratory_ B. pertussis and C. diphtheriae_p20_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-550",
+      "topicId": "respiratory-b-pertussis-and-c-diphtheriae",
+      "topicName": "Respiratory: B. pertussis and C. diphtheriae",
+      "stem": "These pharyngeal photographs show intense erythema and adherent whitish-gray exudate over the tonsils in a child with sore throat, low-grade fever, and cervical adenopathy. Attempting to scrape the gray membrane causes bleeding. Which toxin-mediated mechanism underlies this exudative membrane?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Degradation of IgA by a secreted protease"
+        },
+        {
+          "label": "B",
+          "text": "Overactivation of adenylate cyclase via Gs stimulation"
+        },
+        {
+          "label": "C",
+          "text": "Cleavage of SNARE proteins blocking acetylcholine release"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of host protein synthesis by ADP-ribosylation of elongation factor 2"
+        },
+        {
+          "label": "E",
+          "text": "Superantigen-mediated massive T-cell activation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The gray, firmly adherent pseudomembrane of diphtheria results from diphtheria toxin, which ADP-ribosylates EF-2 to halt protein synthesis, causing mucosal necrosis with a fibrinous exudate of dead cells, fibrin, and bacteria.",
+        "whyCorrect": "The gray, firmly adherent pseudomembrane of diphtheria results from diphtheria toxin, which ADP-ribosylates EF-2 to halt protein synthesis, causing mucosal necrosis with a fibrinous exudate of dead cells, fibrin, and bacteria.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-550_Brick Exchange - Respiratory_ B. pertussis and C. diphtheriae_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-551",
+      "topicId": "respiratory-b-pertussis-and-c-diphtheriae",
+      "topicName": "Respiratory: B. pertussis and C. diphtheriae",
+      "stem": "This oral cavity shows an adherent grayish membrane over the posterior pharynx and tonsillar region that bleeds when dislodged. What is this characteristic lesion called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Leukoplakia"
+        },
+        {
+          "label": "B",
+          "text": "Diphtheritic pseudomembrane"
+        },
+        {
+          "label": "C",
+          "text": "Herpetic gingivostomatitis"
+        },
+        {
+          "label": "D",
+          "text": "Aphthous ulcer"
+        },
+        {
+          "label": "E",
+          "text": "Oral candidiasis (thrush)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The diphtheritic pseudomembrane is a tough, adherent gray coagulum of fibrin, necrotic epithelium, leukocytes, and bacteria. It bleeds on removal and can extend to obstruct the airway, a hallmark of respiratory diphtheria.",
+        "whyCorrect": "The diphtheritic pseudomembrane is a tough, adherent gray coagulum of fibrin, necrotic epithelium, leukocytes, and bacteria. It bleeds on removal and can extend to obstruct the airway, a hallmark of respiratory diphtheria.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-551_Brick Exchange - Respiratory_ B. pertussis and C. diphtheriae_p4_2.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-552",
+      "topicId": "respiratory-b-pertussis-and-c-diphtheriae",
+      "topicName": "Respiratory: B. pertussis and C. diphtheriae",
+      "stem": "This child with diphtheria has marked swelling of the anterior neck producing the appearance shown. What is this classic finding termed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ludwig angina"
+        },
+        {
+          "label": "B",
+          "text": "Goiter"
+        },
+        {
+          "label": "C",
+          "text": "Mumps parotid swelling"
+        },
+        {
+          "label": "D",
+          "text": "Bull neck (from cervical lymphadenopathy and soft-tissue edema)"
+        },
+        {
+          "label": "E",
+          "text": "Cystic hygroma"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Severe diphtheria causes prominent cervical lymphadenopathy with surrounding soft-tissue edema, producing the characteristic 'bull neck.' It signals extensive toxin-mediated disease and portends airway compromise and systemic toxicity.",
+        "whyCorrect": "Severe diphtheria causes prominent cervical lymphadenopathy with surrounding soft-tissue edema, producing the characteristic 'bull neck.' It signals extensive toxin-mediated disease and portends airway compromise and systemic toxicity.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-552_Brick Exchange - Respiratory_ B. pertussis and C. diphtheriae_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}
