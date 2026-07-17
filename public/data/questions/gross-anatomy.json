@@ -6,37 +6,37 @@
       "id": "repic-001",
       "topicId": "gross-anatomy",
       "topicName": "Gross Anatomy",
-      "stem": "This sequence of diagrams depicts an embryologic process in the developing heart, involving the septum primum, septum secundum, endocardial cushions, and closure toward the foramen ovale. What process is being illustrated?",
+      "stem": "This diagram illustrates the layered wrapping around the heart. Because the outer fibrous layer is tough and poorly distensible, rapid filling of the space between the serous layers produces which acute complication?",
       "choices": [
         {
           "label": "A",
-          "text": "Cardiac looping"
+          "text": "Constrictive pericarditis"
         },
         {
           "label": "B",
-          "text": "Development of the cardiac conduction system"
+          "text": "Pleural effusion"
         },
         {
           "label": "C",
-          "text": "Formation of the aortic arches"
+          "text": "Dilated cardiomyopathy"
         },
         {
           "label": "D",
-          "text": "Conotruncal (outflow tract) septation"
+          "text": "Aortic aneurysm"
         },
         {
           "label": "E",
-          "text": "Septation of the atria and ventricles"
+          "text": "Cardiac tamponade"
         }
       ],
       "correctAnswer": "E",
       "explanation": {
-        "summary": "Growth of the septum primum and secundum, fusion of the endocardial cushions, and formation of the interventricular septum divide the primitive heart into four chambers; the foramen ovale persists as a right-to-left shunt until birth.",
-        "whyCorrect": "Growth of the septum primum and secundum, fusion of the endocardial cushions, and formation of the interventricular septum divide the primitive heart into four chambers; the foramen ovale persists as a right-to-left shunt until birth.",
+        "summary": "The non-compliant fibrous pericardium cannot accommodate rapidly accumulating fluid, so intrapericardial pressure rises and compresses the heart, producing tamponade.",
+        "whyCorrect": "The non-compliant fibrous pericardium cannot accommodate rapidly accumulating fluid, so intrapericardial pressure rises and compresses the heart, producing tamponade.",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "repic-001_Brick Exchange - Acyanotic Congenital Heart Defects (Left-to-Right Shunts)_p20_1.png",
+      "imageRef": "repic-001_Brick Exchange - Acute Pericarditis_p2_1.png",
       "tags": [
         "picture"
       ]
@@ -45,37 +45,37 @@
       "id": "repic-002",
       "topicId": "gross-anatomy",
       "topicName": "Gross Anatomy",
-      "stem": "This cross-sectional diagram shows blood flow through the cardiac chambers, with arrows tracing the path. The blue-shaded chambers and vessels (right atrium, right ventricle, pulmonary trunk) carry what type of blood?",
+      "stem": "In this anterior view of the sternum and thoracic skeleton, the palpable ridge between the manubrium and the body is an important surface landmark. The rib that articulates at this ridge marks the level of which structure?",
       "choices": [
         {
           "label": "A",
-          "text": "Mixed venous and arterial blood of equal saturation"
+          "text": "The xiphisternal joint and the diaphragm dome"
         },
         {
           "label": "B",
-          "text": "Blood with the highest oxygen content in the circulation"
+          "text": "The fifth rib and the cardiac apex"
         },
         {
           "label": "C",
-          "text": "Deoxygenated blood returning to the lungs"
+          "text": "The second costal cartilage, used to start counting ribs; it also marks the T4/T5 disc level"
         },
         {
           "label": "D",
-          "text": "Oxygenated blood being delivered to the body"
+          "text": "The first rib and the apex of the lung"
         },
         {
           "label": "E",
-          "text": "Blood that has just left the pulmonary veins"
+          "text": "The clavicle and the subclavian vein"
         }
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "The right side of the heart (blue) receives deoxygenated systemic venous blood via the vena cavae and pumps it through the pulmonary trunk/arteries to the lungs for oxygenation. The left side (pink) handles oxygenated blood returning via the pulmonary veins for systemic delivery.",
-        "whyCorrect": "The right side of the heart (blue) receives deoxygenated systemic venous blood via the vena cavae and pumps it through the pulmonary trunk/arteries to the lungs for oxygenation. The left side (pink) handles oxygenated blood returning via the pulmonary veins for systemic delivery.",
+        "summary": "The sternal angle (angle of Louis) is where the manubrium meets the body of the sternum and marks the joint of the second costal cartilage, the reference point for counting ribs. Internally it lies at the T4/T5 intervertebral disc, the level of the aortic arch and the tracheal bifurcation (carina).",
+        "whyCorrect": "The sternal angle (angle of Louis) is where the manubrium meets the body of the sternum and marks the joint of the second costal cartilage, the reference point for counting ribs. Internally it lies at the T4/T5 intervertebral disc, the level of the aortic arch and the tracheal bifurcation (carina).",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "repic-002_Brick Exchange - Heart Sounds (S1, S2, S3, and S4)_p2_1.png",
+      "imageRef": "repic-002_Brick Exchange - Anatomy of the Diaphragm, Ribs, and Intercostal Muscles_p13_1.png",
       "tags": [
         "picture"
       ]
@@ -84,37 +84,37 @@
       "id": "repic-003",
       "topicId": "gross-anatomy",
       "topicName": "Gross Anatomy",
-      "stem": "This sagittal cadaveric section shows scroll-like bony projections along the lateral wall of an air-filled cavity above the hard palate and teeth. These conchae (turbinates) line which cavity?",
+      "stem": "This diagram shows the intercostal neurovascular bundle running in the costal groove on the underside of a rib. To avoid injuring this bundle during a thoracocentesis, where should the needle be inserted?",
       "choices": [
         {
           "label": "A",
-          "text": "Oral cavity"
+          "text": "Directly along the lower border of the rib above"
         },
         {
           "label": "B",
-          "text": "Orbit"
+          "text": "As close as possible to the vertebral end of the rib"
         },
         {
           "label": "C",
-          "text": "Maxillary sinus"
+          "text": "Through the middle of the intercostal space at the costal groove"
         },
         {
           "label": "D",
-          "text": "Nasal cavity"
+          "text": "Just above the upper border of the rib below the target space"
         },
         {
           "label": "E",
-          "text": "Nasopharynx"
+          "text": "Immediately deep to the internal thoracic vessels near the sternum"
         }
       ],
       "correctAnswer": "D",
       "explanation": {
-        "summary": "The section is a midsagittal cut through the head showing the nasal cavity with its superior, middle, and inferior conchae on the lateral wall. The olfactory epithelium sits high in the roof of this cavity; the conchae warm, humidify, and filter inspired air.",
-        "whyCorrect": "The section is a midsagittal cut through the head showing the nasal cavity with its superior, middle, and inferior conchae on the lateral wall. The olfactory epithelium sits high in the roof of this cavity; the conchae warm, humidify, and filter inspired air.",
+        "summary": "The vein, artery and nerve (VAN, superior to inferior) run in the costal groove tucked beneath the lower border of each rib. Inserting the needle just over the top of the rib below the space keeps it away from the main bundle, minimizing the risk of neurovascular injury.",
+        "whyCorrect": "The vein, artery and nerve (VAN, superior to inferior) run in the costal groove tucked beneath the lower border of each rib. Inserting the needle just over the top of the rib below the space keeps it away from the main bundle, minimizing the risk of neurovascular injury.",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "repic-003_Brick Exchange - Histology of the Respiratory Tract_p5_1.png",
+      "imageRef": "repic-003_Brick Exchange - Anatomy of the Diaphragm, Ribs, and Intercostal Muscles_p15_1.png",
       "tags": [
         "picture"
       ]
@@ -123,37 +123,37 @@
       "id": "repic-004",
       "topicId": "gross-anatomy",
       "topicName": "Gross Anatomy",
-      "stem": "This diagram color-codes the body by lymphatic drainage territory. The yellow region drains into the thoracic duct. Which single body region does NOT drain via the thoracic duct?",
+      "stem": "This figure labels the muscles associated with breathing. Which of these is the principal muscle responsible for quiet (resting) inspiration?",
       "choices": [
         {
           "label": "A",
-          "text": "The entire abdomen and pelvis"
+          "text": "The rectus abdominis"
         },
         {
           "label": "B",
-          "text": "Left side of the head and neck"
+          "text": "The external obliques"
         },
         {
           "label": "C",
-          "text": "Left lower limb"
+          "text": "The internal intercostals"
         },
         {
           "label": "D",
-          "text": "Left upper limb"
+          "text": "The sternocleidomastoid"
         },
         {
           "label": "E",
-          "text": "Right side of the head/neck, right upper limb, and right thorax"
+          "text": "The diaphragm"
         }
       ],
       "correctAnswer": "E",
       "explanation": {
-        "summary": "The thoracic duct drains the lower body plus the entire left upper quadrant into the left subclavian/internal jugular junction. Only the right upper quadrant (right head/neck, right arm, right hemithorax) drains via the separate right lymphatic duct into the right venous angle.",
-        "whyCorrect": "The thoracic duct drains the lower body plus the entire left upper quadrant into the left subclavian/internal jugular junction. Only the right upper quadrant (right head/neck, right arm, right hemithorax) drains via the separate right lymphatic duct into the right venous angle.",
+        "summary": "The diaphragm performs most of the work of quiet inspiration; its contraction flattens the dome, increasing thoracic volume. The scalenes and external intercostals assist, while sternocleidomastoid and other accessory muscles are recruited only in forced inspiration. Abdominal muscles and internal intercostals drive forced expiration.",
+        "whyCorrect": "The diaphragm performs most of the work of quiet inspiration; its contraction flattens the dome, increasing thoracic volume. The scalenes and external intercostals assist, while sternocleidomastoid and other accessory muscles are recruited only in forced inspiration. Abdominal muscles and internal intercostals drive forced expiration.",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "repic-004_Brick Exchange - Mediastinum (Part 2 of 2)_p13_1.png",
+      "imageRef": "repic-004_Brick Exchange - Anatomy of the Diaphragm, Ribs, and Intercostal Muscles_p16_1.png",
       "tags": [
         "picture"
       ]
@@ -162,37 +162,37 @@
       "id": "repic-005",
       "topicId": "gross-anatomy",
       "topicName": "Gross Anatomy",
-      "stem": "This diagram shows the sympathetic trunk giving off the greater, lesser, and least splanchnic nerves that pass to ganglia near the aorta. What type of fibers do these splanchnic nerves carry toward the abdominal viscera?",
+      "stem": "This cutaway shows the three layers of intercostal muscle between two ribs. The outermost of these layers, with fibers running downward and forward, has what primary action in breathing?",
       "choices": [
         {
           "label": "A",
-          "text": "Preganglionic sympathetic fibers"
+          "text": "It elevates the ribs to increase thoracic volume during inspiration"
         },
         {
           "label": "B",
-          "text": "Preganglionic parasympathetic fibers"
+          "text": "It depresses the ribs during forced expiration"
         },
         {
           "label": "C",
-          "text": "Postganglionic sympathetic fibers only"
+          "text": "It compresses the abdominal contents during coughing"
         },
         {
           "label": "D",
-          "text": "Somatic motor fibers"
+          "text": "It flattens the diaphragm dome directly"
         },
         {
           "label": "E",
-          "text": "Postganglionic parasympathetic fibers"
+          "text": "It has no role in ventilation and only stabilizes the spine"
         }
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "The thoracic and abdominal splanchnic nerves carry preganglionic sympathetic axons that pass through the sympathetic chain without synapsing and terminate in the prevertebral (collateral) ganglia - the celiac and related ganglia - shown near the aorta, where they synapse before reaching the gut.",
-        "whyCorrect": "The thoracic and abdominal splanchnic nerves carry preganglionic sympathetic axons that pass through the sympathetic chain without synapsing and terminate in the prevertebral (collateral) ganglia - the celiac and related ganglia - shown near the aorta, where they synapse before reaching the gut.",
+        "summary": "The external intercostal muscles have fibers oriented obliquely downward and forward and act to elevate the ribs, aiding inspiration. The internal and innermost intercostals, with fibers running the opposite way, pull the ribs down and assist forced expiration.",
+        "whyCorrect": "The external intercostal muscles have fibers oriented obliquely downward and forward and act to elevate the ribs, aiding inspiration. The internal and innermost intercostals, with fibers running the opposite way, pull the ribs down and assist forced expiration.",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "repic-005_Brick Exchange - Mediastinum (Part 2 of 2)_p7_1.png",
+      "imageRef": "repic-005_Brick Exchange - Anatomy of the Diaphragm, Ribs, and Intercostal Muscles_p17_1.png",
       "tags": [
         "picture"
       ]
@@ -201,7 +201,1918 @@
       "id": "repic-006",
       "topicId": "gross-anatomy",
       "topicName": "Gross Anatomy",
-      "stem": "This diagram shows a heart valve viewed from above with two leaflets (an anterior and a posterior leaflet) tethered by chordae tendineae to papillary muscles below. Which valve is depicted?",
+      "stem": "This dissection of the anterior thoracic wall highlights the segmental nerves (yellow/green) running along the ribs. These nerves that supply the intercostal spaces and thoracic wall are the anterior rami of which spinal nerves?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The cervical plexus nerves C1-C4"
+        },
+        {
+          "label": "B",
+          "text": "The thoracic spinal nerves T1-T11 (the intercostal nerves)"
+        },
+        {
+          "label": "C",
+          "text": "The vagus nerve (cranial nerve X)"
+        },
+        {
+          "label": "D",
+          "text": "The phrenic nerve from C3-C5"
+        },
+        {
+          "label": "E",
+          "text": "The lumbar plexus nerves L1-L4"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The anterior rami of T1-T11 form the intercostal nerves, which run in the costal grooves with the intercostal vessels and supply the intercostal muscles and overlying skin. The T12 anterior ramus is the subcostal nerve. These are distinct from the phrenic nerve, which innervates the diaphragm.",
+        "whyCorrect": "The anterior rami of T1-T11 form the intercostal nerves, which run in the costal grooves with the intercostal vessels and supply the intercostal muscles and overlying skin. The T12 anterior ramus is the subcostal nerve. These are distinct from the phrenic nerve, which innervates the diaphragm.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-006_Brick Exchange - Anatomy of the Diaphragm, Ribs, and Intercostal Muscles_p21_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-007",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This figure shows the lungs within the rib cage and the pleural recesses at the lung bases. The costodiaphragmatic recess has what important clinical significance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is normally completely filled by lung at all times"
+        },
+        {
+          "label": "B",
+          "text": "It is the most dependent part of the pleural cavity where fluid collects and where thoracentesis is performed"
+        },
+        {
+          "label": "C",
+          "text": "It is where the trachea bifurcates into main bronchi"
+        },
+        {
+          "label": "D",
+          "text": "It is the site where the phrenic nerve enters the diaphragm"
+        },
+        {
+          "label": "E",
+          "text": "It is the location of the cardiac notch of the left lung"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The costodiaphragmatic recess is the deep pleural gutter between the costal and diaphragmatic pleura that lung tissue only fills during deep inspiration. As the most dependent recess, it is where a pleural effusion first accumulates and is the target for thoracentesis, typically entered in the mid-to-posterior axillary line.",
+        "whyCorrect": "The costodiaphragmatic recess is the deep pleural gutter between the costal and diaphragmatic pleura that lung tissue only fills during deep inspiration. As the most dependent recess, it is where a pleural effusion first accumulates and is the target for thoracentesis, typically entered in the mid-to-posterior axillary line.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-007_Brick Exchange - Anatomy of the Diaphragm, Ribs, and Intercostal Muscles_p22_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-008",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This anterior view of the diaphragm shows its right and left domes. Why does the right dome (right hemidiaphragm) normally sit higher than the left?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The heart rests on the right dome and depresses the left"
+        },
+        {
+          "label": "B",
+          "text": "The right lung is larger and compresses its dome down"
+        },
+        {
+          "label": "C",
+          "text": "The stomach lies under the right dome and elevates it"
+        },
+        {
+          "label": "D",
+          "text": "The bulk of the liver lies beneath the right dome and pushes it upward"
+        },
+        {
+          "label": "E",
+          "text": "The right crus is shorter than the left crus"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The large right lobe of the liver sits directly under the right hemidiaphragm and pushes it about one intercostal space higher than the left. The left dome is slightly lower partly because of the underlying stomach and the heart resting on it. This is a normal finding on chest imaging.",
+        "whyCorrect": "The large right lobe of the liver sits directly under the right hemidiaphragm and pushes it about one intercostal space higher than the left. The left dome is slightly lower partly because of the underlying stomach and the heart resting on it. This is a normal finding on chest imaging.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-008_Brick Exchange - Anatomy of the Diaphragm, Ribs, and Intercostal Muscles_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-009",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This inferior view of the diaphragm shows the openings for the inferior vena cava, esophagus, and aorta. At which vertebral level does the esophageal hiatus (esophagus opening) lie?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "L1"
+        },
+        {
+          "label": "B",
+          "text": "T12"
+        },
+        {
+          "label": "C",
+          "text": "T10"
+        },
+        {
+          "label": "D",
+          "text": "T6"
+        },
+        {
+          "label": "E",
+          "text": "T8"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The caval opening is at T8, the esophageal hiatus at T10, and the aortic hiatus at T12. Recalling '8-10-12' (vena cava, esophagus/vagus, aorta) links each structure to its level.",
+        "whyCorrect": "The caval opening is at T8, the esophageal hiatus at T10, and the aortic hiatus at T12. Recalling '8-10-12' (vena cava, esophagus/vagus, aorta) links each structure to its level.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-009_Brick Exchange - Anatomy of the Diaphragm, Ribs, and Intercostal Muscles_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-010",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "The nerve highlighted in yellow running along the pericardium to the diaphragm provides what functional supply?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Parasympathetic supply to abdominal viscera"
+        },
+        {
+          "label": "B",
+          "text": "Motor supply to the intercostal muscles"
+        },
+        {
+          "label": "C",
+          "text": "Sensory supply to the lung parenchyma"
+        },
+        {
+          "label": "D",
+          "text": "Sympathetic supply to the heart"
+        },
+        {
+          "label": "E",
+          "text": "Motor innervation to the diaphragm"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The phrenic nerve descends alongside the pericardium and provides the sole motor innervation to the diaphragm (plus sensory fibers to the pericardium and central diaphragm).",
+        "whyCorrect": "The phrenic nerve descends alongside the pericardium and provides the sole motor innervation to the diaphragm (plus sensory fibers to the pericardium and central diaphragm).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-010_Brick Exchange - Anatomy of the Diaphragm, Ribs, and Intercostal Muscles_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-011",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "The nerve shown branching over the diaphragm (sternal, anterolateral, and posterior branches) arises from which spinal roots?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "C1-C3"
+        },
+        {
+          "label": "B",
+          "text": "L1-L2"
+        },
+        {
+          "label": "C",
+          "text": "T1-T4"
+        },
+        {
+          "label": "D",
+          "text": "T7-T12"
+        },
+        {
+          "label": "E",
+          "text": "C3-C5"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The phrenic nerve arises from cervical roots C3, C4, and C5 ('C3-4-5 keeps the diaphragm alive'), then fans into terminal branches on the diaphragm's inferior surface.",
+        "whyCorrect": "The phrenic nerve arises from cervical roots C3, C4, and C5 ('C3-4-5 keeps the diaphragm alive'), then fans into terminal branches on the diaphragm's inferior surface.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-011_Brick Exchange - Anatomy of the Diaphragm, Ribs, and Intercostal Muscles_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-012",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "In both the cadaveric dissection and the illustration, an arrow marks the pointed inferolateral tip of the heart (the apex). Which chamber forms the cardiac apex?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Left ventricle"
+        },
+        {
+          "label": "B",
+          "text": "Right ventricle"
+        },
+        {
+          "label": "C",
+          "text": "Pulmonary trunk"
+        },
+        {
+          "label": "D",
+          "text": "Right atrium"
+        },
+        {
+          "label": "E",
+          "text": "Left atrium"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The apex of the heart points down and to the left and is formed by the tip of the left ventricle, normally palpable at the 5th intercostal space in the midclavicular line.",
+        "whyCorrect": "The apex of the heart points down and to the left and is formed by the tip of the left ventricle, normally palpable at the 5th intercostal space in the midclavicular line.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-012_Brick Exchange - Anatomy of the Heart_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-013",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This illustration shows the heart nestled between the two lungs deep to the sternum and costal cartilages. In which anatomical compartment does the heart sit?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pleural cavity"
+        },
+        {
+          "label": "B",
+          "text": "Superior mediastinum"
+        },
+        {
+          "label": "C",
+          "text": "Retroperitoneum"
+        },
+        {
+          "label": "D",
+          "text": "Posterior mediastinum"
+        },
+        {
+          "label": "E",
+          "text": "Middle mediastinum"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The heart and its pericardium occupy the middle mediastinum — the central compartment of the thoracic cavity between the two pleural sacs, posterior to the body of the sternum.",
+        "whyCorrect": "The heart and its pericardium occupy the middle mediastinum — the central compartment of the thoracic cavity between the two pleural sacs, posterior to the body of the sternum.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-013_Brick Exchange - Anatomy of the Heart_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-014",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This opened right atrium shows pectinate muscles, the crista terminalis, and a smooth oval depression in the interatrial septum. That depression (fossa ovalis) is the embryological remnant of what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The ductus venosus"
+        },
+        {
+          "label": "B",
+          "text": "The sinus venosus"
+        },
+        {
+          "label": "C",
+          "text": "The ductus arteriosus"
+        },
+        {
+          "label": "D",
+          "text": "The umbilical vein"
+        },
+        {
+          "label": "E",
+          "text": "The foramen ovale"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The fossa ovalis marks the site of the fetal foramen ovale, which shunted blood from the right to left atrium in utero and normally closes after birth as pulmonary circulation is established.",
+        "whyCorrect": "The fossa ovalis marks the site of the fetal foramen ovale, which shunted blood from the right to left atrium in utero and normally closes after birth as pulmonary circulation is established.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-014_Brick Exchange - Anatomy of the Heart_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-015",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This dissected base of the heart displays the cusps of the aortic and pulmonary valves. How many cusps does each of these semilunar valves normally have?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Three"
+        },
+        {
+          "label": "B",
+          "text": "One"
+        },
+        {
+          "label": "C",
+          "text": "Five"
+        },
+        {
+          "label": "D",
+          "text": "Two"
+        },
+        {
+          "label": "E",
+          "text": "Four"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Both semilunar valves (aortic and pulmonary) normally have three cusps. The aortic valve's cusps are named right coronary, left coronary, and posterior (non-coronary).",
+        "whyCorrect": "Both semilunar valves (aortic and pulmonary) normally have three cusps. The aortic valve's cusps are named right coronary, left coronary, and posterior (non-coronary).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-015_Brick Exchange - Anatomy of the Heart_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-016",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This figure contrasts the lobes of the right and left lungs. Why does the left lung have fewer lobes than the right?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The diaphragm rises higher on the left, compressing a lobe"
+        },
+        {
+          "label": "B",
+          "text": "The left main bronchus fails to branch during development"
+        },
+        {
+          "label": "C",
+          "text": "The left lung is supplied by only one pulmonary artery"
+        },
+        {
+          "label": "D",
+          "text": "The heart occupies space on the left (the cardiac notch), leaving room for only two lobes"
+        },
+        {
+          "label": "E",
+          "text": "The left lung lacks a visceral pleura over its middle region"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The right lung has three lobes (superior, middle, inferior) while the left has two (superior, inferior). The heart's leftward position creates the cardiac notch and lingula, leaving space for only two lobes on the left.",
+        "whyCorrect": "The right lung has three lobes (superior, middle, inferior) while the left has two (superior, inferior). The heart's leftward position creates the cardiac notch and lingula, leaving space for only two lobes on the left.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-016_Brick Exchange - Anatomy of the Lower Respiratory Tract_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-017",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This figure highlights the root (hilum) of the lung. What is the functional significance of this region?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is the region that produces surfactant to reduce surface tension"
+        },
+        {
+          "label": "B",
+          "text": "It is where the two pleural layers become continuous with the diaphragm"
+        },
+        {
+          "label": "C",
+          "text": "It is the site of gas exchange between alveoli and capillaries"
+        },
+        {
+          "label": "D",
+          "text": "It is where the bronchus, pulmonary vessels, and nerves enter and leave the lung"
+        },
+        {
+          "label": "E",
+          "text": "It is the point at which the trachea divides into main bronchi"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The hilum (lung root) is the medial gateway where the main bronchus, pulmonary artery, pulmonary veins, bronchial vessels, lymphatics, and nerves pass between the mediastinum and the lung.",
+        "whyCorrect": "The hilum (lung root) is the medial gateway where the main bronchus, pulmonary artery, pulmonary veins, bronchial vessels, lymphatics, and nerves pass between the mediastinum and the lung.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-017_Brick Exchange - Anatomy of the Lower Respiratory Tract_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-018",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This diagram maps the lymph nodes draining the lungs. Why is knowledge of this drainage pattern clinically important?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It identifies the sites where oxygen enters the bloodstream"
+        },
+        {
+          "label": "B",
+          "text": "It locates the pacemaker cells that set respiratory rhythm"
+        },
+        {
+          "label": "C",
+          "text": "It predicts the pathway by which lung cancer spreads and is used for tumor staging"
+        },
+        {
+          "label": "D",
+          "text": "It marks where the phrenic nerve stimulates the diaphragm"
+        },
+        {
+          "label": "E",
+          "text": "It shows where surfactant is reabsorbed after each breath"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Bronchopulmonary (hilar) nodes drain to mediastinal and then supraclavicular nodes. This orderly pattern determines how bronchogenic carcinoma metastasizes and underlies lymph-node staging.",
+        "whyCorrect": "Bronchopulmonary (hilar) nodes drain to mediastinal and then supraclavicular nodes. This orderly pattern determines how bronchogenic carcinoma metastasizes and underlies lymph-node staging.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-018_Brick Exchange - Anatomy of the Lower Respiratory Tract_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-019",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "The magnified inset shows the two pleural layers with a thin gap between them. What is the primary function of this pleural space?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It stores reserve air used during forced expiration"
+        },
+        {
+          "label": "B",
+          "text": "It is the main site of oxygen and carbon dioxide exchange"
+        },
+        {
+          "label": "C",
+          "text": "It generates the negative pressure by secreting surfactant"
+        },
+        {
+          "label": "D",
+          "text": "It houses the lymph nodes that drain the lung parenchyma"
+        },
+        {
+          "label": "E",
+          "text": "Its thin fluid film couples the lung to the chest wall and lets it slide with minimal friction"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The visceral and parietal pleurae are separated by a thin serous fluid film. Surface tension of this fluid keeps the lung apposed to the chest wall while allowing frictionless sliding; the costodiaphragmatic recess provides expansion room during inspiration.",
+        "whyCorrect": "The visceral and parietal pleurae are separated by a thin serous fluid film. Surface tension of this fluid keeps the lung apposed to the chest wall while allowing frictionless sliding; the costodiaphragmatic recess provides expansion room during inspiration.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-019_Brick Exchange - Anatomy of the Lower Respiratory Tract_p20_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-020",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This resin cast fills the hollow airways down to their finest branches. What anatomical structure is being displayed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The pulmonary arterial tree"
+        },
+        {
+          "label": "B",
+          "text": "The pulmonary venous network"
+        },
+        {
+          "label": "C",
+          "text": "The bronchial artery circulation"
+        },
+        {
+          "label": "D",
+          "text": "The thoracic lymphatic vessels"
+        },
+        {
+          "label": "E",
+          "text": "The bronchial tree"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The cast shows the trachea dividing at the carina into main bronchi that branch repeatedly into progressively smaller bronchi and bronchioles, forming the tree-like conducting airways of the lungs.",
+        "whyCorrect": "The cast shows the trachea dividing at the carina into main bronchi that branch repeatedly into progressively smaller bronchi and bronchioles, forming the tree-like conducting airways of the lungs.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-020_Brick Exchange - Anatomy of the Lower Respiratory Tract_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-021",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "The trachea divides at the carina into the primary bronchi shown here. Why is an aspirated foreign body more likely to lodge in the right main bronchus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The left bronchus has stronger ciliary clearance"
+        },
+        {
+          "label": "B",
+          "text": "The right main bronchus is wider, shorter, and more vertical than the left"
+        },
+        {
+          "label": "C",
+          "text": "The right bronchus lacks protective cartilage rings"
+        },
+        {
+          "label": "D",
+          "text": "The right bronchus branches before reaching the lung"
+        },
+        {
+          "label": "E",
+          "text": "The left bronchus is guarded by the epiglottis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Because the right main bronchus descends at a steeper, more vertical angle and has a larger caliber, gravity directs aspirated material into it more often than into the more horizontal left bronchus.",
+        "whyCorrect": "Because the right main bronchus descends at a steeper, more vertical angle and has a larger caliber, gravity directs aspirated material into it more often than into the more horizontal left bronchus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-021_Brick Exchange - Anatomy of the Lower Respiratory Tract_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-022",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "Each colored region of these lungs is fed by its own tertiary bronchus and artery. What are these functionally independent units called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alveolar sacs"
+        },
+        {
+          "label": "B",
+          "text": "Bronchopulmonary segments"
+        },
+        {
+          "label": "C",
+          "text": "Pleural recesses"
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary lobules"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary acini"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A bronchopulmonary segment is supplied by a single segmental (tertiary) bronchus and segmental artery. Because each is a discrete unit, a diseased segment can be surgically resected without disrupting its neighbors.",
+        "whyCorrect": "A bronchopulmonary segment is supplied by a single segmental (tertiary) bronchus and segmental artery. Because each is a discrete unit, a diseased segment can be surgically resected without disrupting its neighbors.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-022_Brick Exchange - Anatomy of the Lower Respiratory Tract_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-023",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This diagram shows the great vessels of the neck. Why does the right common carotid artery arise differently from the left?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Both arise directly from the ascending aorta before the arch"
+        },
+        {
+          "label": "B",
+          "text": "The right arises from the brachiocephalic trunk, whereas the left branches directly off the aortic arch"
+        },
+        {
+          "label": "C",
+          "text": "The right arises from the subclavian and the left from the pulmonary trunk"
+        },
+        {
+          "label": "D",
+          "text": "The right arises from the aortic arch and the left from the vertebral artery"
+        },
+        {
+          "label": "E",
+          "text": "Both arise from the brachiocephalic trunk but on opposite sides"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The aortic arch gives off the brachiocephalic trunk, left common carotid, and left subclavian. The brachiocephalic trunk then splits into the right common carotid and right subclavian, so only the right common carotid is a second-order branch.",
+        "whyCorrect": "The aortic arch gives off the brachiocephalic trunk, left common carotid, and left subclavian. The brachiocephalic trunk then splits into the right common carotid and right subclavian, so only the right common carotid is a second-order branch.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-023_Brick Exchange - Anatomy of the Upper Respiratory Tract_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-024",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This figure shows the arterial anastomoses of the nasal septum, including the anterior plexus outlined at the front. What common clinical event is this anterior region most associated with?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Recurrent sinus infections"
+        },
+        {
+          "label": "B",
+          "text": "Referred pain to the ear"
+        },
+        {
+          "label": "C",
+          "text": "Anterior nosebleeds (epistaxis)"
+        },
+        {
+          "label": "D",
+          "text": "Obstructive sleep apnea"
+        },
+        {
+          "label": "E",
+          "text": "Loss of the sense of smell"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The anterior septal anastomosis (Kiesselbach plexus) is a superficial convergence of several arteries and is the site of roughly 90% of nosebleeds. The posterior Woodruff plexus accounts for less common but heavier posterior bleeds.",
+        "whyCorrect": "The anterior septal anastomosis (Kiesselbach plexus) is a superficial convergence of several arteries and is the site of roughly 90% of nosebleeds. The posterior Woodruff plexus accounts for less common but heavier posterior bleeds.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-024_Brick Exchange - Anatomy of the Upper Respiratory Tract_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-025",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "The paranasal sinuses are shown draining into the nasal cavity. Which of these sinuses is the largest and most frequently involved in sinusitis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ethmoid air cells"
+        },
+        {
+          "label": "B",
+          "text": "Mastoid air cells"
+        },
+        {
+          "label": "C",
+          "text": "Sphenoid sinus"
+        },
+        {
+          "label": "D",
+          "text": "Maxillary sinus"
+        },
+        {
+          "label": "E",
+          "text": "Frontal sinus"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The maxillary sinuses are the largest paranasal sinuses. Because their ostium sits high on the medial wall, gravity-dependent drainage is poor, making them the most commonly infected sinus.",
+        "whyCorrect": "The maxillary sinuses are the largest paranasal sinuses. Because their ostium sits high on the medial wall, gravity-dependent drainage is poor, making them the most commonly infected sinus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-025_Brick Exchange - Anatomy of the Upper Respiratory Tract_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-026",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This sagittal view color-codes the three pharyngeal regions. Which region receives the opening of the pharyngotympanic (auditory) tube?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nasopharynx"
+        },
+        {
+          "label": "B",
+          "text": "Larynx"
+        },
+        {
+          "label": "C",
+          "text": "Laryngopharynx"
+        },
+        {
+          "label": "D",
+          "text": "Esophagus"
+        },
+        {
+          "label": "E",
+          "text": "Oropharynx"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The pharyngotympanic (Eustachian) tube opens into the nasopharynx, equalizing middle-ear pressure. The oropharynx lies behind the mouth and the laryngopharynx opens into the larynx and esophagus.",
+        "whyCorrect": "The pharyngotympanic (Eustachian) tube opens into the nasopharynx, equalizing middle-ear pressure. The oropharynx lies behind the mouth and the laryngopharynx opens into the larynx and esophagus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-026_Brick Exchange - Anatomy of the Upper Respiratory Tract_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-027",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This posterior view shows nerves converging on the pharyngeal muscles. Which nerve provides most of the motor innervation to the pharyngeal constrictors via the pharyngeal plexus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hypoglossal nerve (CN XII)"
+        },
+        {
+          "label": "B",
+          "text": "Glossopharyngeal nerve (CN IX)"
+        },
+        {
+          "label": "C",
+          "text": "Vagus nerve (CN X)"
+        },
+        {
+          "label": "D",
+          "text": "Trigeminal nerve (CN V)"
+        },
+        {
+          "label": "E",
+          "text": "Facial nerve (CN VII)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The pharyngeal plexus carries motor fibers from the vagus (CN X) to all pharyngeal constrictors except stylopharyngeus (CN IX). CN IX contributes mainly sensory fibers to the plexus.",
+        "whyCorrect": "The pharyngeal plexus carries motor fibers from the vagus (CN X) to all pharyngeal constrictors except stylopharyngeus (CN IX). CN IX contributes mainly sensory fibers to the plexus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-027_Brick Exchange - Anatomy of the Upper Respiratory Tract_p22_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-028",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "In this open-mouth view, the paired masses seen on either side of the throat (between the palatine arches) are lymphoid tissue. What is their immunological role?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They are cartilage plates that keep the pharynx open"
+        },
+        {
+          "label": "B",
+          "text": "They are taste-bud clusters that detect bitter compounds"
+        },
+        {
+          "label": "C",
+          "text": "They are palatine tonsils that sample inhaled and ingested antigens as part of Waldeyer's ring"
+        },
+        {
+          "label": "D",
+          "text": "They are muscles that close the airway during swallowing"
+        },
+        {
+          "label": "E",
+          "text": "They are salivary glands that secrete digestive enzymes"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The palatine tonsils are aggregates of mucosa-associated lymphoid tissue forming part of Waldeyer's ring. They trap pathogens entering via the mouth and nose and mount local immune responses.",
+        "whyCorrect": "The palatine tonsils are aggregates of mucosa-associated lymphoid tissue forming part of Waldeyer's ring. They trap pathogens entering via the mouth and nose and mount local immune responses.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-028_Brick Exchange - Anatomy of the Upper Respiratory Tract_p24_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-029",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This diagram shows the arterial supply to the pharynx and palatine tonsil. Which vessel is the principal source of significant hemorrhage during a tonsillectomy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Internal carotid artery"
+        },
+        {
+          "label": "B",
+          "text": "Tonsillar branch of the facial artery"
+        },
+        {
+          "label": "C",
+          "text": "Ascending pharyngeal artery"
+        },
+        {
+          "label": "D",
+          "text": "Maxillary artery"
+        },
+        {
+          "label": "E",
+          "text": "Superficial temporal artery"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The palatine tonsil is chiefly supplied by the tonsillar branch of the facial artery, which is the main vessel responsible for post-tonsillectomy bleeding. The internal carotid gives no branches in the neck, and the other named external carotid branches supply the tonsil only minimally.",
+        "whyCorrect": "The palatine tonsil is chiefly supplied by the tonsillar branch of the facial artery, which is the main vessel responsible for post-tonsillectomy bleeding. The internal carotid gives no branches in the neck, and the other named external carotid branches supply the tonsil only minimally.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-029_Brick Exchange - Anatomy of the Upper Respiratory Tract_p25_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-030",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This posterior view shows the laryngopharynx. The deep recess lateral to the laryngeal inlet is clinically important primarily because it is a common site for what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Formation of vocal cord nodules"
+        },
+        {
+          "label": "B",
+          "text": "Origin of the recurrent laryngeal nerve"
+        },
+        {
+          "label": "C",
+          "text": "Drainage of the maxillary sinus"
+        },
+        {
+          "label": "D",
+          "text": "Attachment of the vocal ligament"
+        },
+        {
+          "label": "E",
+          "text": "Impaction of swallowed foreign bodies such as fish bones"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The piriform fossa is a frequent site for lodged foreign bodies (e.g., fish bones); its mucosa also overlies the internal laryngeal nerve, which can be injured during foreign-body removal.",
+        "whyCorrect": "The piriform fossa is a frequent site for lodged foreign bodies (e.g., fish bones); its mucosa also overlies the internal laryngeal nerve, which can be injured during foreign-body removal.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-030_Brick Exchange - Anatomy of the Upper Respiratory Tract_p27_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-031",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This midsagittal section divides the pharynx into three color-coded regions. Which region contains the openings of the pharyngotympanic (auditory) tubes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nasopharynx"
+        },
+        {
+          "label": "B",
+          "text": "Laryngopharynx"
+        },
+        {
+          "label": "C",
+          "text": "Oropharynx"
+        },
+        {
+          "label": "D",
+          "text": "Larynx"
+        },
+        {
+          "label": "E",
+          "text": "Esophagus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The auditory (Eustachian) tubes open into the lateral walls of the nasopharynx, allowing middle-ear pressure equalization; this explains why nasopharyngeal pathology can cause conductive hearing problems.",
+        "whyCorrect": "The auditory (Eustachian) tubes open into the lateral walls of the nasopharynx, allowing middle-ear pressure equalization; this explains why nasopharyngeal pathology can cause conductive hearing problems.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-031_Brick Exchange - Anatomy of the Upper Respiratory Tract_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-032",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "In this anterior view of the laryngeal skeleton, the membrane bridging the two lower cartilages is the site incised during which emergency airway procedure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Superior laryngeal nerve block"
+        },
+        {
+          "label": "B",
+          "text": "Cricothyroidotomy"
+        },
+        {
+          "label": "C",
+          "text": "Tracheostomy at the second tracheal ring"
+        },
+        {
+          "label": "D",
+          "text": "Percutaneous thyroid biopsy"
+        },
+        {
+          "label": "E",
+          "text": "Needle pericardiocentesis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The cricothyroid membrane, lying between the thyroid and cricoid cartilages, is the landmark for an emergency cricothyroidotomy because it is superficial, relatively avascular, and easily palpable.",
+        "whyCorrect": "The cricothyroid membrane, lying between the thyroid and cricoid cartilages, is the landmark for an emergency cricothyroidotomy because it is superficial, relatively avascular, and easily palpable.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-032_Brick Exchange - Anatomy of the Upper Respiratory Tract_p31_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-033",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This endoscopic photograph shows the laryngeal inlet during laryngoscopy. The paired mobile structures at the posterior ends of the vocal cords are functionally important because they do what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rotate and pivot to abduct and adduct the vocal cords"
+        },
+        {
+          "label": "B",
+          "text": "Filter particulate matter from inspired air"
+        },
+        {
+          "label": "C",
+          "text": "Secrete surfactant into the airway"
+        },
+        {
+          "label": "D",
+          "text": "Anchor the epiglottis to the hyoid bone"
+        },
+        {
+          "label": "E",
+          "text": "Sense blood oxygen tension"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The arytenoid cartilages articulate with the cricoid and are moved by the intrinsic laryngeal muscles; their rotation and gliding open and close the rima glottidis, controlling airflow and phonation.",
+        "whyCorrect": "The arytenoid cartilages articulate with the cricoid and are moved by the intrinsic laryngeal muscles; their rotation and gliding open and close the rima glottidis, controlling airflow and phonation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-033_Brick Exchange - Anatomy of the Upper Respiratory Tract_p33_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-034",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This sagittal figure shows the structures forming the nasal septum. The bony part of the septum is formed principally by which two bones?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sphenoid bone and frontal bone"
+        },
+        {
+          "label": "B",
+          "text": "Frontal bone and nasal bone"
+        },
+        {
+          "label": "C",
+          "text": "Vomer and sphenoid bone"
+        },
+        {
+          "label": "D",
+          "text": "Nasal bone and septal cartilage"
+        },
+        {
+          "label": "E",
+          "text": "Perpendicular plate of the ethmoid and the vomer"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The bony nasal septum is formed superiorly by the perpendicular plate of the ethmoid and inferiorly/posteriorly by the vomer, with the septal cartilage completing the septum anteriorly.",
+        "whyCorrect": "The bony nasal septum is formed superiorly by the perpendicular plate of the ethmoid and inferiorly/posteriorly by the vomer, with the septal cartilage completing the septum anteriorly.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-034_Brick Exchange - Anatomy of the Upper Respiratory Tract_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-035",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This coronal section through the facial skeleton shows several air-filled, mucosa-lined cavities embedded within the frontal, ethmoid, sphenoid, and maxillary bones. What is the primary functional role of these paired cavities?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They lighten the skull and help warm and humidify inspired air"
+        },
+        {
+          "label": "B",
+          "text": "They provide the bony attachment for the extraocular muscles"
+        },
+        {
+          "label": "C",
+          "text": "They produce and secrete tears that drain to the eye"
+        },
+        {
+          "label": "D",
+          "text": "They house the primary olfactory receptor neurons"
+        },
+        {
+          "label": "E",
+          "text": "They generate cerebrospinal fluid for the anterior cranial fossa"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The cavities shown are the paranasal sinuses (frontal, ethmoid, sphenoid, maxillary). They reduce skull weight, add resonance to the voice, and their mucosa helps condition (warm/humidify) inspired air. Olfaction occurs at the cribriform plate, and tear production is a lacrimal-gland function.",
+        "whyCorrect": "The cavities shown are the paranasal sinuses (frontal, ethmoid, sphenoid, maxillary). They reduce skull weight, add resonance to the voice, and their mucosa helps condition (warm/humidify) inspired air. Olfaction occurs at the cribriform plate, and tear production is a lacrimal-gland function.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-035_Brick Exchange - Anatomy of the Upper Respiratory Tract_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-036",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This coronal view of the nasal cavity highlights three paired, scroll-like bony projections along the lateral wall (color-coded) with air passages beneath each. What is the chief physiologic purpose of these projections?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They anchor the vocal cords during phonation"
+        },
+        {
+          "label": "B",
+          "text": "They serve as the primary site of gas exchange"
+        },
+        {
+          "label": "C",
+          "text": "They contain the sensory endings for the gag reflex"
+        },
+        {
+          "label": "D",
+          "text": "They form the bony support of the hard palate"
+        },
+        {
+          "label": "E",
+          "text": "They increase mucosal surface area to warm, humidify, and filter inspired air"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The projections are the nasal conchae (turbinates). By creating turbulent airflow over a large mucosal surface, they warm, humidify, and filter inspired air. The spaces beneath them are the meatuses, into which sinuses and the nasolacrimal duct drain.",
+        "whyCorrect": "The projections are the nasal conchae (turbinates). By creating turbulent airflow over a large mucosal surface, they warm, humidify, and filter inspired air. The spaces beneath them are the meatuses, into which sinuses and the nasolacrimal duct drain.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-036_Brick Exchange - Anatomy of the Upper Respiratory Tract_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-037",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This sagittal view of the lateral nasal wall shows the openings of the paranasal sinuses and the nasolacrimal duct into the nasal passages. What clinical phenomenon is explained by the drainage pathway of the nasolacrimal duct shown here?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Loss of smell when the frontal sinus is blocked"
+        },
+        {
+          "label": "B",
+          "text": "Referred ear pain during swallowing"
+        },
+        {
+          "label": "C",
+          "text": "A runny nose when crying, because tears drain into the nasal cavity"
+        },
+        {
+          "label": "D",
+          "text": "Hoarseness caused by postnasal drip onto the vocal cords"
+        },
+        {
+          "label": "E",
+          "text": "Nosebleeds arising from the sphenoid sinus"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The nasolacrimal duct drains lacrimal fluid from the medial canthus of the eye into the inferior meatus of the nasal cavity. This is why excess tears (crying) produce a runny nose. Most paranasal sinuses drain into the middle meatus.",
+        "whyCorrect": "The nasolacrimal duct drains lacrimal fluid from the medial canthus of the eye into the inferior meatus of the nasal cavity. This is why excess tears (crying) produce a runny nose. Most paranasal sinuses drain into the middle meatus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-037_Brick Exchange - Anatomy of the Upper Respiratory Tract_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-038",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "The left model shows a normal three-cusp valve; the right model shows a two-cusp variant. What is the clinical significance of the configuration on the right?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A congenital bicuspid aortic valve, which predisposes to early calcification and premature aortic stenosis"
+        },
+        {
+          "label": "B",
+          "text": "A normal variant with no increased risk of valve disease"
+        },
+        {
+          "label": "C",
+          "text": "An acquired rheumatic deformity with commissural fusion"
+        },
+        {
+          "label": "D",
+          "text": "A prosthetic mechanical valve orientation"
+        },
+        {
+          "label": "E",
+          "text": "A quadricuspid valve that causes chronic regurgitation only"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A bicuspid aortic valve is the most common congenital cardiac anomaly; abnormal leaflet mechanics accelerate degenerative calcification, so stenosis typically presents decades earlier than in trileaflet valves.",
+        "whyCorrect": "A bicuspid aortic valve is the most common congenital cardiac anomaly; abnormal leaflet mechanics accelerate degenerative calcification, so stenosis typically presents decades earlier than in trileaflet valves.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-038_Brick Exchange - Aortic Stenosis_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-039",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "On this posterior view of the heart, the highlighted vessels draining into the left atrium are clinically important in atrial fibrillation because they:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Supply the myocardium with coronary arterial blood"
+        },
+        {
+          "label": "B",
+          "text": "Return blood directly to the systemic circulation bypassing the heart"
+        },
+        {
+          "label": "C",
+          "text": "Carry deoxygenated blood to the right ventricle"
+        },
+        {
+          "label": "D",
+          "text": "Contain sleeves of atrial muscle that generate the ectopic triggers of AF"
+        },
+        {
+          "label": "E",
+          "text": "Are the site where the sinoatrial node normally resides"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The highlighted structures are the pulmonary veins entering the left atrium. Myocardial sleeves extending into these veins are the principal source of ectopic activity triggering AF, which is why they are the target of pulmonary vein isolation.",
+        "whyCorrect": "The highlighted structures are the pulmonary veins entering the left atrium. Myocardial sleeves extending into these veins are the principal source of ectopic activity triggering AF, which is why they are the target of pulmonary vein isolation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-039_Brick Exchange - Atrial Fibrillation_ Pathophysiology, Risk Factors, and Treatment_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-040",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "In this cross-section of the heart, blood returning from the systemic circulation via the vena cavae must pass through which valve to enter the right ventricle?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tricuspid valve"
+        },
+        {
+          "label": "B",
+          "text": "Aortic valve"
+        },
+        {
+          "label": "C",
+          "text": "Mitral valve"
+        },
+        {
+          "label": "D",
+          "text": "Eustachian valve"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary valve"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Deoxygenated blood enters the right atrium from the vena cavae and crosses the tricuspid valve into the right ventricle; the pulmonary valve then guards the outflow to the lungs.",
+        "whyCorrect": "Deoxygenated blood enters the right atrium from the vena cavae and crosses the tricuspid valve into the right ventricle; the pulmonary valve then guards the outflow to the lungs.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-040_Brick Exchange - Cardiac Cycle_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-041",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This diagram illustrates a surgical procedure in which the carotid artery is opened, atherosclerotic plaque is dissected free and removed, and the vessel is then stitched closed to restore flow. What is this procedure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Carotid-subclavian bypass grafting"
+        },
+        {
+          "label": "B",
+          "text": "Balloon angioplasty alone"
+        },
+        {
+          "label": "C",
+          "text": "Carotid artery stenting"
+        },
+        {
+          "label": "D",
+          "text": "External carotid artery ligation"
+        },
+        {
+          "label": "E",
+          "text": "Carotid endarterectomy"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Carotid endarterectomy involves a longitudinal arteriotomy with surgical removal of the atheromatous plaque and closure of the vessel. It reduces stroke risk in patients with symptomatic high-grade internal carotid stenosis.",
+        "whyCorrect": "Carotid endarterectomy involves a longitudinal arteriotomy with surgical removal of the atheromatous plaque and closure of the vessel. It reduces stroke risk in patients with symptomatic high-grade internal carotid stenosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-041_Brick Exchange - Carotid Stenosis_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-042",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "In this anterior view of the thorax, which flat bone forms the midline of the anterior thoracic wall and articulates with the ribs via the costal cartilages?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Floating rib"
+        },
+        {
+          "label": "B",
+          "text": "Clavicle"
+        },
+        {
+          "label": "C",
+          "text": "Thoracic vertebra"
+        },
+        {
+          "label": "D",
+          "text": "Scapula"
+        },
+        {
+          "label": "E",
+          "text": "Sternum"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The sternum is the flat midline bone of the anterior chest wall; the ribs join it anteriorly through costal cartilages to complete the protective thoracic cage.",
+        "whyCorrect": "The sternum is the flat midline bone of the anterior chest wall; the ribs join it anteriorly through costal cartilages to complete the protective thoracic cage.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-042_Brick Exchange - Control of Ventilation and Effects of Altitude and Exercise_p3_3.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-043",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "In this thoracic view, which domed muscle indicated at the floor of the thoracic cavity is the principal muscle of inspiration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "External oblique"
+        },
+        {
+          "label": "B",
+          "text": "Serratus anterior"
+        },
+        {
+          "label": "C",
+          "text": "Transversus abdominis"
+        },
+        {
+          "label": "D",
+          "text": "Pectoralis major"
+        },
+        {
+          "label": "E",
+          "text": "Diaphragm"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The diaphragm is the dome-shaped muscle at the base of the thorax; its contraction flattens the dome, increasing thoracic volume and generating the pressure gradient for inspiration.",
+        "whyCorrect": "The diaphragm is the dome-shaped muscle at the base of the thorax; its contraction flattens the dome, increasing thoracic volume and generating the pressure gradient for inspiration.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-043_Brick Exchange - Control of Ventilation and Effects of Altitude and Exercise_p3_6.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-044",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This illustration shows the red vessels coursing over the surface of the heart from the base of the aorta. From where do these vessels originate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The pulmonary trunk"
+        },
+        {
+          "label": "B",
+          "text": "The coronary sinus"
+        },
+        {
+          "label": "C",
+          "text": "The right atrium directly"
+        },
+        {
+          "label": "D",
+          "text": "The superior vena cava"
+        },
+        {
+          "label": "E",
+          "text": "The coronary ostia at the base of the aorta, just above the aortic valve cusps"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The coronary arteries arise from the aortic sinuses (of Valsalva) immediately above the aortic valve, so they fill preferentially during diastole when the valve closes.",
+        "whyCorrect": "The coronary arteries arise from the aortic sinuses (of Valsalva) immediately above the aortic valve, so they fill preferentially during diastole when the valve closes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-044_Brick Exchange - Coronary Blood Flow- Vascular Physiology_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-045",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This multi-panel figure traces the paired embryonic pharyngeal (aortic) arch arteries as they remodel into the definitive great vessels seen in the neonate. On the LEFT side, which arch persists to form the definitive arch of the aorta?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The aortic sac directly"
+        },
+        {
+          "label": "B",
+          "text": "The left 6th pharyngeal arch artery"
+        },
+        {
+          "label": "C",
+          "text": "The left 3rd pharyngeal arch artery"
+        },
+        {
+          "label": "D",
+          "text": "The left 4th pharyngeal arch artery"
+        },
+        {
+          "label": "E",
+          "text": "The left 1st pharyngeal arch artery"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "During remodeling of the aortic arches, the left 4th arch becomes the definitive arch of the aorta. The 3rd arches form the common/proximal internal carotids, and the left 6th arch gives the ductus arteriosus (ligamentum arteriosum postnatally).",
+        "whyCorrect": "During remodeling of the aortic arches, the left 4th arch becomes the definitive arch of the aorta. The 3rd arches form the common/proximal internal carotids, and the left 6th arch gives the ductus arteriosus (ligamentum arteriosum postnatally).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-045_Brick Exchange - Development of the Aortic Arches_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-046",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This anterior neck dissection shows a bilobed, butterfly-shaped organ draped over the upper trachea with a connecting bridge of tissue and a fine yellow nerve running in the tracheo-esophageal groove behind it. What organ is shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Submandibular gland"
+        },
+        {
+          "label": "B",
+          "text": "Larynx"
+        },
+        {
+          "label": "C",
+          "text": "Thymus"
+        },
+        {
+          "label": "D",
+          "text": "Parotid gland"
+        },
+        {
+          "label": "E",
+          "text": "Thyroid gland"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The paired lateral lobes joined by a central isthmus draped over the trachea identify the thyroid gland. The delicate nerve ascending in the tracheo-esophageal groove is the recurrent laryngeal nerve, closely related to the gland surgically.",
+        "whyCorrect": "The paired lateral lobes joined by a central isthmus draped over the trachea identify the thyroid gland. The delicate nerve ascending in the tracheo-esophageal groove is the recurrent laryngeal nerve, closely related to the gland surgically.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-046_Brick Exchange - Development of the Aortic Arches_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-047",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This lateral view of an early embryo shows a series of rounded bulges in the future head/neck region, each separated by external grooves, near the otic placode. What are these serially arranged bulges?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Limb buds"
+        },
+        {
+          "label": "B",
+          "text": "Pharyngeal (branchial) arches"
+        },
+        {
+          "label": "C",
+          "text": "Neural crest ganglia"
+        },
+        {
+          "label": "D",
+          "text": "Somites of the trunk"
+        },
+        {
+          "label": "E",
+          "text": "Optic vesicles"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The stacked bulges in the cranial region are the pharyngeal (branchial) arches, separated externally by pharyngeal clefts/grooves. They give rise to structures of the face and neck, and their arch arteries remodel into the great vessels.",
+        "whyCorrect": "The stacked bulges in the cranial region are the pharyngeal (branchial) arches, separated externally by pharyngeal clefts/grooves. They give rise to structures of the face and neck, and their arch arteries remodel into the great vessels.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-047_Brick Exchange - Development of the Aortic Arches_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-048",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This close-up of an embryo's cranial region labels the external depressions between the rounded arches, and separately labels the lens placode and the heart bulge. The grooves indicated between the arches are lined by which germ layer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ectoderm"
+        },
+        {
+          "label": "B",
+          "text": "Neural crest only"
+        },
+        {
+          "label": "C",
+          "text": "Notochord"
+        },
+        {
+          "label": "D",
+          "text": "Mesoderm"
+        },
+        {
+          "label": "E",
+          "text": "Endoderm"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The pharyngeal clefts/grooves are external and lined by ectoderm, whereas the internal pharyngeal pouches are lined by endoderm; the arch cores contain mesoderm and neural crest. Only the first cleft persists as the external auditory meatus.",
+        "whyCorrect": "The pharyngeal clefts/grooves are external and lined by ectoderm, whereas the internal pharyngeal pouches are lined by endoderm; the arch cores contain mesoderm and neural crest. Only the first cleft persists as the external auditory meatus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-048_Brick Exchange - Development of the Aortic Arches_p5_2.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-049",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This view of the caudal/dorsal region of an early embryo shows a row of small, regularly repeating segmented blocks running along the length of the body wall. What are these paired, metameric structures?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Renal pyramids"
+        },
+        {
+          "label": "B",
+          "text": "Rib primordia"
+        },
+        {
+          "label": "C",
+          "text": "Somites"
+        },
+        {
+          "label": "D",
+          "text": "Ganglia of the sympathetic chain"
+        },
+        {
+          "label": "E",
+          "text": "Pharyngeal arches"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The regularly repeating paraxial blocks flanking the neural tube are somites. They segment craniocaudally and differentiate into sclerotome (vertebrae/ribs), myotome (skeletal muscle), and dermatome (dermis), providing the body's segmental organization.",
+        "whyCorrect": "The regularly repeating paraxial blocks flanking the neural tube are somites. They segment craniocaudally and differentiate into sclerotome (vertebrae/ribs), myotome (skeletal muscle), and dermatome (dermis), providing the body's segmental organization.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-049_Brick Exchange - Development of the Aortic Arches_p5_3.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-050",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This schematic shows six paired, color-coded embryonic arteries arising symmetrically from the aortic sac and draining into the paired dorsal aortae. These vessels are the precursors of the definitive great vessels; what is the collective name for them?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intersegmental arteries"
+        },
+        {
+          "label": "B",
+          "text": "Umbilical arteries"
+        },
+        {
+          "label": "C",
+          "text": "Cardinal veins"
+        },
+        {
+          "label": "D",
+          "text": "Pharyngeal (aortic) arch arteries"
+        },
+        {
+          "label": "E",
+          "text": "Vitelline arteries"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The paired arteries connecting the aortic sac to the dorsal aortae through each pharyngeal arch are the aortic (pharyngeal) arch arteries. Selective regression and persistence of these six pairs generate the asymmetric adult arch of the aorta and its branches.",
+        "whyCorrect": "The paired arteries connecting the aortic sac to the dorsal aortae through each pharyngeal arch are the aortic (pharyngeal) arch arteries. Selective regression and persistence of these six pairs generate the asymmetric adult arch of the aorta and its branches.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-050_Brick Exchange - Development of the Aortic Arches_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-051",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This 3D model of the remodeling embryonic arches highlights the 6th arch connecting to the pulmonary outflow, with a note about a left-sided loop persisting until after birth. On the left side, the 6th aortic arch gives rise to which structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Arch of the aorta"
+        },
+        {
+          "label": "B",
+          "text": "Ductus arteriosus (becomes ligamentum arteriosum after birth)"
+        },
+        {
+          "label": "C",
+          "text": "Common carotid artery"
+        },
+        {
+          "label": "D",
+          "text": "Brachiocephalic trunk"
+        },
+        {
+          "label": "E",
+          "text": "Right subclavian artery"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The left 6th aortic arch forms the proximal left pulmonary artery and the ductus arteriosus, which shunts blood from the pulmonary trunk to the descending aorta in fetal life and closes postnatally to become the ligamentum arteriosum.",
+        "whyCorrect": "The left 6th aortic arch forms the proximal left pulmonary artery and the ductus arteriosus, which shunts blood from the pulmonary trunk to the descending aorta in fetal life and closes postnatally to become the ligamentum arteriosum.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-051_Brick Exchange - Development of the Aortic Arches_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-052",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This 3D developmental model labels the 3rd and 4th arches at the upper, branching (carotid) portion of the remodeling great vessels. The 3rd aortic arch gives rise to which adult vessel?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pulmonary trunk"
+        },
+        {
+          "label": "B",
+          "text": "Descending thoracic aorta"
+        },
+        {
+          "label": "C",
+          "text": "Common carotid artery (and proximal internal carotid)"
+        },
+        {
+          "label": "D",
+          "text": "Arch of the aorta"
+        },
+        {
+          "label": "E",
+          "text": "Ductus arteriosus"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The 3rd pharyngeal arch arteries form the common carotid arteries and the proximal parts of the internal carotid arteries. The 4th arch on the left becomes the definitive aortic arch, while on the right it forms the proximal right subclavian artery.",
+        "whyCorrect": "The 3rd pharyngeal arch arteries form the common carotid arteries and the proximal parts of the internal carotid arteries. The 4th arch on the left becomes the definitive aortic arch, while on the right it forms the proximal right subclavian artery.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-052_Brick Exchange - Development of the Aortic Arches_p9_2.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-053",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This 3D model labels the 3rd, 4th, and 6th arches on the developing great-vessel complex. On the LEFT side, the 4th aortic arch is destined to become which definitive adult structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pulmonary trunk"
+        },
+        {
+          "label": "B",
+          "text": "Right subclavian artery"
+        },
+        {
+          "label": "C",
+          "text": "Arch of the aorta"
+        },
+        {
+          "label": "D",
+          "text": "Ductus arteriosus"
+        },
+        {
+          "label": "E",
+          "text": "Common carotid artery"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The left 4th aortic arch persists as the arch of the aorta, whereas the right 4th arch forms the proximal right subclavian artery. This left-right asymmetry explains the adult configuration of the great vessels.",
+        "whyCorrect": "The left 4th aortic arch persists as the arch of the aorta, whereas the right 4th arch forms the proximal right subclavian artery. This left-right asymmetry explains the adult configuration of the great vessels.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-053_Brick Exchange - Development of the Aortic Arches_p9_3.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-054",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This more complete 3D model shows the embryonic arches (3rd, 4th, 6th) coalescing into the mature arch of the aorta and its branches, with a note that one connection persists until after birth. The structure that remains patent in the fetus but closes postnatally is derived from which arch?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The aortic sac"
+        },
+        {
+          "label": "B",
+          "text": "The right 4th aortic arch"
+        },
+        {
+          "label": "C",
+          "text": "The left 3rd aortic arch"
+        },
+        {
+          "label": "D",
+          "text": "The left 4th aortic arch"
+        },
+        {
+          "label": "E",
+          "text": "The left 6th aortic arch"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The ductus arteriosus, derived from the left 6th aortic arch, stays open in fetal life to bypass the lungs and normally closes soon after birth to form the ligamentum arteriosum. Failure to close results in a patent ductus arteriosus.",
+        "whyCorrect": "The ductus arteriosus, derived from the left 6th aortic arch, stays open in fetal life to bypass the lungs and normally closes soon after birth to form the ligamentum arteriosum. Failure to close results in a patent ductus arteriosus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-054_Brick Exchange - Development of the Aortic Arches_p9_4.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-055",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "In this heart diagram, which valve prevents backflow of blood into the left atrium during ventricular systole?",
       "choices": [
         {
           "label": "A",
@@ -209,11 +2120,1064 @@
         },
         {
           "label": "B",
-          "text": "Mitral valve"
+          "text": "Pulmonary valve"
         },
         {
           "label": "C",
-          "text": "Pulmonic valve"
+          "text": "Eustachian valve"
+        },
+        {
+          "label": "D",
+          "text": "Mitral valve"
+        },
+        {
+          "label": "E",
+          "text": "Tricuspid valve"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The mitral (left atrioventricular) valve closes during ventricular systole to stop regurgitation from the left ventricle back into the left atrium. Its closure, along with the tricuspid valve, contributes to the S1 heart sound.",
+        "whyCorrect": "The mitral (left atrioventricular) valve closes during ventricular systole to stop regurgitation from the left ventricle back into the left atrium. Its closure, along with the tricuspid valve, contributes to the S1 heart sound.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-055_Brick Exchange - Heart Sounds (S1, S2, S3, and S4)_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-056",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This midsagittal diagram of the head and neck labels the epiglottis at the entrance to the larynx. What is its primary function?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Producing the voice during phonation"
+        },
+        {
+          "label": "B",
+          "text": "Warming and humidifying inspired air"
+        },
+        {
+          "label": "C",
+          "text": "Filtering dust from inhaled air"
+        },
+        {
+          "label": "D",
+          "text": "Secreting mucus into the nasopharynx"
+        },
+        {
+          "label": "E",
+          "text": "Covering the laryngeal opening during swallowing to prevent aspiration"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "During swallowing the epiglottis folds back over the laryngeal inlet, directing food into the esophagus and protecting the airway from aspiration.",
+        "whyCorrect": "During swallowing the epiglottis folds back over the laryngeal inlet, directing food into the esophagus and protecting the airway from aspiration.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-056_Brick Exchange - Histology of the Respiratory Tract_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-057",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This cadaveric midsagittal section of the head is used to highlight the olfactory epithelium. Which region of the respiratory tract is being displayed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Laryngopharynx"
+        },
+        {
+          "label": "B",
+          "text": "Nasal cavity"
+        },
+        {
+          "label": "C",
+          "text": "Larynx"
+        },
+        {
+          "label": "D",
+          "text": "Trachea"
+        },
+        {
+          "label": "E",
+          "text": "Oral cavity"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The section shows the nasal septum and conchae of the nasal cavity, where the olfactory epithelium sits in the roof.",
+        "whyCorrect": "The section shows the nasal septum and conchae of the nasal cavity, where the olfactory epithelium sits in the roof.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-057_Brick Exchange - Histology of the Respiratory Tract_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-058",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "In this midsagittal diagram, an arrow points to a collection of lymphoid tissue in the roof of the posterior nasopharynx. What is this structure, whose hypertrophy causes nasal obstruction and mouth breathing in children?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epiglottis"
+        },
+        {
+          "label": "B",
+          "text": "Uvula"
+        },
+        {
+          "label": "C",
+          "text": "Pharyngeal tonsil (adenoids)"
+        },
+        {
+          "label": "D",
+          "text": "Lingual tonsil"
+        },
+        {
+          "label": "E",
+          "text": "Palatine tonsil"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The pharyngeal tonsil (adenoid) sits in the roof/posterior wall of the nasopharynx. Adenoid hypertrophy obstructs the nasal airway and Eustachian tubes, producing mouth breathing and recurrent otitis media.",
+        "whyCorrect": "The pharyngeal tonsil (adenoid) sits in the roof/posterior wall of the nasopharynx. Adenoid hypertrophy obstructs the nasal airway and Eustachian tubes, producing mouth breathing and recurrent otitis media.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-058_Brick Exchange - Inflammatory Disorders of the Pharynx, Larynx, and Trachea_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-059",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This frontal view into an open mouth uses an arrow to indicate the lymphoid tissue lodged in the lateral wall of the oropharynx between the palatoglossal and palatopharyngeal arches. What is it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Uvula"
+        },
+        {
+          "label": "B",
+          "text": "Palatine tonsil"
+        },
+        {
+          "label": "C",
+          "text": "Soft palate"
+        },
+        {
+          "label": "D",
+          "text": "Lingual tonsil"
+        },
+        {
+          "label": "E",
+          "text": "Pharyngeal tonsil (adenoid)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The palatine tonsils sit in the tonsillar fossae between the anterior and posterior faucial pillars and are the tonsils most often enlarged and exudative in bacterial tonsillitis.",
+        "whyCorrect": "The palatine tonsils sit in the tonsillar fossae between the anterior and posterior faucial pillars and are the tonsils most often enlarged and exudative in bacterial tonsillitis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-059_Brick Exchange - Inflammatory Disorders of the Pharynx, Larynx, and Trachea_p11_2.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-060",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This midsagittal diagram color-codes the pharynx into three continuous regions. Which of these regions contains the palatine tonsils and serves as a shared passageway for both air and food?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Laryngopharynx"
+        },
+        {
+          "label": "B",
+          "text": "Nasal cavity"
+        },
+        {
+          "label": "C",
+          "text": "Oropharynx"
+        },
+        {
+          "label": "D",
+          "text": "Larynx"
+        },
+        {
+          "label": "E",
+          "text": "Nasopharynx"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The oropharynx extends from the soft palate to the epiglottis, houses the palatine and lingual tonsils, and is the shared conduit for the respiratory and digestive tracts. The nasopharynx carries only air, and the laryngopharynx leads into the esophagus.",
+        "whyCorrect": "The oropharynx extends from the soft palate to the epiglottis, houses the palatine and lingual tonsils, and is the shared conduit for the respiratory and digestive tracts. The nasopharynx carries only air, and the laryngopharynx leads into the esophagus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-060_Brick Exchange - Inflammatory Disorders of the Pharynx, Larynx, and Trachea_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-061",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "In this diagram of the vagus and phrenic nerves in the thorax, the left recurrent laryngeal nerve is shown hooking around a specific structure before ascending back to the larynx. This anatomical relationship explains why left recurrent laryngeal nerve palsy (hoarseness) can result from which of the following?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A right apical (Pancoast) lung tumor"
+        },
+        {
+          "label": "B",
+          "text": "An abdominal aortic aneurysm"
+        },
+        {
+          "label": "C",
+          "text": "A thyroid nodule at the level of the cricoid"
+        },
+        {
+          "label": "D",
+          "text": "Compression of the phrenic nerve at the diaphragm"
+        },
+        {
+          "label": "E",
+          "text": "An aortic arch aneurysm or mass at the aortopulmonary window"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The left recurrent laryngeal nerve loops under the arch of the aorta at the ligamentum arteriosum, so pathology at the aortic arch or aortopulmonary window can stretch or compress it, producing hoarseness (Ortner syndrome).",
+        "whyCorrect": "The left recurrent laryngeal nerve loops under the arch of the aorta at the ligamentum arteriosum, so pathology at the aortic arch or aortopulmonary window can stretch or compress it, producing hoarseness (Ortner syndrome).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-061_Brick Exchange - Mediastinum (Part 1 of 2)_p11_2.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-062",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This posterior mediastinal dissection shows a muscular tube descending behind the heart, crossed by a nerve plexus and passing through the diaphragm. Which structure is the central tubular organ shown running from the neck to the abdomen?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Azygos vein"
+        },
+        {
+          "label": "B",
+          "text": "Descending thoracic aorta"
+        },
+        {
+          "label": "C",
+          "text": "Thoracic duct"
+        },
+        {
+          "label": "D",
+          "text": "Esophagus"
+        },
+        {
+          "label": "E",
+          "text": "Trachea"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The figure traces the esophagus from its cervical part through the thorax (surrounded by the esophageal plexus formed by the vagus nerves) to its abdominal part after passing through the diaphragmatic hiatus.",
+        "whyCorrect": "The figure traces the esophagus from its cervical part through the thorax (surrounded by the esophageal plexus formed by the vagus nerves) to its abdominal part after passing through the diaphragmatic hiatus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-062_Brick Exchange - Mediastinum (Part 1 of 2)_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-063",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This cadaveric dissection of an opened thorax with the lungs removed exposes the central compartment between the two pleural cavities. What region of the body is displayed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Retroperitoneum"
+        },
+        {
+          "label": "B",
+          "text": "Posterior abdominal wall"
+        },
+        {
+          "label": "C",
+          "text": "Axilla"
+        },
+        {
+          "label": "D",
+          "text": "Pericardial cavity only"
+        },
+        {
+          "label": "E",
+          "text": "Mediastinum"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "With the ribs spread and lungs removed, the dissection reveals the mediastinum, the central thoracic compartment containing the great vessels, trachea, esophagus, and heart, bounded laterally by the pleural sacs.",
+        "whyCorrect": "With the ribs spread and lungs removed, the dissection reveals the mediastinum, the central thoracic compartment containing the great vessels, trachea, esophagus, and heart, bounded laterally by the pleural sacs.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-063_Brick Exchange - Mediastinum (Part 1 of 2)_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-064",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This illustration highlights a nerve looping beneath a fibrous remnant near the aortic arch. What embryologic vessel does the ligamentum arteriosum represent, and what is its clinical relevance to the adjacent nerve?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is the remnant of the ductus arteriosus, and the left recurrent laryngeal nerve hooks under it, making the nerve vulnerable to arch pathology"
+        },
+        {
+          "label": "B",
+          "text": "It is the remnant of the foramen ovale draining into the atrium"
+        },
+        {
+          "label": "C",
+          "text": "It is a persistent left superior vena cava that compresses the phrenic nerve"
+        },
+        {
+          "label": "D",
+          "text": "It is the obliterated ductus venosus supplying the esophagus"
+        },
+        {
+          "label": "E",
+          "text": "It is the remnant of the umbilical vein and unrelated to any nerve"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The ligamentum arteriosum is the postnatal remnant of the fetal ductus arteriosus; the left recurrent laryngeal nerve passes under the arch just lateral to it, so an aortic aneurysm or mass here can entrap the nerve and cause hoarseness.",
+        "whyCorrect": "The ligamentum arteriosum is the postnatal remnant of the fetal ductus arteriosus; the left recurrent laryngeal nerve passes under the arch just lateral to it, so an aortic aneurysm or mass here can entrap the nerve and cause hoarseness.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-064_Brick Exchange - Mediastinum (Part 1 of 2)_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-065",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "In this anterior view of the opened thorax, a lobulated glandular structure sits in the superior/anterior mediastinum just deep to the manubrium, overlying the great vessels and pericardium. In an adult this organ is typically atrophied, but what is it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pericardial fat pad"
+        },
+        {
+          "label": "B",
+          "text": "Thyroid gland"
+        },
+        {
+          "label": "C",
+          "text": "Parathyroid glands"
+        },
+        {
+          "label": "D",
+          "text": "Thymus"
+        },
+        {
+          "label": "E",
+          "text": "Superior mediastinal lymph node mass"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The thymus lies in the anterior mediastinum behind the manubrium; prominent in children, it involutes with age. Its location makes it a common source of anterior mediastinal masses (e.g., thymoma).",
+        "whyCorrect": "The thymus lies in the anterior mediastinum behind the manubrium; prominent in children, it involutes with age. Its location makes it a common source of anterior mediastinal masses (e.g., thymoma).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-065_Brick Exchange - Mediastinum (Part 1 of 2)_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-066",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This diagram traces a lymphatic channel that ascends through the posterior mediastinum from an abdominal dilation to empty at the junction of two veins on the left side of the neck. Where does this channel drain?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Into the junction of the left internal jugular and left subclavian veins"
+        },
+        {
+          "label": "B",
+          "text": "Directly into the superior vena cava"
+        },
+        {
+          "label": "C",
+          "text": "Into the azygos vein"
+        },
+        {
+          "label": "D",
+          "text": "Into the right atrium"
+        },
+        {
+          "label": "E",
+          "text": "Into the junction of the right internal jugular and right subclavian veins"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The thoracic duct begins at the cisterna chyli, ascends through the posterior mediastinum, and empties into the venous system at the left jugulosubclavian (venous) angle, returning lymph and chyle from most of the body.",
+        "whyCorrect": "The thoracic duct begins at the cisterna chyli, ascends through the posterior mediastinum, and empties into the venous system at the left jugulosubclavian (venous) angle, returning lymph and chyle from most of the body.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-066_Brick Exchange - Mediastinum (Part 1 of 2)_p19_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-067",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This diagram maps numerous named nodal groups (paratracheal, tracheobronchial, juxtaesophageal, juxtavertebral, diaphragmatic, and others) distributed through the thorax. What functional network does it depict?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The bronchial arterial supply"
+        },
+        {
+          "label": "B",
+          "text": "The lymphatic drainage (lymph node stations) of the mediastinum"
+        },
+        {
+          "label": "C",
+          "text": "The distribution of the vagus nerve branches"
+        },
+        {
+          "label": "D",
+          "text": "The cardiac venous drainage"
+        },
+        {
+          "label": "E",
+          "text": "The sympathetic ganglia of the thoracic chain"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The figure illustrates the mediastinal lymph node stations; knowledge of these groups underlies cancer staging, as tumor spread to specific nodal stations determines resectability and prognosis.",
+        "whyCorrect": "The figure illustrates the mediastinal lymph node stations; knowledge of these groups underlies cancer staging, as tumor spread to specific nodal stations determines resectability and prognosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-067_Brick Exchange - Mediastinum (Part 1 of 2)_p20_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-068",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This lateral schematic divides the mediastinum into compartments using a horizontal plane. The dashed line separating the superior mediastinum from the inferior compartments passes through which surface landmark?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The jugular (suprasternal) notch"
+        },
+        {
+          "label": "B",
+          "text": "The costal margin at rib 10"
+        },
+        {
+          "label": "C",
+          "text": "The clavicular midpoint"
+        },
+        {
+          "label": "D",
+          "text": "The xiphisternal joint"
+        },
+        {
+          "label": "E",
+          "text": "The sternal angle (plane at the T4/T5 level)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The transverse thoracic plane runs from the sternal angle (angle of Louis) posteriorly to the T4/T5 disc, dividing the mediastinum into superior and inferior parts; the inferior is further split into anterior, middle, and posterior compartments.",
+        "whyCorrect": "The transverse thoracic plane runs from the sternal angle (angle of Louis) posteriorly to the T4/T5 disc, dividing the mediastinum into superior and inferior parts; the inferior is further split into anterior, middle, and posterior compartments.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-068_Brick Exchange - Mediastinum (Part 1 of 2)_p4_2.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-069",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "In this lateral cadaveric view of the inferior mediastinum, the dashed outline lies between the sternum in front and the pericardium/heart behind. Which mediastinal compartment contains mainly the heart and roots of the great vessels?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Middle mediastinum"
+        },
+        {
+          "label": "B",
+          "text": "Superior mediastinum"
+        },
+        {
+          "label": "C",
+          "text": "Anterior mediastinum"
+        },
+        {
+          "label": "D",
+          "text": "Retropharyngeal space"
+        },
+        {
+          "label": "E",
+          "text": "Posterior mediastinum"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The inferior mediastinum is subdivided into anterior (sternum to pericardium), middle (the pericardium and its contents, i.e., heart and great vessel roots), and posterior (behind the pericardium, containing esophagus and descending aorta).",
+        "whyCorrect": "The inferior mediastinum is subdivided into anterior (sternum to pericardium), middle (the pericardium and its contents, i.e., heart and great vessel roots), and posterior (behind the pericardium, containing esophagus and descending aorta).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-069_Brick Exchange - Mediastinum (Part 1 of 2)_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-070",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This diagram overlays the great vessels on the lungs with a horizontal reference line. The arch of the aorta both begins and ends at the level marked by this line. What vertebral/surface landmark does this line correspond to?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The jugular notch at T2"
+        },
+        {
+          "label": "B",
+          "text": "The xiphoid process at T9"
+        },
+        {
+          "label": "C",
+          "text": "The diaphragm at T10"
+        },
+        {
+          "label": "D",
+          "text": "The sternal angle (T4/T5), where the aortic arch begins and ends"
+        },
+        {
+          "label": "E",
+          "text": "The carina at T7"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The plane of the sternal angle (transverse thoracic plane, T4/T5) marks the beginning and end of the aortic arch, the bifurcation of the trachea, and the boundary between superior and inferior mediastinum.",
+        "whyCorrect": "The plane of the sternal angle (transverse thoracic plane, T4/T5) marks the beginning and end of the aortic arch, the bifurcation of the trachea, and the boundary between superior and inferior mediastinum.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-070_Brick Exchange - Mediastinum (Part 1 of 2)_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-071",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "In a patient with a mediastinal mass obstructing the vessel labeled at the upper right of this venous diagram (the superior vena cava), which vein provides the most important collateral route returning blood to the heart?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Portal vein"
+        },
+        {
+          "label": "B",
+          "text": "Coronary sinus"
+        },
+        {
+          "label": "C",
+          "text": "Internal thoracic (mammary) artery"
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary vein"
+        },
+        {
+          "label": "E",
+          "text": "Azygos vein"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The azygos system connects the SVC and IVC territories along the posterior thoracic wall. In SVC obstruction it becomes the key collateral channel, allowing upper-body venous blood to bypass the block and reach the right atrium.",
+        "whyCorrect": "The azygos system connects the SVC and IVC territories along the posterior thoracic wall. In SVC obstruction it becomes the key collateral channel, allowing upper-body venous blood to bypass the block and reach the right atrium.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-071_Brick Exchange - Mediastinum (Part 1 of 2)_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-072",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This cadaveric dissection of the superior mediastinum shows the left recurrent laryngeal nerve. Around which structure does this nerve loop before ascending to the larynx?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pulmonary vein"
+        },
+        {
+          "label": "B",
+          "text": "Superior vena cava"
+        },
+        {
+          "label": "C",
+          "text": "Arch of the aorta (at the ligamentum arteriosum)"
+        },
+        {
+          "label": "D",
+          "text": "Right subclavian artery"
+        },
+        {
+          "label": "E",
+          "text": "Brachiocephalic (innominate) artery"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The left recurrent laryngeal nerve hooks under the aortic arch just lateral to the ligamentum arteriosum. Its long thoracic course explains hoarseness from aortic aneurysm, left atrial enlargement, or mediastinal tumor (Ortner syndrome).",
+        "whyCorrect": "The left recurrent laryngeal nerve hooks under the aortic arch just lateral to the ligamentum arteriosum. Its long thoracic course explains hoarseness from aortic aneurysm, left atrial enlargement, or mediastinal tumor (Ortner syndrome).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-072_Brick Exchange - Mediastinum (Part 1 of 2)_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-073",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This chest radiograph shows a large thoracic aortic aneurysm with prominent aortic arch. If this patient develops new hoarseness, stretching or compression of which nerve is the most likely cause?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Left vagus nerve trunk in the neck"
+        },
+        {
+          "label": "B",
+          "text": "Glossopharyngeal nerve"
+        },
+        {
+          "label": "C",
+          "text": "Hypoglossal nerve"
+        },
+        {
+          "label": "D",
+          "text": "Left recurrent laryngeal nerve"
+        },
+        {
+          "label": "E",
+          "text": "Right phrenic nerve"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Because the left recurrent laryngeal nerve loops under the aortic arch, an expanding arch aneurysm stretches it, paralyzing the left vocal cord and producing hoarseness (Ortner cardiovocal syndrome).",
+        "whyCorrect": "Because the left recurrent laryngeal nerve loops under the aortic arch, an expanding arch aneurysm stretches it, paralyzing the left vocal cord and producing hoarseness (Ortner cardiovocal syndrome).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-073_Brick Exchange - Mediastinum (Part 2 of 2)_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-074",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "Based on this diagram of thoracic lymphatic drainage, where does the large collecting vessel that drains most of the body empty into the venous system?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Junction of the right jugular and right subclavian veins"
+        },
+        {
+          "label": "B",
+          "text": "Junction of the left internal jugular and left subclavian veins (left venous angle)"
+        },
+        {
+          "label": "C",
+          "text": "Azygos vein"
+        },
+        {
+          "label": "D",
+          "text": "Right atrium directly"
+        },
+        {
+          "label": "E",
+          "text": "Superior vena cava at its midpoint"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The thoracic duct drains lymph from below the diaphragm and the left upper body, emptying at the left venous angle. The right lymphatic duct drains only the right head, neck, arm, and thorax into the right venous angle.",
+        "whyCorrect": "The thoracic duct drains lymph from below the diaphragm and the left upper body, emptying at the left venous angle. The right lymphatic duct drains only the right head, neck, arm, and thorax into the right venous angle.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-074_Brick Exchange - Mediastinum (Part 2 of 2)_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-075",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "According to this diagram of body lymphatic drainage territories, lymph from the right arm, right side of the head/neck, and right thorax drains through which vessel?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cisterna chyli"
+        },
+        {
+          "label": "B",
+          "text": "Right lymphatic duct"
+        },
+        {
+          "label": "C",
+          "text": "Azygos vein"
+        },
+        {
+          "label": "D",
+          "text": "Left bronchomediastinal trunk"
+        },
+        {
+          "label": "E",
+          "text": "Thoracic duct"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The right upper quadrant of the body (right head/neck, right arm, right thorax) drains via the short right lymphatic duct into the right venous angle; the remaining three quadrants drain via the thoracic duct.",
+        "whyCorrect": "The right upper quadrant of the body (right head/neck, right arm, right thorax) drains via the short right lymphatic duct into the right venous angle; the remaining three quadrants drain via the thoracic duct.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-075_Brick Exchange - Mediastinum (Part 2 of 2)_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-076",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This anterior view of the thoracic wall veins highlights the azygos and hemiazygos system. What is the principal functional role of this venous system?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It provides collateral drainage between the superior and inferior vena cava via the posterior thoracic wall"
+        },
+        {
+          "label": "B",
+          "text": "It drains the myocardium directly into the right atrium"
+        },
+        {
+          "label": "C",
+          "text": "It supplies arterial blood to the intercostal muscles"
+        },
+        {
+          "label": "D",
+          "text": "It delivers portal blood to the liver"
+        },
+        {
+          "label": "E",
+          "text": "It carries oxygenated blood from the lungs to the left atrium"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The azygos/hemiazygos veins collect posterior intercostal and mediastinal blood and connect the IVC and SVC territories, serving as a critical collateral pathway when either cava is obstructed.",
+        "whyCorrect": "The azygos/hemiazygos veins collect posterior intercostal and mediastinal blood and connect the IVC and SVC territories, serving as a critical collateral pathway when either cava is obstructed.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-076_Brick Exchange - Mediastinum (Part 2 of 2)_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-077",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This diagram of the thoracic aorta and its branches shows the ligamentum arteriosum near the arch. This fibrous cord is the postnatal remnant of which fetal structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ductus arteriosus"
+        },
+        {
+          "label": "B",
+          "text": "Foramen ovale"
+        },
+        {
+          "label": "C",
+          "text": "Umbilical vein"
+        },
+        {
+          "label": "D",
+          "text": "Urachus"
+        },
+        {
+          "label": "E",
+          "text": "Ductus venosus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The ligamentum arteriosum is the obliterated ductus arteriosus, which in fetal life shunted blood from the pulmonary trunk to the aorta, bypassing the lungs. The left recurrent laryngeal nerve hooks around it.",
+        "whyCorrect": "The ligamentum arteriosum is the obliterated ductus arteriosus, which in fetal life shunted blood from the pulmonary trunk to the aorta, bypassing the lungs. The left recurrent laryngeal nerve hooks around it.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-077_Brick Exchange - Mediastinum (Part 2 of 2)_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-078",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This diagram shows the thoracic splanchnic nerves arising from the sympathetic trunk. From which spinal cord segments do the preganglionic fibers of the greater splanchnic nerve originate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "S2-S4"
+        },
+        {
+          "label": "B",
+          "text": "T1-T4"
+        },
+        {
+          "label": "C",
+          "text": "C3-C5"
+        },
+        {
+          "label": "D",
+          "text": "T12-L2"
+        },
+        {
+          "label": "E",
+          "text": "T5-T9"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The greater splanchnic nerve carries preganglionic sympathetic fibers from T5-T9. The lesser (T10-T11) and least (T12) splanchnic nerves arise from lower thoracic segments, together supplying abdominal viscera.",
+        "whyCorrect": "The greater splanchnic nerve carries preganglionic sympathetic fibers from T5-T9. The lesser (T10-T11) and least (T12) splanchnic nerves arise from lower thoracic segments, together supplying abdominal viscera.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-078_Brick Exchange - Mediastinum (Part 2 of 2)_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-079",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This surgical illustration compares normal mitral valve anatomy with a ring sutured around the mitral annulus (cross-sectional and inferior cut-away views). What is the primary purpose of the device being placed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "To reduce annular dilation and restore leaflet coaptation in mitral regurgitation"
+        },
+        {
+          "label": "B",
+          "text": "To occlude the left atrial appendage and prevent emboli"
+        },
+        {
+          "label": "C",
+          "text": "To replace the entire valve with a mechanical prosthesis"
+        },
+        {
+          "label": "D",
+          "text": "To pace the atrium and control atrial fibrillation"
+        },
+        {
+          "label": "E",
+          "text": "To widen a fused, stenotic mitral orifice"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The device is an annuloplasty ring. It is sewn around a dilated mitral annulus to shrink and reshape it, allowing the native leaflets to coapt again and thereby correcting regurgitation while preserving the patient's own valve.",
+        "whyCorrect": "The device is an annuloplasty ring. It is sewn around a dilated mitral annulus to shrink and reshape it, allowing the native leaflets to coapt again and thereby correcting regurgitation while preserving the patient's own valve.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-079_Brick Exchange - Mitral Regurgitation and Mitral Valve Prolapse_p24_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-080",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This diagram labels the components of a heart valve, including the anterior annulus, anterior leaflet, chordae tendineae, and papillary muscles. Which valve's apparatus is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aortic valve"
+        },
+        {
+          "label": "B",
+          "text": "Tricuspid valve"
+        },
+        {
+          "label": "C",
+          "text": "Eustachian valve"
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary valve"
+        },
+        {
+          "label": "E",
+          "text": "Mitral valve"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The two leaflets suspended by chordae tendineae from papillary muscles, with an anterior and posterior leaflet arrangement, are characteristic of the mitral (bicuspid) valve between the left atrium and left ventricle.",
+        "whyCorrect": "The two leaflets suspended by chordae tendineae from papillary muscles, with an anterior and posterior leaflet arrangement, are characteristic of the mitral (bicuspid) valve between the left atrium and left ventricle.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-080_Brick Exchange - Mitral Regurgitation and Mitral Valve Prolapse_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-081",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This labeled diagram shows leaflets anchored by chordae tendineae to papillary muscles, with an anterior leaflet and anterior annulus. Which structure normally prevents these leaflets from everting into the atrium during systole?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The moderator band bracing the free wall"
+        },
+        {
+          "label": "B",
+          "text": "Chordae tendineae anchoring the leaflets to the papillary muscles"
+        },
+        {
+          "label": "C",
+          "text": "The trabeculae carneae lining the ventricular apex"
+        },
+        {
+          "label": "D",
+          "text": "The interventricular septum pushing the leaflets shut"
+        },
+        {
+          "label": "E",
+          "text": "The annular ring contracting to seal the orifice"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "During systole the papillary muscles contract and the chordae tendineae hold the mitral leaflets in a closed position, preventing them from prolapsing back into the left atrium. Failure of this apparatus (e.g., chordal rupture) leads to regurgitation.",
+        "whyCorrect": "During systole the papillary muscles contract and the chordae tendineae hold the mitral leaflets in a closed position, preventing them from prolapsing back into the left atrium. Failure of this apparatus (e.g., chordal rupture) leads to regurgitation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-081_Brick Exchange - Mitral Stenosis_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-082",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This cadaveric atrial-view photograph shows a large anterior leaflet, a scalloped posterior leaflet (P1-P3 segments), and anterolateral and posteromedial commissures. Which cardiac valve is displayed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aortic valve"
+        },
+        {
+          "label": "B",
+          "text": "Pulmonary valve"
+        },
+        {
+          "label": "C",
+          "text": "Mitral valve"
         },
         {
           "label": "D",
@@ -221,17 +3185,563 @@
         },
         {
           "label": "E",
-          "text": "Eustachian valve"
+          "text": "Coronary sinus ostium"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The bileaflet arrangement with a single broad anterior leaflet, a scalloped three-segment posterior leaflet, and two commissures is the hallmark surgical anatomy of the mitral valve viewed from the left atrium.",
+        "whyCorrect": "The bileaflet arrangement with a single broad anterior leaflet, a scalloped three-segment posterior leaflet, and two commissures is the hallmark surgical anatomy of the mitral valve viewed from the left atrium.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-082_Brick Exchange - Mitral Stenosis_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-083",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This diagram divides the airway from the nose down to the alveoli into two functional regions. What best defines the region that begins at the respiratory bronchioles and includes the alveolar ducts and sacs?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The conducting zone, which only warms and humidifies air"
+        },
+        {
+          "label": "B",
+          "text": "The respiratory zone, where gas exchange occurs"
+        },
+        {
+          "label": "C",
+          "text": "The upper airway responsible for phonation"
+        },
+        {
+          "label": "D",
+          "text": "The anatomic dead space that does not participate in gas exchange"
+        },
+        {
+          "label": "E",
+          "text": "The pleural space surrounding the lung"
         }
       ],
       "correctAnswer": "B",
       "explanation": {
-        "summary": "A bileaflet atrioventricular valve (anterior and posterior leaflets) with chordae tendineae anchored to papillary muscles is the mitral valve. The tricuspid has three leaflets, and the aortic and pulmonic are semilunar (three-cusp) valves without chordae.",
-        "whyCorrect": "A bileaflet atrioventricular valve (anterior and posterior leaflets) with chordae tendineae anchored to papillary muscles is the mitral valve. The tricuspid has three leaflets, and the aortic and pulmonic are semilunar (three-cusp) valves without chordae.",
+        "summary": "The airway is split into the conducting zone (nose through terminal bronchioles, which transports but does not exchange gas) and the respiratory zone (respiratory bronchioles, alveolar ducts, and alveoli), where actual gas exchange takes place.",
+        "whyCorrect": "The airway is split into the conducting zone (nose through terminal bronchioles, which transports but does not exchange gas) and the respiratory zone (respiratory bronchioles, alveolar ducts, and alveoli), where actual gas exchange takes place.",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "repic-006_Brick Exchange - Mitral Stenosis_p2_1.png",
+      "imageRef": "repic-083_Brick Exchange - Overview of Respiratory Physiology_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-084",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "The magnified inset shows the layers surrounding the heart. Between which two layers does a pericardial effusion accumulate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Between the myocardium and the visceral pericardium"
+        },
+        {
+          "label": "B",
+          "text": "Within the myocardium itself"
+        },
+        {
+          "label": "C",
+          "text": "Between the visceral and parietal layers of serous pericardium (the pericardial cavity)"
+        },
+        {
+          "label": "D",
+          "text": "Between the fibrous pericardium and the chest wall"
+        },
+        {
+          "label": "E",
+          "text": "Between the endocardium and the myocardium"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The pericardial cavity lies between the visceral (epicardial) and parietal serous layers. Effusion fluid collects in this potential space; normally it holds only a small volume of lubricating fluid.",
+        "whyCorrect": "The pericardial cavity lies between the visceral (epicardial) and parietal serous layers. Effusion fluid collects in this potential space; normally it holds only a small volume of lubricating fluid.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-084_Brick Exchange - Pericardial Effusion and Cardiac Tamponade_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-085",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This diagram labels the muscles involved in breathing. Which of the labeled muscles is the primary muscle of quiet inspiration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Internal intercostals"
+        },
+        {
+          "label": "B",
+          "text": "Rectus abdominis"
+        },
+        {
+          "label": "C",
+          "text": "Scalenes"
+        },
+        {
+          "label": "D",
+          "text": "Diaphragm"
+        },
+        {
+          "label": "E",
+          "text": "Sternocleidomastoid"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The diaphragm is the principal muscle of inspiration; its contraction flattens the dome, increasing thoracic volume and lowering intrathoracic pressure to draw air in. Scalenes and sternocleidomastoid are accessory inspiratory muscles used with increased effort, while the internal intercostals and abdominal muscles (rectus abdominis, obliques) drive active/forced expiration.",
+        "whyCorrect": "The diaphragm is the principal muscle of inspiration; its contraction flattens the dome, increasing thoracic volume and lowering intrathoracic pressure to draw air in. Scalenes and sternocleidomastoid are accessory inspiratory muscles used with increased effort, while the internal intercostals and abdominal muscles (rectus abdominis, obliques) drive active/forced expiration.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-085_Brick Exchange - Physiology_ Mechanics and pressures of breathing_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-086",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "The crosshairs in this diagram and the accompanying photo mark the standard site for emergency needle decompression by the anterior approach. Which landmark do they indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "2nd intercostal space, midclavicular line"
+        },
+        {
+          "label": "B",
+          "text": "4th intercostal space, midaxillary line"
+        },
+        {
+          "label": "C",
+          "text": "8th intercostal space, midscapular line"
+        },
+        {
+          "label": "D",
+          "text": "Suprasternal notch, midline"
+        },
+        {
+          "label": "E",
+          "text": "5th intercostal space, anterior axillary line"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The classic anterior approach for needle decompression of a tension pneumothorax targets the 2nd intercostal space in the midclavicular line, passing just above the rib to avoid the neurovascular bundle.",
+        "whyCorrect": "The classic anterior approach for needle decompression of a tension pneumothorax targets the 2nd intercostal space in the midclavicular line, passing just above the rib to avoid the neurovascular bundle.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-086_Brick Exchange - Pneumothorax_p24_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-087",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "In this diagram of the coronary circulation, which vessel most commonly supplies the inferior wall of the left ventricle and is the usual culprit in an inferior STEMI?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Left circumflex artery"
+        },
+        {
+          "label": "B",
+          "text": "Left anterior descending artery"
+        },
+        {
+          "label": "C",
+          "text": "Aorta"
+        },
+        {
+          "label": "D",
+          "text": "Right coronary artery"
+        },
+        {
+          "label": "E",
+          "text": "Left main coronary artery"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In right-dominant circulation (about 85% of people) the right coronary artery gives rise to the posterior descending artery supplying the inferior wall, making it the typical culprit in inferior infarcts.",
+        "whyCorrect": "In right-dominant circulation (about 85% of people) the right coronary artery gives rise to the posterior descending artery supplying the inferior wall, making it the typical culprit in inferior infarcts.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-087_Brick Exchange - ST Segment Changes_ Recognition and Localization of Myocardial Ischemia_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-088",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This lateral chest illustration outlines a region bordered by the pectoralis major, the latissimus dorsi (anterior axillary fold to the lateral edge), the axillary fold above, and the nipple/5th intercostal space below. What is the clinical importance of this region?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It locates the cardiac apex for auscultation"
+        },
+        {
+          "label": "B",
+          "text": "It outlines the borders of the breast for mastectomy"
+        },
+        {
+          "label": "C",
+          "text": "It defines the 'triangle of safety' for chest tube (thoracostomy) insertion"
+        },
+        {
+          "label": "D",
+          "text": "It marks the landmark for subclavian central venous access"
+        },
+        {
+          "label": "E",
+          "text": "It identifies the site for pericardiocentesis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The triangle bounded by pectoralis major, latissimus dorsi, and a line at the 5th intercostal space (nipple level) is the safe zone for tube thoracostomy, avoiding major vessels, the heart, and abdominal organs.",
+        "whyCorrect": "The triangle bounded by pectoralis major, latissimus dorsi, and a line at the 5th intercostal space (nipple level) is the safe zone for tube thoracostomy, avoiding major vessels, the heart, and abdominal organs.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-088_Brick Exchange - Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-089",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This opened valve specimen has three leaflets and sits between the main pulmonary artery outflow and the right coronary artery groove. Which cardiac valve is displayed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tricuspid valve"
+        },
+        {
+          "label": "B",
+          "text": "Eustachian valve"
+        },
+        {
+          "label": "C",
+          "text": "Pulmonary valve"
+        },
+        {
+          "label": "D",
+          "text": "Mitral valve"
+        },
+        {
+          "label": "E",
+          "text": "Aortic valve"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The valve has anterior, septal, and inferior (posterior) leaflets with intervening commissures and lies adjacent to the AV node region and encircled by the right coronary artery, identifying the right atrioventricular (tricuspid) valve.",
+        "whyCorrect": "The valve has anterior, septal, and inferior (posterior) leaflets with intervening commissures and lies adjacent to the AV node region and encircled by the right coronary artery, identifying the right atrioventricular (tricuspid) valve.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-089_Brick Exchange - Tricuspid Regurgitation and Tricuspid Stenosis_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-090",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "The vessel labeled here with its anatomical name, the 'anterior interventricular artery,' is more commonly known by which clinical name?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Right coronary artery"
+        },
+        {
+          "label": "B",
+          "text": "Obtuse marginal artery"
+        },
+        {
+          "label": "C",
+          "text": "Left circumflex artery"
+        },
+        {
+          "label": "D",
+          "text": "Left anterior descending (LAD) artery"
+        },
+        {
+          "label": "E",
+          "text": "Posterior descending artery"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The anterior interventricular artery, a branch of the left main coronary artery running in the anterior interventricular groove, is clinically termed the left anterior descending (LAD). It supplies the anterior LV wall, anterior two-thirds of the septum, and apex.",
+        "whyCorrect": "The anterior interventricular artery, a branch of the left main coronary artery running in the anterior interventricular groove, is clinically termed the left anterior descending (LAD). It supplies the anterior LV wall, anterior two-thirds of the septum, and apex.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-090_Brick Exchange - Vasculature and Lymphatics of the Heart_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-091",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "In the posterior view, the great, middle, and small cardiac veins converge into the large vein highlighted along the posterior atrioventricular groove. Into which chamber does this collecting vein ultimately drain?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Right atrium"
+        },
+        {
+          "label": "B",
+          "text": "Right ventricle"
+        },
+        {
+          "label": "C",
+          "text": "Left ventricle"
+        },
+        {
+          "label": "D",
+          "text": "Left atrium"
+        },
+        {
+          "label": "E",
+          "text": "Superior vena cava"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The great, middle, and small cardiac veins empty into the coronary sinus, which runs in the posterior AV groove and drains the majority of cardiac venous blood into the right atrium (near the tricuspid valve and IVC orifice).",
+        "whyCorrect": "The great, middle, and small cardiac veins empty into the coronary sinus, which runs in the posterior AV groove and drains the majority of cardiac venous blood into the right atrium (near the tricuspid valve and IVC orifice).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-091_Brick Exchange - Vasculature and Lymphatics of the Heart_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-092",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This diagram shows the lymphatic drainage of the heart and mediastinum, including the thoracic duct. Into which venous structure does the thoracic duct ultimately empty its lymph?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Junction of the right subclavian and right internal jugular veins"
+        },
+        {
+          "label": "B",
+          "text": "Superior vena cava directly"
+        },
+        {
+          "label": "C",
+          "text": "Coronary sinus"
+        },
+        {
+          "label": "D",
+          "text": "Junction of the left subclavian and left internal jugular veins"
+        },
+        {
+          "label": "E",
+          "text": "Right atrium directly"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The thoracic duct carries lymph from most of the body and drains into the venous system at the left venous angle, the junction of the left subclavian and left internal jugular veins. Cardiac and mediastinal lymphatics feed into this system.",
+        "whyCorrect": "The thoracic duct carries lymph from most of the body and drains into the venous system at the left venous angle, the junction of the left subclavian and left internal jugular veins. Cardiac and mediastinal lymphatics feed into this system.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-092_Brick Exchange - Vasculature and Lymphatics of the Heart_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-093",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This magnified cut section through the heart wall shows a vessel running within a groove and giving off branching tributaries into the surrounding myocardium. What is this vessel?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pulmonary vein"
+        },
+        {
+          "label": "B",
+          "text": "Coronary artery"
+        },
+        {
+          "label": "C",
+          "text": "Cardiac lymphatic vessel"
+        },
+        {
+          "label": "D",
+          "text": "Cardiac (autonomic) nerve"
+        },
+        {
+          "label": "E",
+          "text": "Purkinje fiber bundle"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The epicardial vessel coursing in a groove and sending penetrating branches deep into the myocardium to perfuse it is a coronary artery. Coronary arteries lie in the epicardial fat and give off intramural branches.",
+        "whyCorrect": "The epicardial vessel coursing in a groove and sending penetrating branches deep into the myocardium to perfuse it is a coronary artery. Coronary arteries lie in the epicardial fat and give off intramural branches.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-093_Brick Exchange - Vasculature and Lymphatics of the Heart_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-094",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "In this view of the heart, the boxed inset magnifies an epicardial vessel coursing along the surface of the myocardium. What class of vessel is being highlighted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aortic arch branch"
+        },
+        {
+          "label": "B",
+          "text": "Coronary artery"
+        },
+        {
+          "label": "C",
+          "text": "Thoracic duct"
+        },
+        {
+          "label": "D",
+          "text": "Great cardiac vein"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary artery"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The boxed region highlights an epicardial coronary artery running over the surface of the heart within the epicardial fat, the vessels that supply the myocardium with oxygenated blood.",
+        "whyCorrect": "The boxed region highlights an epicardial coronary artery running over the surface of the heart within the epicardial fat, the vessels that supply the myocardium with oxygenated blood.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-094_Brick Exchange - Vasculature and Lymphatics of the Heart_p3_2.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-095",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "In this diagram the pacemaker of the heart is highlighted in green in the wall of the right atrium. In most individuals, the branch supplying this structure arises from which vessel?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Left main coronary artery"
+        },
+        {
+          "label": "B",
+          "text": "Right coronary artery"
+        },
+        {
+          "label": "C",
+          "text": "Left anterior descending artery"
+        },
+        {
+          "label": "D",
+          "text": "Left circumflex coronary artery"
+        },
+        {
+          "label": "E",
+          "text": "Posterior descending artery"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The green structure is the sinoatrial (SA) node. In about 60% of people the SA nodal artery arises from the right coronary artery, making RCA occlusion a cause of sinus node dysfunction.",
+        "whyCorrect": "The green structure is the sinoatrial (SA) node. In about 60% of people the SA nodal artery arises from the right coronary artery, making RCA occlusion a cause of sinus node dysfunction.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-095_Brick Exchange - Vasculature and Lymphatics of the Heart_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-096",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This cadaveric dissection shows the great vessels emerging superiorly with the anterior interventricular (LAD) artery descending toward the apex. Which surface of the heart is being displayed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Right pulmonary surface"
+        },
+        {
+          "label": "B",
+          "text": "Anterior (sternocostal) surface"
+        },
+        {
+          "label": "C",
+          "text": "Diaphragmatic (inferior) surface"
+        },
+        {
+          "label": "D",
+          "text": "Posterior (base) surface"
+        },
+        {
+          "label": "E",
+          "text": "Left pulmonary surface"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The presence of the anterior interventricular groove with the LAD, the right ventricle forming most of the visible surface, and the ascending aorta/pulmonary trunk identify the anterior sternocostal surface of the heart.",
+        "whyCorrect": "The presence of the anterior interventricular groove with the LAD, the right ventricle forming most of the visible surface, and the ascending aorta/pulmonary trunk identify the anterior sternocostal surface of the heart.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-096_Brick Exchange - Vasculature and Lymphatics of the Heart_p5_1.png",
       "tags": [
         "picture"
       ]

@@ -3,14 +3,53 @@
   "categoryName": "Pharmacology",
   "questions": [
     {
-      "id": "repic-019",
+      "id": "repic-580",
       "topicId": "pharmacology",
       "topicName": "Pharmacology",
-      "stem": "This nodal action potential (bold curve) shows a slowed upstroke and prolonged repolarization compared with baseline. Which antiarrhythmic agent produces this effect at the AV node?",
+      "stem": "This schematic contrasts agents/interventions acting on the left versus the right of a central determinant of myocardial ischemia. What overarching therapeutic principle does it illustrate?",
       "choices": [
         {
           "label": "A",
-          "text": "Lidocaine"
+          "text": "Antianginal therapy relieves ischemia by restoring the balance between myocardial oxygen supply and demand"
+        },
+        {
+          "label": "B",
+          "text": "Antianginal drugs work only by dissolving coronary thrombi"
+        },
+        {
+          "label": "C",
+          "text": "Ischemia is treated primarily by increasing systemic blood pressure"
+        },
+        {
+          "label": "D",
+          "text": "Nitrates act mainly by increasing myocardial contractility"
+        },
+        {
+          "label": "E",
+          "text": "Angina is relieved solely by raising the heart rate"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Ischemia occurs when myocardial O2 demand exceeds supply. The figure groups interventions that lower demand (beta blockers, nitrates, some Ca2+ channel blockers reducing rate, contractility, preload, afterload) versus those that raise supply (coronary vasodilators), restoring balance.",
+        "whyCorrect": "Ischemia occurs when myocardial O2 demand exceeds supply. The figure groups interventions that lower demand (beta blockers, nitrates, some Ca2+ channel blockers reducing rate, contractility, preload, afterload) versus those that raise supply (coronary vasodilators), restoring balance.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-580_Brick Exchange - Angina Pectoris_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-581",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This overlay compares a normal cardiac action potential (black) with one altered by a drug (red): phase 0 is minimally changed while the action potential duration is shortened. A drug producing this pattern is best exemplified by which agent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Flecainide"
         },
         {
           "label": "B",
@@ -22,21 +61,684 @@
         },
         {
           "label": "D",
-          "text": "Propranolol"
+          "text": "Lidocaine"
         },
         {
           "label": "E",
-          "text": "Verapamil (a non-dihydropyridine calcium channel blocker)"
+          "text": "Verapamil"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The pattern (weak Na+ channel block with shortened action potential duration) is characteristic of Class IB agents such as lidocaine and mexiletine, which preferentially act on ischemic/depolarized ventricular tissue. Quinidine is IA, flecainide is IC, amiodarone is III, verapamil is IV.",
+        "whyCorrect": "The pattern (weak Na+ channel block with shortened action potential duration) is characteristic of Class IB agents such as lidocaine and mexiletine, which preferentially act on ischemic/depolarized ventricular tissue. Quinidine is IA, flecainide is IC, amiodarone is III, verapamil is IV.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-581_Brick Exchange - Antiarrhythmic Agents - Class I Drugs_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-582",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This overlay compares a normal action potential (black) with one altered by a drug (red): the phase 0 upstroke slope is markedly reduced while the overall action potential duration is essentially unchanged. Which agent typifies this effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sotalol"
+        },
+        {
+          "label": "B",
+          "text": "Lidocaine"
+        },
+        {
+          "label": "C",
+          "text": "Quinidine"
+        },
+        {
+          "label": "D",
+          "text": "Flecainide"
+        },
+        {
+          "label": "E",
+          "text": "Diltiazem"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Marked slowing of phase 0 (strong Na+ channel block) with little change in action potential duration is the hallmark of Class IC agents such as flecainide and propafenone. Lidocaine is IB (shortens APD), quinidine is IA (prolongs APD), sotalol is III, diltiazem is IV.",
+        "whyCorrect": "Marked slowing of phase 0 (strong Na+ channel block) with little change in action potential duration is the hallmark of Class IC agents such as flecainide and propafenone. Lidocaine is IB (shortens APD), quinidine is IA (prolongs APD), sotalol is III, diltiazem is IV.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-582_Brick Exchange - Antiarrhythmic Agents - Class I Drugs_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-583",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This overlay compares a normal action potential (black) with one altered by a drug (red): the phase 0 slope is reduced AND repolarization is prolonged, increasing action potential duration and effective refractory period. Which agent produces this combined effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Propranolol"
+        },
+        {
+          "label": "B",
+          "text": "Lidocaine"
+        },
+        {
+          "label": "C",
+          "text": "Quinidine"
+        },
+        {
+          "label": "D",
+          "text": "Flecainide"
+        },
+        {
+          "label": "E",
+          "text": "Verapamil"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Combined moderate Na+ channel block (slowed phase 0) plus K+ channel block (prolonged repolarization, increased APD/ERP) is characteristic of Class IA agents such as quinidine, procainamide, and disopyramide. This QT prolongation predisposes to torsades de pointes.",
+        "whyCorrect": "Combined moderate Na+ channel block (slowed phase 0) plus K+ channel block (prolonged repolarization, increased APD/ERP) is characteristic of Class IA agents such as quinidine, procainamide, and disopyramide. This QT prolongation predisposes to torsades de pointes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-583_Brick Exchange - Antiarrhythmic Agents - Class I Drugs_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-584",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This action potential shows markedly prolonged repolarization due to potassium-current blockade, greatly increasing the action potential duration and effective refractory period with little change in phase 0. Which agent is the prototype for this effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atropine"
+        },
+        {
+          "label": "B",
+          "text": "Verapamil"
+        },
+        {
+          "label": "C",
+          "text": "Amiodarone"
+        },
+        {
+          "label": "D",
+          "text": "Flecainide"
+        },
+        {
+          "label": "E",
+          "text": "Lidocaine"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Selective prolongation of repolarization via K+ channel block (increased APD and ERP) defines Class III antiarrhythmics, prototypically amiodarone, sotalol, dofetilide, and ibutilide. Lidocaine is IB, flecainide IC, verapamil IV.",
+        "whyCorrect": "Selective prolongation of repolarization via K+ channel block (increased APD and ERP) defines Class III antiarrhythmics, prototypically amiodarone, sotalol, dofetilide, and ibutilide. Lidocaine is IB, flecainide IC, verapamil IV.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-584_Brick Exchange - Antiarrhythmic Agents_ Classes II-IV_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-585",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This pacemaker (nodal) action potential shows a drug decreasing the slope of phase 4 spontaneous depolarization and prolonging repolarization at the AV node. Which agent produces this effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Quinidine"
+        },
+        {
+          "label": "B",
+          "text": "Digoxin"
+        },
+        {
+          "label": "C",
+          "text": "Metoprolol"
+        },
+        {
+          "label": "D",
+          "text": "Amiodarone"
+        },
+        {
+          "label": "E",
+          "text": "Lidocaine"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Reducing the slope of phase 4 depolarization in pacemaker cells (slowing SA-node firing and AV-node conduction) is the mechanism of Class II beta blockers such as metoprolol and propranolol. They decrease heart rate and prolong AV nodal refractoriness by blunting sympathetic (cAMP) drive.",
+        "whyCorrect": "Reducing the slope of phase 4 depolarization in pacemaker cells (slowing SA-node firing and AV-node conduction) is the mechanism of Class II beta blockers such as metoprolol and propranolol. They decrease heart rate and prolong AV nodal refractoriness by blunting sympathetic (cAMP) drive.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-585_Brick Exchange - Antiarrhythmic Agents_ Classes II-IV_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-586",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "The two agents in this diagram act on the enzyme that degrades cyclic AMP within the platelet. What is the downstream consequence of their action that reduces platelet activation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intracellular cAMP falls, releasing more thromboxane A2"
+        },
+        {
+          "label": "B",
+          "text": "Adenylate cyclase is irreversibly inhibited"
+        },
+        {
+          "label": "C",
+          "text": "GPIIb/IIIa fibrinogen bridging is prevented"
+        },
+        {
+          "label": "D",
+          "text": "Thromboxane A2 receptors are directly blocked"
+        },
+        {
+          "label": "E",
+          "text": "Intracellular cAMP rises, suppressing platelet activation and aggregation"
         }
       ],
       "correctAnswer": "E",
       "explanation": {
-        "summary": "Class IV agents (verapamil, diltiazem) block L-type Ca2+ channels that generate the slow upstroke of nodal action potentials, slowing AV nodal conduction and prolonging repolarization.",
-        "whyCorrect": "Class IV agents (verapamil, diltiazem) block L-type Ca2+ channels that generate the slow upstroke of nodal action potentials, slowing AV nodal conduction and prolonging repolarization.",
+        "summary": "Cilostazol and dipyridamole inhibit phosphodiesterase-3, preventing breakdown of cAMP to 5'AMP. Elevated cAMP inhibits platelet activation and aggregation (and causes vasodilation).",
+        "whyCorrect": "Cilostazol and dipyridamole inhibit phosphodiesterase-3, preventing breakdown of cAMP to 5'AMP. Elevated cAMP inhibits platelet activation and aggregation (and causes vasodilation).",
         "whyWrongByChoice": {}
       },
       "difficulty": "medium",
-      "imageRef": "repic-019_Brick Exchange - Antiarrhythmic Agents_ Classes II-IV_p8_1.png",
+      "imageRef": "repic-586_Brick Exchange - Antiplatelet Drugs_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-587",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This pathway shows how a common antiplatelet drug acts on the cyclooxygenase step of arachidonic acid metabolism. What feature of this drug's enzyme inhibition explains why its antiplatelet effect lasts the entire platelet lifespan?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It irreversibly acetylates cyclooxygenase, and platelets cannot synthesize new enzyme"
+        },
+        {
+          "label": "B",
+          "text": "It reversibly competes with arachidonic acid at the active site"
+        },
+        {
+          "label": "C",
+          "text": "It chelates calcium needed for enzyme activity"
+        },
+        {
+          "label": "D",
+          "text": "It antagonizes the thromboxane receptor on platelets"
+        },
+        {
+          "label": "E",
+          "text": "It blocks phospholipase A2, halting substrate supply"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Aspirin irreversibly acetylates COX-1, permanently abolishing thromboxane A2 production. Because anucleate platelets cannot make new enzyme, the effect persists for the ~7-10 day platelet lifespan.",
+        "whyCorrect": "Aspirin irreversibly acetylates COX-1, permanently abolishing thromboxane A2 production. Because anucleate platelets cannot make new enzyme, the effect persists for the ~7-10 day platelet lifespan.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-587_Brick Exchange - Antiplatelet Drugs_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-588",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "The boxed drugs (apixaban, rivaroxaban, edoxaban) block the circled clotting factor in this cascade. That factor normally catalyzes which reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Conversion of plasminogen to plasmin"
+        },
+        {
+          "label": "B",
+          "text": "Conversion of prothrombin to thrombin"
+        },
+        {
+          "label": "C",
+          "text": "Cross-linking of fibrin by factor XIII"
+        },
+        {
+          "label": "D",
+          "text": "Activation of factor VII by tissue factor"
+        },
+        {
+          "label": "E",
+          "text": "Conversion of fibrinogen to fibrin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Factor Xa sits at the start of the common pathway and converts prothrombin (II) to thrombin (IIa); the '-xaban' direct oral anticoagulants inhibit Xa, reducing thrombin generation and clot formation.",
+        "whyCorrect": "Factor Xa sits at the start of the common pathway and converts prothrombin (II) to thrombin (IIa); the '-xaban' direct oral anticoagulants inhibit Xa, reducing thrombin generation and clot formation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-588_Brick Exchange - DOACs_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-589",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This diagram shows a drug entering a hepatocyte, being loaded onto the RISC complex, and directing degradation of PCSK9 mRNA. By what mechanism does this agent (inclisiran) lower LDL cholesterol?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is a small interfering RNA that silences PCSK9 mRNA, reducing PCSK9 synthesis so more LDL receptors persist on the hepatocyte surface"
+        },
+        {
+          "label": "B",
+          "text": "It blocks intestinal absorption of dietary and biliary cholesterol at the brush border"
+        },
+        {
+          "label": "C",
+          "text": "It sequesters bile acids in the gut lumen to increase their fecal excretion"
+        },
+        {
+          "label": "D",
+          "text": "It is a monoclonal antibody that directly binds and neutralizes circulating LDL particles"
+        },
+        {
+          "label": "E",
+          "text": "It competitively inhibits HMG-CoA reductase to block hepatic cholesterol synthesis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Inclisiran is a siRNA that harnesses the RISC pathway to degrade PCSK9 mRNA. Less PCSK9 means fewer LDL receptors are targeted for lysosomal destruction, so more receptors recycle to the surface and clear more LDL from the blood.",
+        "whyCorrect": "Inclisiran is a siRNA that harnesses the RISC pathway to degrade PCSK9 mRNA. Less PCSK9 means fewer LDL receptors are targeted for lysosomal destruction, so more receptors recycle to the surface and clear more LDL from the blood.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-589_Brick Exchange - Dyslipidemia_ Pharmacological and Non-Pharmacological options_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-590",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This membrane diagram shows a drug blocking the Na+/K+-ATPase, after which intracellular Na+ rises, the Na+/Ca2+ exchanger extrudes less Ca2+, and free intracellular Ca2+ increases to act on the myofibrils. What is the net effect of this sequence on the cardiac myocyte?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased contractility due to Ca2+ depletion"
+        },
+        {
+          "label": "B",
+          "text": "Membrane hyperpolarization and reduced excitability"
+        },
+        {
+          "label": "C",
+          "text": "Increased contractility (positive inotropy) from higher intracellular Ca2+"
+        },
+        {
+          "label": "D",
+          "text": "Accelerated pacemaker firing at the SA node"
+        },
+        {
+          "label": "E",
+          "text": "Increased extrusion of Ca2+ from the cell"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "By inhibiting the Na+/K+-ATPase, the drug (digoxin) raises intracellular Na+, which reduces the driving gradient for the Na+/Ca2+ exchanger. Less Ca2+ is pumped out, so intracellular Ca2+ accumulates and is available to the myofibrils, increasing contractile force (positive inotropy).",
+        "whyCorrect": "By inhibiting the Na+/K+-ATPase, the drug (digoxin) raises intracellular Na+, which reduces the driving gradient for the Na+/Ca2+ exchanger. Less Ca2+ is pumped out, so intracellular Ca2+ accumulates and is available to the myofibrils, increasing contractile force (positive inotropy).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-590_Brick Exchange - Management of Chronic Heart Failure_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-591",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This signaling diagram shows dobutamine acting via beta-1/Gs/adenylyl cyclase to raise cAMP, while a second drug blocks PDE3; both converge on increased intracellular Ca2+ and contractility. By what mechanism does the PDE3-blocking drug (milrinone) increase contractility?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It inhibits the Na+/K+-ATPase like a cardiac glycoside"
+        },
+        {
+          "label": "B",
+          "text": "It inhibits phosphodiesterase-3, preventing cAMP breakdown so cAMP levels rise"
+        },
+        {
+          "label": "C",
+          "text": "It opens L-type calcium channels directly"
+        },
+        {
+          "label": "D",
+          "text": "It directly stimulates the beta-1 adrenergic receptor"
+        },
+        {
+          "label": "E",
+          "text": "It increases nitric oxide production in the myocyte"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Milrinone inhibits PDE3, the enzyme that degrades cAMP. With cAMP breakdown blocked, intracellular cAMP accumulates, raising Ca2+ and augmenting contractility, an inotropic effect that does not require the beta-receptor (unlike dobutamine, which works upstream through beta-1/Gs/adenylyl cyclase).",
+        "whyCorrect": "Milrinone inhibits PDE3, the enzyme that degrades cAMP. With cAMP breakdown blocked, intracellular cAMP accumulates, raising Ca2+ and augmenting contractility, an inotropic effect that does not require the beta-receptor (unlike dobutamine, which works upstream through beta-1/Gs/adenylyl cyclase).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-591_Brick Exchange - Management of Shock_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-592",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This small, flat, USB-drive-shaped black device with a mouthpiece and pod is shown. What is it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A USB flash drive"
+        },
+        {
+          "label": "B",
+          "text": "A glucose meter"
+        },
+        {
+          "label": "C",
+          "text": "An electronic cigarette (vaping/e-cigarette device)"
+        },
+        {
+          "label": "D",
+          "text": "A metered-dose asthma inhaler"
+        },
+        {
+          "label": "E",
+          "text": "An insulin injector pen"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The pod-style form factor with a mouthpiece identifies an electronic cigarette, which aerosolizes a nicotine-containing liquid for inhalation.",
+        "whyCorrect": "The pod-style form factor with a mouthpiece identifies an electronic cigarette, which aerosolizes a nicotine-containing liquid for inhalation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-592_Brick Exchange - Tobacco Smoking_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-593",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This coagulation cascade highlights the sites where heparin acts (factor Xa and thrombin/IIa). By what molecular mechanism does heparin inhibit these factors?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It directly binds thrombin's active site without a cofactor"
+        },
+        {
+          "label": "B",
+          "text": "It inhibits vitamin K epoxide reductase"
+        },
+        {
+          "label": "C",
+          "text": "It blocks platelet cyclooxygenase"
+        },
+        {
+          "label": "D",
+          "text": "It potentiates antithrombin III, which then inactivates the factors"
+        },
+        {
+          "label": "E",
+          "text": "It chelates plasma calcium"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Heparin binds antithrombin III and dramatically accelerates its inactivation of thrombin (IIa) and factor Xa; it therefore requires adequate antithrombin III to be effective and works indirectly rather than by direct enzyme inhibition.",
+        "whyCorrect": "Heparin binds antithrombin III and dramatically accelerates its inactivation of thrombin (IIa) and factor Xa; it therefore requires adequate antithrombin III to be effective and works indirectly rather than by direct enzyme inhibition.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-593_Brick Exchange - Treatment of Acute Coronary Syndrome - Agents and Interventions_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-594",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This diagram shows aspirin blocking platelet cyclooxygenase (COX) to prevent thromboxane A2 synthesis. Because aspirin's inhibition of platelet COX is irreversible, how long does its antiplatelet effect persist after a single dose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Permanently for all future platelets"
+        },
+        {
+          "label": "B",
+          "text": "About 30 days"
+        },
+        {
+          "label": "C",
+          "text": "Only a few hours until it is metabolized"
+        },
+        {
+          "label": "D",
+          "text": "Approximately 24 hours"
+        },
+        {
+          "label": "E",
+          "text": "For the lifespan of the affected platelets (about 7-10 days)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Platelets lack nuclei and cannot synthesize new cyclooxygenase, so aspirin's irreversible COX inhibition lasts the ~7-10 day lifespan of the exposed platelets until new platelets are produced.",
+        "whyCorrect": "Platelets lack nuclei and cannot synthesize new cyclooxygenase, so aspirin's irreversible COX inhibition lasts the ~7-10 day lifespan of the exposed platelets until new platelets are produced.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-594_Brick Exchange - Treatment of Acute Coronary Syndrome - Agents and Interventions_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-595",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This mnemonic cartoon depicts a toxidrome of dry mouth, urinary retention, mydriasis, flushed hot skin, hyperthermia, tachycardia, confusion, and absent bowel sounds. Which inhaled COPD medication class can produce these systemic effects?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Methylxanthines (theophylline)"
+        },
+        {
+          "label": "B",
+          "text": "Muscarinic antagonists (e.g., ipratropium, tiotropium)"
+        },
+        {
+          "label": "C",
+          "text": "Beta-2 agonists (albuterol)"
+        },
+        {
+          "label": "D",
+          "text": "Leukotriene receptor antagonists (montelukast)"
+        },
+        {
+          "label": "E",
+          "text": "Inhaled corticosteroids (fluticasone)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The anticholinergic toxidrome (dry as a bone, red as a beet, hot as a desert, blind as a bat, mad as a hatter) results from muscarinic receptor blockade; inhaled antimuscarinics such as ipratropium and tiotropium used in COPD can cause these effects if systemically absorbed.",
+        "whyCorrect": "The anticholinergic toxidrome (dry as a bone, red as a beet, hot as a desert, blind as a bat, mad as a hatter) results from muscarinic receptor blockade; inhaled antimuscarinics such as ipratropium and tiotropium used in COPD can cause these effects if systemically absorbed.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-595_Brick Exchange - Treatment of Asthma & COPD_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-596",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This diagram shows the beta-agonist pathway (top right) increasing cAMP via adenylyl cyclase to promote bronchodilation. Which short-acting inhaled drug acts through this beta-receptor pathway for acute asthma relief?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Montelukast"
+        },
+        {
+          "label": "B",
+          "text": "Ipratropium"
+        },
+        {
+          "label": "C",
+          "text": "Fluticasone"
+        },
+        {
+          "label": "D",
+          "text": "Albuterol"
+        },
+        {
+          "label": "E",
+          "text": "Theophylline"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Albuterol is a short-acting beta-2 agonist that stimulates adenylyl cyclase to raise intracellular cAMP, relaxing bronchial smooth muscle; theophylline works instead by inhibiting phosphodiesterase, and ipratropium by blocking muscarinic receptors.",
+        "whyCorrect": "Albuterol is a short-acting beta-2 agonist that stimulates adenylyl cyclase to raise intracellular cAMP, relaxing bronchial smooth muscle; theophylline works instead by inhibiting phosphodiesterase, and ipratropium by blocking muscarinic receptors.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-596_Brick Exchange - Treatment of Asthma & COPD_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-597",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This ASCVD primary-prevention algorithm centers on statin therapy across risk categories. Statins lower LDL cholesterol by inhibiting which enzyme?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "HMG-CoA reductase"
+        },
+        {
+          "label": "B",
+          "text": "NPC1L1 cholesterol transporter"
+        },
+        {
+          "label": "C",
+          "text": "Cholesterol ester transfer protein (CETP)"
+        },
+        {
+          "label": "D",
+          "text": "PCSK9"
+        },
+        {
+          "label": "E",
+          "text": "Lipoprotein lipase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Statins competitively inhibit HMG-CoA reductase, the rate-limiting enzyme of hepatic cholesterol synthesis; the resulting upregulation of LDL receptors clears LDL from the blood, the basis for their central role in ASCVD prevention.",
+        "whyCorrect": "Statins competitively inhibit HMG-CoA reductase, the rate-limiting enzyme of hepatic cholesterol synthesis; the resulting upregulation of LDL receptors clears LDL from the blood, the basis for their central role in ASCVD prevention.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-597_Brick Exchange - Treatment of Dyslipidemia_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-598",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "The lipid-lowering medications classified in this figure achieve their LDL-C reduction primarily by inhibiting which enzyme?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "HMG-CoA reductase"
+        },
+        {
+          "label": "B",
+          "text": "Lipoprotein lipase"
+        },
+        {
+          "label": "C",
+          "text": "Acyl-CoA cholesterol acyltransferase (ACAT)"
+        },
+        {
+          "label": "D",
+          "text": "Cholesterol 7-alpha-hydroxylase"
+        },
+        {
+          "label": "E",
+          "text": "PCSK9 protease"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The drugs shown are statins, graded by intensity. Statins competitively inhibit HMG-CoA reductase, the rate-limiting enzyme of hepatic cholesterol synthesis, upregulating LDL receptors and lowering serum LDL-C; higher-intensity agents/doses (e.g., rosuvastatin 20-40 mg, atorvastatin 40-80 mg) lower LDL-C >50%.",
+        "whyCorrect": "The drugs shown are statins, graded by intensity. Statins competitively inhibit HMG-CoA reductase, the rate-limiting enzyme of hepatic cholesterol synthesis, upregulating LDL receptors and lowering serum LDL-C; higher-intensity agents/doses (e.g., rosuvastatin 20-40 mg, atorvastatin 40-80 mg) lower LDL-C >50%.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-598_Brick Exchange - Treatment of Dyslipidemia_p12_1.png",
       "tags": [
         "picture"
       ]
