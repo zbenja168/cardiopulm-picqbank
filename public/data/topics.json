@@ -1,0 +1,77 @@
+{
+  "categories": [
+    {
+      "id": "gross-anatomy",
+      "name": "Gross Anatomy",
+      "topics": [
+        {
+          "id": "gross-anatomy",
+          "name": "Gross Anatomy",
+          "sourceFile": "respi bricks",
+          "questionCount": 6
+        }
+      ]
+    },
+    {
+      "id": "histology-cell-biology",
+      "name": "Histology & Cell Biology",
+      "topics": [
+        {
+          "id": "histology-cell-biology",
+          "name": "Histology & Cell Biology",
+          "sourceFile": "respi bricks",
+          "questionCount": 1
+        }
+      ]
+    },
+    {
+      "id": "lab-diagnostics",
+      "name": "Lab & Diagnostics",
+      "topics": [
+        {
+          "id": "lab-diagnostics",
+          "name": "Lab & Diagnostics",
+          "sourceFile": "respi bricks",
+          "questionCount": 7
+        }
+      ]
+    },
+    {
+      "id": "pathology",
+      "name": "Pathology",
+      "topics": [
+        {
+          "id": "pathology",
+          "name": "Pathology",
+          "sourceFile": "respi bricks",
+          "questionCount": 4
+        }
+      ]
+    },
+    {
+      "id": "pharmacology",
+      "name": "Pharmacology",
+      "topics": [
+        {
+          "id": "pharmacology",
+          "name": "Pharmacology",
+          "sourceFile": "respi bricks",
+          "questionCount": 1
+        }
+      ]
+    },
+    {
+      "id": "physiology-mechanisms",
+      "name": "Physiology & Mechanisms",
+      "topics": [
+        {
+          "id": "physiology-mechanisms",
+          "name": "Physiology & Mechanisms",
+          "sourceFile": "respi bricks",
+          "questionCount": 8
+        }
+      ]
+    }
+  ],
+  "totalQuestions": 27
+}

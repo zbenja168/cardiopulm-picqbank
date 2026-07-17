@@ -1,0 +1,318 @@
+{
+  "categoryId": "physiology-mechanisms",
+  "categoryName": "Physiology & Mechanisms",
+  "questions": [
+    {
+      "id": "repic-020",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This diagram shows blood crossing the labeled interatrial communication from the right atrium into the left atrium. This defect allows a venous thrombus to reach the systemic circulation, a phenomenon known as what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pulmonary embolism"
+        },
+        {
+          "label": "B",
+          "text": "Fat embolism syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Septic embolism"
+        },
+        {
+          "label": "D",
+          "text": "Amniotic fluid embolism"
+        },
+        {
+          "label": "E",
+          "text": "Paradoxical embolism"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A right-to-left shunt through a patent foramen ovale lets a venous embolus bypass the pulmonary filter and enter the systemic arterial circulation (paradoxical embolism), a potential cause of cryptogenic stroke.",
+        "whyCorrect": "A right-to-left shunt through a patent foramen ovale lets a venous embolus bypass the pulmonary filter and enter the systemic arterial circulation (paradoxical embolism), a potential cause of cryptogenic stroke.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-020_Brick Exchange - Arterial Emboli_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-021",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "These paired graphs plot passive, active, and total tension against muscle length, with tension rising then plateauing at greater lengths. Which fundamental muscle property do they illustrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The force-frequency (Bowditch) relationship"
+        },
+        {
+          "label": "B",
+          "text": "The length-tension relationship"
+        },
+        {
+          "label": "C",
+          "text": "The force-velocity relationship"
+        },
+        {
+          "label": "D",
+          "text": "The ventricular pressure-volume loop"
+        },
+        {
+          "label": "E",
+          "text": "The cardiac function (Frank-Starling) curve"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Total tension equals passive plus active tension; active tension peaks at the optimal degree of actin-myosin overlap, defining the length-tension relationship that underlies preload effects.",
+        "whyCorrect": "Total tension equals passive plus active tension; active tension peaks at the optimal degree of actin-myosin overlap, defining the length-tension relationship that underlies preload effects.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-021_Brick Exchange - Cardiac - Compliance, Contractility, Preload, and Afterload_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-022",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This diagram contrasts a normal channel that secretes ions across the membrane with a misfolded 'mutant' channel that fails to reach the surface, resulting in thick overlying mucus. What is the direct consequence of the mutant channel shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Overproduction of surfactant by type II pneumocytes"
+        },
+        {
+          "label": "B",
+          "text": "Impaired chloride secretion causing thick, dehydrated mucus"
+        },
+        {
+          "label": "C",
+          "text": "Increased water secretion that thins the mucus"
+        },
+        {
+          "label": "D",
+          "text": "Excessive sodium secretion into the airway lumen"
+        },
+        {
+          "label": "E",
+          "text": "Impaired oxygen diffusion across the alveolar membrane"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Defective CFTR (cystic fibrosis) reduces apical chloride (and secondarily water) secretion, dehydrating airway surface liquid and producing viscous mucus that impairs clearance.",
+        "whyCorrect": "Defective CFTR (cystic fibrosis) reduces apical chloride (and secondarily water) secretion, dehydrating airway surface liquid and producing viscous mucus that impairs clearance.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-022_Brick Exchange - Cystic Fibrosis (1 of 2)_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-023",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This figure links clinical conditions to four mechanisms of fluid leak across a capillary bed. The balance of pressures governing this net fluid movement is collectively known as what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The Fick principle"
+        },
+        {
+          "label": "B",
+          "text": "Starling forces"
+        },
+        {
+          "label": "C",
+          "text": "The Frank-Starling mechanism"
+        },
+        {
+          "label": "D",
+          "text": "Laplace's law"
+        },
+        {
+          "label": "E",
+          "text": "Poiseuille's law"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Capillary and interstitial hydrostatic and oncotic pressures (Starling forces) determine net filtration; imbalance (low oncotic pressure, high hydrostatic pressure, increased permeability) or lymphatic obstruction produces edema.",
+        "whyCorrect": "Capillary and interstitial hydrostatic and oncotic pressures (Starling forces) determine net filtration; imbalance (low oncotic pressure, high hydrostatic pressure, increased permeability) or lymphatic obstruction produces edema.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-023_Brick Exchange - Edema_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-024",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "The left panel shows the diaphragm contracting downward with the chest wall expanding, generating an intrapleural pressure of -4 cm H2O. By what mechanism does this drive air into the lungs?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreasing lung compliance so the alveoli recoil open"
+        },
+        {
+          "label": "B",
+          "text": "Actively pumping air in via ciliary action of the airways"
+        },
+        {
+          "label": "C",
+          "text": "Enlarging the thoracic cavity lowers intrapulmonary pressure below atmospheric, so air flows in down the pressure gradient (Boyle's law)"
+        },
+        {
+          "label": "D",
+          "text": "Increasing airway resistance to trap incoming air"
+        },
+        {
+          "label": "E",
+          "text": "Raising intrapulmonary pressure above atmospheric, pushing air outward"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "During inspiration the diaphragm and chest wall increase thoracic volume; by Boyle's law the pressure falls (alveolar pressure becomes subatmospheric, intrapleural ~ -4 to -7 cm H2O), and air flows in until pressures equalize. Expiration reverses this as the diaphragm relaxes and elastic recoil raises pressure.",
+        "whyCorrect": "During inspiration the diaphragm and chest wall increase thoracic volume; by Boyle's law the pressure falls (alveolar pressure becomes subatmospheric, intrapleural ~ -4 to -7 cm H2O), and air flows in until pressures equalize. Expiration reverses this as the diaphragm relaxes and elastic recoil raises pressure.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-024_Brick Exchange - Physiology_ Mechanics and pressures of breathing_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-025",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This diagram labels the muscles involved in breathing. The diaphragm together with the external intercostals are primarily responsible for which action?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Valsalva straining only"
+        },
+        {
+          "label": "B",
+          "text": "Swallowing and airway protection"
+        },
+        {
+          "label": "C",
+          "text": "Forced expiration"
+        },
+        {
+          "label": "D",
+          "text": "Quiet (normal resting) inspiration"
+        },
+        {
+          "label": "E",
+          "text": "Quiet passive expiration"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The diaphragm is the chief muscle of quiet inspiration, assisted by the external intercostals; scalenes and sternocleidomastoid are accessory inspiratory muscles for forced breathing. Quiet expiration is passive, while the abdominal muscles and internal intercostals drive forced expiration.",
+        "whyCorrect": "The diaphragm is the chief muscle of quiet inspiration, assisted by the external intercostals; scalenes and sternocleidomastoid are accessory inspiratory muscles for forced breathing. Quiet expiration is passive, while the abdominal muscles and internal intercostals drive forced expiration.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-025_Brick Exchange - Physiology_ Mechanics and pressures of breathing_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-026",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "In this plot of left ventricular pressure and volume across the cardiac cycle, during the phase labeled isovolumetric ventricular contraction the pressure rises steeply while the volume stays flat. Why does volume remain unchanged during this phase?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "All four cardiac valves are closed, so no blood enters or leaves the ventricle"
+        },
+        {
+          "label": "B",
+          "text": "Blood is regurgitating backward across the aortic valve"
+        },
+        {
+          "label": "C",
+          "text": "The mitral valve is still open allowing continued filling"
+        },
+        {
+          "label": "D",
+          "text": "The ventricle is relaxing rather than contracting"
+        },
+        {
+          "label": "E",
+          "text": "The aortic valve is open but flow is negligible"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Isovolumetric contraction begins when the mitral valve closes but before the aortic valve opens; with all valves shut, ventricular volume is fixed while tension development rapidly raises pressure. The aortic valve opens only once LV pressure exceeds aortic pressure, starting ejection.",
+        "whyCorrect": "Isovolumetric contraction begins when the mitral valve closes but before the aortic valve opens; with all valves shut, ventricular volume is fixed while tension development rapidly raises pressure. The aortic valve opens only once LV pressure exceeds aortic pressure, starting ejection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-026_Brick Exchange - Pressure Volume (PV) Loops_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-027",
+      "topicId": "physiology-mechanisms",
+      "topicName": "Physiology & Mechanisms",
+      "stem": "This graph plots ventilation, perfusion, and the V/Q ratio from the base to the apex of an upright lung. Why does the V/Q ratio rise to its highest value at the apex?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Both ventilation and perfusion are highest at the apex"
+        },
+        {
+          "label": "B",
+          "text": "Ventilation increases far more than perfusion toward the apex"
+        },
+        {
+          "label": "C",
+          "text": "Perfusion falls more steeply than ventilation from base to apex, so blood flow drops relatively more"
+        },
+        {
+          "label": "D",
+          "text": "Ventilation ceases entirely at the apex"
+        },
+        {
+          "label": "E",
+          "text": "Perfusion exceeds ventilation at the apex"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Gravity makes both ventilation and perfusion greatest at the base, but perfusion decreases much more sharply toward the apex than ventilation does. Because blood flow falls relatively more, the V/Q ratio is high (>1, more ventilation per perfusion) at the apex and low (<1) at the base.",
+        "whyCorrect": "Gravity makes both ventilation and perfusion greatest at the base, but perfusion decreases much more sharply toward the apex than ventilation does. Because blood flow falls relatively more, the V/Q ratio is high (>1, more ventilation per perfusion) at the apex and low (<1) at the base.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-027_Brick Exchange - Pulmonary Ventilation and Perfusion (V_Q)_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

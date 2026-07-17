@@ -1,0 +1,45 @@
+{
+  "categoryId": "histology-cell-biology",
+  "categoryName": "Histology & Cell Biology",
+  "questions": [
+    {
+      "id": "repic-007",
+      "topicId": "histology-cell-biology",
+      "topicName": "Histology & Cell Biology",
+      "stem": "This H&E section shows thin-walled, air-filled spaces opening off a larger conducting channel (RB), with clusters of terminal sacs (AS) and their ducts (AD). What structure of the respiratory system is shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Thyroid colloid-filled follicles"
+        },
+        {
+          "label": "B",
+          "text": "Pulmonary alveoli (respiratory zone of the lung)"
+        },
+        {
+          "label": "C",
+          "text": "Renal glomeruli and tubules"
+        },
+        {
+          "label": "D",
+          "text": "Splenic red pulp sinusoids"
+        },
+        {
+          "label": "E",
+          "text": "Hepatic lobule with central vein"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The labels mark the respiratory bronchiole (RB), alveolar ducts (AD), alveolar sacs (AS), and alveoli (A) - the gas-exchanging respiratory zone of the lung. The thin alveolar walls with delicate capillary networks are characteristic pulmonary parenchyma.",
+        "whyCorrect": "The labels mark the respiratory bronchiole (RB), alveolar ducts (AD), alveolar sacs (AS), and alveoli (A) - the gas-exchanging respiratory zone of the lung. The thin alveolar walls with delicate capillary networks are characteristic pulmonary parenchyma.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-007_Brick Exchange - Histology of the Respiratory Tract_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

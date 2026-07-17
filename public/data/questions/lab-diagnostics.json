@@ -1,0 +1,279 @@
+{
+  "categoryId": "lab-diagnostics",
+  "categoryName": "Lab & Diagnostics",
+  "questions": [
+    {
+      "id": "repic-008",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This echocardiogram with color Doppler demonstrates the labeled left-to-right shunt between the aorta and pulmonary artery. If left uncorrected, chronic pulmonary overcirculation from this lesion classically progresses to which complication?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rheumatic mitral stenosis"
+        },
+        {
+          "label": "B",
+          "text": "Constrictive pericarditis"
+        },
+        {
+          "label": "C",
+          "text": "Cardiac tamponade"
+        },
+        {
+          "label": "D",
+          "text": "Eisenmenger syndrome (shunt reversal)"
+        },
+        {
+          "label": "E",
+          "text": "Aortic dissection"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A patent ductus arteriosus produces a left-to-right shunt; chronic increased pulmonary blood flow drives pulmonary vascular remodeling and pulmonary hypertension, eventually reversing the shunt (Eisenmenger syndrome) with cyanosis.",
+        "whyCorrect": "A patent ductus arteriosus produces a left-to-right shunt; chronic increased pulmonary blood flow drives pulmonary vascular remodeling and pulmonary hypertension, eventually reversing the shunt (Eisenmenger syndrome) with cyanosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-008_Brick Exchange - Acyanotic Congenital Heart Defects (Left-to-Right Shunts)_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-009",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "On the pretreatment chest radiograph, the red arrow points to an abnormality at the right lung base that resolves after therapy (post-treatment film). What is this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pulmonary mass"
+        },
+        {
+          "label": "B",
+          "text": "Pneumothorax"
+        },
+        {
+          "label": "C",
+          "text": "Pleural effusion"
+        },
+        {
+          "label": "D",
+          "text": "Cardiomegaly"
+        },
+        {
+          "label": "E",
+          "text": "Lobar consolidation (pneumonia)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Blunting of the costophrenic angle with a homogeneous basal opacity and meniscus indicates a pleural effusion, which clears on the post-treatment film.",
+        "whyCorrect": "Blunting of the costophrenic angle with a homogeneous basal opacity and meniscus indicates a pleural effusion, which clears on the post-treatment film.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-009_Brick Exchange - Anatomy of the Lower Respiratory Tract_p22_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-010",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "This indirect immunofluorescence image of ethanol-fixed neutrophils is used to detect an autoantibody associated with respiratory autoimmune disease such as granulomatosis with polyangiitis. Which autoantibody does this test identify?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anti-topoisomerase I (anti-Scl-70)"
+        },
+        {
+          "label": "B",
+          "text": "Anti-double-stranded DNA"
+        },
+        {
+          "label": "C",
+          "text": "Anti-cyclic citrullinated peptide (anti-CCP)"
+        },
+        {
+          "label": "D",
+          "text": "Anti-glomerular basement membrane antibody"
+        },
+        {
+          "label": "E",
+          "text": "Anti-neutrophil cytoplasmic antibody (ANCA)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Immunofluorescent staining of neutrophils (cytoplasmic c-ANCA or perinuclear p-ANCA patterns) detects ANCA, which is associated with the ANCA-associated vasculitides that frequently involve the lungs.",
+        "whyCorrect": "Immunofluorescent staining of neutrophils (cytoplasmic c-ANCA or perinuclear p-ANCA patterns) detects ANCA, which is associated with the ANCA-associated vasculitides that frequently involve the lungs.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-010_Brick Exchange - Autoimmune Diseases with Respiratory Manifestations_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-011",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "In this patient with severe carotid stenosis, the noncontrast head CT abnormality indicated by the arrow most likely represents which acute process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute intraparenchymal hemorrhage"
+        },
+        {
+          "label": "B",
+          "text": "Glioblastoma"
+        },
+        {
+          "label": "C",
+          "text": "Subdural hematoma"
+        },
+        {
+          "label": "D",
+          "text": "Epidural hematoma"
+        },
+        {
+          "label": "E",
+          "text": "Acute ischemic (thromboembolic) infarct"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Carotid stenosis is a source of artery-to-artery thromboembolism causing ischemic stroke; early noncontrast CT may show subtle hypodensity, loss of gray-white differentiation, or a hyperdense thrombosed vessel.",
+        "whyCorrect": "Carotid stenosis is a source of artery-to-artery thromboembolism causing ischemic stroke; early noncontrast CT may show subtle hypodensity, loss of gray-white differentiation, or a hyperdense thrombosed vessel.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-011_Brick Exchange - Carotid Stenosis_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-012",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "Beyond the labeled normal structures, this chest radiograph most notably demonstrates which abnormality?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cardiomegaly (enlarged cardiac silhouette)"
+        },
+        {
+          "label": "B",
+          "text": "Tension pneumothorax"
+        },
+        {
+          "label": "C",
+          "text": "Hilar lymphadenopathy"
+        },
+        {
+          "label": "D",
+          "text": "Large pleural effusion"
+        },
+        {
+          "label": "E",
+          "text": "Solitary pulmonary nodule"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The globally enlarged cardiac silhouette (cardiothoracic ratio >0.5) reflects ventricular dilation, as seen in dilated cardiomyopathy.",
+        "whyCorrect": "The globally enlarged cardiac silhouette (cardiothoracic ratio >0.5) reflects ventricular dilation, as seen in dilated cardiomyopathy.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-012_Brick Exchange - Dilated Cardiomyopathy_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-013",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "These fingertips show bulbous enlargement of the distal phalanges with loss of the normal angle between the nail plate and nail fold. What physical finding is shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Raynaud phenomenon"
+        },
+        {
+          "label": "B",
+          "text": "Koilonychia (spoon nails)"
+        },
+        {
+          "label": "C",
+          "text": "Osler nodes"
+        },
+        {
+          "label": "D",
+          "text": "Splinter hemorrhages"
+        },
+        {
+          "label": "E",
+          "text": "Digital clubbing"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Digital clubbing is bulbous soft-tissue expansion of the fingertips with loss of the normal Lovibond nail-fold angle (>180 degrees). It is associated with chronic hypoxic and fibrotic lung disease, cyanotic heart disease, and certain malignancies.",
+        "whyCorrect": "Digital clubbing is bulbous soft-tissue expansion of the fingertips with loss of the normal Lovibond nail-fold angle (>180 degrees). It is associated with chronic hypoxic and fibrotic lung disease, cyanotic heart disease, and certain malignancies.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-013_Brick Exchange - Interstitial Lung Disease_ Foundations and Frameworks_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-014",
+      "topicId": "lab-diagnostics",
+      "topicName": "Lab & Diagnostics",
+      "stem": "These serial aortograms show a discrete narrowing of the aortic arch just beyond the left subclavian origin (black arrow), a balloon inflated across it, and the widened lumen afterward (white arrow). What is the diagnosis being treated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Patent ductus arteriosus"
+        },
+        {
+          "label": "B",
+          "text": "Supravalvular aortic stenosis"
+        },
+        {
+          "label": "C",
+          "text": "Aortic dissection"
+        },
+        {
+          "label": "D",
+          "text": "Thoracic aortic aneurysm"
+        },
+        {
+          "label": "E",
+          "text": "Coarctation of the aorta"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The focal narrowing of the descending aorta at the isthmus treated by balloon angioplasty is a coarctation of the aorta, an obstructive congenital defect. It classically produces upper-extremity hypertension with diminished, delayed femoral pulses.",
+        "whyCorrect": "The focal narrowing of the descending aorta at the isthmus treated by balloon angioplasty is a coarctation of the aorta, an obstructive congenital defect. It classically produces upper-extremity hypertension with diminished, delayed femoral pulses.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-014_Brick Exchange - Obstructive Congenital Heart Defects_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

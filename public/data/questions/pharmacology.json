@@ -1,0 +1,45 @@
+{
+  "categoryId": "pharmacology",
+  "categoryName": "Pharmacology",
+  "questions": [
+    {
+      "id": "repic-019",
+      "topicId": "pharmacology",
+      "topicName": "Pharmacology",
+      "stem": "This nodal action potential (bold curve) shows a slowed upstroke and prolonged repolarization compared with baseline. Which antiarrhythmic agent produces this effect at the AV node?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lidocaine"
+        },
+        {
+          "label": "B",
+          "text": "Amiodarone"
+        },
+        {
+          "label": "C",
+          "text": "Quinidine"
+        },
+        {
+          "label": "D",
+          "text": "Propranolol"
+        },
+        {
+          "label": "E",
+          "text": "Verapamil (a non-dihydropyridine calcium channel blocker)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Class IV agents (verapamil, diltiazem) block L-type Ca2+ channels that generate the slow upstroke of nodal action potentials, slowing AV nodal conduction and prolonging repolarization.",
+        "whyCorrect": "Class IV agents (verapamil, diltiazem) block L-type Ca2+ channels that generate the slow upstroke of nodal action potentials, slowing AV nodal conduction and prolonging repolarization.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-019_Brick Exchange - Antiarrhythmic Agents_ Classes II-IV_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

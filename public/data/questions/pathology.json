@@ -1,0 +1,162 @@
+{
+  "categoryId": "pathology",
+  "categoryName": "Pathology",
+  "questions": [
+    {
+      "id": "repic-015",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This intraoperative photograph shows a stenotic congenital pulmonary valve between the right ventricle and the pulmonary artery. What auscultatory finding would you expect in this infant?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Crescendo-decrescendo systolic ejection murmur at the left upper sternal border"
+        },
+        {
+          "label": "B",
+          "text": "Early diastolic decrescendo murmur"
+        },
+        {
+          "label": "C",
+          "text": "Mid-diastolic rumble with an opening snap"
+        },
+        {
+          "label": "D",
+          "text": "Continuous machine-like murmur"
+        },
+        {
+          "label": "E",
+          "text": "Holosystolic murmur at the apex"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Pulmonary valve stenosis produces a systolic ejection (crescendo-decrescendo) murmur best heard at the left second intercostal space, often with an ejection click.",
+        "whyCorrect": "Pulmonary valve stenosis produces a systolic ejection (crescendo-decrescendo) murmur best heard at the left second intercostal space, often with an ejection click.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-015_Brick Exchange - Aortic Regurgitation and Pulmonary Valve Disease_p23_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-016",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This netlike, violaceous mottling of the skin developed in a patient following an arterial catheterization procedure. What is this cutaneous finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Erythema nodosum"
+        },
+        {
+          "label": "B",
+          "text": "Erythema migrans"
+        },
+        {
+          "label": "C",
+          "text": "Palpable purpura"
+        },
+        {
+          "label": "D",
+          "text": "Livedo reticularis"
+        },
+        {
+          "label": "E",
+          "text": "Acanthosis nigricans"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Livedo reticularis/racemosa is a classic cutaneous sign of cholesterol (atheroembolic) embolization, reflecting occlusion of small dermal arterioles by cholesterol crystals.",
+        "whyCorrect": "Livedo reticularis/racemosa is a classic cutaneous sign of cholesterol (atheroembolic) embolization, reflecting occlusion of small dermal arterioles by cholesterol crystals.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-016_Brick Exchange - Arterial Emboli_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-017",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "These renal biopsies from a hypertensive patient show arteriolar wall changes (arrows). In panel B, the arteriole shows concentric, laminated 'onion-skin' thickening of the wall. This finding is characteristic of what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fibrinoid necrosis from immune-complex vasculitis"
+        },
+        {
+          "label": "B",
+          "text": "Nodular diabetic glomerulosclerosis (Kimmelstiel-Wilson)"
+        },
+        {
+          "label": "C",
+          "text": "Hyaline arteriolosclerosis of benign hypertension"
+        },
+        {
+          "label": "D",
+          "text": "Hyperplastic arteriolosclerosis (malignant/severe hypertension)"
+        },
+        {
+          "label": "E",
+          "text": "Amyloid deposition in vessel walls"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Concentric laminated 'onion-skin' thickening of the arteriolar wall from smooth-muscle hyperplasia is hyperplastic arteriolosclerosis, seen in malignant/accelerated hypertension. It contrasts with the homogeneous pink hyaline thickening (hyaline arteriolosclerosis) of chronic benign hypertension and diabetes.",
+        "whyCorrect": "Concentric laminated 'onion-skin' thickening of the arteriolar wall from smooth-muscle hyperplasia is hyperplastic arteriolosclerosis, seen in malignant/accelerated hypertension. It contrasts with the homogeneous pink hyaline thickening (hyaline arteriolosclerosis) of chronic benign hypertension and diabetes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-017_Brick Exchange - Hypertension_ Foundations and Frameworks_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-018",
+      "topicId": "pathology",
+      "topicName": "Pathology",
+      "stem": "This gross lung specimen shows a coarsely nodular, cobblestoned pleural surface with a firm, contracted texture. This appearance is most characteristic of what process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lobar bacterial pneumonia (consolidation)"
+        },
+        {
+          "label": "B",
+          "text": "Hemorrhagic pulmonary infarction"
+        },
+        {
+          "label": "C",
+          "text": "End-stage pulmonary fibrosis with honeycombing"
+        },
+        {
+          "label": "D",
+          "text": "Acute pulmonary edema"
+        },
+        {
+          "label": "E",
+          "text": "Panacinar emphysema"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The cobblestoned, bumpy pleural surface reflects subpleural fibrosis and honeycomb cystic remodeling of end-stage interstitial lung disease such as idiopathic pulmonary fibrosis. The lung is stiff and contracted rather than hyperinflated (emphysema) or consolidated (pneumonia).",
+        "whyCorrect": "The cobblestoned, bumpy pleural surface reflects subpleural fibrosis and honeycomb cystic remodeling of end-stage interstitial lung disease such as idiopathic pulmonary fibrosis. The lung is stiff and contracted rather than hyperinflated (emphysema) or consolidated (pneumonia).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-018_Brick Exchange - Idiopathic Pulmonary Fibrosis_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

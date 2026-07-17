@@ -1,0 +1,240 @@
+{
+  "categoryId": "gross-anatomy",
+  "categoryName": "Gross Anatomy",
+  "questions": [
+    {
+      "id": "repic-001",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This sequence of diagrams depicts an embryologic process in the developing heart, involving the septum primum, septum secundum, endocardial cushions, and closure toward the foramen ovale. What process is being illustrated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cardiac looping"
+        },
+        {
+          "label": "B",
+          "text": "Development of the cardiac conduction system"
+        },
+        {
+          "label": "C",
+          "text": "Formation of the aortic arches"
+        },
+        {
+          "label": "D",
+          "text": "Conotruncal (outflow tract) septation"
+        },
+        {
+          "label": "E",
+          "text": "Septation of the atria and ventricles"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Growth of the septum primum and secundum, fusion of the endocardial cushions, and formation of the interventricular septum divide the primitive heart into four chambers; the foramen ovale persists as a right-to-left shunt until birth.",
+        "whyCorrect": "Growth of the septum primum and secundum, fusion of the endocardial cushions, and formation of the interventricular septum divide the primitive heart into four chambers; the foramen ovale persists as a right-to-left shunt until birth.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-001_Brick Exchange - Acyanotic Congenital Heart Defects (Left-to-Right Shunts)_p20_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-002",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This cross-sectional diagram shows blood flow through the cardiac chambers, with arrows tracing the path. The blue-shaded chambers and vessels (right atrium, right ventricle, pulmonary trunk) carry what type of blood?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mixed venous and arterial blood of equal saturation"
+        },
+        {
+          "label": "B",
+          "text": "Blood with the highest oxygen content in the circulation"
+        },
+        {
+          "label": "C",
+          "text": "Deoxygenated blood returning to the lungs"
+        },
+        {
+          "label": "D",
+          "text": "Oxygenated blood being delivered to the body"
+        },
+        {
+          "label": "E",
+          "text": "Blood that has just left the pulmonary veins"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The right side of the heart (blue) receives deoxygenated systemic venous blood via the vena cavae and pumps it through the pulmonary trunk/arteries to the lungs for oxygenation. The left side (pink) handles oxygenated blood returning via the pulmonary veins for systemic delivery.",
+        "whyCorrect": "The right side of the heart (blue) receives deoxygenated systemic venous blood via the vena cavae and pumps it through the pulmonary trunk/arteries to the lungs for oxygenation. The left side (pink) handles oxygenated blood returning via the pulmonary veins for systemic delivery.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-002_Brick Exchange - Heart Sounds (S1, S2, S3, and S4)_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-003",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This sagittal cadaveric section shows scroll-like bony projections along the lateral wall of an air-filled cavity above the hard palate and teeth. These conchae (turbinates) line which cavity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Oral cavity"
+        },
+        {
+          "label": "B",
+          "text": "Orbit"
+        },
+        {
+          "label": "C",
+          "text": "Maxillary sinus"
+        },
+        {
+          "label": "D",
+          "text": "Nasal cavity"
+        },
+        {
+          "label": "E",
+          "text": "Nasopharynx"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The section is a midsagittal cut through the head showing the nasal cavity with its superior, middle, and inferior conchae on the lateral wall. The olfactory epithelium sits high in the roof of this cavity; the conchae warm, humidify, and filter inspired air.",
+        "whyCorrect": "The section is a midsagittal cut through the head showing the nasal cavity with its superior, middle, and inferior conchae on the lateral wall. The olfactory epithelium sits high in the roof of this cavity; the conchae warm, humidify, and filter inspired air.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-003_Brick Exchange - Histology of the Respiratory Tract_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-004",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This diagram color-codes the body by lymphatic drainage territory. The yellow region drains into the thoracic duct. Which single body region does NOT drain via the thoracic duct?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The entire abdomen and pelvis"
+        },
+        {
+          "label": "B",
+          "text": "Left side of the head and neck"
+        },
+        {
+          "label": "C",
+          "text": "Left lower limb"
+        },
+        {
+          "label": "D",
+          "text": "Left upper limb"
+        },
+        {
+          "label": "E",
+          "text": "Right side of the head/neck, right upper limb, and right thorax"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The thoracic duct drains the lower body plus the entire left upper quadrant into the left subclavian/internal jugular junction. Only the right upper quadrant (right head/neck, right arm, right hemithorax) drains via the separate right lymphatic duct into the right venous angle.",
+        "whyCorrect": "The thoracic duct drains the lower body plus the entire left upper quadrant into the left subclavian/internal jugular junction. Only the right upper quadrant (right head/neck, right arm, right hemithorax) drains via the separate right lymphatic duct into the right venous angle.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-004_Brick Exchange - Mediastinum (Part 2 of 2)_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-005",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This diagram shows the sympathetic trunk giving off the greater, lesser, and least splanchnic nerves that pass to ganglia near the aorta. What type of fibers do these splanchnic nerves carry toward the abdominal viscera?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Preganglionic sympathetic fibers"
+        },
+        {
+          "label": "B",
+          "text": "Preganglionic parasympathetic fibers"
+        },
+        {
+          "label": "C",
+          "text": "Postganglionic sympathetic fibers only"
+        },
+        {
+          "label": "D",
+          "text": "Somatic motor fibers"
+        },
+        {
+          "label": "E",
+          "text": "Postganglionic parasympathetic fibers"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The thoracic and abdominal splanchnic nerves carry preganglionic sympathetic axons that pass through the sympathetic chain without synapsing and terminate in the prevertebral (collateral) ganglia - the celiac and related ganglia - shown near the aorta, where they synapse before reaching the gut.",
+        "whyCorrect": "The thoracic and abdominal splanchnic nerves carry preganglionic sympathetic axons that pass through the sympathetic chain without synapsing and terminate in the prevertebral (collateral) ganglia - the celiac and related ganglia - shown near the aorta, where they synapse before reaching the gut.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-005_Brick Exchange - Mediastinum (Part 2 of 2)_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-006",
+      "topicId": "gross-anatomy",
+      "topicName": "Gross Anatomy",
+      "stem": "This diagram shows a heart valve viewed from above with two leaflets (an anterior and a posterior leaflet) tethered by chordae tendineae to papillary muscles below. Which valve is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aortic valve"
+        },
+        {
+          "label": "B",
+          "text": "Mitral valve"
+        },
+        {
+          "label": "C",
+          "text": "Pulmonic valve"
+        },
+        {
+          "label": "D",
+          "text": "Tricuspid valve"
+        },
+        {
+          "label": "E",
+          "text": "Eustachian valve"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A bileaflet atrioventricular valve (anterior and posterior leaflets) with chordae tendineae anchored to papillary muscles is the mitral valve. The tricuspid has three leaflets, and the aortic and pulmonic are semilunar (three-cusp) valves without chordae.",
+        "whyCorrect": "A bileaflet atrioventricular valve (anterior and posterior leaflets) with chordae tendineae anchored to papillary muscles is the mitral valve. The tricuspid has three leaflets, and the aortic and pulmonic are semilunar (three-cusp) valves without chordae.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-006_Brick Exchange - Mitral Stenosis_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}
