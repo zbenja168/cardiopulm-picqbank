@@ -18,7 +18,7 @@
         },
         {
           "label": "C",
-          "text": "The alveolar septal walls, with loss of elastic recoil"
+          "text": "The alveolar septal walls"
         },
         {
           "label": "D",
@@ -65,7 +65,7 @@
         },
         {
           "label": "E",
-          "text": "Unopposed neutrophil elastase destroys alveolar elastin and septal walls"
+          "text": "Unopposed neutrophil elastase destroys alveolar elastin"
         }
       ],
       "correctAnswer": "E",
@@ -248,7 +248,7 @@
         },
         {
           "label": "B",
-          "text": "Chronic lung hyperinflation and air trapping, which increase residual volume and fix the chest in an inspiratory position"
+          "text": "Chronic lung hyperinflation and air trapping"
         },
         {
           "label": "C",

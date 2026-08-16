@@ -61,7 +61,7 @@
         },
         {
           "label": "D",
-          "text": "Adequacy of arterial supply to the leg (peripheral arterial insufficiency)"
+          "text": "Adequacy of arterial supply to the leg"
         },
         {
           "label": "E",
@@ -143,7 +143,7 @@
         },
         {
           "label": "E",
-          "text": "A balloon inflates to compress plaque and expand a mesh scaffold that holds the vessel open"
+          "text": "A balloon inflates to compress plaque and expand a mesh scaffold"
         }
       ],
       "correctAnswer": "E",
@@ -170,7 +170,7 @@
         },
         {
           "label": "B",
-          "text": "Endarterectomy (surgical removal of the atheromatous plaque and intima)"
+          "text": "Endarterectomy"
         },
         {
           "label": "C",
@@ -217,7 +217,7 @@
         },
         {
           "label": "D",
-          "text": "It reroutes blood flow around the occluded arterial segment to restore distal perfusion"
+          "text": "It reroutes blood flow around the occluded arterial segment"
         },
         {
           "label": "E",
@@ -252,7 +252,7 @@
         },
         {
           "label": "C",
-          "text": "Turbulent flow and a pressure drop across the stenosis, plus impaired endothelial vasodilation, prevent flow from rising with demand"
+          "text": "Turbulent flow and a pressure drop across the stenosis, plus impaired endothelial vasodilation"
         },
         {
           "label": "D",

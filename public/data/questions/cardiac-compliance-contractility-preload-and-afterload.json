@@ -14,7 +14,7 @@
         },
         {
           "label": "B",
-          "text": "The Frank-Starling relationship: increasing preload stretches sarcomeres and augments force of contraction"
+          "text": "The Frank-Starling relationship"
         },
         {
           "label": "C",
@@ -100,7 +100,7 @@
         },
         {
           "label": "D",
-          "text": "An increase in systemic vascular resistance (increased afterload)"
+          "text": "An increase in systemic vascular resistance"
         },
         {
           "label": "E",
@@ -182,7 +182,7 @@
         },
         {
           "label": "E",
-          "text": "Increased ventricular compliance (a more distensible ventricle)"
+          "text": "Increased ventricular compliance"
         }
       ],
       "correctAnswer": "E",
@@ -256,7 +256,7 @@
         },
         {
           "label": "D",
-          "text": "Total tension is the sum of passive (elastic) tension and active (contractile) tension at each length"
+          "text": "Total tension is the sum of passive tension and active tension"
         },
         {
           "label": "E",

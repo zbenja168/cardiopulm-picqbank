@@ -26,7 +26,7 @@
         },
         {
           "label": "E",
-          "text": "Acute transmural (full-thickness) myocardial injury"
+          "text": "Acute transmural myocardial injury"
         }
       ],
       "correctAnswer": "E",
@@ -53,7 +53,7 @@
         },
         {
           "label": "B",
-          "text": "CK-MB normalizes within 2-3 days, so a fresh rise signals re-infarction, whereas troponin is still elevated from the first event"
+          "text": "CK-MB normalizes within 2-3 days, so a fresh rise signals re-infarction"
         },
         {
           "label": "C",
@@ -174,7 +174,7 @@
         },
         {
           "label": "C",
-          "text": "Reperfusion of previously ischemic myocardium"
+          "text": "Reperfusion of ischemic myocardium"
         },
         {
           "label": "D",
@@ -217,7 +217,7 @@
         },
         {
           "label": "D",
-          "text": "A healed myocardial infarct (fibrous scar)"
+          "text": "A healed myocardial infarct"
         },
         {
           "label": "E",

@@ -104,7 +104,7 @@
         },
         {
           "label": "E",
-          "text": "Congestive heart failure (or advanced neurologic injury)"
+          "text": "Congestive heart failure"
         }
       ],
       "correctAnswer": "E",
@@ -287,7 +287,7 @@
         },
         {
           "label": "B",
-          "text": "Generating and modulating the automatic rhythm of breathing"
+          "text": "Generating the automatic rhythm of breathing"
         },
         {
           "label": "C",
@@ -330,7 +330,7 @@
         },
         {
           "label": "C",
-          "text": "Driving the automatic rhythm of inspiration and activating inspiratory muscles"
+          "text": "Driving the automatic rhythm of inspiration"
         },
         {
           "label": "D",

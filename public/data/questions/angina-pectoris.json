@@ -18,7 +18,7 @@
         },
         {
           "label": "C",
-          "text": "ST-segment depression indicating subendocardial (demand) ischemia"
+          "text": "ST-segment depression indicating subendocardial ischemia"
         },
         {
           "label": "D",
@@ -100,7 +100,7 @@
         },
         {
           "label": "D",
-          "text": "A focal coronary artery stenosis on catheter angiography"
+          "text": "A focal coronary artery stenosis"
         },
         {
           "label": "E",
@@ -139,7 +139,7 @@
         },
         {
           "label": "D",
-          "text": "Restoration of coronary blood flow after revascularization of a stenosed artery"
+          "text": "Restoration of coronary blood flow after revascularization"
         },
         {
           "label": "E",
@@ -170,7 +170,7 @@
         },
         {
           "label": "B",
-          "text": "Myocardial infarction involves myocyte necrosis with elevated cardiac troponin, whereas unstable angina does not"
+          "text": "Myocardial infarction involves myocyte necrosis, whereas unstable angina does not"
         },
         {
           "label": "C",
@@ -209,7 +209,7 @@
         },
         {
           "label": "B",
-          "text": "Acute coronary syndrome from thrombotic coronary occlusion"
+          "text": "Acute coronary syndrome from thrombotic occlusion"
         },
         {
           "label": "C",

@@ -26,7 +26,7 @@
         },
         {
           "label": "E",
-          "text": "Intracellular cAMP rises, suppressing platelet activation and aggregation"
+          "text": "Intracellular cAMP rises"
         }
       ],
       "correctAnswer": "E",
@@ -49,7 +49,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It irreversibly acetylates cyclooxygenase, and platelets cannot synthesize new enzyme"
+          "text": "It irreversibly acetylates cyclooxygenase"
         },
         {
           "label": "B",

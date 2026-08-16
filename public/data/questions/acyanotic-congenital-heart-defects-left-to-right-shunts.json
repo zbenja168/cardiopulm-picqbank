@@ -143,7 +143,7 @@
         },
         {
           "label": "E",
-          "text": "From the aorta into the pulmonary artery (left-to-right), continuously"
+          "text": "From the aorta into the pulmonary artery (left-to-right)"
         }
       ],
       "correctAnswer": "E",
@@ -209,7 +209,7 @@
         },
         {
           "label": "B",
-          "text": "A cleft anterior mitral valve leaflet (endocardial cushion defect, seen in Down syndrome)"
+          "text": "A cleft anterior mitral valve leaflet"
         },
         {
           "label": "C",
@@ -260,7 +260,7 @@
         },
         {
           "label": "E",
-          "text": "A holosystolic (pansystolic) murmur at the left lower sternal border"
+          "text": "A holosystolic murmur at the left lower sternal border"
         }
       ],
       "correctAnswer": "E",
@@ -338,7 +338,7 @@
         },
         {
           "label": "E",
-          "text": "Rising left atrial pressure presses the septum primum against the septum secundum, functionally closing the foramen ovale"
+          "text": "Rising left atrial pressure presses the septum primum against the septum secundum"
         }
       ],
       "correctAnswer": "E",
@@ -490,7 +490,7 @@
         },
         {
           "label": "D",
-          "text": "To divert blood away from the non-functioning fetal lungs directly into the systemic circulation"
+          "text": "To divert blood away from the non-functioning fetal lungs"
         },
         {
           "label": "E",

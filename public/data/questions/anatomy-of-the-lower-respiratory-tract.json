@@ -22,7 +22,7 @@
         },
         {
           "label": "D",
-          "text": "The heart occupies space on the left (the cardiac notch), leaving room for only two lobes"
+          "text": "The heart occupies space on the left (the cardiac notch)"
         },
         {
           "label": "E",
@@ -96,7 +96,7 @@
         },
         {
           "label": "C",
-          "text": "It predicts the pathway by which lung cancer spreads and is used for tumor staging"
+          "text": "It predicts the pathway by which lung cancer spreads"
         },
         {
           "label": "D",
@@ -143,7 +143,7 @@
         },
         {
           "label": "E",
-          "text": "Its thin fluid film couples the lung to the chest wall and lets it slide with minimal friction"
+          "text": "Its thin fluid film couples the lung to the chest wall"
         }
       ],
       "correctAnswer": "E",
@@ -295,7 +295,7 @@
         },
         {
           "label": "D",
-          "text": "The air-filled lungs absorb little radiation, so the beam passes through and darkens the film"
+          "text": "The air-filled lungs absorb little radiation"
         },
         {
           "label": "E",
@@ -377,7 +377,7 @@
         },
         {
           "label": "E",
-          "text": "It carries air but performs no gas exchange (anatomic dead space)"
+          "text": "It carries air but performs no gas exchange"
         }
       ],
       "correctAnswer": "E",

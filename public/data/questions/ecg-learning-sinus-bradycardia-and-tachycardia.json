@@ -22,7 +22,7 @@
         },
         {
           "label": "D",
-          "text": "The mean electrical axis of ventricular depolarization"
+          "text": "The mean electrical axis"
         },
         {
           "label": "E",
@@ -53,7 +53,7 @@
         },
         {
           "label": "B",
-          "text": "Fever or exercise increasing sympathetic drive"
+          "text": "Fever or exercise"
         },
         {
           "label": "C",
@@ -135,7 +135,7 @@
         },
         {
           "label": "C",
-          "text": "There are 1500 small (1 mm) boxes per minute at the standard paper speed of 25 mm/s"
+          "text": "There are 1500 small (1 mm) boxes per minute"
         },
         {
           "label": "D",

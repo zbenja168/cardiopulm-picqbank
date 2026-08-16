@@ -10,7 +10,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Ruptured aortic aneurysm with retroperitoneal hemorrhage"
+          "text": "Ruptured aortic aneurysm"
         },
         {
           "label": "B",
@@ -92,7 +92,7 @@
         },
         {
           "label": "B",
-          "text": "Aortic dissection, where blood has entered a channel within the vessel wall"
+          "text": "Aortic dissection"
         },
         {
           "label": "C",
@@ -139,7 +139,7 @@
         },
         {
           "label": "D",
-          "text": "Mural (laminated) thrombus within the aneurysm sac"
+          "text": "Mural thrombus within the aneurysm sac"
         },
         {
           "label": "E",
@@ -213,7 +213,7 @@
         },
         {
           "label": "C",
-          "text": "Endovascular aortic stent-graft repair (TEVAR/EVAR)"
+          "text": "Endovascular aortic stent-graft repair"
         },
         {
           "label": "D",
@@ -256,7 +256,7 @@
         },
         {
           "label": "D",
-          "text": "Abdominal aortic aneurysm with mural thrombus"
+          "text": "Abdominal aortic aneurysm"
         },
         {
           "label": "E",
@@ -334,7 +334,7 @@
         },
         {
           "label": "D",
-          "text": "Atheroembolism (cholesterol emboli) occluding small digital arteries"
+          "text": "Atheroembolism (cholesterol emboli)"
         },
         {
           "label": "E",
@@ -404,7 +404,7 @@
         },
         {
           "label": "B",
-          "text": "Distal thromboembolism and acute limb ischemia"
+          "text": "Distal thromboembolism"
         },
         {
           "label": "C",
@@ -451,7 +451,7 @@
         },
         {
           "label": "D",
-          "text": "A saccular aneurysm is an eccentric outpouching of one side of the wall, whereas a fusiform aneurysm dilates the entire circumference"
+          "text": "A saccular aneurysm is an eccentric outpouching, whereas a fusiform aneurysm dilates the entire circumference"
         },
         {
           "label": "E",
@@ -482,7 +482,7 @@
         },
         {
           "label": "B",
-          "text": "A contained rupture where blood is held by surrounding tissue rather than all three intact vessel-wall layers"
+          "text": "A contained rupture where blood is held by surrounding tissue"
         },
         {
           "label": "C",
@@ -525,7 +525,7 @@
         },
         {
           "label": "C",
-          "text": "Aortic valve regurgitation from stretching of the valve annulus"
+          "text": "Aortic valve regurgitation"
         },
         {
           "label": "D",
@@ -556,7 +556,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It avoids a major open laparotomy and aortic cross-clamping, so it is less invasive with faster recovery"
+          "text": "It avoids a major open laparotomy and aortic cross-clamping"
         },
         {
           "label": "B",

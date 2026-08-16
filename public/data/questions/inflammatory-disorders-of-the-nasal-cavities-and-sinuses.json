@@ -49,7 +49,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Samter triad (aspirin-exacerbated respiratory disease)"
+          "text": "Samter triad"
         },
         {
           "label": "B",
@@ -139,7 +139,7 @@
         },
         {
           "label": "D",
-          "text": "Periorbital (preseptal) cellulitis"
+          "text": "Periorbital cellulitis"
         },
         {
           "label": "E",

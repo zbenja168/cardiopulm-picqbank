@@ -53,7 +53,7 @@
         },
         {
           "label": "B",
-          "text": "Air attenuates (absorbs) very few X-rays, so more radiation reaches the detector and the region appears dark"
+          "text": "Air attenuates very few X-rays, so more radiation reaches the detector"
         },
         {
           "label": "C",
@@ -92,7 +92,7 @@
         },
         {
           "label": "B",
-          "text": "Alveolar pressure has returned to 0 (equal to atmospheric pressure), eliminating the driving gradient"
+          "text": "Alveolar pressure has returned to 0 (equal to atmospheric pressure)"
         },
         {
           "label": "C",
@@ -131,7 +131,7 @@
         },
         {
           "label": "B",
-          "text": "Boyle's law (at constant temperature, pressure and volume are inversely related)"
+          "text": "Boyle's law"
         },
         {
           "label": "C",
@@ -178,7 +178,7 @@
         },
         {
           "label": "D",
-          "text": "The difference between alveolar pressure and pleural (intrapleural) pressure"
+          "text": "The difference between alveolar pressure and pleural pressure"
         },
         {
           "label": "E",
@@ -217,7 +217,7 @@
         },
         {
           "label": "D",
-          "text": "The Law of Laplace (collapsing pressure = 2T/r), so a smaller radius generates a higher pressure"
+          "text": "The Law of Laplace, so a smaller radius generates a higher pressure"
         },
         {
           "label": "E",
@@ -248,7 +248,7 @@
         },
         {
           "label": "B",
-          "text": "It is the net distending pressure that holds the lungs open against their elastic recoil"
+          "text": "It is the net distending pressure that holds the lungs open"
         },
         {
           "label": "C",

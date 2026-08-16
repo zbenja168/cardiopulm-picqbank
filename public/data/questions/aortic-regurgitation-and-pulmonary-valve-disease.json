@@ -61,7 +61,7 @@
         },
         {
           "label": "D",
-          "text": "The early diastolic murmur of aortic regurgitation"
+          "text": "The murmur of aortic regurgitation"
         },
         {
           "label": "E",
@@ -174,7 +174,7 @@
         },
         {
           "label": "C",
-          "text": "Acute pulmonary edema and cardiogenic shock, because the unadapted LV cannot accommodate the sudden regurgitant volume"
+          "text": "Acute pulmonary edema and cardiogenic shock"
         },
         {
           "label": "D",
@@ -213,7 +213,7 @@
         },
         {
           "label": "C",
-          "text": "Chronic volume overload (e.g., aortic or mitral regurgitation)"
+          "text": "Chronic volume overload"
         },
         {
           "label": "D",
@@ -260,7 +260,7 @@
         },
         {
           "label": "E",
-          "text": "Increasing wall thickness lowers wall tension back toward normal despite the elevated pressure"
+          "text": "Increasing wall thickness lowers wall tension back toward normal"
         }
       ],
       "correctAnswer": "E",
@@ -338,7 +338,7 @@
         },
         {
           "label": "E",
-          "text": "Eccentric hypertrophy with progressive LV dilation from volume overload"
+          "text": "Eccentric hypertrophy with progressive LV dilation"
         }
       ],
       "correctAnswer": "E",
@@ -377,7 +377,7 @@
         },
         {
           "label": "E",
-          "text": "Aortic root/annular dilation causing failure of leaflet coaptation"
+          "text": "Aortic root/annular dilation"
         }
       ],
       "correctAnswer": "E",
@@ -447,7 +447,7 @@
         },
         {
           "label": "C",
-          "text": "The Frank-Starling mechanism: increased preload stretches myocytes and augments stroke volume up to an optimum"
+          "text": "The Frank-Starling mechanism"
         },
         {
           "label": "D",

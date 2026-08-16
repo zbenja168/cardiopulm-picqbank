@@ -127,7 +127,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Secretion of surfactant to reduce alveolar surface tension"
+          "text": "Secretion of surfactant"
         },
         {
           "label": "B",
@@ -221,7 +221,7 @@
         },
         {
           "label": "E",
-          "text": "Separation of the trachea from the esophagus via the tracheoesophageal septum"
+          "text": "Separation of the trachea from the esophagus"
         }
       ],
       "correctAnswer": "E",
@@ -248,7 +248,7 @@
         },
         {
           "label": "B",
-          "text": "The conducting airway tree and lung lobes (bronchial branching morphogenesis)"
+          "text": "The conducting airway tree and lung lobes"
         },
         {
           "label": "C",

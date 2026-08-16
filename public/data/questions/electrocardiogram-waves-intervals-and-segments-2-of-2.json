@@ -57,7 +57,7 @@
         },
         {
           "label": "C",
-          "text": "The heart rate based on where the next R wave falls"
+          "text": "The heart rate"
         },
         {
           "label": "D",
@@ -260,7 +260,7 @@
         },
         {
           "label": "E",
-          "text": "The time for the impulse to travel from atrial depolarization through the AV node to the ventricles"
+          "text": "The time for the impulse to travel from atrial depolarization through the AV node"
         }
       ],
       "correctAnswer": "E",
@@ -334,7 +334,7 @@
         },
         {
           "label": "D",
-          "text": "Uniformly depolarized (plateau phase, no net current flow)"
+          "text": "Uniformly depolarized"
         },
         {
           "label": "E",

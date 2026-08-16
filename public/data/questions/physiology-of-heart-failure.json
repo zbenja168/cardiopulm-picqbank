@@ -18,7 +18,7 @@
         },
         {
           "label": "C",
-          "text": "Chronic pressure overload (e.g., hypertension or aortic stenosis)"
+          "text": "Chronic pressure overload"
         },
         {
           "label": "D",
@@ -61,7 +61,7 @@
         },
         {
           "label": "D",
-          "text": "Reduced contractility and systolic dysfunction with a low ejection fraction"
+          "text": "Reduced contractility and systolic dysfunction"
         },
         {
           "label": "E",
@@ -104,7 +104,7 @@
         },
         {
           "label": "E",
-          "text": "Sustained fluid retention and increased preload/afterload that further burden the failing ventricle"
+          "text": "Sustained fluid retention and increased preload/afterload"
         }
       ],
       "correctAnswer": "E",
@@ -178,7 +178,7 @@
         },
         {
           "label": "D",
-          "text": "A stiff, poorly compliant ventricle that fills at higher pressures and has a reduced stroke volume despite preserved contractility"
+          "text": "A stiff, poorly compliant ventricle that fills at higher pressures"
         },
         {
           "label": "E",
@@ -248,7 +248,7 @@
         },
         {
           "label": "B",
-          "text": "Pressure overload thickens the wall (increased h) to offset higher pressure; volume overload increases radius, requiring added wall thickness to normalize stress"
+          "text": "Pressure overload thickens the wall; volume overload increases radius, requiring added wall thickness to normalize stress"
         },
         {
           "label": "C",
@@ -291,7 +291,7 @@
         },
         {
           "label": "C",
-          "text": "Greater diastolic stretch improves actin-myosin overlap, increasing the force of contraction and stroke volume"
+          "text": "Greater diastolic stretch improves actin-myosin overlap"
         },
         {
           "label": "D",

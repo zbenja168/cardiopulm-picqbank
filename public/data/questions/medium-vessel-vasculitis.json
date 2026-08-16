@@ -65,7 +65,7 @@
         },
         {
           "label": "E",
-          "text": "Aneurysmal dilation of the coronary arteries"
+          "text": "Aneurysmal dilation"
         }
       ],
       "correctAnswer": "E",
@@ -92,7 +92,7 @@
         },
         {
           "label": "B",
-          "text": "Necrotizing vasculitis with fibrinoid necrosis (e.g., polyarteritis nodosa)"
+          "text": "Necrotizing vasculitis with fibrinoid necrosis"
         },
         {
           "label": "C",
@@ -182,7 +182,7 @@
         },
         {
           "label": "E",
-          "text": "Ischemic gangrene from inflammatory occlusion/thrombosis of medium-sized digital arteries"
+          "text": "Ischemic gangrene from inflammatory occlusion/thrombosis"
         }
       ],
       "correctAnswer": "E",
@@ -338,7 +338,7 @@
         },
         {
           "label": "E",
-          "text": "Medium-sized muscular arteries (e.g., coronary arteries)"
+          "text": "Medium-sized muscular arteries"
         }
       ],
       "correctAnswer": "E",

@@ -22,7 +22,7 @@
         },
         {
           "label": "D",
-          "text": "Left atrial (left ventricular end-diastolic) pressure, reflecting left-heart preload"
+          "text": "Left atrial (left ventricular end-diastolic) pressure"
         },
         {
           "label": "E",
@@ -92,7 +92,7 @@
         },
         {
           "label": "B",
-          "text": "It inhibits phosphodiesterase-3, preventing cAMP breakdown so cAMP levels rise"
+          "text": "It inhibits phosphodiesterase-3, preventing cAMP breakdown"
         },
         {
           "label": "C",
@@ -127,7 +127,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Intra-aortic balloon pump (counterpulsation)"
+          "text": "Intra-aortic balloon pump"
         },
         {
           "label": "B",

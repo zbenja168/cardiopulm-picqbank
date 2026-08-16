@@ -14,7 +14,7 @@
         },
         {
           "label": "B",
-          "text": "It delivers continuous positive pressure that pneumatically splints the airway open"
+          "text": "It delivers continuous positive pressure"
         },
         {
           "label": "C",
@@ -49,7 +49,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Collapse of relaxed pharyngeal soft tissues (tongue and soft palate) against the posterior pharyngeal wall"
+          "text": "Collapse of relaxed pharyngeal soft tissues"
         },
         {
           "label": "B",

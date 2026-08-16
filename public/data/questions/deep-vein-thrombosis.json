@@ -18,7 +18,7 @@
         },
         {
           "label": "C",
-          "text": "Ongoing breakdown of cross-linked fibrin (fibrinolysis)"
+          "text": "Ongoing breakdown of cross-linked fibrin"
         },
         {
           "label": "D",
@@ -104,7 +104,7 @@
         },
         {
           "label": "E",
-          "text": "Diagnosing or excluding deep vein thrombosis"
+          "text": "Diagnosing deep vein thrombosis"
         }
       ],
       "correctAnswer": "E",
@@ -209,7 +209,7 @@
         },
         {
           "label": "B",
-          "text": "A lower-limb thrombus embolizes up the IVC to the right heart and into the lungs"
+          "text": "A lower-limb thrombus embolizes up the IVC into the lungs"
         },
         {
           "label": "C",
@@ -256,7 +256,7 @@
         },
         {
           "label": "D",
-          "text": "Deep vein thrombosis of the affected leg"
+          "text": "Deep vein thrombosis"
         },
         {
           "label": "E",

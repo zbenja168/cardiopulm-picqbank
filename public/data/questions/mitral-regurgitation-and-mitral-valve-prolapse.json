@@ -10,7 +10,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "To reduce annular dilation and restore leaflet coaptation in mitral regurgitation"
+          "text": "To reduce annular dilation and restore leaflet coaptation"
         },
         {
           "label": "B",
@@ -291,7 +291,7 @@
         },
         {
           "label": "C",
-          "text": "Systolic anterior motion of the mitral valve leaflet"
+          "text": "Systolic anterior motion of the mitral valve"
         },
         {
           "label": "D",
@@ -326,7 +326,7 @@
         },
         {
           "label": "B",
-          "text": "Increased end-diastolic volume with a larger total stroke volume and loss of isovolumetric contraction"
+          "text": "Increased end-diastolic volume with a larger total stroke volume"
         },
         {
           "label": "C",
@@ -361,7 +361,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "A uniform holosystolic (plateau) murmur rather than a crescendo-decrescendo shape"
+          "text": "A uniform holosystolic (plateau) murmur"
         },
         {
           "label": "B",
@@ -400,7 +400,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Decreased venous return reduces LV volume, so the prolapse and click occur earlier in systole"
+          "text": "Decreased venous return reduces LV volume"
         },
         {
           "label": "B",
@@ -482,7 +482,7 @@
         },
         {
           "label": "B",
-          "text": "Functional (secondary) regurgitation from LV remodeling that tethers structurally normal leaflets"
+          "text": "Functional (secondary) regurgitation from LV remodeling"
         },
         {
           "label": "C",

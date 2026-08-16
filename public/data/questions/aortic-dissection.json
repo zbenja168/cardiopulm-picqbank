@@ -22,7 +22,7 @@
         },
         {
           "label": "D",
-          "text": "Cystic medial degeneration (loss/fragmentation of elastic fibers in the media)"
+          "text": "Cystic medial degeneration"
         },
         {
           "label": "E",
@@ -104,7 +104,7 @@
         },
         {
           "label": "E",
-          "text": "Aortic dissection with an intimal flap"
+          "text": "Aortic dissection"
         }
       ],
       "correctAnswer": "E",

@@ -96,7 +96,7 @@
         },
         {
           "label": "C",
-          "text": "Early echocardiographic sign of cardiac tamponade"
+          "text": "Early sign of cardiac tamponade"
         },
         {
           "label": "D",
@@ -170,7 +170,7 @@
         },
         {
           "label": "B",
-          "text": "Myocardial perfusion SPECT (nuclear stress test)"
+          "text": "Myocardial perfusion SPECT"
         },
         {
           "label": "C",
@@ -221,7 +221,7 @@
         },
         {
           "label": "E",
-          "text": "Coronary angiography (cardiac catheterization)"
+          "text": "Coronary angiography"
         }
       ],
       "correctAnswer": "E",
@@ -244,7 +244,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Orbital/rotational atherectomy during percutaneous coronary intervention"
+          "text": "Orbital/rotational atherectomy"
         },
         {
           "label": "B",
@@ -299,7 +299,7 @@
         },
         {
           "label": "E",
-          "text": "Balloon angioplasty with coronary stent placement"
+          "text": "Balloon angioplasty with stent placement"
         }
       ],
       "correctAnswer": "E",
@@ -326,7 +326,7 @@
         },
         {
           "label": "B",
-          "text": "Multiple imaging modalities can localize the same coronary stenosis, with CT providing noninvasive assessment"
+          "text": "Multiple imaging modalities can localize the same coronary stenosis"
         },
         {
           "label": "C",
@@ -369,7 +369,7 @@
         },
         {
           "label": "C",
-          "text": "Burden of coronary atherosclerosis and risk of future coronary events"
+          "text": "Burden of coronary atherosclerosis"
         },
         {
           "label": "D",
@@ -529,7 +529,7 @@
         },
         {
           "label": "D",
-          "text": "Ascending thoracic aortic aneurysm"
+          "text": "Ascending aortic aneurysm"
         },
         {
           "label": "E",
@@ -603,7 +603,7 @@
         },
         {
           "label": "C",
-          "text": "To map arterial anatomy and identify stenoses or occlusions"
+          "text": "To map arterial anatomy and identify stenoses"
         },
         {
           "label": "D",
@@ -712,7 +712,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Water-bottle (flask-shaped) heart"
+          "text": "Water-bottle heart"
         },
         {
           "label": "B",
@@ -884,7 +884,7 @@
         },
         {
           "label": "E",
-          "text": "Separation of the intimal and medial layers of the aortic wall (intimal flap)"
+          "text": "Separation of the intimal and medial layers"
         }
       ],
       "correctAnswer": "E",
@@ -907,7 +907,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Cardiogenic pulmonary edema from congestive heart failure"
+          "text": "Cardiogenic pulmonary edema"
         },
         {
           "label": "B",
@@ -1001,7 +1001,7 @@
         },
         {
           "label": "E",
-          "text": "Pulmonary capillaries due to raised left atrial/left ventricular filling pressure"
+          "text": "Pulmonary capillaries due to raised left atrial filling pressure"
         }
       ],
       "correctAnswer": "E",

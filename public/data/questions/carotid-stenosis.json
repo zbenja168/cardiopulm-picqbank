@@ -61,7 +61,7 @@
         },
         {
           "label": "D",
-          "text": "Conservation of flow (continuity): velocity must increase as luminal cross-sectional area decreases"
+          "text": "Conservation of flow (continuity)"
         },
         {
           "label": "E",
@@ -131,7 +131,7 @@
         },
         {
           "label": "B",
-          "text": "To exclude intracranial hemorrhage before giving thrombolytic therapy"
+          "text": "To exclude intracranial hemorrhage"
         },
         {
           "label": "C",
@@ -178,7 +178,7 @@
         },
         {
           "label": "D",
-          "text": "Flow separation and low/oscillatory wall shear stress at the bifurcation promote endothelial injury and plaque deposition"
+          "text": "Flow separation and low/oscillatory wall shear stress at the bifurcation"
         },
         {
           "label": "E",
@@ -221,7 +221,7 @@
         },
         {
           "label": "E",
-          "text": "An atheromatous (atherosclerotic) plaque"
+          "text": "An atheromatous plaque"
         }
       ],
       "correctAnswer": "E",
@@ -260,7 +260,7 @@
         },
         {
           "label": "E",
-          "text": "Artery-to-artery thromboembolism from the plaque to distal cerebral vessels"
+          "text": "Artery-to-artery thromboembolism"
         }
       ],
       "correctAnswer": "E",
@@ -291,7 +291,7 @@
         },
         {
           "label": "C",
-          "text": "The thin foveal retina lets the intact underlying choroidal circulation show through, while the surrounding thicker retina becomes edematous and opaque from ischemia"
+          "text": "The thin foveal retina lets the intact underlying choroidal circulation show through"
         },
         {
           "label": "D",

@@ -53,7 +53,7 @@
         },
         {
           "label": "B",
-          "text": "Postoperative immobility plus a vessel injury and inherited clotting tendency raise thrombosis risk"
+          "text": "Postoperative immobility plus a vessel injury and inherited clotting tendency"
         },
         {
           "label": "C",
@@ -174,7 +174,7 @@
         },
         {
           "label": "C",
-          "text": "Venous stasis dermatitis with hemosiderin deposition"
+          "text": "Venous stasis dermatitis"
         },
         {
           "label": "D",
@@ -291,7 +291,7 @@
         },
         {
           "label": "C",
-          "text": "Incompetent venous valves allowing retrograde reflux"
+          "text": "Incompetent venous valves"
         },
         {
           "label": "D",
@@ -369,7 +369,7 @@
         },
         {
           "label": "C",
-          "text": "Thermal energy from the catheter injures the vein wall, causing it to contract and seal"
+          "text": "Thermal energy from the catheter injures the vein wall"
         },
         {
           "label": "D",

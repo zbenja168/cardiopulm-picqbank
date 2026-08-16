@@ -10,7 +10,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Accumulated fluid in the alveolus (thickening the fluid/surfactant and interstitial layers)"
+          "text": "Accumulated fluid in the alveolus"
         },
         {
           "label": "B",
@@ -131,7 +131,7 @@
         },
         {
           "label": "B",
-          "text": "Oxygen normally equilibrates well before the end of the capillary, providing a diffusion reserve"
+          "text": "Oxygen normally equilibrates well before the end of the capillary"
         },
         {
           "label": "C",
@@ -178,7 +178,7 @@
         },
         {
           "label": "D",
-          "text": "CO is diffusion-limited because hemoglobin avidly binds it, keeping free partial pressure low along the whole capillary"
+          "text": "CO is diffusion-limited because hemoglobin avidly binds it"
         },
         {
           "label": "E",
@@ -260,7 +260,7 @@
         },
         {
           "label": "E",
-          "text": "The partial pressure gradient of O2 between alveolar gas and capillary blood"
+          "text": "The partial pressure gradient of O2"
         }
       ],
       "correctAnswer": "E",
@@ -287,7 +287,7 @@
         },
         {
           "label": "B",
-          "text": "Humidification with water vapor plus continuous O2 uptake into blood and CO2 addition dilute alveolar O2"
+          "text": "Humidification plus continuous O2 uptake into blood and CO2 addition"
         },
         {
           "label": "C",

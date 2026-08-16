@@ -14,7 +14,7 @@
         },
         {
           "label": "B",
-          "text": "Carboxyhemoglobin fraction (via pulse CO-oximetry)"
+          "text": "Carboxyhemoglobin fraction"
         },
         {
           "label": "C",
@@ -61,7 +61,7 @@
         },
         {
           "label": "D",
-          "text": "CO both lowers total O2-carrying capacity and left-shifts the dissociation curve, impairing O2 unloading at the tissues"
+          "text": "CO both lowers total O2-carrying capacity and left-shifts the dissociation curve"
         },
         {
           "label": "E",

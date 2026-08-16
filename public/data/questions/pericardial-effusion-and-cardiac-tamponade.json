@@ -18,7 +18,7 @@
         },
         {
           "label": "C",
-          "text": "Between the visceral and parietal layers of serous pericardium (the pericardial cavity)"
+          "text": "Between the visceral and parietal layers of serous pericardium"
         },
         {
           "label": "D",
@@ -221,7 +221,7 @@
         },
         {
           "label": "E",
-          "text": "Accumulated pericardial fluid raises pressure that compresses the thin-walled, low-pressure right chambers, impairing filling"
+          "text": "Accumulated pericardial fluid raises pressure that compresses the low-pressure right chambers"
         }
       ],
       "correctAnswer": "E",

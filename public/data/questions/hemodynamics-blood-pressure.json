@@ -178,7 +178,7 @@
         },
         {
           "label": "D",
-          "text": "Veins have far greater compliance than arteries at low pressure"
+          "text": "Veins have far greater compliance than arteries"
         },
         {
           "label": "E",
@@ -299,7 +299,7 @@
         },
         {
           "label": "E",
-          "text": "Windkessel effect (elastic recoil maintaining diastolic flow)"
+          "text": "Windkessel effect"
         }
       ],
       "correctAnswer": "E",
@@ -416,7 +416,7 @@
         },
         {
           "label": "E",
-          "text": "Hydrostatic (gravitational) pressure column effects"
+          "text": "Hydrostatic pressure column effects"
         }
       ],
       "correctAnswer": "E",

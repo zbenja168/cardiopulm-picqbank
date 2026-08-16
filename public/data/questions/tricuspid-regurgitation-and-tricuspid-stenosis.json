@@ -182,7 +182,7 @@
         },
         {
           "label": "E",
-          "text": "Tricuspid regurgitation with 'atrialization' of a portion of the right ventricle"
+          "text": "Tricuspid regurgitation"
         }
       ],
       "correctAnswer": "E",
@@ -260,7 +260,7 @@
         },
         {
           "label": "E",
-          "text": "Regurgitant flow from the right ventricle into the right atrium during systole"
+          "text": "Regurgitant flow from the right ventricle into the right atrium"
         }
       ],
       "correctAnswer": "E",
@@ -283,7 +283,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Obstructed diastolic flow from the right atrium to right ventricle, raising right atrial pressure"
+          "text": "Obstructed diastolic flow from the right atrium to right ventricle"
         },
         {
           "label": "B",

@@ -10,7 +10,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Resistance falls as lung volume rises because radial traction from surrounding alveoli widens (tethers open) the airways"
+          "text": "Resistance falls as lung volume rises because radial traction from surrounding alveoli widens the airways"
         },
         {
           "label": "B",
@@ -53,7 +53,7 @@
         },
         {
           "label": "B",
-          "text": "Loss of elastic recoil and radial traction shifts the equal pressure point into small, non-cartilaginous airways, so they collapse during forced expiration"
+          "text": "Loss of elastic recoil and radial traction shifts the equal pressure point into small, non-cartilaginous airways"
         },
         {
           "label": "C",
@@ -92,7 +92,7 @@
         },
         {
           "label": "B",
-          "text": "Point B, on the steep midportion of the curve near normal FRC"
+          "text": "Point B, near normal FRC"
         },
         {
           "label": "C",
@@ -166,7 +166,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "FRC increases, because the more compliant lung recoils inward less and equilibrium shifts to a higher volume"
+          "text": "FRC increases, because the more compliant lung recoils inward less"
         },
         {
           "label": "B",
@@ -248,7 +248,7 @@
         },
         {
           "label": "B",
-          "text": "They are arranged in massive parallel numbers, so their combined cross-sectional area is enormous"
+          "text": "They are arranged in massive parallel numbers"
         },
         {
           "label": "C",
@@ -291,7 +291,7 @@
         },
         {
           "label": "C",
-          "text": "A high Reynolds number from increased velocity, density, or airway diameter"
+          "text": "A high Reynolds number"
         },
         {
           "label": "D",

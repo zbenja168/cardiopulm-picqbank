@@ -143,7 +143,7 @@
         },
         {
           "label": "E",
-          "text": "Left atrial stasis and atrial fibrillation promote thrombus that embolizes to the brain, causing stroke"
+          "text": "Left atrial stasis and atrial fibrillation promote thrombus that embolizes to the brain"
         }
       ],
       "correctAnswer": "E",
@@ -244,7 +244,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Impaired diastolic filling of the left ventricle with elevated left atrial pressure"
+          "text": "Impaired diastolic filling of the left ventricle"
         },
         {
           "label": "B",
@@ -287,7 +287,7 @@
         },
         {
           "label": "B",
-          "text": "The transmitral diastolic pressure gradient caused by the stenotic valve"
+          "text": "The transmitral diastolic pressure gradient"
         },
         {
           "label": "C",

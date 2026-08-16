@@ -88,7 +88,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "A wall thickness large relative to its lumen (arteriole)"
+          "text": "A wall thickness large relative to its lumen"
         },
         {
           "label": "B",
@@ -166,7 +166,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Exchange of gases, nutrients, and wastes with tissue"
+          "text": "Exchange of gases, nutrients, and wastes"
         },
         {
           "label": "B",
@@ -205,7 +205,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Sinusoidal (discontinuous) capillary"
+          "text": "Sinusoidal capillary"
         },
         {
           "label": "B",
@@ -322,7 +322,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "They permit passage of large molecules and cells across the wall"
+          "text": "They permit passage of large molecules and cells"
         },
         {
           "label": "B",
@@ -377,7 +377,7 @@
         },
         {
           "label": "E",
-          "text": "Its endothelium has anchoring filaments and lacks a continuous basement membrane, allowing fluid and protein to enter"
+          "text": "Its endothelium has anchoring filaments and lacks a continuous basement membrane"
         }
       ],
       "correctAnswer": "E",
@@ -416,7 +416,7 @@
         },
         {
           "label": "E",
-          "text": "The lymphatic lumen contains pale, protein-rich lymph and few cells, whereas the vein is packed with red blood cells"
+          "text": "The lymphatic lumen contains pale lymph, whereas the vein is packed with red blood cells"
         }
       ],
       "correctAnswer": "E",
@@ -482,7 +482,7 @@
         },
         {
           "label": "B",
-          "text": "It is a well-developed internal elastic lamina, characteristic of a muscular (distributing) artery"
+          "text": "It is a well-developed internal elastic lamina, characteristic of a muscular artery"
         },
         {
           "label": "C",
@@ -525,7 +525,7 @@
         },
         {
           "label": "C",
-          "text": "The artery has a thick muscular/elastic media to withstand high pulsatile pressure, whereas the vein's thin wall and low pressure let it collapse"
+          "text": "The artery has a thick muscular/elastic media to withstand high pulsatile pressure"
         },
         {
           "label": "D",
@@ -560,7 +560,7 @@
         },
         {
           "label": "B",
-          "text": "They are small blood vessels that supply oxygen and nutrients to the outer wall of large vessels"
+          "text": "They are small blood vessels that supply the outer wall of large vessels"
         },
         {
           "label": "C",
@@ -595,7 +595,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "An elastic (conducting) artery; the concentric elastic lamellae store energy in systole and recoil in diastole to smooth blood flow"
+          "text": "An elastic artery; the concentric elastic lamellae store energy in systole and recoil in diastole"
         },
         {
           "label": "B",
@@ -634,7 +634,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Drain excess interstitial fluid and return it to the circulation"
+          "text": "Drain excess interstitial fluid"
         },
         {
           "label": "B",

@@ -18,7 +18,7 @@
         },
         {
           "label": "C",
-          "text": "Right-to-left shunting of deoxygenated blood into the systemic circulation"
+          "text": "Right-to-left shunting of deoxygenated blood"
         },
         {
           "label": "D",
@@ -104,7 +104,7 @@
         },
         {
           "label": "E",
-          "text": "Pulmonary vascular remodeling causing pulmonary hypertension and RV hypertrophy"
+          "text": "Pulmonary vascular remodeling causing pulmonary hypertension"
         }
       ],
       "correctAnswer": "E",
@@ -205,7 +205,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Higher pressure on the left side drives blood from left chambers to right chambers"
+          "text": "Higher pressure on the left side drives blood from left to right"
         },
         {
           "label": "B",
@@ -248,7 +248,7 @@
         },
         {
           "label": "B",
-          "text": "Rising left atrial pressure as lung expansion increases pulmonary venous return"
+          "text": "Rising left atrial pressure"
         },
         {
           "label": "C",

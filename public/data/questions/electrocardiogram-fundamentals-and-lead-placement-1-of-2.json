@@ -53,7 +53,7 @@
         },
         {
           "label": "B",
-          "text": "The wave of depolarization spreads toward the left leg (positive electrode), roughly parallel to this lead's axis"
+          "text": "The wave of depolarization spreads toward the left leg (positive electrode)"
         },
         {
           "label": "C",
@@ -92,7 +92,7 @@
         },
         {
           "label": "B",
-          "text": "A rhythm strip providing a continuous single-lead recording to assess rhythm over time"
+          "text": "A rhythm strip providing a continuous single-lead recording"
         },
         {
           "label": "C",
@@ -166,7 +166,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "The mean electrical axis of the heart in the frontal plane"
+          "text": "The mean electrical axis of the heart"
         },
         {
           "label": "B",
@@ -221,7 +221,7 @@
         },
         {
           "label": "E",
-          "text": "Each lead views the heart's electrical activity from a different angle/orientation"
+          "text": "Each lead views the heart from a different angle"
         }
       ],
       "correctAnswer": "E",
@@ -322,7 +322,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "The direction of the depolarization wave relative to the positive electrode (toward = upward, away = downward)"
+          "text": "The direction of the depolarization wave relative to the positive electrode"
         },
         {
           "label": "B",
@@ -439,7 +439,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Calcium influx balancing potassium efflux, prolonging depolarization"
+          "text": "Calcium influx balancing potassium efflux"
         },
         {
           "label": "B",
@@ -486,7 +486,7 @@
         },
         {
           "label": "C",
-          "text": "A voltage difference exists between the two cells during depolarization and again during repolarization, generating current flow"
+          "text": "A voltage difference exists between the two cells during depolarization and again during repolarization"
         },
         {
           "label": "D",

@@ -88,7 +88,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Baroreceptor-mediated reflex (vagal) bradycardia in response to the rise in blood pressure"
+          "text": "Baroreceptor-mediated reflex (vagal) bradycardia"
         },
         {
           "label": "B",
@@ -166,7 +166,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Local accumulation of metabolic vasodilators (e.g., adenosine, CO2, H+, K+) with falling PO2"
+          "text": "Local accumulation of metabolic vasodilators"
         },
         {
           "label": "B",
@@ -209,7 +209,7 @@
         },
         {
           "label": "B",
-          "text": "Accumulated vasodilator metabolites and tissue hypoxia during the occlusion, which dilate the arterioles"
+          "text": "Accumulated vasodilator metabolites and tissue hypoxia"
         },
         {
           "label": "C",

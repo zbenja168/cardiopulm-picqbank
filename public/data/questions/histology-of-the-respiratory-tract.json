@@ -26,7 +26,7 @@
         },
         {
           "label": "E",
-          "text": "Covering the laryngeal opening during swallowing to prevent aspiration"
+          "text": "Covering the laryngeal opening during swallowing"
         }
       ],
       "correctAnswer": "E",
@@ -174,7 +174,7 @@
         },
         {
           "label": "C",
-          "text": "Mucociliary clearance of inhaled particles toward the pharynx"
+          "text": "Mucociliary clearance of inhaled particles"
         },
         {
           "label": "D",
@@ -252,7 +252,7 @@
         },
         {
           "label": "C",
-          "text": "Secreting surfactant to lower alveolar surface tension"
+          "text": "Secreting surfactant"
         },
         {
           "label": "D",
@@ -338,7 +338,7 @@
         },
         {
           "label": "E",
-          "text": "Providing a smooth, lubricated surface that reduces friction during lung expansion"
+          "text": "Providing a smooth, lubricated surface"
         }
       ],
       "correctAnswer": "E",
@@ -369,7 +369,7 @@
         },
         {
           "label": "C",
-          "text": "Moving a mucus layer with trapped particles toward the pharynx"
+          "text": "Moving a mucus layer with trapped particles"
         },
         {
           "label": "D",
@@ -439,7 +439,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "To withstand mechanical abrasion from passing food"
+          "text": "To withstand mechanical abrasion"
         },
         {
           "label": "B",
@@ -482,7 +482,7 @@
         },
         {
           "label": "B",
-          "text": "Secreting mucus that traps inhaled particles and pathogens"
+          "text": "Secreting mucus that traps inhaled particles"
         },
         {
           "label": "C",
@@ -564,7 +564,7 @@
         },
         {
           "label": "C",
-          "text": "Simple diffusion down their partial pressure gradients"
+          "text": "Simple diffusion"
         },
         {
           "label": "D",

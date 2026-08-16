@@ -252,7 +252,7 @@
         },
         {
           "label": "C",
-          "text": "Increased deoxygenated hemoglobin in the peripheral blood"
+          "text": "Increased deoxygenated hemoglobin"
         },
         {
           "label": "D",
@@ -416,7 +416,7 @@
         },
         {
           "label": "E",
-          "text": "Systemic delivery of partially deoxygenated blood, producing cyanosis"
+          "text": "Systemic delivery of partially deoxygenated blood"
         }
       ],
       "correctAnswer": "E",

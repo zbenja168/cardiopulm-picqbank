@@ -61,7 +61,7 @@
         },
         {
           "label": "D",
-          "text": "Central venous pressure via the jugular venous pressure"
+          "text": "Central venous pressure"
         },
         {
           "label": "E",
@@ -182,7 +182,7 @@
         },
         {
           "label": "E",
-          "text": "Closure of the mitral (and tricuspid) valves at the onset of ventricular systole"
+          "text": "Closure of the mitral (and tricuspid) valves"
         }
       ],
       "correctAnswer": "E",

@@ -166,7 +166,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Return of the net filtered interstitial fluid and protein back to the circulation"
+          "text": "Return of the net filtered interstitial fluid and protein"
         },
         {
           "label": "B",
@@ -221,7 +221,7 @@
         },
         {
           "label": "E",
-          "text": "Net capillary filtration is drained by lymphatics to maintain interstitial fluid balance"
+          "text": "Net capillary filtration is drained by lymphatics"
         }
       ],
       "correctAnswer": "E",
@@ -283,7 +283,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Capillary hydrostatic pressure declines from the arteriolar to the venular end"
+          "text": "Capillary hydrostatic pressure declines"
         },
         {
           "label": "B",

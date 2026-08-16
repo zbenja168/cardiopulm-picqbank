@@ -22,7 +22,7 @@
         },
         {
           "label": "D",
-          "text": "Interstitial lung disease (pulmonary fibrosis)"
+          "text": "Interstitial lung disease"
         },
         {
           "label": "E",
@@ -104,7 +104,7 @@
         },
         {
           "label": "E",
-          "text": "Usual interstitial pneumonia (UIP) pattern of pulmonary fibrosis"
+          "text": "Usual interstitial pneumonia (UIP) pattern"
         }
       ],
       "correctAnswer": "E",
@@ -143,7 +143,7 @@
         },
         {
           "label": "E",
-          "text": "Digital clubbing associated with chronic hypoxemic lung disease such as pulmonary fibrosis"
+          "text": "Digital clubbing associated with chronic hypoxemic lung disease"
         }
       ],
       "correctAnswer": "E",
@@ -166,7 +166,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "A proportional reduction in all lung volumes and capacities, including total lung capacity"
+          "text": "A proportional reduction in all lung volumes and capacities"
         },
         {
           "label": "B",

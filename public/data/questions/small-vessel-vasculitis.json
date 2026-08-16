@@ -49,7 +49,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Immune-complex deposition in dependent small vessels with hydrostatic accentuation"
+          "text": "Immune-complex deposition in dependent small vessels"
         },
         {
           "label": "B",
@@ -170,7 +170,7 @@
         },
         {
           "label": "B",
-          "text": "Rupture of glomerular capillaries with proliferation of parietal epithelial cells and fibrin"
+          "text": "Rupture of glomerular capillaries with proliferation of parietal epithelial cells"
         },
         {
           "label": "C",

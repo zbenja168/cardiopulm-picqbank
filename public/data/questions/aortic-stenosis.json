@@ -10,7 +10,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "A congenital bicuspid aortic valve, which predisposes to early calcification and premature aortic stenosis"
+          "text": "A congenital bicuspid aortic valve"
         },
         {
           "label": "B",
@@ -96,7 +96,7 @@
         },
         {
           "label": "C",
-          "text": "Concentric left ventricular hypertrophy with a thickened wall and preserved/reduced chamber size"
+          "text": "Concentric left ventricular hypertrophy"
         },
         {
           "label": "D",
@@ -166,7 +166,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Progressive fibrocalcific thickening of the cusps that stiffens them and reduces the opening area"
+          "text": "Progressive fibrocalcific thickening of the cusps"
         },
         {
           "label": "B",
@@ -221,7 +221,7 @@
         },
         {
           "label": "E",
-          "text": "Stroke volume falls because the ventricle must generate higher pressure to eject, narrowing the loop"
+          "text": "Stroke volume falls because the ventricle must generate higher pressure to eject"
         }
       ],
       "correctAnswer": "E",
@@ -256,7 +256,7 @@
         },
         {
           "label": "D",
-          "text": "A crescendo-decrescendo (diamond-shaped) systolic ejection murmur between S1 and S2"
+          "text": "A crescendo-decrescendo systolic ejection murmur"
         },
         {
           "label": "E",
@@ -291,7 +291,7 @@
         },
         {
           "label": "C",
-          "text": "The onset of symptoms (angina, syncope, or heart failure)"
+          "text": "The onset of symptoms"
         },
         {
           "label": "D",

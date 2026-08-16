@@ -10,7 +10,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Xanthelasma from hyperlipidemia"
+          "text": "Xanthelasma"
         },
         {
           "label": "B",
@@ -96,7 +96,7 @@
         },
         {
           "label": "C",
-          "text": "It promotes degradation of LDL receptors, raising plasma LDL"
+          "text": "It promotes degradation of LDL receptors"
         },
         {
           "label": "D",

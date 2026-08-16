@@ -10,7 +10,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "The hemodynamic mechanisms of the different categories of shock"
+          "text": "The hemodynamic mechanisms of shock"
         },
         {
           "label": "B",
@@ -57,7 +57,7 @@
         },
         {
           "label": "C",
-          "text": "Distributive (septic) shock"
+          "text": "Distributive shock"
         },
         {
           "label": "D",

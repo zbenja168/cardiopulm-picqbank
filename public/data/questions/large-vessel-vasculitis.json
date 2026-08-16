@@ -10,7 +10,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Loss of the internal elastic lamina weakens the wall and allows intimal proliferation and aneurysm/stenosis"
+          "text": "Loss of the internal elastic lamina weakens the wall"
         },
         {
           "label": "B",
@@ -104,7 +104,7 @@
         },
         {
           "label": "E",
-          "text": "Inflammatory edema of the arterial wall in giant cell arteritis"
+          "text": "Inflammatory edema of the arterial wall"
         }
       ],
       "correctAnswer": "E",
@@ -182,7 +182,7 @@
         },
         {
           "label": "E",
-          "text": "An inflamed, thickened superficial temporal artery"
+          "text": "An inflamed superficial temporal artery"
         }
       ],
       "correctAnswer": "E",
@@ -209,7 +209,7 @@
         },
         {
           "label": "B",
-          "text": "Intimal hyperplasia narrowing the lumen and reducing distal blood flow"
+          "text": "Intimal hyperplasia narrowing the lumen"
         },
         {
           "label": "C",

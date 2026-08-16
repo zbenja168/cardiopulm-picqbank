@@ -127,7 +127,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "All four chambers, with a thinned ventricular wall"
+          "text": "All four chambers"
         },
         {
           "label": "B",
@@ -221,7 +221,7 @@
         },
         {
           "label": "E",
-          "text": "Chamber dilation with elongated myocytes (eccentric remodeling)"
+          "text": "Chamber dilation with elongated myocytes"
         }
       ],
       "correctAnswer": "E",

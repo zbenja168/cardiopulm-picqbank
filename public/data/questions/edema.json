@@ -10,7 +10,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Ascites (fluid accumulation in the peritoneal cavity)"
+          "text": "Ascites"
         },
         {
           "label": "B",
@@ -104,7 +104,7 @@
         },
         {
           "label": "E",
-          "text": "It increases the outward force driving fluid from the capillary into the interstitium"
+          "text": "It increases the outward force driving fluid from the capillary"
         }
       ],
       "correctAnswer": "E",
@@ -205,7 +205,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "To collect excess interstitial fluid and return it to the venous circulation"
+          "text": "To collect excess interstitial fluid"
         },
         {
           "label": "B",

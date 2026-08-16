@@ -221,7 +221,7 @@
         },
         {
           "label": "E",
-          "text": "The junction between the end of the QRS complex and the beginning of the ST segment"
+          "text": "The junction between the QRS complex and the ST segment"
         }
       ],
       "correctAnswer": "E",

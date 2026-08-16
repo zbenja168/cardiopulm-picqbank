@@ -127,7 +127,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It is the remnant of the ductus arteriosus, and the left recurrent laryngeal nerve hooks under it, making the nerve vulnerable to arch pathology"
+          "text": "It is the remnant of the ductus arteriosus, and the left recurrent laryngeal nerve hooks under it"
         },
         {
           "label": "B",
@@ -248,7 +248,7 @@
         },
         {
           "label": "B",
-          "text": "The lymphatic drainage (lymph node stations) of the mediastinum"
+          "text": "The lymphatic drainage of the mediastinum"
         },
         {
           "label": "C",
@@ -299,7 +299,7 @@
         },
         {
           "label": "E",
-          "text": "The sternal angle (plane at the T4/T5 level)"
+          "text": "The sternal angle"
         }
       ],
       "correctAnswer": "E",
@@ -373,7 +373,7 @@
         },
         {
           "label": "D",
-          "text": "The sternal angle (T4/T5), where the aortic arch begins and ends"
+          "text": "The sternal angle (T4/T5)"
         },
         {
           "label": "E",
@@ -447,7 +447,7 @@
         },
         {
           "label": "C",
-          "text": "Arch of the aorta (at the ligamentum arteriosum)"
+          "text": "Arch of the aorta"
         },
         {
           "label": "D",
@@ -560,7 +560,7 @@
         },
         {
           "label": "B",
-          "text": "Superior vena cava syndrome with facial and upper-body venous congestion"
+          "text": "Superior vena cava syndrome"
         },
         {
           "label": "C",

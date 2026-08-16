@@ -182,7 +182,7 @@
         },
         {
           "label": "E",
-          "text": "Thromboembolus occluding the vessel lumen"
+          "text": "Thromboembolus"
         }
       ],
       "correctAnswer": "E",
@@ -221,7 +221,7 @@
         },
         {
           "label": "E",
-          "text": "Atherothrombosis (plaque rupture with superimposed thrombosis)"
+          "text": "Atherothrombosis"
         }
       ],
       "correctAnswer": "E",
@@ -244,7 +244,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Detached and travelled downstream to lodge in a distant vessel"
+          "text": "Detached and travelled downstream"
         },
         {
           "label": "B",

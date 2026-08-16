@@ -291,7 +291,7 @@
         },
         {
           "label": "C",
-          "text": "Esophagus (barium swallow)"
+          "text": "Esophagus"
         },
         {
           "label": "D",
@@ -478,7 +478,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Bicuspid (mitral) valve"
+          "text": "Bicuspid valve"
         },
         {
           "label": "B",
@@ -533,7 +533,7 @@
         },
         {
           "label": "E",
-          "text": "Prevents prolapse of the AV valve leaflets during systole"
+          "text": "Prevents prolapse of the AV valve leaflets"
         }
       ],
       "correctAnswer": "E",

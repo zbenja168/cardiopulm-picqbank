@@ -49,7 +49,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Increased left ventricular mass (LV hypertrophy) by voltage criteria"
+          "text": "Increased left ventricular mass (LV hypertrophy)"
         },
         {
           "label": "B",
@@ -100,7 +100,7 @@
         },
         {
           "label": "D",
-          "text": "Myocardial fibrosis (late gadolinium enhancement), a marker of arrhythmic risk"
+          "text": "Myocardial fibrosis, a marker of arrhythmic risk"
         },
         {
           "label": "E",
@@ -178,7 +178,7 @@
         },
         {
           "label": "D",
-          "text": "Chronic pressure overload (e.g., long-standing hypertension or aortic stenosis)"
+          "text": "Chronic pressure overload"
         },
         {
           "label": "E",
@@ -213,7 +213,7 @@
         },
         {
           "label": "C",
-          "text": "Systolic anterior motion of the mitral valve narrowing the LV outflow tract"
+          "text": "Systolic anterior motion of the mitral valve"
         },
         {
           "label": "D",
@@ -252,7 +252,7 @@
         },
         {
           "label": "C",
-          "text": "To relieve left ventricular outflow tract obstruction by reducing septal thickness"
+          "text": "To relieve left ventricular outflow tract obstruction"
         },
         {
           "label": "D",

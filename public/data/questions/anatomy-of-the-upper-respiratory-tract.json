@@ -57,7 +57,7 @@
         },
         {
           "label": "C",
-          "text": "Anterior nosebleeds (epistaxis)"
+          "text": "Anterior nosebleeds"
         },
         {
           "label": "D",
@@ -213,7 +213,7 @@
         },
         {
           "label": "C",
-          "text": "They are palatine tonsils that sample inhaled and ingested antigens as part of Waldeyer's ring"
+          "text": "They are palatine tonsils that sample antigens"
         },
         {
           "label": "D",
@@ -299,7 +299,7 @@
         },
         {
           "label": "E",
-          "text": "Impaction of swallowed foreign bodies such as fish bones"
+          "text": "Impaction of swallowed foreign bodies"
         }
       ],
       "correctAnswer": "E",
@@ -400,7 +400,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Rotate and pivot to abduct and adduct the vocal cords"
+          "text": "Rotate to abduct and adduct the vocal cords"
         },
         {
           "label": "B",
@@ -564,7 +564,7 @@
         },
         {
           "label": "C",
-          "text": "A runny nose when crying, because tears drain into the nasal cavity"
+          "text": "A runny nose when crying"
         },
         {
           "label": "D",
@@ -677,7 +677,7 @@
         },
         {
           "label": "B",
-          "text": "It is a peripheral chemoreceptor that senses arterial oxygen, CO2, and pH"
+          "text": "It is a peripheral chemoreceptor"
         },
         {
           "label": "C",
@@ -716,7 +716,7 @@
         },
         {
           "label": "B",
-          "text": "Folds down over the laryngeal inlet to divert food into the esophagus and prevent aspiration"
+          "text": "Folds down over the laryngeal inlet"
         },
         {
           "label": "C",
@@ -755,7 +755,7 @@
         },
         {
           "label": "B",
-          "text": "Sequential constriction that propels a food bolus down toward the esophagus"
+          "text": "Sequential constriction that propels a food bolus"
         },
         {
           "label": "C",
@@ -790,7 +790,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Relatively avascular, covered by stratified squamous epithelium over the vocal ligament"
+          "text": "Relatively avascular"
         },
         {
           "label": "B",
@@ -829,7 +829,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Expired air passes through the adducted cords, causing them to vibrate"
+          "text": "Expired air passes through the adducted cords"
         },
         {
           "label": "B",
@@ -962,7 +962,7 @@
         },
         {
           "label": "E",
-          "text": "Elevate the hyoid bone and larynx during swallowing and speech"
+          "text": "Elevate the hyoid bone and larynx"
         }
       ],
       "correctAnswer": "E",
@@ -989,7 +989,7 @@
         },
         {
           "label": "B",
-          "text": "Depress the hyoid bone and larynx after they have been elevated"
+          "text": "Depress the hyoid bone and larynx"
         },
         {
           "label": "C",

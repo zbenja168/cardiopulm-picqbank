@@ -53,7 +53,7 @@
         },
         {
           "label": "B",
-          "text": "Junction of the left internal jugular and left subclavian veins (left venous angle)"
+          "text": "Junction of the left internal jugular and left subclavian veins"
         },
         {
           "label": "C",
@@ -127,7 +127,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It provides collateral drainage between the superior and inferior vena cava via the posterior thoracic wall"
+          "text": "It provides collateral drainage between the superior and inferior vena cava"
         },
         {
           "label": "B",
@@ -338,7 +338,7 @@
         },
         {
           "label": "E",
-          "text": "Neurogenic tumor (e.g., schwannoma, neuroblastoma)"
+          "text": "Neurogenic tumor"
         }
       ],
       "correctAnswer": "E",
@@ -373,7 +373,7 @@
         },
         {
           "label": "D",
-          "text": "The esophagus has an extensive, longitudinally interconnected submucosal lymphatic plexus that allows spread far from the primary tumor"
+          "text": "The esophagus has an extensive, longitudinally interconnected submucosal lymphatic plexus"
         },
         {
           "label": "E",

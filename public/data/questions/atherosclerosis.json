@@ -131,7 +131,7 @@
         },
         {
           "label": "B",
-          "text": "Cap rupture with superimposed thrombosis occluding the lumen"
+          "text": "Cap rupture with superimposed thrombosis"
         },
         {
           "label": "C",
@@ -182,7 +182,7 @@
         },
         {
           "label": "E",
-          "text": "Complicated atherosclerotic plaques with ulceration and calcification"
+          "text": "Complicated atherosclerotic plaques"
         }
       ],
       "correctAnswer": "E",
@@ -217,7 +217,7 @@
         },
         {
           "label": "D",
-          "text": "A thrombus that acutely occludes the vessel and causes downstream ischemia"
+          "text": "A thrombus that acutely occludes the vessel"
         },
         {
           "label": "E",
@@ -256,7 +256,7 @@
         },
         {
           "label": "D",
-          "text": "LDL-laden macrophages become foam cells, then smooth muscle migrates and lays down a fibrous cap"
+          "text": "LDL-laden macrophages become foam cells, then smooth muscle migrates"
         },
         {
           "label": "E",
@@ -338,7 +338,7 @@
         },
         {
           "label": "E",
-          "text": "It mediates monocyte adhesion so they can migrate into the intima"
+          "text": "It mediates monocyte adhesion"
         }
       ],
       "correctAnswer": "E",

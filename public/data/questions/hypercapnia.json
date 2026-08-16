@@ -14,7 +14,7 @@
         },
         {
           "label": "B",
-          "text": "Alveolar gas sampled at the end of expiration (end-tidal CO2)"
+          "text": "Alveolar gas sampled at the end of expiration"
         },
         {
           "label": "C",
@@ -57,7 +57,7 @@
         },
         {
           "label": "C",
-          "text": "Emphysema (permanent airspace enlargement with septal destruction)"
+          "text": "Emphysema"
         },
         {
           "label": "D",
@@ -127,7 +127,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "Ventilation/perfusion (V/Q) mismatch causing venous admixture"
+          "text": "Ventilation/perfusion (V/Q) mismatch"
         },
         {
           "label": "B",

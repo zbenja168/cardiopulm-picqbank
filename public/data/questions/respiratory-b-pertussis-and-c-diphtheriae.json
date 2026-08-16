@@ -100,7 +100,7 @@
         },
         {
           "label": "D",
-          "text": "Metachromatic (volutin) granules of stored polyphosphate characteristic of Corynebacterium diphtheriae"
+          "text": "Metachromatic (volutin) granules of stored polyphosphate"
         },
         {
           "label": "E",
@@ -174,7 +174,7 @@
         },
         {
           "label": "C",
-          "text": "Whether a C. diphtheriae isolate produces diphtheria toxin (toxigenicity)"
+          "text": "Whether a C. diphtheriae isolate produces diphtheria toxin"
         },
         {
           "label": "D",
@@ -205,7 +205,7 @@
       "choices": [
         {
           "label": "A",
-          "text": "It is highly fastidious and inhibited by fatty acids/peroxides absorbed by charcoal or starch in the medium"
+          "text": "It is highly fastidious and inhibited by fatty acids/peroxides"
         },
         {
           "label": "B",
@@ -256,7 +256,7 @@
         },
         {
           "label": "D",
-          "text": "Inhibition of host protein synthesis by ADP-ribosylation of elongation factor 2"
+          "text": "Inhibition of host protein synthesis"
         },
         {
           "label": "E",
@@ -334,7 +334,7 @@
         },
         {
           "label": "D",
-          "text": "Bull neck (from cervical lymphadenopathy and soft-tissue edema)"
+          "text": "Bull neck"
         },
         {
           "label": "E",
