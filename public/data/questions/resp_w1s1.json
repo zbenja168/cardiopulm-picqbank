@@ -1,0 +1,2931 @@
+{
+  "categoryId": "resp_w1s1",
+  "categoryName": "Session 1",
+  "questions": [
+    {
+      "id": "repic-056",
+      "topicId": "histology-of-the-respiratory-tract",
+      "topicName": "Histology of the Respiratory Tract",
+      "stem": "This midsagittal diagram of the head and neck labels the epiglottis at the entrance to the larynx. What is its primary function?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Producing the voice during phonation"
+        },
+        {
+          "label": "B",
+          "text": "Warming and humidifying inspired air"
+        },
+        {
+          "label": "C",
+          "text": "Filtering dust from inhaled air"
+        },
+        {
+          "label": "D",
+          "text": "Secreting mucus into the nasopharynx"
+        },
+        {
+          "label": "E",
+          "text": "Covering the laryngeal opening during swallowing"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "During swallowing the epiglottis folds back over the laryngeal inlet, directing food into the esophagus and protecting the airway from aspiration.",
+        "whyCorrect": "During swallowing the epiglottis folds back over the laryngeal inlet, directing food into the esophagus and protecting the airway from aspiration.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-056_Brick Exchange - Histology of the Respiratory Tract_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-057",
+      "topicId": "histology-of-the-respiratory-tract",
+      "topicName": "Histology of the Respiratory Tract",
+      "stem": "This cadaveric midsagittal section of the head is used to highlight the olfactory epithelium. Which region of the respiratory tract is being displayed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Laryngopharynx"
+        },
+        {
+          "label": "B",
+          "text": "Nasal cavity"
+        },
+        {
+          "label": "C",
+          "text": "Larynx"
+        },
+        {
+          "label": "D",
+          "text": "Trachea"
+        },
+        {
+          "label": "E",
+          "text": "Oral cavity"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The section shows the nasal septum and conchae of the nasal cavity, where the olfactory epithelium sits in the roof.",
+        "whyCorrect": "The section shows the nasal septum and conchae of the nasal cavity, where the olfactory epithelium sits in the roof.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-057_Brick Exchange - Histology of the Respiratory Tract_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-138",
+      "topicId": "histology-of-the-respiratory-tract",
+      "topicName": "Histology of the Respiratory Tract",
+      "stem": "This airway wall shows a mucosa of tall pseudostratified ciliated columnar epithelium, a submucosa, and an underlying plate of pale hyaline cartilage with chondrocytes in lacunae. Which structure is this section most consistent with?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alveolar duct"
+        },
+        {
+          "label": "B",
+          "text": "Renal collecting duct"
+        },
+        {
+          "label": "C",
+          "text": "Trachea / large bronchus"
+        },
+        {
+          "label": "D",
+          "text": "Esophagus"
+        },
+        {
+          "label": "E",
+          "text": "Terminal bronchiole"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Pseudostratified ciliated columnar (respiratory) epithelium resting on a mucosa/submucosa supported by hyaline cartilage is characteristic of the trachea and large bronchi of the conducting airways.",
+        "whyCorrect": "Pseudostratified ciliated columnar (respiratory) epithelium resting on a mucosa/submucosa supported by hyaline cartilage is characteristic of the trachea and large bronchi of the conducting airways.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-138_Brick Exchange - Histology of the Respiratory Tract_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-139",
+      "topicId": "histology-of-the-respiratory-tract",
+      "topicName": "Histology of the Respiratory Tract",
+      "stem": "A small airway with folded epithelium is encircled by a layer of smooth muscle and surrounded by thin-walled air spaces (alveoli), with no cartilage present. What airway is shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Segmental bronchus"
+        },
+        {
+          "label": "B",
+          "text": "Bronchiole"
+        },
+        {
+          "label": "C",
+          "text": "Alveolar sac only"
+        },
+        {
+          "label": "D",
+          "text": "Trachea"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary artery"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A small conducting airway lacking cartilage and glands but wrapped by a relatively prominent smooth muscle layer, surrounded by alveoli, identifies a bronchiole; the absence of cartilage distinguishes it from bronchi.",
+        "whyCorrect": "A small conducting airway lacking cartilage and glands but wrapped by a relatively prominent smooth muscle layer, surrounded by alveoli, identifies a bronchiole; the absence of cartilage distinguishes it from bronchi.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-139_Brick Exchange - Histology of the Respiratory Tract_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-140",
+      "topicId": "histology-of-the-respiratory-tract",
+      "topicName": "Histology of the Respiratory Tract",
+      "stem": "This lung section (40X) shows a large conducting airway lined by pseudostratified ciliated columnar epithelium. What is the primary function of this epithelial lining?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Generation of sound during phonation"
+        },
+        {
+          "label": "B",
+          "text": "Detection of airborne odorants"
+        },
+        {
+          "label": "C",
+          "text": "Mucociliary clearance of inhaled particles"
+        },
+        {
+          "label": "D",
+          "text": "Secretion of pulmonary surfactant"
+        },
+        {
+          "label": "E",
+          "text": "Gas exchange with pulmonary capillaries"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The bronchial epithelium is pseudostratified ciliated columnar with goblet cells; cilia sweep mucus-trapped debris up toward the pharynx (mucociliary escalator). Gas exchange occurs only in alveoli, not conducting airways.",
+        "whyCorrect": "The bronchial epithelium is pseudostratified ciliated columnar with goblet cells; cilia sweep mucus-trapped debris up toward the pharynx (mucociliary escalator). Gas exchange occurs only in alveoli, not conducting airways.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-140_Brick Exchange - Histology of the Respiratory Tract_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-141",
+      "topicId": "histology-of-the-respiratory-tract",
+      "topicName": "Histology of the Respiratory Tract",
+      "stem": "This lung histology is labeled with a respiratory bronchiole (RB), alveolar ducts (AD), alveolar sacs (AS), and alveoli (A). Which functional zone of the respiratory system does this region represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The conducting zone"
+        },
+        {
+          "label": "B",
+          "text": "The pleural cavity"
+        },
+        {
+          "label": "C",
+          "text": "The respiratory (gas-exchange) zone"
+        },
+        {
+          "label": "D",
+          "text": "The upper respiratory tract"
+        },
+        {
+          "label": "E",
+          "text": "The bronchial tree proximal to terminal bronchioles"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Respiratory bronchioles, alveolar ducts, sacs, and alveoli make up the respiratory zone where gas exchange occurs, distinguishing it from the purely conducting airways.",
+        "whyCorrect": "Respiratory bronchioles, alveolar ducts, sacs, and alveoli make up the respiratory zone where gas exchange occurs, distinguishing it from the purely conducting airways.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-141_Brick Exchange - Histology of the Respiratory Tract_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-142",
+      "topicId": "histology-of-the-respiratory-tract",
+      "topicName": "Histology of the Respiratory Tract",
+      "stem": "In this diagram of an alveolus, what is the principal function of the Type 2 pneumocyte?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Producing mucus to trap particles"
+        },
+        {
+          "label": "B",
+          "text": "Forming the thin barrier for gas diffusion"
+        },
+        {
+          "label": "C",
+          "text": "Secreting surfactant"
+        },
+        {
+          "label": "D",
+          "text": "Phagocytosing inhaled dust and debris"
+        },
+        {
+          "label": "E",
+          "text": "Conducting air toward the alveolar duct"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Type 2 pneumocytes (cuboidal cells) secrete surfactant, which reduces surface tension and prevents alveolar collapse. Type 1 pneumocytes form the thin gas-exchange surface, and dust cells (macrophages) clear debris.",
+        "whyCorrect": "Type 2 pneumocytes (cuboidal cells) secrete surfactant, which reduces surface tension and prevents alveolar collapse. Type 1 pneumocytes form the thin gas-exchange surface, and dust cells (macrophages) clear debris.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-142_Brick Exchange - Histology of the Respiratory Tract_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-143",
+      "topicId": "histology-of-the-respiratory-tract",
+      "topicName": "Histology of the Respiratory Tract",
+      "stem": "This H&E section shows thin-walled air spaces lined by Type 1 and Type 2 pneumocytes with an alveolar macrophage. From which organ is this tissue taken?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Kidney"
+        },
+        {
+          "label": "B",
+          "text": "Lung"
+        },
+        {
+          "label": "C",
+          "text": "Liver"
+        },
+        {
+          "label": "D",
+          "text": "Spleen"
+        },
+        {
+          "label": "E",
+          "text": "Pancreas"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The delicate alveolar architecture with Type 1/Type 2 pneumocytes and macrophages is characteristic of lung parenchyma.",
+        "whyCorrect": "The delicate alveolar architecture with Type 1/Type 2 pneumocytes and macrophages is characteristic of lung parenchyma.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-143_Brick Exchange - Histology of the Respiratory Tract_p21_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-144",
+      "topicId": "histology-of-the-respiratory-tract",
+      "topicName": "Histology of the Respiratory Tract",
+      "stem": "At the edge of this lung section a thin fibrous membrane (bracketed) covers the alveolar tissue. What is the functional role of this membrane?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Secreting pulmonary surfactant"
+        },
+        {
+          "label": "B",
+          "text": "Performing gas exchange with capillaries"
+        },
+        {
+          "label": "C",
+          "text": "Conducting air into the alveoli"
+        },
+        {
+          "label": "D",
+          "text": "Producing mucus for particle trapping"
+        },
+        {
+          "label": "E",
+          "text": "Providing a smooth, lubricated surface"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The visceral pleura is a serous membrane covering the lung; together with the parietal pleura and pleural fluid it minimizes friction as the lung expands and recoils during breathing.",
+        "whyCorrect": "The visceral pleura is a serous membrane covering the lung; together with the parietal pleura and pleural fluid it minimizes friction as the lung expands and recoils during breathing.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-144_Brick Exchange - Histology of the Respiratory Tract_p22_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-145",
+      "topicId": "histology-of-the-respiratory-tract",
+      "topicName": "Histology of the Respiratory Tract",
+      "stem": "This high-power view shows the epithelium that lines the trachea, with an apical row of cilia and a basal lamina propria. What is its main functional role?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Absorbing nutrients from the airway"
+        },
+        {
+          "label": "B",
+          "text": "Exchanging oxygen and carbon dioxide"
+        },
+        {
+          "label": "C",
+          "text": "Moving a mucus layer with trapped particles"
+        },
+        {
+          "label": "D",
+          "text": "Secreting hormones into the blood"
+        },
+        {
+          "label": "E",
+          "text": "Filtering plasma into the airspace"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Pseudostratified ciliated columnar epithelium with goblet cells lines the trachea; coordinated ciliary beating propels mucus and trapped debris upward (mucociliary escalator).",
+        "whyCorrect": "Pseudostratified ciliated columnar epithelium with goblet cells lines the trachea; coordinated ciliary beating propels mucus and trapped debris upward (mucociliary escalator).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-145_Brick Exchange - Histology of the Respiratory Tract_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-146",
+      "topicId": "histology-of-the-respiratory-tract",
+      "topicName": "Histology of the Respiratory Tract",
+      "stem": "This specialized pseudostratified epithelium in the roof of the nasal cavity contains bipolar sensory neurons (ON) among supporting (S) and basal (B) cells. What special sense does it mediate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hearing (audition)"
+        },
+        {
+          "label": "B",
+          "text": "Taste (gustation)"
+        },
+        {
+          "label": "C",
+          "text": "Vision"
+        },
+        {
+          "label": "D",
+          "text": "Balance (equilibrium)"
+        },
+        {
+          "label": "E",
+          "text": "Olfaction (sense of smell)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The olfactory epithelium contains bipolar olfactory receptor neurons whose cilia detect odorants; supporting (sustentacular) and basal cells complete the epithelium.",
+        "whyCorrect": "The olfactory epithelium contains bipolar olfactory receptor neurons whose cilia detect odorants; supporting (sustentacular) and basal cells complete the epithelium.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-146_Brick Exchange - Histology of the Respiratory Tract_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-147",
+      "topicId": "histology-of-the-respiratory-tract",
+      "topicName": "Histology of the Respiratory Tract",
+      "stem": "This diagram maps epithelial types onto the upper airway, showing stratified squamous epithelium in the oropharynx rather than ciliated epithelium. Why is stratified squamous epithelium found there?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "To withstand mechanical abrasion"
+        },
+        {
+          "label": "B",
+          "text": "To increase mucus secretion"
+        },
+        {
+          "label": "C",
+          "text": "To absorb nutrients from swallowed food"
+        },
+        {
+          "label": "D",
+          "text": "To improve ciliary clearance of particles"
+        },
+        {
+          "label": "E",
+          "text": "To maximize gas exchange with blood"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The oropharynx is a shared food and air passage; stratified squamous epithelium resists the abrasion of food boluses, unlike the delicate ciliated epithelium of purely respiratory passages.",
+        "whyCorrect": "The oropharynx is a shared food and air passage; stratified squamous epithelium resists the abrasion of food boluses, unlike the delicate ciliated epithelium of purely respiratory passages.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-147_Brick Exchange - Histology of the Respiratory Tract_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-148",
+      "topicId": "histology-of-the-respiratory-tract",
+      "topicName": "Histology of the Respiratory Tract",
+      "stem": "This respiratory epithelium contains ciliated columnar cells, basal cells, and goblet cells. What is the role of the goblet cells?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Beating rhythmically to propel the mucus layer"
+        },
+        {
+          "label": "B",
+          "text": "Secreting mucus that traps inhaled particles"
+        },
+        {
+          "label": "C",
+          "text": "Carrying out gas exchange with capillaries"
+        },
+        {
+          "label": "D",
+          "text": "Serving as stem cells to regenerate the epithelium"
+        },
+        {
+          "label": "E",
+          "text": "Detecting inhaled odorant molecules"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Goblet cells secrete mucus that traps debris and microbes; the cilia of columnar cells then sweep this mucus toward the pharynx, while basal cells act as the regenerative reserve.",
+        "whyCorrect": "Goblet cells secrete mucus that traps debris and microbes; the cilia of columnar cells then sweep this mucus toward the pharynx, while basal cells act as the regenerative reserve.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-148_Brick Exchange - Histology of the Respiratory Tract_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-149",
+      "topicId": "histology-of-the-respiratory-tract",
+      "topicName": "Histology of the Respiratory Tract",
+      "stem": "This nonkeratinizing stratified epithelium overlying a lamina propria lines a region shared by the digestive and respiratory tracts. Which region is it most likely from?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alveoli"
+        },
+        {
+          "label": "B",
+          "text": "Bronchi"
+        },
+        {
+          "label": "C",
+          "text": "Nasal cavity roof"
+        },
+        {
+          "label": "D",
+          "text": "Trachea"
+        },
+        {
+          "label": "E",
+          "text": "Oropharynx"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Nonkeratinizing stratified squamous epithelium lines areas subject to abrasion such as the oropharynx and laryngopharynx, protecting against the passage of food.",
+        "whyCorrect": "Nonkeratinizing stratified squamous epithelium lines areas subject to abrasion such as the oropharynx and laryngopharynx, protecting against the passage of food.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-149_Brick Exchange - Histology of the Respiratory Tract_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-749",
+      "topicId": "histology-of-the-respiratory-tract",
+      "topicName": "Histology of the Respiratory Tract",
+      "stem": "This diagram shows O2 and CO2 crossing the structure between alveolar air and blood. By what mechanism do these gases cross this barrier?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Secondary active transport coupled to sodium"
+        },
+        {
+          "label": "B",
+          "text": "Active transport requiring ATP"
+        },
+        {
+          "label": "C",
+          "text": "Simple diffusion"
+        },
+        {
+          "label": "D",
+          "text": "Osmosis of dissolved gas with water"
+        },
+        {
+          "label": "E",
+          "text": "Facilitated diffusion via membrane carriers"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Gas exchange across the blood-air barrier is passive: O2 and CO2 diffuse down their respective partial pressure gradients through the thin Type 1 pneumocyte, fused basement membrane, and capillary endothelium.",
+        "whyCorrect": "Gas exchange across the blood-air barrier is passive: O2 and CO2 diffuse down their respective partial pressure gradients through the thin Type 1 pneumocyte, fused basement membrane, and capillary endothelium.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-749_Brick Exchange - Histology of the Respiratory Tract_p19_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-108",
+      "topicId": "development-of-the-respiratory-tract",
+      "topicName": "Development of the Respiratory Tract",
+      "stem": "This cross-section shows a thin-walled air sac with squamous lining cells, a scattered wandering phagocyte, a cuboidal cell secreting a thin film into the airspace, and a surrounding capillary containing red cells. Which cell type here is responsible for reducing surface tension and preventing collapse of this structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Type I pneumocyte"
+        },
+        {
+          "label": "B",
+          "text": "Type II pneumocyte"
+        },
+        {
+          "label": "C",
+          "text": "Capillary endothelial cell"
+        },
+        {
+          "label": "D",
+          "text": "Alveolar macrophage"
+        },
+        {
+          "label": "E",
+          "text": "Ciliated columnar cell"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The cuboidal type II pneumocyte secretes pulmonary surfactant, which lowers alveolar surface tension and prevents alveolar collapse at end-expiration. Type I pneumocytes form the thin gas-exchange surface, and macrophages clear debris; endothelial cells line the capillary.",
+        "whyCorrect": "The cuboidal type II pneumocyte secretes pulmonary surfactant, which lowers alveolar surface tension and prevents alveolar collapse at end-expiration. Type I pneumocytes form the thin gas-exchange surface, and macrophages clear debris; endothelial cells line the capillary.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-108_Brick Exchange - Development of the Respiratory Tract_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-109",
+      "topicId": "development-of-the-respiratory-tract",
+      "topicName": "Development of the Respiratory Tract",
+      "stem": "This H&E-stained section shows thin-walled air sacs opening off a larger conducting passage. From which organ is this tissue taken?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lung"
+        },
+        {
+          "label": "B",
+          "text": "Spleen"
+        },
+        {
+          "label": "C",
+          "text": "Thyroid gland"
+        },
+        {
+          "label": "D",
+          "text": "Liver"
+        },
+        {
+          "label": "E",
+          "text": "Kidney"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The delicate polygonal air spaces (alveoli) with thin capillary-containing septa opening off a bronchiolar lumen are the defining histologic architecture of lung parenchyma, specialized for gas exchange.",
+        "whyCorrect": "The delicate polygonal air spaces (alveoli) with thin capillary-containing septa opening off a bronchiolar lumen are the defining histologic architecture of lung parenchyma, specialized for gas exchange.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-109_Brick Exchange - Development of the Respiratory Tract_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-110",
+      "topicId": "development-of-the-respiratory-tract",
+      "topicName": "Development of the Respiratory Tract",
+      "stem": "In this magnified developing lung, the airway is still lined by tall cuboidal cells with only sparse nearby capillaries. Which stage of lung development does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pseudoglandular/early canalicular stage"
+        },
+        {
+          "label": "B",
+          "text": "Saccular stage with type 1 pneumocytes"
+        },
+        {
+          "label": "C",
+          "text": "Postnatal adult lung"
+        },
+        {
+          "label": "D",
+          "text": "Mature alveolar stage"
+        },
+        {
+          "label": "E",
+          "text": "Terminal air sac stage with surfactant"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A thick cuboidal epithelium separated from capillaries by abundant mesoderm indicates an immature stage with a thick air-blood barrier; the epithelium has not yet thinned into type 1 pneumocytes needed for efficient gas exchange.",
+        "whyCorrect": "A thick cuboidal epithelium separated from capillaries by abundant mesoderm indicates an immature stage with a thick air-blood barrier; the epithelium has not yet thinned into type 1 pneumocytes needed for efficient gas exchange.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-110_Brick Exchange - Development of the Respiratory Tract_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-111",
+      "topicId": "development-of-the-respiratory-tract",
+      "topicName": "Development of the Respiratory Tract",
+      "stem": "This magnified alveolar wall shows flat cells lining most of the surface and scattered rounded granular cells at the corners, adjacent to capillaries. What is the key function of the rounded granular cell type shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Secretion of surfactant"
+        },
+        {
+          "label": "B",
+          "text": "Production of pulmonary mucus"
+        },
+        {
+          "label": "C",
+          "text": "Formation of the thin gas-diffusion surface"
+        },
+        {
+          "label": "D",
+          "text": "Phagocytosis of inhaled particles"
+        },
+        {
+          "label": "E",
+          "text": "Conduction of air to the alveoli"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The cuboidal granular cells are type 2 pneumocytes, which secrete surfactant that lowers surface tension and prevents alveolar collapse; the flat cells are type 1 pneumocytes forming the diffusion barrier.",
+        "whyCorrect": "The cuboidal granular cells are type 2 pneumocytes, which secrete surfactant that lowers surface tension and prevents alveolar collapse; the flat cells are type 1 pneumocytes forming the diffusion barrier.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-111_Brick Exchange - Development of the Respiratory Tract_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-715",
+      "topicId": "development-of-the-respiratory-tract",
+      "topicName": "Development of the Respiratory Tract",
+      "stem": "This timeline maps lung development onto gestational weeks. At approximately which point does the lung first become capable of supporting respiration (gas exchange)?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Around 12 weeks (early pseudoglandular)"
+        },
+        {
+          "label": "B",
+          "text": "Around 40 years of age"
+        },
+        {
+          "label": "C",
+          "text": "Around 24-26 weeks (canalicular/saccular transition)"
+        },
+        {
+          "label": "D",
+          "text": "Around 6 weeks (embryonic period)"
+        },
+        {
+          "label": "E",
+          "text": "Only after birth (postnatal)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Respiration becomes possible near the canalicular-to-saccular transition (~24-26 weeks) once a thin air-blood barrier forms and type 2 pneumocytes begin surfactant production, which is why this marks the threshold of viability for premature infants.",
+        "whyCorrect": "Respiration becomes possible near the canalicular-to-saccular transition (~24-26 weeks) once a thin air-blood barrier forms and type 2 pneumocytes begin surfactant production, which is why this marks the threshold of viability for premature infants.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-715_Brick Exchange - Development of the Respiratory Tract_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-716",
+      "topicId": "development-of-the-respiratory-tract",
+      "topicName": "Development of the Respiratory Tract",
+      "stem": "This sequence shows the foregut giving rise to a ventral outgrowth that is progressively partitioned. What process is being illustrated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Closure of the neural tube"
+        },
+        {
+          "label": "B",
+          "text": "Formation of the diaphragm from the septum transversum"
+        },
+        {
+          "label": "C",
+          "text": "Fusion of the pleural and pericardial cavities"
+        },
+        {
+          "label": "D",
+          "text": "Rotation of the primitive heart tube"
+        },
+        {
+          "label": "E",
+          "text": "Separation of the trachea from the esophagus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The respiratory diverticulum buds from the ventral foregut and is separated from the future esophagus by tracheoesophageal ridges that fuse into a septum; failure of this process produces tracheoesophageal fistula.",
+        "whyCorrect": "The respiratory diverticulum buds from the ventral foregut and is separated from the future esophagus by tracheoesophageal ridges that fuse into a septum; failure of this process produces tracheoesophageal fistula.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-716_Brick Exchange - Development of the Respiratory Tract_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-717",
+      "topicId": "development-of-the-respiratory-tract",
+      "topicName": "Development of the Respiratory Tract",
+      "stem": "From 28 to 56 days, the paired outgrowths shown undergo repeated dichotomous division into progressively smaller branches. What does this branching establish?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The pleural mesothelial lining"
+        },
+        {
+          "label": "B",
+          "text": "The conducting airway tree and lung lobes"
+        },
+        {
+          "label": "C",
+          "text": "The bronchial smooth muscle sphincters"
+        },
+        {
+          "label": "D",
+          "text": "The pulmonary venous return to the left atrium"
+        },
+        {
+          "label": "E",
+          "text": "The alveolar-capillary gas exchange membrane"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Sequential division of secondary and tertiary bronchial buds during the pseudoglandular period lays down the branching conducting airways and defines the lobar pattern (three lobes on the right, two on the left).",
+        "whyCorrect": "Sequential division of secondary and tertiary bronchial buds during the pseudoglandular period lays down the branching conducting airways and defines the lobar pattern (three lobes on the right, two on the left).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-717_Brick Exchange - Development of the Respiratory Tract_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-023",
+      "topicId": "anatomy-of-the-upper-respiratory-tract",
+      "topicName": "Anatomy of the Upper Respiratory Tract",
+      "stem": "This diagram shows the great vessels of the neck. Why does the right common carotid artery arise differently from the left?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Both arise directly from the ascending aorta before the arch"
+        },
+        {
+          "label": "B",
+          "text": "The right arises from the brachiocephalic trunk, whereas the left branches directly off the aortic arch"
+        },
+        {
+          "label": "C",
+          "text": "The right arises from the subclavian and the left from the pulmonary trunk"
+        },
+        {
+          "label": "D",
+          "text": "The right arises from the aortic arch and the left from the vertebral artery"
+        },
+        {
+          "label": "E",
+          "text": "Both arise from the brachiocephalic trunk but on opposite sides"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The aortic arch gives off the brachiocephalic trunk, left common carotid, and left subclavian. The brachiocephalic trunk then splits into the right common carotid and right subclavian, so only the right common carotid is a second-order branch.",
+        "whyCorrect": "The aortic arch gives off the brachiocephalic trunk, left common carotid, and left subclavian. The brachiocephalic trunk then splits into the right common carotid and right subclavian, so only the right common carotid is a second-order branch.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-023_Brick Exchange - Anatomy of the Upper Respiratory Tract_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-024",
+      "topicId": "anatomy-of-the-upper-respiratory-tract",
+      "topicName": "Anatomy of the Upper Respiratory Tract",
+      "stem": "This figure shows the arterial anastomoses of the nasal septum, including the anterior plexus outlined at the front. What common clinical event is this anterior region most associated with?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Recurrent sinus infections"
+        },
+        {
+          "label": "B",
+          "text": "Referred pain to the ear"
+        },
+        {
+          "label": "C",
+          "text": "Anterior nosebleeds"
+        },
+        {
+          "label": "D",
+          "text": "Obstructive sleep apnea"
+        },
+        {
+          "label": "E",
+          "text": "Loss of the sense of smell"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The anterior septal anastomosis (Kiesselbach plexus) is a superficial convergence of several arteries and is the site of roughly 90% of nosebleeds. The posterior Woodruff plexus accounts for less common but heavier posterior bleeds.",
+        "whyCorrect": "The anterior septal anastomosis (Kiesselbach plexus) is a superficial convergence of several arteries and is the site of roughly 90% of nosebleeds. The posterior Woodruff plexus accounts for less common but heavier posterior bleeds.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-024_Brick Exchange - Anatomy of the Upper Respiratory Tract_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-025",
+      "topicId": "anatomy-of-the-upper-respiratory-tract",
+      "topicName": "Anatomy of the Upper Respiratory Tract",
+      "stem": "The paranasal sinuses are shown draining into the nasal cavity. Which of these sinuses is the largest and most frequently involved in sinusitis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ethmoid air cells"
+        },
+        {
+          "label": "B",
+          "text": "Mastoid air cells"
+        },
+        {
+          "label": "C",
+          "text": "Sphenoid sinus"
+        },
+        {
+          "label": "D",
+          "text": "Maxillary sinus"
+        },
+        {
+          "label": "E",
+          "text": "Frontal sinus"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The maxillary sinuses are the largest paranasal sinuses. Because their ostium sits high on the medial wall, gravity-dependent drainage is poor, making them the most commonly infected sinus.",
+        "whyCorrect": "The maxillary sinuses are the largest paranasal sinuses. Because their ostium sits high on the medial wall, gravity-dependent drainage is poor, making them the most commonly infected sinus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-025_Brick Exchange - Anatomy of the Upper Respiratory Tract_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-026",
+      "topicId": "anatomy-of-the-upper-respiratory-tract",
+      "topicName": "Anatomy of the Upper Respiratory Tract",
+      "stem": "This sagittal view color-codes the three pharyngeal regions. Which region receives the opening of the pharyngotympanic (auditory) tube?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nasopharynx"
+        },
+        {
+          "label": "B",
+          "text": "Larynx"
+        },
+        {
+          "label": "C",
+          "text": "Laryngopharynx"
+        },
+        {
+          "label": "D",
+          "text": "Esophagus"
+        },
+        {
+          "label": "E",
+          "text": "Oropharynx"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The pharyngotympanic (Eustachian) tube opens into the nasopharynx, equalizing middle-ear pressure. The oropharynx lies behind the mouth and the laryngopharynx opens into the larynx and esophagus.",
+        "whyCorrect": "The pharyngotympanic (Eustachian) tube opens into the nasopharynx, equalizing middle-ear pressure. The oropharynx lies behind the mouth and the laryngopharynx opens into the larynx and esophagus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-026_Brick Exchange - Anatomy of the Upper Respiratory Tract_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-027",
+      "topicId": "anatomy-of-the-upper-respiratory-tract",
+      "topicName": "Anatomy of the Upper Respiratory Tract",
+      "stem": "This posterior view shows nerves converging on the pharyngeal muscles. Which nerve provides most of the motor innervation to the pharyngeal constrictors via the pharyngeal plexus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hypoglossal nerve (CN XII)"
+        },
+        {
+          "label": "B",
+          "text": "Glossopharyngeal nerve (CN IX)"
+        },
+        {
+          "label": "C",
+          "text": "Vagus nerve (CN X)"
+        },
+        {
+          "label": "D",
+          "text": "Trigeminal nerve (CN V)"
+        },
+        {
+          "label": "E",
+          "text": "Facial nerve (CN VII)"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The pharyngeal plexus carries motor fibers from the vagus (CN X) to all pharyngeal constrictors except stylopharyngeus (CN IX). CN IX contributes mainly sensory fibers to the plexus.",
+        "whyCorrect": "The pharyngeal plexus carries motor fibers from the vagus (CN X) to all pharyngeal constrictors except stylopharyngeus (CN IX). CN IX contributes mainly sensory fibers to the plexus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-027_Brick Exchange - Anatomy of the Upper Respiratory Tract_p22_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-028",
+      "topicId": "anatomy-of-the-upper-respiratory-tract",
+      "topicName": "Anatomy of the Upper Respiratory Tract",
+      "stem": "In this open-mouth view, the paired masses seen on either side of the throat (between the palatine arches) are lymphoid tissue. What is their immunological role?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They are cartilage plates that keep the pharynx open"
+        },
+        {
+          "label": "B",
+          "text": "They are taste-bud clusters that detect bitter compounds"
+        },
+        {
+          "label": "C",
+          "text": "They are palatine tonsils that sample antigens"
+        },
+        {
+          "label": "D",
+          "text": "They are muscles that close the airway during swallowing"
+        },
+        {
+          "label": "E",
+          "text": "They are salivary glands that secrete digestive enzymes"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The palatine tonsils are aggregates of mucosa-associated lymphoid tissue forming part of Waldeyer's ring. They trap pathogens entering via the mouth and nose and mount local immune responses.",
+        "whyCorrect": "The palatine tonsils are aggregates of mucosa-associated lymphoid tissue forming part of Waldeyer's ring. They trap pathogens entering via the mouth and nose and mount local immune responses.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-028_Brick Exchange - Anatomy of the Upper Respiratory Tract_p24_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-029",
+      "topicId": "anatomy-of-the-upper-respiratory-tract",
+      "topicName": "Anatomy of the Upper Respiratory Tract",
+      "stem": "This diagram shows the arterial supply to the pharynx and palatine tonsil. Which vessel is the principal source of significant hemorrhage during a tonsillectomy?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Internal carotid artery"
+        },
+        {
+          "label": "B",
+          "text": "Tonsillar branch of the facial artery"
+        },
+        {
+          "label": "C",
+          "text": "Ascending pharyngeal artery"
+        },
+        {
+          "label": "D",
+          "text": "Maxillary artery"
+        },
+        {
+          "label": "E",
+          "text": "Superficial temporal artery"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The palatine tonsil is chiefly supplied by the tonsillar branch of the facial artery, which is the main vessel responsible for post-tonsillectomy bleeding. The internal carotid gives no branches in the neck, and the other named external carotid branches supply the tonsil only minimally.",
+        "whyCorrect": "The palatine tonsil is chiefly supplied by the tonsillar branch of the facial artery, which is the main vessel responsible for post-tonsillectomy bleeding. The internal carotid gives no branches in the neck, and the other named external carotid branches supply the tonsil only minimally.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-029_Brick Exchange - Anatomy of the Upper Respiratory Tract_p25_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-030",
+      "topicId": "anatomy-of-the-upper-respiratory-tract",
+      "topicName": "Anatomy of the Upper Respiratory Tract",
+      "stem": "This posterior view shows the laryngopharynx. The deep recess lateral to the laryngeal inlet is clinically important primarily because it is a common site for what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Formation of vocal cord nodules"
+        },
+        {
+          "label": "B",
+          "text": "Origin of the recurrent laryngeal nerve"
+        },
+        {
+          "label": "C",
+          "text": "Drainage of the maxillary sinus"
+        },
+        {
+          "label": "D",
+          "text": "Attachment of the vocal ligament"
+        },
+        {
+          "label": "E",
+          "text": "Impaction of swallowed foreign bodies"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The piriform fossa is a frequent site for lodged foreign bodies (e.g., fish bones); its mucosa also overlies the internal laryngeal nerve, which can be injured during foreign-body removal.",
+        "whyCorrect": "The piriform fossa is a frequent site for lodged foreign bodies (e.g., fish bones); its mucosa also overlies the internal laryngeal nerve, which can be injured during foreign-body removal.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-030_Brick Exchange - Anatomy of the Upper Respiratory Tract_p27_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-031",
+      "topicId": "anatomy-of-the-upper-respiratory-tract",
+      "topicName": "Anatomy of the Upper Respiratory Tract",
+      "stem": "This midsagittal section divides the pharynx into three color-coded regions. Which region contains the openings of the pharyngotympanic (auditory) tubes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nasopharynx"
+        },
+        {
+          "label": "B",
+          "text": "Laryngopharynx"
+        },
+        {
+          "label": "C",
+          "text": "Oropharynx"
+        },
+        {
+          "label": "D",
+          "text": "Larynx"
+        },
+        {
+          "label": "E",
+          "text": "Esophagus"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The auditory (Eustachian) tubes open into the lateral walls of the nasopharynx, allowing middle-ear pressure equalization; this explains why nasopharyngeal pathology can cause conductive hearing problems.",
+        "whyCorrect": "The auditory (Eustachian) tubes open into the lateral walls of the nasopharynx, allowing middle-ear pressure equalization; this explains why nasopharyngeal pathology can cause conductive hearing problems.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-031_Brick Exchange - Anatomy of the Upper Respiratory Tract_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-032",
+      "topicId": "anatomy-of-the-upper-respiratory-tract",
+      "topicName": "Anatomy of the Upper Respiratory Tract",
+      "stem": "In this anterior view of the laryngeal skeleton, the membrane bridging the two lower cartilages is the site incised during which emergency airway procedure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Superior laryngeal nerve block"
+        },
+        {
+          "label": "B",
+          "text": "Cricothyroidotomy"
+        },
+        {
+          "label": "C",
+          "text": "Tracheostomy at the second tracheal ring"
+        },
+        {
+          "label": "D",
+          "text": "Percutaneous thyroid biopsy"
+        },
+        {
+          "label": "E",
+          "text": "Needle pericardiocentesis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The cricothyroid membrane, lying between the thyroid and cricoid cartilages, is the landmark for an emergency cricothyroidotomy because it is superficial, relatively avascular, and easily palpable.",
+        "whyCorrect": "The cricothyroid membrane, lying between the thyroid and cricoid cartilages, is the landmark for an emergency cricothyroidotomy because it is superficial, relatively avascular, and easily palpable.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-032_Brick Exchange - Anatomy of the Upper Respiratory Tract_p31_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-033",
+      "topicId": "anatomy-of-the-upper-respiratory-tract",
+      "topicName": "Anatomy of the Upper Respiratory Tract",
+      "stem": "This endoscopic photograph shows the laryngeal inlet during laryngoscopy. The paired mobile structures at the posterior ends of the vocal cords are functionally important because they do what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Rotate to abduct and adduct the vocal cords"
+        },
+        {
+          "label": "B",
+          "text": "Filter particulate matter from inspired air"
+        },
+        {
+          "label": "C",
+          "text": "Secrete surfactant into the airway"
+        },
+        {
+          "label": "D",
+          "text": "Anchor the epiglottis to the hyoid bone"
+        },
+        {
+          "label": "E",
+          "text": "Sense blood oxygen tension"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The arytenoid cartilages articulate with the cricoid and are moved by the intrinsic laryngeal muscles; their rotation and gliding open and close the rima glottidis, controlling airflow and phonation.",
+        "whyCorrect": "The arytenoid cartilages articulate with the cricoid and are moved by the intrinsic laryngeal muscles; their rotation and gliding open and close the rima glottidis, controlling airflow and phonation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-033_Brick Exchange - Anatomy of the Upper Respiratory Tract_p33_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-034",
+      "topicId": "anatomy-of-the-upper-respiratory-tract",
+      "topicName": "Anatomy of the Upper Respiratory Tract",
+      "stem": "This sagittal figure shows the structures forming the nasal septum. The bony part of the septum is formed principally by which two bones?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sphenoid bone and frontal bone"
+        },
+        {
+          "label": "B",
+          "text": "Frontal bone and nasal bone"
+        },
+        {
+          "label": "C",
+          "text": "Vomer and sphenoid bone"
+        },
+        {
+          "label": "D",
+          "text": "Nasal bone and septal cartilage"
+        },
+        {
+          "label": "E",
+          "text": "Perpendicular plate of the ethmoid and the vomer"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The bony nasal septum is formed superiorly by the perpendicular plate of the ethmoid and inferiorly/posteriorly by the vomer, with the septal cartilage completing the septum anteriorly.",
+        "whyCorrect": "The bony nasal septum is formed superiorly by the perpendicular plate of the ethmoid and inferiorly/posteriorly by the vomer, with the septal cartilage completing the septum anteriorly.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-034_Brick Exchange - Anatomy of the Upper Respiratory Tract_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-035",
+      "topicId": "anatomy-of-the-upper-respiratory-tract",
+      "topicName": "Anatomy of the Upper Respiratory Tract",
+      "stem": "This coronal section through the facial skeleton shows several air-filled, mucosa-lined cavities embedded within the frontal, ethmoid, sphenoid, and maxillary bones. What is the primary functional role of these paired cavities?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They lighten the skull and help warm and humidify inspired air"
+        },
+        {
+          "label": "B",
+          "text": "They provide the bony attachment for the extraocular muscles"
+        },
+        {
+          "label": "C",
+          "text": "They produce and secrete tears that drain to the eye"
+        },
+        {
+          "label": "D",
+          "text": "They house the primary olfactory receptor neurons"
+        },
+        {
+          "label": "E",
+          "text": "They generate cerebrospinal fluid for the anterior cranial fossa"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The cavities shown are the paranasal sinuses (frontal, ethmoid, sphenoid, maxillary). They reduce skull weight, add resonance to the voice, and their mucosa helps condition (warm/humidify) inspired air. Olfaction occurs at the cribriform plate, and tear production is a lacrimal-gland function.",
+        "whyCorrect": "The cavities shown are the paranasal sinuses (frontal, ethmoid, sphenoid, maxillary). They reduce skull weight, add resonance to the voice, and their mucosa helps condition (warm/humidify) inspired air. Olfaction occurs at the cribriform plate, and tear production is a lacrimal-gland function.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-035_Brick Exchange - Anatomy of the Upper Respiratory Tract_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-036",
+      "topicId": "anatomy-of-the-upper-respiratory-tract",
+      "topicName": "Anatomy of the Upper Respiratory Tract",
+      "stem": "This coronal view of the nasal cavity highlights three paired, scroll-like bony projections along the lateral wall (color-coded) with air passages beneath each. What is the chief physiologic purpose of these projections?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They anchor the vocal cords during phonation"
+        },
+        {
+          "label": "B",
+          "text": "They serve as the primary site of gas exchange"
+        },
+        {
+          "label": "C",
+          "text": "They contain the sensory endings for the gag reflex"
+        },
+        {
+          "label": "D",
+          "text": "They form the bony support of the hard palate"
+        },
+        {
+          "label": "E",
+          "text": "They increase mucosal surface area to warm, humidify, and filter inspired air"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The projections are the nasal conchae (turbinates). By creating turbulent airflow over a large mucosal surface, they warm, humidify, and filter inspired air. The spaces beneath them are the meatuses, into which sinuses and the nasolacrimal duct drain.",
+        "whyCorrect": "The projections are the nasal conchae (turbinates). By creating turbulent airflow over a large mucosal surface, they warm, humidify, and filter inspired air. The spaces beneath them are the meatuses, into which sinuses and the nasolacrimal duct drain.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-036_Brick Exchange - Anatomy of the Upper Respiratory Tract_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-037",
+      "topicId": "anatomy-of-the-upper-respiratory-tract",
+      "topicName": "Anatomy of the Upper Respiratory Tract",
+      "stem": "This sagittal view of the lateral nasal wall shows the openings of the paranasal sinuses and the nasolacrimal duct into the nasal passages. What clinical phenomenon is explained by the drainage pathway of the nasolacrimal duct shown here?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Loss of smell when the frontal sinus is blocked"
+        },
+        {
+          "label": "B",
+          "text": "Referred ear pain during swallowing"
+        },
+        {
+          "label": "C",
+          "text": "A runny nose when crying"
+        },
+        {
+          "label": "D",
+          "text": "Hoarseness caused by postnasal drip onto the vocal cords"
+        },
+        {
+          "label": "E",
+          "text": "Nosebleeds arising from the sphenoid sinus"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The nasolacrimal duct drains lacrimal fluid from the medial canthus of the eye into the inferior meatus of the nasal cavity. This is why excess tears (crying) produce a runny nose. Most paranasal sinuses drain into the middle meatus.",
+        "whyCorrect": "The nasolacrimal duct drains lacrimal fluid from the medial canthus of the eye into the inferior meatus of the nasal cavity. This is why excess tears (crying) produce a runny nose. Most paranasal sinuses drain into the middle meatus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-037_Brick Exchange - Anatomy of the Upper Respiratory Tract_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-415",
+      "topicId": "anatomy-of-the-upper-respiratory-tract",
+      "topicName": "Anatomy of the Upper Respiratory Tract",
+      "stem": "The larynx is divided into the three regions shown. Cancers arising in the middle region tend to present early and carry a relatively good prognosis because that region has which feature?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ciliated pseudostratified epithelium"
+        },
+        {
+          "label": "B",
+          "text": "Direct venous drainage into the portal system"
+        },
+        {
+          "label": "C",
+          "text": "Sparse lymphatic drainage"
+        },
+        {
+          "label": "D",
+          "text": "A dual arterial blood supply"
+        },
+        {
+          "label": "E",
+          "text": "The richest lymphatic drainage of the three"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The glottis (true cords) has minimal lymphatic drainage, so glottic carcinomas metastasize late and cause early hoarseness, giving them a better prognosis than the richly drained supraglottic and subglottic regions.",
+        "whyCorrect": "The glottis (true cords) has minimal lymphatic drainage, so glottic carcinomas metastasize late and cause early hoarseness, giving them a better prognosis than the richly drained supraglottic and subglottic regions.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-415_Brick Exchange - Anatomy of the Upper Respiratory Tract_p30_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-621",
+      "topicId": "anatomy-of-the-upper-respiratory-tract",
+      "topicName": "Anatomy of the Upper Respiratory Tract",
+      "stem": "This sagittal section shows the superior, middle, and inferior turbinates projecting into the nasal cavity. What is their main physiological role?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They vibrate to produce the sound of the voice"
+        },
+        {
+          "label": "B",
+          "text": "They act as the primary site of oxygen absorption"
+        },
+        {
+          "label": "C",
+          "text": "They generate the pressure gradient that drives airflow"
+        },
+        {
+          "label": "D",
+          "text": "They house the cells that produce pulmonary surfactant"
+        },
+        {
+          "label": "E",
+          "text": "They increase mucosal surface area to warm, humidify, and filter inhaled air"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The turbinates (conchae) create turbulent airflow over a large mucosal surface, conditioning inspired air by warming, humidifying, and trapping particles before it reaches the lower airway.",
+        "whyCorrect": "The turbinates (conchae) create turbulent airflow over a large mucosal surface, conditioning inspired air by warming, humidifying, and trapping particles before it reaches the lower airway.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-621_Brick Exchange - Anatomy of the Upper Respiratory Tract_p19_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-622",
+      "topicId": "anatomy-of-the-upper-respiratory-tract",
+      "topicName": "Anatomy of the Upper Respiratory Tract",
+      "stem": "In this lateral view, structure 16 marks the carotid bifurcation with its associated carotid body. What is the primary function of the carotid body?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is a venous sinus that drains cerebral blood"
+        },
+        {
+          "label": "B",
+          "text": "It is a peripheral chemoreceptor"
+        },
+        {
+          "label": "C",
+          "text": "It is a lymph node filtering head and neck lymph"
+        },
+        {
+          "label": "D",
+          "text": "It secretes hormones that regulate calcium levels"
+        },
+        {
+          "label": "E",
+          "text": "It is a baroreceptor that senses arterial blood pressure"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The carotid body at the bifurcation is a peripheral chemoreceptor. Falling PaO2 (or rising CO2 / falling pH) triggers it to increase ventilation via the glossopharyngeal nerve. The nearby carotid sinus is the baroreceptor.",
+        "whyCorrect": "The carotid body at the bifurcation is a peripheral chemoreceptor. Falling PaO2 (or rising CO2 / falling pH) triggers it to increase ventilation via the glossopharyngeal nerve. The nearby carotid sinus is the baroreceptor.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-622_Brick Exchange - Anatomy of the Upper Respiratory Tract_p20_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-623",
+      "topicId": "anatomy-of-the-upper-respiratory-tract",
+      "topicName": "Anatomy of the Upper Respiratory Tract",
+      "stem": "In this midsagittal section, the leaf-shaped structure at the base of the tongue performs which protective action during swallowing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vibrates to produce voiced sound"
+        },
+        {
+          "label": "B",
+          "text": "Folds down over the laryngeal inlet"
+        },
+        {
+          "label": "C",
+          "text": "Contracts to raise intrathoracic pressure"
+        },
+        {
+          "label": "D",
+          "text": "Warms and humidifies inspired air"
+        },
+        {
+          "label": "E",
+          "text": "Traps particles with a mucociliary escalator"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The epiglottis is a flap of elastic cartilage that folds posteriorly over the laryngeal aditus during deglutition, directing the bolus into the esophagus and protecting the airway from aspiration.",
+        "whyCorrect": "The epiglottis is a flap of elastic cartilage that folds posteriorly over the laryngeal aditus during deglutition, directing the bolus into the esophagus and protecting the airway from aspiration.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-623_Brick Exchange - Anatomy of the Upper Respiratory Tract_p26_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-624",
+      "topicId": "anatomy-of-the-upper-respiratory-tract",
+      "topicName": "Anatomy of the Upper Respiratory Tract",
+      "stem": "This posterior dissection shows three overlapping muscles of the pharyngeal wall. Their coordinated contraction accomplishes what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Protrusion of the tongue"
+        },
+        {
+          "label": "B",
+          "text": "Sequential constriction that propels a food bolus"
+        },
+        {
+          "label": "C",
+          "text": "Abduction of the vocal cords during inspiration"
+        },
+        {
+          "label": "D",
+          "text": "Depression of the hyoid bone after swallowing"
+        },
+        {
+          "label": "E",
+          "text": "Elevation of the soft palate to seal the nasopharynx"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The superior, middle, and inferior pharyngeal constrictors contract in sequence during the pharyngeal phase of swallowing, squeezing the bolus inferiorly into the esophagus.",
+        "whyCorrect": "The superior, middle, and inferior pharyngeal constrictors contract in sequence during the pharyngeal phase of swallowing, squeezing the bolus inferiorly into the esophagus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-624_Brick Exchange - Anatomy of the Upper Respiratory Tract_p28_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-625",
+      "topicId": "anatomy-of-the-upper-respiratory-tract",
+      "topicName": "Anatomy of the Upper Respiratory Tract",
+      "stem": "This is the view of the larynx seen during laryngoscopy. The paired pale white folds are the true vocal cords, which appear whiter than the surrounding mucosa mainly because they are what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Relatively avascular"
+        },
+        {
+          "label": "B",
+          "text": "Densely packed with blood-filled sinusoids"
+        },
+        {
+          "label": "C",
+          "text": "Coated with a thick layer of mucus"
+        },
+        {
+          "label": "D",
+          "text": "Composed of hyaline cartilage"
+        },
+        {
+          "label": "E",
+          "text": "Lined by pigmented olfactory epithelium"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The true vocal folds have little blood supply and are covered by stratified squamous epithelium over the dense vocal ligament, so they appear pearly white compared with the well-vascularized false (vestibular) folds above them.",
+        "whyCorrect": "The true vocal folds have little blood supply and are covered by stratified squamous epithelium over the dense vocal ligament, so they appear pearly white compared with the well-vascularized false (vestibular) folds above them.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-625_Brick Exchange - Anatomy of the Upper Respiratory Tract_p32_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-626",
+      "topicId": "anatomy-of-the-upper-respiratory-tract",
+      "topicName": "Anatomy of the Upper Respiratory Tract",
+      "stem": "This endoscopic image captures the vocal folds during phonation. Sound is produced when what happens?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Expired air passes through the adducted cords"
+        },
+        {
+          "label": "B",
+          "text": "The epiglottis vibrates against the tongue base"
+        },
+        {
+          "label": "C",
+          "text": "Mucus is secreted onto the cord surface"
+        },
+        {
+          "label": "D",
+          "text": "Cartilage rings expand and recoil passively"
+        },
+        {
+          "label": "E",
+          "text": "The cords are maximally abducted to widen the airway"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "During phonation the vocal cords are adducted to narrow the rima glottidis; expired air forced through the narrow gap sets the cords vibrating, and pitch is varied by changing their tension and length.",
+        "whyCorrect": "During phonation the vocal cords are adducted to narrow the rima glottidis; expired air forced through the narrow gap sets the cords vibrating, and pitch is varied by changing their tension and length.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-626_Brick Exchange - Anatomy of the Upper Respiratory Tract_p34_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-627",
+      "topicId": "anatomy-of-the-upper-respiratory-tract",
+      "topicName": "Anatomy of the Upper Respiratory Tract",
+      "stem": "In these posterior and lateral views of the intrinsic laryngeal muscles, one highlighted muscle is unique among them all. What is that unique function?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is the only muscle that abducts (opens) the vocal cords"
+        },
+        {
+          "label": "B",
+          "text": "It is the only muscle supplied by the superior laryngeal nerve"
+        },
+        {
+          "label": "C",
+          "text": "It is the only muscle that tenses the cords"
+        },
+        {
+          "label": "D",
+          "text": "It is the only muscle that adducts the vocal cords"
+        },
+        {
+          "label": "E",
+          "text": "It is the only muscle attached to the hyoid bone"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The posterior cricoarytenoid is the sole abductor of the vocal cords, opening the rima glottidis for breathing; bilateral paralysis is life-threatening because the cords cannot be separated.",
+        "whyCorrect": "The posterior cricoarytenoid is the sole abductor of the vocal cords, opening the rima glottidis for breathing; bilateral paralysis is life-threatening because the cords cannot be separated.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-627_Brick Exchange - Anatomy of the Upper Respiratory Tract_p36_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-628",
+      "topicId": "anatomy-of-the-upper-respiratory-tract",
+      "topicName": "Anatomy of the Upper Respiratory Tract",
+      "stem": "This lateral dissection of the larynx highlights an intrinsic muscle running from the cricoid to the arytenoid on the side of the larynx. Its primary action is to do what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Elevate the entire larynx during swallowing"
+        },
+        {
+          "label": "B",
+          "text": "Tense the tympanic membrane"
+        },
+        {
+          "label": "C",
+          "text": "Depress the hyoid bone after swallowing"
+        },
+        {
+          "label": "D",
+          "text": "Adduct the vocal cords, closing the rima glottidis"
+        },
+        {
+          "label": "E",
+          "text": "Abduct the vocal cords, opening the rima glottidis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The lateral cricoarytenoid rotates the arytenoid cartilages to adduct the vocal cords and close the rima glottidis, an essential action for phonation and for protecting the airway.",
+        "whyCorrect": "The lateral cricoarytenoid rotates the arytenoid cartilages to adduct the vocal cords and close the rima glottidis, an essential action for phonation and for protecting the airway.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-628_Brick Exchange - Anatomy of the Upper Respiratory Tract_p36_2.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-629",
+      "topicId": "anatomy-of-the-upper-respiratory-tract",
+      "topicName": "Anatomy of the Upper Respiratory Tract",
+      "stem": "This dissection shows the suprahyoid muscle group (digastric, mylohyoid, geniohyoid, stylohyoid). Acting together, these muscles do what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Depress the hyoid bone and larynx"
+        },
+        {
+          "label": "B",
+          "text": "Rotate the head to the opposite side"
+        },
+        {
+          "label": "C",
+          "text": "Abduct the vocal cords"
+        },
+        {
+          "label": "D",
+          "text": "Constrict the pharynx to propel a bolus"
+        },
+        {
+          "label": "E",
+          "text": "Elevate the hyoid bone and larynx"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The suprahyoid muscles run from the skull and mandible to the hyoid; their contraction raises the hyoid and larynx, an important step in swallowing that helps close the airway.",
+        "whyCorrect": "The suprahyoid muscles run from the skull and mandible to the hyoid; their contraction raises the hyoid and larynx, an important step in swallowing that helps close the airway.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-629_Brick Exchange - Anatomy of the Upper Respiratory Tract_p38_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-630",
+      "topicId": "anatomy-of-the-upper-respiratory-tract",
+      "topicName": "Anatomy of the Upper Respiratory Tract",
+      "stem": "This dissection shows the infrahyoid (strap) muscles. Their principal collective action is what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Open the auditory tube"
+        },
+        {
+          "label": "B",
+          "text": "Depress the hyoid bone and larynx"
+        },
+        {
+          "label": "C",
+          "text": "Elevate the hyoid bone and larynx"
+        },
+        {
+          "label": "D",
+          "text": "Protrude the tongue"
+        },
+        {
+          "label": "E",
+          "text": "Tense the vocal cords"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The infrahyoid strap muscles (sternohyoid, sternothyroid, thyrohyoid, omohyoid) depress and stabilize the hyoid and larynx, returning them to position after the suprahyoid muscles have elevated them during swallowing.",
+        "whyCorrect": "The infrahyoid strap muscles (sternohyoid, sternothyroid, thyrohyoid, omohyoid) depress and stabilize the hyoid and larynx, returning them to position after the suprahyoid muscles have elevated them during swallowing.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-630_Brick Exchange - Anatomy of the Upper Respiratory Tract_p38_2.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-631",
+      "topicId": "anatomy-of-the-upper-respiratory-tract",
+      "topicName": "Anatomy of the Upper Respiratory Tract",
+      "stem": "This figure color-codes the extrinsic muscles of the tongue. Which of these muscles protrudes the tongue, so that when it is paralyzed on one side the protruded tongue deviates toward the affected side?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Geniohyoid"
+        },
+        {
+          "label": "B",
+          "text": "Styloglossus"
+        },
+        {
+          "label": "C",
+          "text": "Genioglossus"
+        },
+        {
+          "label": "D",
+          "text": "Hyoglossus"
+        },
+        {
+          "label": "E",
+          "text": "Palatoglossus"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Genioglossus protrudes the tongue; with a unilateral hypoglossal (CN XII) lesion the intact side pushes across the midline, so the tongue deviates toward the weak side on protrusion.",
+        "whyCorrect": "Genioglossus protrudes the tongue; with a unilateral hypoglossal (CN XII) lesion the intact side pushes across the midline, so the tongue deviates toward the weak side on protrusion.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-631_Brick Exchange - Anatomy of the Upper Respiratory Tract_p39_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-632",
+      "topicId": "anatomy-of-the-upper-respiratory-tract",
+      "topicName": "Anatomy of the Upper Respiratory Tract",
+      "stem": "This figure shows the nerve supply of the larynx. Injury to the nerve looping below the larynx (for example during thyroid surgery) most characteristically produces what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anesthesia of the facial skin"
+        },
+        {
+          "label": "B",
+          "text": "Complete loss of smell"
+        },
+        {
+          "label": "C",
+          "text": "Hoarseness from vocal cord paralysis"
+        },
+        {
+          "label": "D",
+          "text": "Inability to elevate the soft palate"
+        },
+        {
+          "label": "E",
+          "text": "Loss of taste on the anterior tongue"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The recurrent laryngeal nerve supplies all intrinsic laryngeal muscles except the cricothyroid; injury (a risk in thyroid surgery, where it runs near the inferior thyroid artery) causes vocal cord paralysis and hoarseness.",
+        "whyCorrect": "The recurrent laryngeal nerve supplies all intrinsic laryngeal muscles except the cricothyroid; injury (a risk in thyroid surgery, where it runs near the inferior thyroid artery) causes vocal cord paralysis and hoarseness.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-632_Brick Exchange - Anatomy of the Upper Respiratory Tract_p41_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-633",
+      "topicId": "anatomy-of-the-upper-respiratory-tract",
+      "topicName": "Anatomy of the Upper Respiratory Tract",
+      "stem": "This sagittal view divides the nasal cavity into functional regions. The small region highlighted orange at the roof of the cavity is responsible for which function?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Detection of smell (olfaction)"
+        },
+        {
+          "label": "B",
+          "text": "Drainage of tears into the nose"
+        },
+        {
+          "label": "C",
+          "text": "Warming and humidifying air"
+        },
+        {
+          "label": "D",
+          "text": "Production of voiced sound"
+        },
+        {
+          "label": "E",
+          "text": "Equalization of middle-ear pressure"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The olfactory region at the roof of the nasal cavity is lined by specialized olfactory epithelium containing bipolar sensory neurons that detect odorants; the larger respiratory region conditions inspired air.",
+        "whyCorrect": "The olfactory region at the roof of the nasal cavity is lined by specialized olfactory epithelium containing bipolar sensory neurons that detect odorants; the larger respiratory region conditions inspired air.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-633_Brick Exchange - Anatomy of the Upper Respiratory Tract_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-016",
+      "topicId": "anatomy-of-the-lower-respiratory-tract",
+      "topicName": "Anatomy of the Lower Respiratory Tract",
+      "stem": "This figure contrasts the lobes of the right and left lungs. Why does the left lung have fewer lobes than the right?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The diaphragm rises higher on the left, compressing a lobe"
+        },
+        {
+          "label": "B",
+          "text": "The left main bronchus fails to branch during development"
+        },
+        {
+          "label": "C",
+          "text": "The left lung is supplied by only one pulmonary artery"
+        },
+        {
+          "label": "D",
+          "text": "The heart occupies space on the left (the cardiac notch)"
+        },
+        {
+          "label": "E",
+          "text": "The left lung lacks a visceral pleura over its middle region"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The right lung has three lobes (superior, middle, inferior) while the left has two (superior, inferior). The heart's leftward position creates the cardiac notch and lingula, leaving space for only two lobes on the left.",
+        "whyCorrect": "The right lung has three lobes (superior, middle, inferior) while the left has two (superior, inferior). The heart's leftward position creates the cardiac notch and lingula, leaving space for only two lobes on the left.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-016_Brick Exchange - Anatomy of the Lower Respiratory Tract_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-017",
+      "topicId": "anatomy-of-the-lower-respiratory-tract",
+      "topicName": "Anatomy of the Lower Respiratory Tract",
+      "stem": "This figure highlights the root (hilum) of the lung. What is the functional significance of this region?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is the region that produces surfactant to reduce surface tension"
+        },
+        {
+          "label": "B",
+          "text": "It is where the two pleural layers become continuous with the diaphragm"
+        },
+        {
+          "label": "C",
+          "text": "It is the site of gas exchange between alveoli and capillaries"
+        },
+        {
+          "label": "D",
+          "text": "It is where the bronchus, pulmonary vessels, and nerves enter and leave the lung"
+        },
+        {
+          "label": "E",
+          "text": "It is the point at which the trachea divides into main bronchi"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The hilum (lung root) is the medial gateway where the main bronchus, pulmonary artery, pulmonary veins, bronchial vessels, lymphatics, and nerves pass between the mediastinum and the lung.",
+        "whyCorrect": "The hilum (lung root) is the medial gateway where the main bronchus, pulmonary artery, pulmonary veins, bronchial vessels, lymphatics, and nerves pass between the mediastinum and the lung.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-017_Brick Exchange - Anatomy of the Lower Respiratory Tract_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-018",
+      "topicId": "anatomy-of-the-lower-respiratory-tract",
+      "topicName": "Anatomy of the Lower Respiratory Tract",
+      "stem": "This diagram maps the lymph nodes draining the lungs. Why is knowledge of this drainage pattern clinically important?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It identifies the sites where oxygen enters the bloodstream"
+        },
+        {
+          "label": "B",
+          "text": "It locates the pacemaker cells that set respiratory rhythm"
+        },
+        {
+          "label": "C",
+          "text": "It predicts the pathway by which lung cancer spreads"
+        },
+        {
+          "label": "D",
+          "text": "It marks where the phrenic nerve stimulates the diaphragm"
+        },
+        {
+          "label": "E",
+          "text": "It shows where surfactant is reabsorbed after each breath"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Bronchopulmonary (hilar) nodes drain to mediastinal and then supraclavicular nodes. This orderly pattern determines how bronchogenic carcinoma metastasizes and underlies lymph-node staging.",
+        "whyCorrect": "Bronchopulmonary (hilar) nodes drain to mediastinal and then supraclavicular nodes. This orderly pattern determines how bronchogenic carcinoma metastasizes and underlies lymph-node staging.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-018_Brick Exchange - Anatomy of the Lower Respiratory Tract_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-019",
+      "topicId": "anatomy-of-the-lower-respiratory-tract",
+      "topicName": "Anatomy of the Lower Respiratory Tract",
+      "stem": "The magnified inset shows the two pleural layers with a thin gap between them. What is the primary function of this pleural space?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It stores reserve air used during forced expiration"
+        },
+        {
+          "label": "B",
+          "text": "It is the main site of oxygen and carbon dioxide exchange"
+        },
+        {
+          "label": "C",
+          "text": "It generates the negative pressure by secreting surfactant"
+        },
+        {
+          "label": "D",
+          "text": "It houses the lymph nodes that drain the lung parenchyma"
+        },
+        {
+          "label": "E",
+          "text": "Its thin fluid film couples the lung to the chest wall"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The visceral and parietal pleurae are separated by a thin serous fluid film. Surface tension of this fluid keeps the lung apposed to the chest wall while allowing frictionless sliding; the costodiaphragmatic recess provides expansion room during inspiration.",
+        "whyCorrect": "The visceral and parietal pleurae are separated by a thin serous fluid film. Surface tension of this fluid keeps the lung apposed to the chest wall while allowing frictionless sliding; the costodiaphragmatic recess provides expansion room during inspiration.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-019_Brick Exchange - Anatomy of the Lower Respiratory Tract_p20_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-020",
+      "topicId": "anatomy-of-the-lower-respiratory-tract",
+      "topicName": "Anatomy of the Lower Respiratory Tract",
+      "stem": "This resin cast fills the hollow airways down to their finest branches. What anatomical structure is being displayed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The pulmonary arterial tree"
+        },
+        {
+          "label": "B",
+          "text": "The pulmonary venous network"
+        },
+        {
+          "label": "C",
+          "text": "The bronchial artery circulation"
+        },
+        {
+          "label": "D",
+          "text": "The thoracic lymphatic vessels"
+        },
+        {
+          "label": "E",
+          "text": "The bronchial tree"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The cast shows the trachea dividing at the carina into main bronchi that branch repeatedly into progressively smaller bronchi and bronchioles, forming the tree-like conducting airways of the lungs.",
+        "whyCorrect": "The cast shows the trachea dividing at the carina into main bronchi that branch repeatedly into progressively smaller bronchi and bronchioles, forming the tree-like conducting airways of the lungs.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-020_Brick Exchange - Anatomy of the Lower Respiratory Tract_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-021",
+      "topicId": "anatomy-of-the-lower-respiratory-tract",
+      "topicName": "Anatomy of the Lower Respiratory Tract",
+      "stem": "The trachea divides at the carina into the primary bronchi shown here. Why is an aspirated foreign body more likely to lodge in the right main bronchus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The left bronchus has stronger ciliary clearance"
+        },
+        {
+          "label": "B",
+          "text": "The right main bronchus is wider, shorter, and more vertical than the left"
+        },
+        {
+          "label": "C",
+          "text": "The right bronchus lacks protective cartilage rings"
+        },
+        {
+          "label": "D",
+          "text": "The right bronchus branches before reaching the lung"
+        },
+        {
+          "label": "E",
+          "text": "The left bronchus is guarded by the epiglottis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Because the right main bronchus descends at a steeper, more vertical angle and has a larger caliber, gravity directs aspirated material into it more often than into the more horizontal left bronchus.",
+        "whyCorrect": "Because the right main bronchus descends at a steeper, more vertical angle and has a larger caliber, gravity directs aspirated material into it more often than into the more horizontal left bronchus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-021_Brick Exchange - Anatomy of the Lower Respiratory Tract_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-022",
+      "topicId": "anatomy-of-the-lower-respiratory-tract",
+      "topicName": "Anatomy of the Lower Respiratory Tract",
+      "stem": "Each colored region of these lungs is fed by its own tertiary bronchus and artery. What are these functionally independent units called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Alveolar sacs"
+        },
+        {
+          "label": "B",
+          "text": "Bronchopulmonary segments"
+        },
+        {
+          "label": "C",
+          "text": "Pleural recesses"
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary lobules"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary acini"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A bronchopulmonary segment is supplied by a single segmental (tertiary) bronchus and segmental artery. Because each is a discrete unit, a diseased segment can be surgically resected without disrupting its neighbors.",
+        "whyCorrect": "A bronchopulmonary segment is supplied by a single segmental (tertiary) bronchus and segmental artery. Because each is a discrete unit, a diseased segment can be surgically resected without disrupting its neighbors.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-022_Brick Exchange - Anatomy of the Lower Respiratory Tract_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-188",
+      "topicId": "anatomy-of-the-lower-respiratory-tract",
+      "topicName": "Anatomy of the Lower Respiratory Tract",
+      "stem": "On this normal PA chest radiograph, why do the lung fields appear dark (radiolucent) compared with the central heart shadow?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bone in the lung fields scatters the beam away from the detector"
+        },
+        {
+          "label": "B",
+          "text": "The lungs contain dense muscle that blocks the X-ray beam"
+        },
+        {
+          "label": "C",
+          "text": "The heart emits radiation that exposes the surrounding film"
+        },
+        {
+          "label": "D",
+          "text": "The air-filled lungs absorb little radiation"
+        },
+        {
+          "label": "E",
+          "text": "Contrast dye has been injected into the pulmonary vessels"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Air is far less radio-dense than soft tissue or bone. X-rays pass easily through the air-filled alveoli and expose (darken) the film, whereas the muscular, blood-filled heart absorbs the beam and appears white.",
+        "whyCorrect": "Air is far less radio-dense than soft tissue or bone. X-rays pass easily through the air-filled alveoli and expose (darken) the film, whereas the muscular, blood-filled heart absorbs the beam and appears white.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-188_Brick Exchange - Anatomy of the Lower Respiratory Tract_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-189",
+      "topicId": "anatomy-of-the-lower-respiratory-tract",
+      "topicName": "Anatomy of the Lower Respiratory Tract",
+      "stem": "The pretreatment chest X-ray (arrow) shows homogeneous white opacity blunting the right costophrenic angle that clears after treatment. What abnormality does this most likely represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lobar pneumonia consolidation"
+        },
+        {
+          "label": "B",
+          "text": "Cardiomegaly"
+        },
+        {
+          "label": "C",
+          "text": "Pleural effusion"
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary fibrosis"
+        },
+        {
+          "label": "E",
+          "text": "Tension pneumothorax"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Fluid in the pleural space (pleural effusion) is dense and layers dependently, producing a white opacity that blunts the costophrenic angle. Drainage or treatment restores the normal dark, air-filled lung seen post-treatment.",
+        "whyCorrect": "Fluid in the pleural space (pleural effusion) is dense and layers dependently, producing a white opacity that blunts the costophrenic angle. Drainage or treatment restores the normal dark, air-filled lung seen post-treatment.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-189_Brick Exchange - Anatomy of the Lower Respiratory Tract_p22_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-619",
+      "topicId": "anatomy-of-the-lower-respiratory-tract",
+      "topicName": "Anatomy of the Lower Respiratory Tract",
+      "stem": "The airways from the trachea through the terminal bronchioles are grouped as the 'conducting zone.' What physiological property defines this zone?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is the primary site of oxygen–carbon dioxide exchange"
+        },
+        {
+          "label": "B",
+          "text": "It is lined entirely by gas-exchanging alveoli"
+        },
+        {
+          "label": "C",
+          "text": "It is where pulmonary capillaries first contact air"
+        },
+        {
+          "label": "D",
+          "text": "It actively secretes surfactant to reduce surface tension"
+        },
+        {
+          "label": "E",
+          "text": "It carries air but performs no gas exchange"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The conducting zone (trachea to terminal bronchioles) warms, humidifies, and channels air but has no alveoli, so it constitutes anatomic dead space. Gas exchange begins only in the respiratory zone (respiratory bronchioles, alveolar ducts, and sacs).",
+        "whyCorrect": "The conducting zone (trachea to terminal bronchioles) warms, humidifies, and channels air but has no alveoli, so it constitutes anatomic dead space. Gas exchange begins only in the respiratory zone (respiratory bronchioles, alveolar ducts, and sacs).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-619_Brick Exchange - Anatomy of the Lower Respiratory Tract_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-620",
+      "topicId": "anatomy-of-the-lower-respiratory-tract",
+      "topicName": "Anatomy of the Lower Respiratory Tract",
+      "stem": "This overview divides the airway into a conducting zone and a respiratory zone. What distinguishes the respiratory zone?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It comprises the trachea and main bronchi that transmit air"
+        },
+        {
+          "label": "B",
+          "text": "It is the region cleared by the mucociliary escalator alone"
+        },
+        {
+          "label": "C",
+          "text": "It warms, humidifies, and filters incoming air only"
+        },
+        {
+          "label": "D",
+          "text": "It is lined by vocal cords that generate sound"
+        },
+        {
+          "label": "E",
+          "text": "It contains alveoli where gas exchange actually occurs"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The conducting zone (nose through terminal bronchioles) transports, warms, and cleans air but has no alveoli. The respiratory zone (respiratory bronchioles, alveolar ducts and sacs, alveoli) is where oxygen and carbon dioxide diffuse across the blood-gas barrier.",
+        "whyCorrect": "The conducting zone (nose through terminal bronchioles) transports, warms, and cleans air but has no alveoli. The respiratory zone (respiratory bronchioles, alveolar ducts and sacs, alveoli) is where oxygen and carbon dioxide diffuse across the blood-gas barrier.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-620_Brick Exchange - Anatomy of the Lower Respiratory Tract_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-002",
+      "topicId": "anatomy-of-the-diaphragm-ribs-and-intercostal-muscles",
+      "topicName": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+      "stem": "In this anterior view of the sternum and thoracic skeleton, the palpable ridge between the manubrium and the body is an important surface landmark. The rib that articulates at this ridge marks the level of which structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The xiphisternal joint and the diaphragm dome"
+        },
+        {
+          "label": "B",
+          "text": "The fifth rib and the cardiac apex"
+        },
+        {
+          "label": "C",
+          "text": "The second costal cartilage, used to start counting ribs; it also marks the T4/T5 disc level"
+        },
+        {
+          "label": "D",
+          "text": "The first rib and the apex of the lung"
+        },
+        {
+          "label": "E",
+          "text": "The clavicle and the subclavian vein"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The sternal angle (angle of Louis) is where the manubrium meets the body of the sternum and marks the joint of the second costal cartilage, the reference point for counting ribs. Internally it lies at the T4/T5 intervertebral disc, the level of the aortic arch and the tracheal bifurcation (carina).",
+        "whyCorrect": "The sternal angle (angle of Louis) is where the manubrium meets the body of the sternum and marks the joint of the second costal cartilage, the reference point for counting ribs. Internally it lies at the T4/T5 intervertebral disc, the level of the aortic arch and the tracheal bifurcation (carina).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-002_Brick Exchange - Anatomy of the Diaphragm, Ribs, and Intercostal Muscles_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-003",
+      "topicId": "anatomy-of-the-diaphragm-ribs-and-intercostal-muscles",
+      "topicName": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+      "stem": "This diagram shows the intercostal neurovascular bundle running in the costal groove on the underside of a rib. To avoid injuring this bundle during a thoracocentesis, where should the needle be inserted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Directly along the lower border of the rib above"
+        },
+        {
+          "label": "B",
+          "text": "As close as possible to the vertebral end of the rib"
+        },
+        {
+          "label": "C",
+          "text": "Through the middle of the intercostal space at the costal groove"
+        },
+        {
+          "label": "D",
+          "text": "Just above the upper border of the rib below the target space"
+        },
+        {
+          "label": "E",
+          "text": "Immediately deep to the internal thoracic vessels near the sternum"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The vein, artery and nerve (VAN, superior to inferior) run in the costal groove tucked beneath the lower border of each rib. Inserting the needle just over the top of the rib below the space keeps it away from the main bundle, minimizing the risk of neurovascular injury.",
+        "whyCorrect": "The vein, artery and nerve (VAN, superior to inferior) run in the costal groove tucked beneath the lower border of each rib. Inserting the needle just over the top of the rib below the space keeps it away from the main bundle, minimizing the risk of neurovascular injury.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-003_Brick Exchange - Anatomy of the Diaphragm, Ribs, and Intercostal Muscles_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-004",
+      "topicId": "anatomy-of-the-diaphragm-ribs-and-intercostal-muscles",
+      "topicName": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+      "stem": "This figure labels the muscles associated with breathing. Which of these is the principal muscle responsible for quiet (resting) inspiration?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The rectus abdominis"
+        },
+        {
+          "label": "B",
+          "text": "The external obliques"
+        },
+        {
+          "label": "C",
+          "text": "The internal intercostals"
+        },
+        {
+          "label": "D",
+          "text": "The sternocleidomastoid"
+        },
+        {
+          "label": "E",
+          "text": "The diaphragm"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The diaphragm performs most of the work of quiet inspiration; its contraction flattens the dome, increasing thoracic volume. The scalenes and external intercostals assist, while sternocleidomastoid and other accessory muscles are recruited only in forced inspiration. Abdominal muscles and internal intercostals drive forced expiration.",
+        "whyCorrect": "The diaphragm performs most of the work of quiet inspiration; its contraction flattens the dome, increasing thoracic volume. The scalenes and external intercostals assist, while sternocleidomastoid and other accessory muscles are recruited only in forced inspiration. Abdominal muscles and internal intercostals drive forced expiration.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-004_Brick Exchange - Anatomy of the Diaphragm, Ribs, and Intercostal Muscles_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-005",
+      "topicId": "anatomy-of-the-diaphragm-ribs-and-intercostal-muscles",
+      "topicName": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+      "stem": "This cutaway shows the three layers of intercostal muscle between two ribs. The outermost of these layers, with fibers running downward and forward, has what primary action in breathing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It elevates the ribs during inspiration"
+        },
+        {
+          "label": "B",
+          "text": "It depresses the ribs during forced expiration"
+        },
+        {
+          "label": "C",
+          "text": "It compresses the abdominal contents during coughing"
+        },
+        {
+          "label": "D",
+          "text": "It flattens the diaphragm dome directly"
+        },
+        {
+          "label": "E",
+          "text": "It has no role in ventilation and only stabilizes the spine"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The external intercostal muscles have fibers oriented obliquely downward and forward and act to elevate the ribs, aiding inspiration. The internal and innermost intercostals, with fibers running the opposite way, pull the ribs down and assist forced expiration.",
+        "whyCorrect": "The external intercostal muscles have fibers oriented obliquely downward and forward and act to elevate the ribs, aiding inspiration. The internal and innermost intercostals, with fibers running the opposite way, pull the ribs down and assist forced expiration.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-005_Brick Exchange - Anatomy of the Diaphragm, Ribs, and Intercostal Muscles_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-006",
+      "topicId": "anatomy-of-the-diaphragm-ribs-and-intercostal-muscles",
+      "topicName": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+      "stem": "This dissection of the anterior thoracic wall highlights the segmental nerves (yellow/green) running along the ribs. These nerves that supply the intercostal spaces and thoracic wall are the anterior rami of which spinal nerves?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The cervical plexus nerves C1-C4"
+        },
+        {
+          "label": "B",
+          "text": "The thoracic spinal nerves T1-T11"
+        },
+        {
+          "label": "C",
+          "text": "The vagus nerve (cranial nerve X)"
+        },
+        {
+          "label": "D",
+          "text": "The phrenic nerve from C3-C5"
+        },
+        {
+          "label": "E",
+          "text": "The lumbar plexus nerves L1-L4"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The anterior rami of T1-T11 form the intercostal nerves, which run in the costal grooves with the intercostal vessels and supply the intercostal muscles and overlying skin. The T12 anterior ramus is the subcostal nerve. These are distinct from the phrenic nerve, which innervates the diaphragm.",
+        "whyCorrect": "The anterior rami of T1-T11 form the intercostal nerves, which run in the costal grooves with the intercostal vessels and supply the intercostal muscles and overlying skin. The T12 anterior ramus is the subcostal nerve. These are distinct from the phrenic nerve, which innervates the diaphragm.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-006_Brick Exchange - Anatomy of the Diaphragm, Ribs, and Intercostal Muscles_p21_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-007",
+      "topicId": "anatomy-of-the-diaphragm-ribs-and-intercostal-muscles",
+      "topicName": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+      "stem": "This figure shows the lungs within the rib cage and the pleural recesses at the lung bases. The costodiaphragmatic recess has what important clinical significance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is normally completely filled by lung at all times"
+        },
+        {
+          "label": "B",
+          "text": "It is the most dependent part of the pleural cavity where fluid collects"
+        },
+        {
+          "label": "C",
+          "text": "It is where the trachea bifurcates into main bronchi"
+        },
+        {
+          "label": "D",
+          "text": "It is the site where the phrenic nerve enters the diaphragm"
+        },
+        {
+          "label": "E",
+          "text": "It is the location of the cardiac notch of the left lung"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The costodiaphragmatic recess is the deep pleural gutter between the costal and diaphragmatic pleura that lung tissue only fills during deep inspiration. As the most dependent recess, it is where a pleural effusion first accumulates and is the target for thoracentesis, typically entered in the mid-to-posterior axillary line.",
+        "whyCorrect": "The costodiaphragmatic recess is the deep pleural gutter between the costal and diaphragmatic pleura that lung tissue only fills during deep inspiration. As the most dependent recess, it is where a pleural effusion first accumulates and is the target for thoracentesis, typically entered in the mid-to-posterior axillary line.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-007_Brick Exchange - Anatomy of the Diaphragm, Ribs, and Intercostal Muscles_p22_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-008",
+      "topicId": "anatomy-of-the-diaphragm-ribs-and-intercostal-muscles",
+      "topicName": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+      "stem": "This anterior view of the diaphragm shows its right and left domes. Why does the right dome (right hemidiaphragm) normally sit higher than the left?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The heart rests on the right dome and depresses the left"
+        },
+        {
+          "label": "B",
+          "text": "The right lung is larger and compresses its dome down"
+        },
+        {
+          "label": "C",
+          "text": "The stomach lies under the right dome and elevates it"
+        },
+        {
+          "label": "D",
+          "text": "The liver lies beneath the right dome and pushes it upward"
+        },
+        {
+          "label": "E",
+          "text": "The right crus is shorter than the left crus"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The large right lobe of the liver sits directly under the right hemidiaphragm and pushes it about one intercostal space higher than the left. The left dome is slightly lower partly because of the underlying stomach and the heart resting on it. This is a normal finding on chest imaging.",
+        "whyCorrect": "The large right lobe of the liver sits directly under the right hemidiaphragm and pushes it about one intercostal space higher than the left. The left dome is slightly lower partly because of the underlying stomach and the heart resting on it. This is a normal finding on chest imaging.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-008_Brick Exchange - Anatomy of the Diaphragm, Ribs, and Intercostal Muscles_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-009",
+      "topicId": "anatomy-of-the-diaphragm-ribs-and-intercostal-muscles",
+      "topicName": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+      "stem": "This inferior view of the diaphragm shows the openings for the inferior vena cava, esophagus, and aorta. At which vertebral level does the esophageal hiatus (esophagus opening) lie?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "L1"
+        },
+        {
+          "label": "B",
+          "text": "T12"
+        },
+        {
+          "label": "C",
+          "text": "T10"
+        },
+        {
+          "label": "D",
+          "text": "T6"
+        },
+        {
+          "label": "E",
+          "text": "T8"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The caval opening is at T8, the esophageal hiatus at T10, and the aortic hiatus at T12. Recalling '8-10-12' (vena cava, esophagus/vagus, aorta) links each structure to its level.",
+        "whyCorrect": "The caval opening is at T8, the esophageal hiatus at T10, and the aortic hiatus at T12. Recalling '8-10-12' (vena cava, esophagus/vagus, aorta) links each structure to its level.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-009_Brick Exchange - Anatomy of the Diaphragm, Ribs, and Intercostal Muscles_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-010",
+      "topicId": "anatomy-of-the-diaphragm-ribs-and-intercostal-muscles",
+      "topicName": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+      "stem": "The nerve highlighted in yellow running along the pericardium to the diaphragm provides what functional supply?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Parasympathetic supply to abdominal viscera"
+        },
+        {
+          "label": "B",
+          "text": "Motor supply to the intercostal muscles"
+        },
+        {
+          "label": "C",
+          "text": "Sensory supply to the lung parenchyma"
+        },
+        {
+          "label": "D",
+          "text": "Sympathetic supply to the heart"
+        },
+        {
+          "label": "E",
+          "text": "Motor innervation to the diaphragm"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The phrenic nerve descends alongside the pericardium and provides the sole motor innervation to the diaphragm (plus sensory fibers to the pericardium and central diaphragm).",
+        "whyCorrect": "The phrenic nerve descends alongside the pericardium and provides the sole motor innervation to the diaphragm (plus sensory fibers to the pericardium and central diaphragm).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-010_Brick Exchange - Anatomy of the Diaphragm, Ribs, and Intercostal Muscles_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-011",
+      "topicId": "anatomy-of-the-diaphragm-ribs-and-intercostal-muscles",
+      "topicName": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+      "stem": "The nerve shown branching over the diaphragm (sternal, anterolateral, and posterior branches) arises from which spinal roots?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "C1-C3"
+        },
+        {
+          "label": "B",
+          "text": "L1-L2"
+        },
+        {
+          "label": "C",
+          "text": "T1-T4"
+        },
+        {
+          "label": "D",
+          "text": "T7-T12"
+        },
+        {
+          "label": "E",
+          "text": "C3-C5"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The phrenic nerve arises from cervical roots C3, C4, and C5 ('C3-4-5 keeps the diaphragm alive'), then fans into terminal branches on the diaphragm's inferior surface.",
+        "whyCorrect": "The phrenic nerve arises from cervical roots C3, C4, and C5 ('C3-4-5 keeps the diaphragm alive'), then fans into terminal branches on the diaphragm's inferior surface.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-011_Brick Exchange - Anatomy of the Diaphragm, Ribs, and Intercostal Muscles_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-183",
+      "topicId": "anatomy-of-the-diaphragm-ribs-and-intercostal-muscles",
+      "topicName": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+      "stem": "The right panel is a normal frontal chest radiograph with the posterior ribs numbered. Counting posterior ribs visible above the diaphragm is used clinically to judge what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The degree of rotation of the film"
+        },
+        {
+          "label": "B",
+          "text": "The adequacy of inspiratory effort"
+        },
+        {
+          "label": "C",
+          "text": "The presence of a rib fracture"
+        },
+        {
+          "label": "D",
+          "text": "The size of the cardiac silhouette"
+        },
+        {
+          "label": "E",
+          "text": "The patient's total blood volume"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "On a well-inspired PA chest film, roughly 9-10 posterior ribs (or 5-6 anterior ribs) should be visible above the diaphragm. Fewer ribs suggests a poor inspiratory effort, which can mimic or obscure pathology such as basal atelectasis or increased lung markings.",
+        "whyCorrect": "On a well-inspired PA chest film, roughly 9-10 posterior ribs (or 5-6 anterior ribs) should be visible above the diaphragm. Fewer ribs suggests a poor inspiratory effort, which can mimic or obscure pathology such as basal atelectasis or increased lung markings.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-183_Brick Exchange - Anatomy of the Diaphragm, Ribs, and Intercostal Muscles_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-612",
+      "topicId": "anatomy-of-the-diaphragm-ribs-and-intercostal-muscles",
+      "topicName": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+      "stem": "This figure separates the muscles of inspiration from the muscles of expiration. During QUIET (resting) breathing, expiration is accomplished mainly by which mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Passive elastic recoil of the lungs and chest wall"
+        },
+        {
+          "label": "B",
+          "text": "Contraction of the diaphragm pushing air out"
+        },
+        {
+          "label": "C",
+          "text": "Forceful contraction of the internal intercostals"
+        },
+        {
+          "label": "D",
+          "text": "Contraction of the scalenes and sternocleidomastoid"
+        },
+        {
+          "label": "E",
+          "text": "Contraction of the rectus abdominis and external obliques"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Quiet expiration is passive: the inspiratory muscles relax and the stored elastic recoil of the lungs and chest wall drives air out. The abdominal muscles and internal intercostals shown here are recruited only for active, forced expiration such as coughing or exercise.",
+        "whyCorrect": "Quiet expiration is passive: the inspiratory muscles relax and the stored elastic recoil of the lungs and chest wall drives air out. The abdominal muscles and internal intercostals shown here are recruited only for active, forced expiration such as coughing or exercise.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-612_Brick Exchange - Anatomy of the Diaphragm, Ribs, and Intercostal Muscles_p19_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-613",
+      "topicId": "anatomy-of-the-diaphragm-ribs-and-intercostal-muscles",
+      "topicName": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+      "stem": "This figure contrasts the chest and diaphragm during breathing in versus breathing out. During inspiration, how does diaphragm contraction change intrathoracic pressure and drive airflow?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It relaxes and ascends, pulling air into the lungs"
+        },
+        {
+          "label": "B",
+          "text": "It domes upward, decreasing thoracic volume and pushing air in"
+        },
+        {
+          "label": "C",
+          "text": "It flattens and descends, lowering intrapleural/alveolar pressure so air flows in"
+        },
+        {
+          "label": "D",
+          "text": "It raises alveolar pressure above atmospheric, drawing air in"
+        },
+        {
+          "label": "E",
+          "text": "It has no effect on volume; only the ribs move air"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "When the diaphragm contracts it flattens and moves down, enlarging the thoracic cavity. By Boyle's law the increased volume lowers intrapleural and alveolar pressure below atmospheric, so air flows in. During quiet expiration the diaphragm relaxes and ascends, the lungs recoil, and air passively flows out.",
+        "whyCorrect": "When the diaphragm contracts it flattens and moves down, enlarging the thoracic cavity. By Boyle's law the increased volume lowers intrapleural and alveolar pressure below atmospheric, so air flows in. During quiet expiration the diaphragm relaxes and ascends, the lungs recoil, and air passively flows out.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-613_Brick Exchange - Anatomy of the Diaphragm, Ribs, and Intercostal Muscles_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

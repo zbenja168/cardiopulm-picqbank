@@ -1,0 +1,396 @@
+{
+  "categoryId": "cardio_w4s3",
+  "categoryName": "Session 3",
+  "questions": [
+    {
+      "id": "repic-285",
+      "topicId": "heart-blocks-pathophysiology-diagnosis-and-treatment",
+      "topicName": "Heart Blocks: Pathophysiology, Diagnosis and Treatment",
+      "stem": "What type of diagnostic recording is displayed in this grayscale tracing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chest radiograph"
+        },
+        {
+          "label": "B",
+          "text": "Continuous EEG"
+        },
+        {
+          "label": "C",
+          "text": "Central venous pressure trace"
+        },
+        {
+          "label": "D",
+          "text": "12-lead electrocardiogram (ECG)"
+        },
+        {
+          "label": "E",
+          "text": "Carotid Doppler waveform"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The panelled layout of limb and precordial leads printed on standard ECG graph paper identifies this as a 12-lead electrocardiogram used to evaluate rhythm and conduction abnormalities such as heart blocks.",
+        "whyCorrect": "The panelled layout of limb and precordial leads printed on standard ECG graph paper identifies this as a 12-lead electrocardiogram used to evaluate rhythm and conduction abnormalities such as heart blocks.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-285_Brick Exchange - Heart Blocks_ Pathophysiology, Diagnosis and Treatment_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-286",
+      "topicId": "heart-blocks-pathophysiology-diagnosis-and-treatment",
+      "topicName": "Heart Blocks: Pathophysiology, Diagnosis and Treatment",
+      "stem": "These leads show a broad 'W' morphology in V1 and an 'M' morphology in V6 with a widened QRS. What conduction abnormality does this pattern indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Wolff-Parkinson-White pattern"
+        },
+        {
+          "label": "B",
+          "text": "Left bundle branch block"
+        },
+        {
+          "label": "C",
+          "text": "Right bundle branch block"
+        },
+        {
+          "label": "D",
+          "text": "Left anterior fascicular block"
+        },
+        {
+          "label": "E",
+          "text": "First-degree AV block"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The 'WiLLiaM' mnemonic applies: a W in V1 and an M in V6 with a QRS > 120 ms indicates left bundle branch block, in which delayed left ventricular activation reshapes the complexes in these leads.",
+        "whyCorrect": "The 'WiLLiaM' mnemonic applies: a W in V1 and an M in V6 with a QRS > 120 ms indicates left bundle branch block, in which delayed left ventricular activation reshapes the complexes in these leads.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-286_Brick Exchange - Heart Blocks_ Pathophysiology, Diagnosis and Treatment_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-287",
+      "topicId": "heart-blocks-pathophysiology-diagnosis-and-treatment",
+      "topicName": "Heart Blocks: Pathophysiology, Diagnosis and Treatment",
+      "stem": "V1 shows an rSR' complex and V6 shows a qRs with a widened QRS. Which conduction defect produces this appearance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Right bundle branch block"
+        },
+        {
+          "label": "B",
+          "text": "Third-degree AV block"
+        },
+        {
+          "label": "C",
+          "text": "Left posterior fascicular block"
+        },
+        {
+          "label": "D",
+          "text": "Left bundle branch block"
+        },
+        {
+          "label": "E",
+          "text": "Sinus arrhythmia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The 'MaRRoW' mnemonic applies: an M-shaped rSR' in V1 and a W-like qRs in V6 with QRS > 120 ms indicate right bundle branch block, reflecting delayed right ventricular activation.",
+        "whyCorrect": "The 'MaRRoW' mnemonic applies: an M-shaped rSR' in V1 and a W-like qRs in V6 with QRS > 120 ms indicate right bundle branch block, reflecting delayed right ventricular activation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-287_Brick Exchange - Heart Blocks_ Pathophysiology, Diagnosis and Treatment_p4_2.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-736",
+      "topicId": "heart-blocks-pathophysiology-diagnosis-and-treatment",
+      "topicName": "Heart Blocks: Pathophysiology, Diagnosis and Treatment",
+      "stem": "In the conduction pathway shown, which structure normally imposes a deliberate delay before the impulse reaches the ventricles?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "AV node"
+        },
+        {
+          "label": "B",
+          "text": "Purkinje fibers"
+        },
+        {
+          "label": "C",
+          "text": "Right bundle branch"
+        },
+        {
+          "label": "D",
+          "text": "Bundle of His"
+        },
+        {
+          "label": "E",
+          "text": "SA node"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The AV node slows conduction between atria and ventricles, allowing time for atrial contraction to complete ventricular filling before ventricular depolarization. Excessive slowing or block at this node produces AV heart block.",
+        "whyCorrect": "The AV node slows conduction between atria and ventricles, allowing time for atrial contraction to complete ventricular filling before ventricular depolarization. Excessive slowing or block at this node produces AV heart block.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-736_Brick Exchange - Heart Blocks_ Pathophysiology, Diagnosis and Treatment_p1_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-397",
+      "topicId": "ventricular-arrhythmias",
+      "topicName": "Ventricular Arrhythmias",
+      "stem": "This 12-lead ECG shows a rapid, regular, wide-complex tachycardia. What is the most likely rhythm?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ventricular tachycardia"
+        },
+        {
+          "label": "B",
+          "text": "Atrial fibrillation with rapid ventricular response"
+        },
+        {
+          "label": "C",
+          "text": "First-degree AV block"
+        },
+        {
+          "label": "D",
+          "text": "Sinus tachycardia"
+        },
+        {
+          "label": "E",
+          "text": "Normal sinus rhythm"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A regular wide-complex (broad QRS) tachycardia at a fast rate is ventricular tachycardia until proven otherwise, arising from an ectopic ventricular focus below the AV node.",
+        "whyCorrect": "A regular wide-complex (broad QRS) tachycardia at a fast rate is ventricular tachycardia until proven otherwise, arising from an ectopic ventricular focus below the AV node.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-397_Brick Exchange - Ventricular Arrhythmias_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-398",
+      "topicId": "ventricular-arrhythmias",
+      "topicName": "Ventricular Arrhythmias",
+      "stem": "This chest radiograph shows a radio-opaque device implanted in the left pectoral region with leads extending toward the cardiac silhouette. What is this device?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inferior vena cava filter"
+        },
+        {
+          "label": "B",
+          "text": "Prosthetic aortic valve"
+        },
+        {
+          "label": "C",
+          "text": "Coronary artery stent"
+        },
+        {
+          "label": "D",
+          "text": "Cardiac pacemaker/implantable device"
+        },
+        {
+          "label": "E",
+          "text": "Central venous port for chemotherapy"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A pulse generator in a left infraclavicular pocket with radio-opaque leads coursing into the right heart chambers is the classic appearance of an implanted cardiac pacemaker (or ICD) on chest X-ray.",
+        "whyCorrect": "A pulse generator in a left infraclavicular pocket with radio-opaque leads coursing into the right heart chambers is the classic appearance of an implanted cardiac pacemaker (or ICD) on chest X-ray.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-398_Brick Exchange - Ventricular Arrhythmias_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-399",
+      "topicId": "ventricular-arrhythmias",
+      "topicName": "Ventricular Arrhythmias",
+      "stem": "This 12-lead ECG shows a wide-complex tachycardia in which the QRS complexes vary in amplitude and appear to twist around the baseline. What is this rhythm?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Wenckebach (Mobitz I) block"
+        },
+        {
+          "label": "B",
+          "text": "Coarse atrial fibrillation"
+        },
+        {
+          "label": "C",
+          "text": "Monomorphic ventricular tachycardia"
+        },
+        {
+          "label": "D",
+          "text": "Torsades de pointes (polymorphic VT)"
+        },
+        {
+          "label": "E",
+          "text": "Atrial flutter with 2:1 block"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A polymorphic ventricular tachycardia with QRS complexes that appear to twist around the isoelectric baseline is torsades de pointes, classically associated with QT prolongation.",
+        "whyCorrect": "A polymorphic ventricular tachycardia with QRS complexes that appear to twist around the isoelectric baseline is torsades de pointes, classically associated with QT prolongation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-399_Brick Exchange - Ventricular Arrhythmias_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-400",
+      "topicId": "ventricular-arrhythmias",
+      "topicName": "Ventricular Arrhythmias",
+      "stem": "This 12-lead ECG demonstrates an irregular wide-complex tachycardia with continuously changing QRS morphology and no consistent baseline. What does this tracing represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Polymorphic ventricular tachycardia"
+        },
+        {
+          "label": "B",
+          "text": "Sinus bradycardia"
+        },
+        {
+          "label": "C",
+          "text": "Normal sinus rhythm"
+        },
+        {
+          "label": "D",
+          "text": "Monomorphic ventricular tachycardia"
+        },
+        {
+          "label": "E",
+          "text": "Complete heart block with escape"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Beat-to-beat variation in QRS shape and amplitude in a fast wide-complex rhythm indicates polymorphic ventricular tachycardia, an unstable arrhythmia that can degenerate into ventricular fibrillation.",
+        "whyCorrect": "Beat-to-beat variation in QRS shape and amplitude in a fast wide-complex rhythm indicates polymorphic ventricular tachycardia, an unstable arrhythmia that can degenerate into ventricular fibrillation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-400_Brick Exchange - Ventricular Arrhythmias_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-401",
+      "topicId": "ventricular-arrhythmias",
+      "topicName": "Ventricular Arrhythmias",
+      "stem": "This defibrillator rhythm strip shows chaotic, irregular, disorganized deflections with no identifiable QRS complexes or organized rhythm. What is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Monomorphic ventricular tachycardia"
+        },
+        {
+          "label": "B",
+          "text": "Ventricular fibrillation"
+        },
+        {
+          "label": "C",
+          "text": "Atrial flutter"
+        },
+        {
+          "label": "D",
+          "text": "Asystole"
+        },
+        {
+          "label": "E",
+          "text": "Sinus tachycardia"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Chaotic, irregular waveforms without discrete QRS complexes represent ventricular fibrillation, a disorganized quivering of the ventricles that produces no cardiac output and requires immediate defibrillation.",
+        "whyCorrect": "Chaotic, irregular waveforms without discrete QRS complexes represent ventricular fibrillation, a disorganized quivering of the ventricles that produces no cardiac output and requires immediate defibrillation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-401_Brick Exchange - Ventricular Arrhythmias_p7_2.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-888",
+      "topicId": "ventricular-arrhythmias",
+      "topicName": "Ventricular Arrhythmias",
+      "stem": "This diagram shows an implanted device with a pulse generator connected to leads terminating in the right atrium and right ventricle. What is the primary function of this device?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "To mechanically pump blood in place of the ventricle"
+        },
+        {
+          "label": "B",
+          "text": "To measure cardiac output continuously"
+        },
+        {
+          "label": "C",
+          "text": "To electrically pace the myocardium and maintain heart rate"
+        },
+        {
+          "label": "D",
+          "text": "To filter emboli from the venous return"
+        },
+        {
+          "label": "E",
+          "text": "To ablate arrhythmogenic tissue thermally"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The device is a cardiac pacemaker: a pulse generator delivers electrical impulses through transvenous leads to the atrium and ventricle, triggering myocardial depolarization to maintain an adequate heart rate.",
+        "whyCorrect": "The device is a cardiac pacemaker: a pulse generator delivers electrical impulses through transvenous leads to the atrium and ventricle, triggering myocardial depolarization to maintain an adequate heart rate.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-888_Brick Exchange - Ventricular Arrhythmias_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

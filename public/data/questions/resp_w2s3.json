@@ -1,0 +1,1137 @@
+{
+  "categoryId": "resp_w2s3",
+  "categoryName": "Session 3",
+  "questions": [
+    {
+      "id": "repic-223",
+      "topicId": "bronchiectasis",
+      "topicName": "Bronchiectasis",
+      "stem": "This chest radiograph shows ring shadows and parallel 'tram-track' linear opacities (arrows) with a thick-walled ring lesion (circle) in a patient with chronic productive cough. What diagnosis do these findings indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pulmonary edema"
+        },
+        {
+          "label": "B",
+          "text": "Miliary tuberculosis"
+        },
+        {
+          "label": "C",
+          "text": "Bronchiectasis"
+        },
+        {
+          "label": "D",
+          "text": "Simple pneumothorax"
+        },
+        {
+          "label": "E",
+          "text": "Lobar pneumonia"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Permanently dilated, thick-walled bronchi appear as ring shadows and tram-track opacities on plain film, the radiographic signature of bronchiectasis.",
+        "whyCorrect": "Permanently dilated, thick-walled bronchi appear as ring shadows and tram-track opacities on plain film, the radiographic signature of bronchiectasis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-223_Brick Exchange - Bronchiectasis_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-224",
+      "topicId": "bronchiectasis",
+      "topicName": "Bronchiectasis",
+      "stem": "This high-resolution chest CT (arrows) shows a cluster of dilated, thick-walled airways producing a 'string of cysts' appearance in the lung. What condition does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bronchiectasis"
+        },
+        {
+          "label": "B",
+          "text": "Lung abscess"
+        },
+        {
+          "label": "C",
+          "text": "Centrilobular emphysema"
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary embolism"
+        },
+        {
+          "label": "E",
+          "text": "Pleural effusion"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Clusters of abnormally dilated bronchi forming cystic and string-of-beads patterns on HRCT are diagnostic of bronchiectasis, reflecting irreversible bronchial wall destruction.",
+        "whyCorrect": "Clusters of abnormally dilated bronchi forming cystic and string-of-beads patterns on HRCT are diagnostic of bronchiectasis, reflecting irreversible bronchial wall destruction.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-224_Brick Exchange - Bronchiectasis_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-225",
+      "topicId": "bronchiectasis",
+      "topicName": "Bronchiectasis",
+      "stem": "On this chest CT a dilated bronchus sits adjacent to its accompanying segmental pulmonary artery and appears wider than that artery. What is the name of this diagnostic finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tree-in-bud sign"
+        },
+        {
+          "label": "B",
+          "text": "Signet ring sign"
+        },
+        {
+          "label": "C",
+          "text": "Air bronchogram sign"
+        },
+        {
+          "label": "D",
+          "text": "Halo sign"
+        },
+        {
+          "label": "E",
+          "text": "Crazy-paving pattern"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "When a bronchus becomes larger than its paired pulmonary artery, the two together resemble a signet ring on cross-section; a bronchoarterial ratio greater than one is a key CT criterion for bronchiectasis.",
+        "whyCorrect": "When a bronchus becomes larger than its paired pulmonary artery, the two together resemble a signet ring on cross-section; a bronchoarterial ratio greater than one is a key CT criterion for bronchiectasis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-225_Brick Exchange - Bronchiectasis_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-445",
+      "topicId": "bronchiectasis",
+      "topicName": "Bronchiectasis",
+      "stem": "The inset comparing a normal airway to the diseased airway on the right best illustrates which pathologic change underlying the depicted condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Thickening of the alveolar-capillary membrane by fibrosis"
+        },
+        {
+          "label": "B",
+          "text": "Accumulation of protein-rich fluid within the alveolar lumina"
+        },
+        {
+          "label": "C",
+          "text": "Reversible bronchoconstriction from airway smooth muscle spasm"
+        },
+        {
+          "label": "D",
+          "text": "Permanent dilation of bronchi with impaired mucociliary clearance"
+        },
+        {
+          "label": "E",
+          "text": "Alveolar wall destruction producing enlarged distal air spaces"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Bronchiectasis is irreversible dilation of bronchi from destruction of the airway wall, leading to pooling of mucus (shown green) and recurrent infection, distinct from the reversible narrowing of asthma or the alveolar destruction of emphysema.",
+        "whyCorrect": "Bronchiectasis is irreversible dilation of bronchi from destruction of the airway wall, leading to pooling of mucus (shown green) and recurrent infection, distinct from the reversible narrowing of asthma or the alveolar destruction of emphysema.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-445_Brick Exchange - Bronchiectasis_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-446",
+      "topicId": "bronchiectasis",
+      "topicName": "Bronchiectasis",
+      "stem": "This cut surface of lung shows numerous abnormally dilated, thick-walled airways extending toward the pleura with retained purulent material. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Centrilobular emphysema"
+        },
+        {
+          "label": "B",
+          "text": "Lobar pneumonia"
+        },
+        {
+          "label": "C",
+          "text": "Diffuse alveolar damage"
+        },
+        {
+          "label": "D",
+          "text": "Bronchiectasis"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary tuberculosis with cavitation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Grossly, bronchiectasis appears as permanently dilated bronchi extending abnormally close to the pleural surface, often filled with mucopurulent secretions, reflecting chronic infection and airway wall destruction.",
+        "whyCorrect": "Grossly, bronchiectasis appears as permanently dilated bronchi extending abnormally close to the pleural surface, often filled with mucopurulent secretions, reflecting chronic infection and airway wall destruction.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-446_Brick Exchange - Bronchiectasis_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-471",
+      "topicId": "cystic-fibrosis-1-of-2",
+      "topicName": "Cystic Fibrosis (1 of 2)",
+      "stem": "This cut lung from a cystic fibrosis patient shows abnormally dilated, cystic airway spaces filled with purulent material. What structural airway disease is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diffuse alveolar hemorrhage"
+        },
+        {
+          "label": "B",
+          "text": "Emphysema"
+        },
+        {
+          "label": "C",
+          "text": "Pulmonary infarction"
+        },
+        {
+          "label": "D",
+          "text": "Lobar pneumonia"
+        },
+        {
+          "label": "E",
+          "text": "Bronchiectasis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Recurrent infection and mucus plugging in CF cause permanent, abnormal dilation of bronchi, seen grossly as the enlarged, pus-filled cystic airway spaces characteristic of bronchiectasis.",
+        "whyCorrect": "Recurrent infection and mucus plugging in CF cause permanent, abnormal dilation of bronchi, seen grossly as the enlarged, pus-filled cystic airway spaces characteristic of bronchiectasis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-471_Brick Exchange - Cystic Fibrosis (1 of 2)_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-710",
+      "topicId": "cystic-fibrosis-1-of-2",
+      "topicName": "Cystic Fibrosis (1 of 2)",
+      "stem": "In this sweat duct comparison, the CF panel shows chloride unable to move through the CFTR channel to be reabsorbed. What laboratory finding results?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Elevated serum bicarbonate"
+        },
+        {
+          "label": "B",
+          "text": "Elevated chloride concentration in sweat"
+        },
+        {
+          "label": "C",
+          "text": "Increased glucose concentration in sweat"
+        },
+        {
+          "label": "D",
+          "text": "Decreased sodium excretion in urine"
+        },
+        {
+          "label": "E",
+          "text": "Abnormally low sweat chloride concentration"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In the sweat duct, CFTR normally reabsorbs chloride from the lumen; when CFTR is defective, chloride (and sodium) remain in sweat, producing the elevated sweat chloride that is diagnostic of cystic fibrosis.",
+        "whyCorrect": "In the sweat duct, CFTR normally reabsorbs chloride from the lumen; when CFTR is defective, chloride (and sodium) remain in sweat, producing the elevated sweat chloride that is diagnostic of cystic fibrosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-710_Brick Exchange - Cystic Fibrosis (1 of 2)_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-711",
+      "topicId": "cystic-fibrosis-1-of-2",
+      "topicName": "Cystic Fibrosis (1 of 2)",
+      "stem": "In the CF airway shown, defective CFTR alters ion and water movement across the epithelium. What is the direct consequence depicted at the airway surface?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Thick, dehydrated mucus that impairs clearance"
+        },
+        {
+          "label": "B",
+          "text": "Thin, alkaline mucus with rapid clearance"
+        },
+        {
+          "label": "C",
+          "text": "Complete absence of airway mucus"
+        },
+        {
+          "label": "D",
+          "text": "Increased ciliary beat frequency"
+        },
+        {
+          "label": "E",
+          "text": "Excessive watery secretions flooding the airway"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Loss of CFTR chloride secretion draws water out of the airway surface liquid, dehydrating the mucus layer; the resulting thick, sticky mucus obstructs airways and predisposes to chronic infection.",
+        "whyCorrect": "Loss of CFTR chloride secretion draws water out of the airway surface liquid, dehydrating the mucus layer; the resulting thick, sticky mucus obstructs airways and predisposes to chronic infection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-711_Brick Exchange - Cystic Fibrosis (1 of 2)_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-712",
+      "topicId": "cystic-fibrosis-2-of-2",
+      "topicName": "Cystic Fibrosis (2 of 2)",
+      "stem": "This child with cystic fibrosis wears an inflatable garment connected to an oscillation generator. What is the therapeutic purpose of this device?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mechanical chest compressions for cardiac support"
+        },
+        {
+          "label": "B",
+          "text": "Delivery of nebulized chemotherapy"
+        },
+        {
+          "label": "C",
+          "text": "High-frequency chest wall oscillation to clear airway mucus"
+        },
+        {
+          "label": "D",
+          "text": "External cardiac defibrillation"
+        },
+        {
+          "label": "E",
+          "text": "Non-invasive positive-pressure ventilation for hypercapnia"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The vest rapidly inflates and deflates to vibrate the chest wall, mobilizing thick secretions toward the large airways where they can be coughed out—an airway clearance therapy central to CF care.",
+        "whyCorrect": "The vest rapidly inflates and deflates to vibrate the chest wall, mobilizing thick secretions toward the large airways where they can be coughed out—an airway clearance therapy central to CF care.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-712_Brick Exchange - Cystic Fibrosis (2 of 2)_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-058",
+      "topicId": "inflammatory-disorders-of-the-pharynx-larynx-and-trachea",
+      "topicName": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
+      "stem": "In this midsagittal diagram, an arrow points to a collection of lymphoid tissue in the roof of the posterior nasopharynx. What is this structure, whose hypertrophy causes nasal obstruction and mouth breathing in children?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Epiglottis"
+        },
+        {
+          "label": "B",
+          "text": "Uvula"
+        },
+        {
+          "label": "C",
+          "text": "Pharyngeal tonsil"
+        },
+        {
+          "label": "D",
+          "text": "Lingual tonsil"
+        },
+        {
+          "label": "E",
+          "text": "Palatine tonsil"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The pharyngeal tonsil (adenoid) sits in the roof/posterior wall of the nasopharynx. Adenoid hypertrophy obstructs the nasal airway and Eustachian tubes, producing mouth breathing and recurrent otitis media.",
+        "whyCorrect": "The pharyngeal tonsil (adenoid) sits in the roof/posterior wall of the nasopharynx. Adenoid hypertrophy obstructs the nasal airway and Eustachian tubes, producing mouth breathing and recurrent otitis media.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-058_Brick Exchange - Inflammatory Disorders of the Pharynx, Larynx, and Trachea_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-059",
+      "topicId": "inflammatory-disorders-of-the-pharynx-larynx-and-trachea",
+      "topicName": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
+      "stem": "This frontal view into an open mouth uses an arrow to indicate the lymphoid tissue lodged in the lateral wall of the oropharynx between the palatoglossal and palatopharyngeal arches. What is it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Uvula"
+        },
+        {
+          "label": "B",
+          "text": "Palatine tonsil"
+        },
+        {
+          "label": "C",
+          "text": "Soft palate"
+        },
+        {
+          "label": "D",
+          "text": "Lingual tonsil"
+        },
+        {
+          "label": "E",
+          "text": "Pharyngeal tonsil (adenoid)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The palatine tonsils sit in the tonsillar fossae between the anterior and posterior faucial pillars and are the tonsils most often enlarged and exudative in bacterial tonsillitis.",
+        "whyCorrect": "The palatine tonsils sit in the tonsillar fossae between the anterior and posterior faucial pillars and are the tonsils most often enlarged and exudative in bacterial tonsillitis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-059_Brick Exchange - Inflammatory Disorders of the Pharynx, Larynx, and Trachea_p11_2.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-060",
+      "topicId": "inflammatory-disorders-of-the-pharynx-larynx-and-trachea",
+      "topicName": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
+      "stem": "This midsagittal diagram color-codes the pharynx into three continuous regions. Which of these regions contains the palatine tonsils and serves as a shared passageway for both air and food?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Laryngopharynx"
+        },
+        {
+          "label": "B",
+          "text": "Nasal cavity"
+        },
+        {
+          "label": "C",
+          "text": "Oropharynx"
+        },
+        {
+          "label": "D",
+          "text": "Larynx"
+        },
+        {
+          "label": "E",
+          "text": "Nasopharynx"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The oropharynx extends from the soft palate to the epiglottis, houses the palatine and lingual tonsils, and is the shared conduit for the respiratory and digestive tracts. The nasopharynx carries only air, and the laryngopharynx leads into the esophagus.",
+        "whyCorrect": "The oropharynx extends from the soft palate to the epiglottis, houses the palatine and lingual tonsils, and is the shared conduit for the respiratory and digestive tracts. The nasopharynx carries only air, and the laryngopharynx leads into the esophagus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-060_Brick Exchange - Inflammatory Disorders of the Pharynx, Larynx, and Trachea_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-303",
+      "topicId": "inflammatory-disorders-of-the-pharynx-larynx-and-trachea",
+      "topicName": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
+      "stem": "These paired lateral neck radiographs contrast a normal thin epiglottis (left) with an enlarged, rounded, thumb-shaped soft-tissue density at the epiglottis (right, red arrow). This radiographic sign indicates which diagnosis and its classic organism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Retropharyngeal abscess - Streptococcus"
+        },
+        {
+          "label": "B",
+          "text": "Acute epiglottitis - Haemophilus influenzae type b"
+        },
+        {
+          "label": "C",
+          "text": "Peritonsillar abscess - anaerobes"
+        },
+        {
+          "label": "D",
+          "text": "Aspirated foreign body"
+        },
+        {
+          "label": "E",
+          "text": "Croup (steeple sign) - parainfluenza virus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The 'thumbprint sign' on a lateral neck film is a swollen epiglottis, characteristic of acute epiglottitis, classically caused by Haemophilus influenzae type b (now less common with Hib vaccination). It is an airway emergency.",
+        "whyCorrect": "The 'thumbprint sign' on a lateral neck film is a swollen epiglottis, characteristic of acute epiglottitis, classically caused by Haemophilus influenzae type b (now less common with Hib vaccination). It is an airway emergency.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-303_Brick Exchange - Inflammatory Disorders of the Pharynx, Larynx, and Trachea_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-502",
+      "topicId": "inflammatory-disorders-of-the-pharynx-larynx-and-trachea",
+      "topicName": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
+      "stem": "This illustration shows a child in respiratory distress leaning forward on outstretched arms with the neck extended and mouth open. This characteristic posture is most classically associated with which airway emergency?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute epiglottitis"
+        },
+        {
+          "label": "B",
+          "text": "Esophageal foreign body"
+        },
+        {
+          "label": "C",
+          "text": "Bronchiolitis"
+        },
+        {
+          "label": "D",
+          "text": "Viral croup"
+        },
+        {
+          "label": "E",
+          "text": "Asthma exacerbation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The tripod (sniffing) position maximizes airway diameter and is a hallmark of acute epiglottitis, together with drooling, dysphagia, and muffled 'hot-potato' voice. The child should be kept calm and upright.",
+        "whyCorrect": "The tripod (sniffing) position maximizes airway diameter and is a hallmark of acute epiglottitis, together with drooling, dysphagia, and muffled 'hot-potato' voice. The child should be kept calm and upright.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-502_Brick Exchange - Inflammatory Disorders of the Pharynx, Larynx, and Trachea_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-503",
+      "topicId": "inflammatory-disorders-of-the-pharynx-larynx-and-trachea",
+      "topicName": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
+      "stem": "This laryngoscopic view shows swollen, reddened vocal folds within the larynx. Inflammation of these structures most characteristically produces which symptom?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Unilateral facial pain"
+        },
+        {
+          "label": "B",
+          "text": "Dysphagia to solids only"
+        },
+        {
+          "label": "C",
+          "text": "Anosmia"
+        },
+        {
+          "label": "D",
+          "text": "Massive hemoptysis"
+        },
+        {
+          "label": "E",
+          "text": "Hoarseness"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Edema of the vocal folds increases their mass and impairs normal vibration, producing hoarseness (dysphonia) that is the cardinal symptom of laryngitis; it is usually viral and self-limited.",
+        "whyCorrect": "Edema of the vocal folds increases their mass and impairs normal vibration, producing hoarseness (dysphonia) that is the cardinal symptom of laryngitis; it is usually viral and self-limited.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-503_Brick Exchange - Inflammatory Disorders of the Pharynx, Larynx, and Trachea_p21_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-168",
+      "topicId": "respiratory-b-pertussis-and-c-diphtheriae",
+      "topicName": "Respiratory: B. pertussis and C. diphtheriae",
+      "stem": "This stained smear from a respiratory specimen shows numerous tiny red-staining, poorly-staining coccobacilli. In a young infant with paroxysmal coughing fits followed by an inspiratory whoop, which organism is most likely?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Haemophilus influenzae"
+        },
+        {
+          "label": "B",
+          "text": "Corynebacterium diphtheriae"
+        },
+        {
+          "label": "C",
+          "text": "Legionella pneumophila"
+        },
+        {
+          "label": "D",
+          "text": "Bordetella pertussis"
+        },
+        {
+          "label": "E",
+          "text": "Streptococcus pneumoniae"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Bordetella pertussis is a small, fastidious Gram-negative coccobacillus that stains faintly. It causes whooping cough with the characteristic catarrhal, paroxysmal, and convalescent stages; toxin-mediated ciliary damage produces the severe coughing paroxysms.",
+        "whyCorrect": "Bordetella pertussis is a small, fastidious Gram-negative coccobacillus that stains faintly. It causes whooping cough with the characteristic catarrhal, paroxysmal, and convalescent stages; toxin-mediated ciliary damage produces the severe coughing paroxysms.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-168_Brick Exchange - Respiratory_ B. pertussis and C. diphtheriae_p19_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-169",
+      "topicId": "respiratory-b-pertussis-and-c-diphtheriae",
+      "topicName": "Respiratory: B. pertussis and C. diphtheriae",
+      "stem": "This Gram stain shows club-shaped, pleomorphic Gram-positive rods arranged at angles resembling 'Chinese letters' or a V/Y palisade pattern. Which organism has this classic morphology?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Corynebacterium diphtheriae"
+        },
+        {
+          "label": "B",
+          "text": "Actinomyces israelii"
+        },
+        {
+          "label": "C",
+          "text": "Clostridium tetani"
+        },
+        {
+          "label": "D",
+          "text": "Listeria monocytogenes"
+        },
+        {
+          "label": "E",
+          "text": "Bacillus anthracis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Corynebacterium diphtheriae is a Gram-positive, club-shaped bacillus that divides to form V- and Y-shaped 'Chinese letter' arrangements. Its exotoxin (ADP-ribosylates EF-2) causes the pseudomembranous pharyngitis and systemic toxicity of diphtheria.",
+        "whyCorrect": "Corynebacterium diphtheriae is a Gram-positive, club-shaped bacillus that divides to form V- and Y-shaped 'Chinese letter' arrangements. Its exotoxin (ADP-ribosylates EF-2) causes the pseudomembranous pharyngitis and systemic toxicity of diphtheria.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-169_Brick Exchange - Respiratory_ B. pertussis and C. diphtheriae_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-170",
+      "topicId": "respiratory-b-pertussis-and-c-diphtheriae",
+      "topicName": "Respiratory: B. pertussis and C. diphtheriae",
+      "stem": "This special stain of a club-shaped bacillus reveals dark, reddish-purple granules concentrated at the poles of the green-stained rods. These granules are most useful diagnostically because they represent what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Capsular polysaccharide deposits"
+        },
+        {
+          "label": "B",
+          "text": "Intracellular glycogen vacuoles"
+        },
+        {
+          "label": "C",
+          "text": "Sulfur granules of actinomycotic colonies"
+        },
+        {
+          "label": "D",
+          "text": "Metachromatic (volutin) granules of stored polyphosphate"
+        },
+        {
+          "label": "E",
+          "text": "Terminal endospores resistant to heat"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Corynebacterium diphtheriae stores polyphosphate as metachromatic (Babes-Ernst/volutin) granules that stain a contrasting color at the cell poles with stains such as Albert or Neisser, aiding presumptive identification.",
+        "whyCorrect": "Corynebacterium diphtheriae stores polyphosphate as metachromatic (Babes-Ernst/volutin) granules that stain a contrasting color at the cell poles with stains such as Albert or Neisser, aiding presumptive identification.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-170_Brick Exchange - Respiratory_ B. pertussis and C. diphtheriae_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-362",
+      "topicId": "respiratory-b-pertussis-and-c-diphtheriae",
+      "topicName": "Respiratory: B. pertussis and C. diphtheriae",
+      "stem": "This selective/differential medium shows colonies that have turned black-gray on a tellurite-containing agar. Which organism does this appearance suggest?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Staphylococcus aureus"
+        },
+        {
+          "label": "B",
+          "text": "Corynebacterium diphtheriae"
+        },
+        {
+          "label": "C",
+          "text": "Streptococcus pyogenes"
+        },
+        {
+          "label": "D",
+          "text": "Haemophilus influenzae"
+        },
+        {
+          "label": "E",
+          "text": "Bordetella pertussis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "C. diphtheriae reduces potassium tellurite, producing characteristic black/gray-brown colonies on tellurite-containing media (cystine-tellurite/Tinsdale agar). This is a selective and differential medium for isolating the organism.",
+        "whyCorrect": "C. diphtheriae reduces potassium tellurite, producing characteristic black/gray-brown colonies on tellurite-containing media (cystine-tellurite/Tinsdale agar). This is a selective and differential medium for isolating the organism.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-362_Brick Exchange - Respiratory_ B. pertussis and C. diphtheriae_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-363",
+      "topicId": "respiratory-b-pertussis-and-c-diphtheriae",
+      "topicName": "Respiratory: B. pertussis and C. diphtheriae",
+      "stem": "In this assay, a strip of filter paper soaked in diphtheria antitoxin is placed between bacterial streaks, and precipitin lines form only where toxin meets antitoxin. What does this test determine?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antibiotic susceptibility of the isolate"
+        },
+        {
+          "label": "B",
+          "text": "Whether the isolate can ferment cystine"
+        },
+        {
+          "label": "C",
+          "text": "Whether a C. diphtheriae isolate produces diphtheria toxin"
+        },
+        {
+          "label": "D",
+          "text": "The serotype of the organism"
+        },
+        {
+          "label": "E",
+          "text": "Beta-hemolytic activity of the isolate"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "This is the Elek test, an immunodiffusion assay. Antitoxin diffusing from the filter paper meets toxin from a toxigenic strain, forming precipitin lines; a non-toxigenic strain produces none. It confirms toxin production rather than mere isolation.",
+        "whyCorrect": "This is the Elek test, an immunodiffusion assay. Antitoxin diffusing from the filter paper meets toxin from a toxigenic strain, forming precipitin lines; a non-toxigenic strain produces none. It confirms toxin production rather than mere isolation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-363_Brick Exchange - Respiratory_ B. pertussis and C. diphtheriae_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-364",
+      "topicId": "respiratory-b-pertussis-and-c-diphtheriae",
+      "topicName": "Respiratory: B. pertussis and C. diphtheriae",
+      "stem": "Recovery of the organism responsible for this clinical picture requires a special enriched medium (e.g., Bordet-Gengou or Regan-Lowe), on which it forms small, smooth 'mercury-drop' colonies as shown. Which feature of this pathogen most directly explains the need for such specialized culture media?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It is highly fastidious and inhibited by fatty acids/peroxides"
+        },
+        {
+          "label": "B",
+          "text": "It is an obligate intracellular organism that cannot grow on agar"
+        },
+        {
+          "label": "C",
+          "text": "It only grows within embryonated eggs"
+        },
+        {
+          "label": "D",
+          "text": "It requires cysteine and a silver-containing medium to grow"
+        },
+        {
+          "label": "E",
+          "text": "It requires strictly anaerobic incubation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Bordetella pertussis is extremely fastidious; its growth is inhibited by toxic substances in ordinary media, so charcoal (Regan-Lowe) or potato-blood-glycerol (Bordet-Gengou) media are used to absorb inhibitors, yielding characteristic mercury-drop colonies.",
+        "whyCorrect": "Bordetella pertussis is extremely fastidious; its growth is inhibited by toxic substances in ordinary media, so charcoal (Regan-Lowe) or potato-blood-glycerol (Bordet-Gengou) media are used to absorb inhibitors, yielding characteristic mercury-drop colonies.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-364_Brick Exchange - Respiratory_ B. pertussis and C. diphtheriae_p20_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-550",
+      "topicId": "respiratory-b-pertussis-and-c-diphtheriae",
+      "topicName": "Respiratory: B. pertussis and C. diphtheriae",
+      "stem": "These pharyngeal photographs show intense erythema and adherent whitish-gray exudate over the tonsils in a child with sore throat, low-grade fever, and cervical adenopathy. Attempting to scrape the gray membrane causes bleeding. Which toxin-mediated mechanism underlies this exudative membrane?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Degradation of IgA by a secreted protease"
+        },
+        {
+          "label": "B",
+          "text": "Overactivation of adenylate cyclase via Gs stimulation"
+        },
+        {
+          "label": "C",
+          "text": "Cleavage of SNARE proteins blocking acetylcholine release"
+        },
+        {
+          "label": "D",
+          "text": "Inhibition of host protein synthesis"
+        },
+        {
+          "label": "E",
+          "text": "Superantigen-mediated massive T-cell activation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The gray, firmly adherent pseudomembrane of diphtheria results from diphtheria toxin, which ADP-ribosylates EF-2 to halt protein synthesis, causing mucosal necrosis with a fibrinous exudate of dead cells, fibrin, and bacteria.",
+        "whyCorrect": "The gray, firmly adherent pseudomembrane of diphtheria results from diphtheria toxin, which ADP-ribosylates EF-2 to halt protein synthesis, causing mucosal necrosis with a fibrinous exudate of dead cells, fibrin, and bacteria.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-550_Brick Exchange - Respiratory_ B. pertussis and C. diphtheriae_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-551",
+      "topicId": "respiratory-b-pertussis-and-c-diphtheriae",
+      "topicName": "Respiratory: B. pertussis and C. diphtheriae",
+      "stem": "This oral cavity shows an adherent grayish membrane over the posterior pharynx and tonsillar region that bleeds when dislodged. What is this characteristic lesion called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Leukoplakia"
+        },
+        {
+          "label": "B",
+          "text": "Diphtheritic pseudomembrane"
+        },
+        {
+          "label": "C",
+          "text": "Herpetic gingivostomatitis"
+        },
+        {
+          "label": "D",
+          "text": "Aphthous ulcer"
+        },
+        {
+          "label": "E",
+          "text": "Oral candidiasis (thrush)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The diphtheritic pseudomembrane is a tough, adherent gray coagulum of fibrin, necrotic epithelium, leukocytes, and bacteria. It bleeds on removal and can extend to obstruct the airway, a hallmark of respiratory diphtheria.",
+        "whyCorrect": "The diphtheritic pseudomembrane is a tough, adherent gray coagulum of fibrin, necrotic epithelium, leukocytes, and bacteria. It bleeds on removal and can extend to obstruct the airway, a hallmark of respiratory diphtheria.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-551_Brick Exchange - Respiratory_ B. pertussis and C. diphtheriae_p4_2.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-552",
+      "topicId": "respiratory-b-pertussis-and-c-diphtheriae",
+      "topicName": "Respiratory: B. pertussis and C. diphtheriae",
+      "stem": "This child with diphtheria has marked swelling of the anterior neck producing the appearance shown. What is this classic finding termed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ludwig angina"
+        },
+        {
+          "label": "B",
+          "text": "Goiter"
+        },
+        {
+          "label": "C",
+          "text": "Mumps parotid swelling"
+        },
+        {
+          "label": "D",
+          "text": "Bull neck"
+        },
+        {
+          "label": "E",
+          "text": "Cystic hygroma"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Severe diphtheria causes prominent cervical lymphadenopathy with surrounding soft-tissue edema, producing the characteristic 'bull neck.' It signals extensive toxin-mediated disease and portends airway compromise and systemic toxicity.",
+        "whyCorrect": "Severe diphtheria causes prominent cervical lymphadenopathy with surrounding soft-tissue edema, producing the characteristic 'bull neck.' It signals extensive toxin-mediated disease and portends airway compromise and systemic toxicity.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-552_Brick Exchange - Respiratory_ B. pertussis and C. diphtheriae_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-302",
+      "topicId": "inflammatory-disorders-of-the-nasal-cavities-and-sinuses",
+      "topicName": "Inflammatory Disorders of the Nasal Cavities and Sinuses",
+      "stem": "This axial CT shows one well-aerated (black) maxillary sinus and the contralateral maxillary sinus completely filled with soft-tissue density. Obstruction of which drainage pathway most commonly produces this maxillary opacification?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Nasolacrimal duct"
+        },
+        {
+          "label": "B",
+          "text": "Nasopalatine canal"
+        },
+        {
+          "label": "C",
+          "text": "Eustachian (auditory) tube"
+        },
+        {
+          "label": "D",
+          "text": "Sphenoethmoidal recess"
+        },
+        {
+          "label": "E",
+          "text": "Ostiomeatal complex"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The maxillary sinus drains via the ostiomeatal complex into the middle meatus. Obstruction there impairs mucociliary clearance, causing mucosal thickening, fluid retention, and the opacification seen in sinusitis.",
+        "whyCorrect": "The maxillary sinus drains via the ostiomeatal complex into the middle meatus. Obstruction there impairs mucociliary clearance, causing mucosal thickening, fluid retention, and the opacification seen in sinusitis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-302_Brick Exchange - Inflammatory Disorders of the Nasal Cavities and Sinuses_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-499",
+      "topicId": "inflammatory-disorders-of-the-nasal-cavities-and-sinuses",
+      "topicName": "Inflammatory Disorders of the Nasal Cavities and Sinuses",
+      "stem": "This endoscopic photo shows a pale, glistening pedunculated mass in the nasal cavity, with a CT inset demonstrating soft-tissue opacification. In an adult with asthma and aspirin sensitivity, these masses complete which triad?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Samter triad"
+        },
+        {
+          "label": "B",
+          "text": "Virchow triad"
+        },
+        {
+          "label": "C",
+          "text": "Charcot triad"
+        },
+        {
+          "label": "D",
+          "text": "Beck triad"
+        },
+        {
+          "label": "E",
+          "text": "Cushing triad"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Nasal polyps with asthma and aspirin/NSAID sensitivity form Samter triad (aspirin-exacerbated respiratory disease), driven by dysregulated arachidonic acid metabolism favoring leukotriene production.",
+        "whyCorrect": "Nasal polyps with asthma and aspirin/NSAID sensitivity form Samter triad (aspirin-exacerbated respiratory disease), driven by dysregulated arachidonic acid metabolism favoring leukotriene production.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-499_Brick Exchange - Inflammatory Disorders of the Nasal Cavities and Sinuses_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-500",
+      "topicId": "inflammatory-disorders-of-the-nasal-cavities-and-sinuses",
+      "topicName": "Inflammatory Disorders of the Nasal Cavities and Sinuses",
+      "stem": "This illustration of a child shows infraorbital skin folds, darkened lower-lid circles, a transverse crease across the nose, and habitual open-mouth breathing with a recessed jaw. This constellation of facial findings is most characteristic of what chronic condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute bacterial sinusitis"
+        },
+        {
+          "label": "B",
+          "text": "Choanal atresia"
+        },
+        {
+          "label": "C",
+          "text": "Chronic allergic rhinitis"
+        },
+        {
+          "label": "D",
+          "text": "Cystic fibrosis"
+        },
+        {
+          "label": "E",
+          "text": "Kartagener syndrome"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Dennie-Morgan lines, allergic shiners, the transverse nasal crease (from the allergic salute), and adenoid-facies mouth breathing are hallmark external signs of chronic allergic rhinitis with nasal obstruction.",
+        "whyCorrect": "Dennie-Morgan lines, allergic shiners, the transverse nasal crease (from the allergic salute), and adenoid-facies mouth breathing are hallmark external signs of chronic allergic rhinitis with nasal obstruction.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-500_Brick Exchange - Inflammatory Disorders of the Nasal Cavities and Sinuses_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-501",
+      "topicId": "inflammatory-disorders-of-the-nasal-cavities-and-sinuses",
+      "topicName": "Inflammatory Disorders of the Nasal Cavities and Sinuses",
+      "stem": "This close-up photograph of a child shows unilateral swelling, erythema, and edema of the tissues surrounding one eye, with the lid nearly closed. As a feared extension of ethmoid sinusitis, this most likely represents what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dacryocystitis"
+        },
+        {
+          "label": "B",
+          "text": "Allergic shiner"
+        },
+        {
+          "label": "C",
+          "text": "Chalazion"
+        },
+        {
+          "label": "D",
+          "text": "Periorbital cellulitis"
+        },
+        {
+          "label": "E",
+          "text": "Thyroid ophthalmopathy"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The thin lamina papyracea allows ethmoid sinus infection to spread to the periorbital soft tissues, producing periorbital cellulitis. Progression to true orbital cellulitis (with proptosis and painful eye movement) is the key complication to exclude.",
+        "whyCorrect": "The thin lamina papyracea allows ethmoid sinus infection to spread to the periorbital soft tissues, producing periorbital cellulitis. Progression to true orbital cellulitis (with proptosis and painful eye movement) is the key complication to exclude.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-501_Brick Exchange - Inflammatory Disorders of the Nasal Cavities and Sinuses_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-760",
+      "topicId": "inflammatory-disorders-of-the-nasal-cavities-and-sinuses",
+      "topicName": "Inflammatory Disorders of the Nasal Cavities and Sinuses",
+      "stem": "This schematic shows IgE produced by B cells binding FceRI on mast cells; on re-exposure, allergen cross-links surface IgE and triggers a calcium-dependent release of mediators. Which preformed mediator is chiefly responsible for the wheal and congestion occurring within minutes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Interferon-gamma"
+        },
+        {
+          "label": "B",
+          "text": "Histamine"
+        },
+        {
+          "label": "C",
+          "text": "Bradykinin from factor XII"
+        },
+        {
+          "label": "D",
+          "text": "Complement C3b"
+        },
+        {
+          "label": "E",
+          "text": "Circulating IgG"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "This depicts type I (immediate) hypersensitivity. Cross-linking of mast-cell-bound IgE releases preformed histamine from granules, driving vasodilation, increased permeability, and the immediate-phase reaction; cytokines drive the later-phase response.",
+        "whyCorrect": "This depicts type I (immediate) hypersensitivity. Cross-linking of mast-cell-bound IgE releases preformed histamine from granules, driving vasodilation, increased permeability, and the immediate-phase reaction; cytokines drive the later-phase response.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-760_Brick Exchange - Inflammatory Disorders of the Nasal Cavities and Sinuses_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

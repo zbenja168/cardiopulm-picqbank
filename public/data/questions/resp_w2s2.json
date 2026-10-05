@@ -1,0 +1,942 @@
+{
+  "categoryId": "resp_w2s2",
+  "categoryName": "Session 2",
+  "questions": [
+    {
+      "id": "repic-328",
+      "topicId": "obstructive-and-restrictive-lung-diseases-foundations-and-frameworks",
+      "topicName": "Obstructive and Restrictive Lung Diseases: Foundations and Frameworks",
+      "stem": "These spirometry volume-versus-time tracings compare three patterns. In the middle tracing the exhaled volume rises slowly and the one-second mark is markedly reduced relative to the total. This pattern indicates which physiology?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Normal spirometry"
+        },
+        {
+          "label": "B",
+          "text": "Mixed defect with normal airflow"
+        },
+        {
+          "label": "C",
+          "text": "Restrictive defect with preserved FEV1/FVC ratio"
+        },
+        {
+          "label": "D",
+          "text": "Obstructive ventilatory defect with reduced FEV1/FVC ratio"
+        },
+        {
+          "label": "E",
+          "text": "Upper airway (fixed) obstruction"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In obstructive disease, expiratory airflow is limited so FEV1 falls disproportionately to FVC, lowering the FEV1/FVC ratio and producing the slow-rising curve shown; restrictive disease instead reduces all volumes while preserving the ratio.",
+        "whyCorrect": "In obstructive disease, expiratory airflow is limited so FEV1 falls disproportionately to FVC, lowering the FEV1/FVC ratio and producing the slow-rising curve shown; restrictive disease instead reduces all volumes while preserving the ratio.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-328_Brick Exchange - Obstructive and Restrictive Lung Diseases_ Foundations and Frameworks_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-329",
+      "topicId": "obstructive-and-restrictive-lung-diseases-foundations-and-frameworks",
+      "topicName": "Obstructive and Restrictive Lung Diseases: Foundations and Frameworks",
+      "stem": "These flow-volume loops compare three patterns against total lung capacity and residual volume. The middle loop is shifted toward higher lung volumes with a scooped (concave) expiratory limb. Which condition does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Restrictive lung disease"
+        },
+        {
+          "label": "B",
+          "text": "Variable extrathoracic obstruction"
+        },
+        {
+          "label": "C",
+          "text": "Normal lung function"
+        },
+        {
+          "label": "D",
+          "text": "Obstructive lung disease (e.g., COPD)"
+        },
+        {
+          "label": "E",
+          "text": "Fixed upper airway obstruction"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Obstructive disease shifts the loop leftward toward higher volumes (air trapping, increased RV/TLC) and produces a concave, coved expiratory limb from airflow limitation; restrictive disease instead shifts the loop rightward with reduced overall volumes.",
+        "whyCorrect": "Obstructive disease shifts the loop leftward toward higher volumes (air trapping, increased RV/TLC) and produces a concave, coved expiratory limb from airflow limitation; restrictive disease instead shifts the loop rightward with reduced overall volumes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-329_Brick Exchange - Obstructive and Restrictive Lung Diseases_ Foundations and Frameworks_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-542",
+      "topicId": "obstructive-and-restrictive-lung-diseases-foundations-and-frameworks",
+      "topicName": "Obstructive and Restrictive Lung Diseases: Foundations and Frameworks",
+      "stem": "These fingers show bulbous enlargement of the distal phalanges with loss of the normal nail-fold angle. This finding is most commonly associated with which category of disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute viral upper respiratory infection"
+        },
+        {
+          "label": "B",
+          "text": "Osteoarthritis of the hands"
+        },
+        {
+          "label": "C",
+          "text": "Carpal tunnel syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Iron deficiency anemia alone"
+        },
+        {
+          "label": "E",
+          "text": "Chronic hypoxemic pulmonary disease"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Digital clubbing reflects distal phalangeal soft-tissue proliferation and loss of the Lovibond angle; it is strongly linked to chronic hypoxemia and intrathoracic disease such as lung malignancy, bronchiectasis, and pulmonary fibrosis.",
+        "whyCorrect": "Digital clubbing reflects distal phalangeal soft-tissue proliferation and loss of the Lovibond angle; it is strongly linked to chronic hypoxemia and intrathoracic disease such as lung malignancy, bronchiectasis, and pulmonary fibrosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-542_Brick Exchange - Obstructive and Restrictive Lung Diseases_ Foundations and Frameworks_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-572",
+      "topicId": "tobacco-smoking",
+      "topicName": "Tobacco Smoking",
+      "stem": "This infographic surrounds a cigarette with everyday products (lighter fluid, nail polish remover, battery metal, poison, toilet cleaner, car exhaust). What key point about tobacco smoke does it convey?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tobacco smoke provides essential nutrients"
+        },
+        {
+          "label": "B",
+          "text": "Cigarette smoke contains only nicotine and tar"
+        },
+        {
+          "label": "C",
+          "text": "Cigarette smoke contains numerous toxic chemicals"
+        },
+        {
+          "label": "D",
+          "text": "A single chemical accounts for all smoking harm"
+        },
+        {
+          "label": "E",
+          "text": "The listed chemicals are harmless flavor additives"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The figure pairs smoke constituents (e.g., butane, acetone, cadmium, arsenic, ammonia, carbon monoxide) with familiar toxic products to show that cigarette smoke is a mixture of many harmful chemicals.",
+        "whyCorrect": "The figure pairs smoke constituents (e.g., butane, acetone, cadmium, arsenic, ammonia, carbon monoxide) with familiar toxic products to show that cigarette smoke is a mixture of many harmful chemicals.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-572_Brick Exchange - Tobacco Smoking_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-573",
+      "topicId": "tobacco-smoking",
+      "topicName": "Tobacco Smoking",
+      "stem": "This body diagram links tobacco smoking to disease in the mouth, larynx, esophagus, lungs, heart, stomach, pancreas, bladder, and arteries. What overall pattern of harm does it demonstrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Smoking harms only the cardiovascular system"
+        },
+        {
+          "label": "B",
+          "text": "Smoking causes a single localized cancer"
+        },
+        {
+          "label": "C",
+          "text": "Smoking causes multi-organ, systemic disease"
+        },
+        {
+          "label": "D",
+          "text": "Smoking has no proven organ effects"
+        },
+        {
+          "label": "E",
+          "text": "Smoking harms only the lungs"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Because carcinogens and toxins from smoke are absorbed and circulated, tobacco use raises risk of cancers and chronic disease across many organ systems, not just the lungs.",
+        "whyCorrect": "Because carcinogens and toxins from smoke are absorbed and circulated, tobacco use raises risk of cancers and chronic disease across many organ systems, not just the lungs.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-573_Brick Exchange - Tobacco Smoking_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-592",
+      "topicId": "tobacco-smoking",
+      "topicName": "Tobacco Smoking",
+      "stem": "This small, flat, USB-drive-shaped black device with a mouthpiece and pod is shown. What is it?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A USB flash drive"
+        },
+        {
+          "label": "B",
+          "text": "A glucose meter"
+        },
+        {
+          "label": "C",
+          "text": "An electronic cigarette"
+        },
+        {
+          "label": "D",
+          "text": "A metered-dose asthma inhaler"
+        },
+        {
+          "label": "E",
+          "text": "An insulin injector pen"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The pod-style form factor with a mouthpiece identifies an electronic cigarette, which aerosolizes a nicotine-containing liquid for inhalation.",
+        "whyCorrect": "The pod-style form factor with a mouthpiece identifies an electronic cigarette, which aerosolizes a nicotine-containing liquid for inhalation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-592_Brick Exchange - Tobacco Smoking_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-882",
+      "topicId": "tobacco-smoking",
+      "topicName": "Tobacco Smoking",
+      "stem": "This midsagittal brain diagram traces nicotine entering the brain, stimulating receptors in the ventral tegmental area, then dopamine release toward the nucleus accumbens and prefrontal cortex. Which mechanism of nicotine dependence does this illustrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A noradrenergic surge from the locus coeruleus"
+        },
+        {
+          "label": "B",
+          "text": "GABAergic inhibition of the motor cortex"
+        },
+        {
+          "label": "C",
+          "text": "Activation of the mesolimbic dopamine reward pathway"
+        },
+        {
+          "label": "D",
+          "text": "Blockade of acetylcholine at the neuromuscular junction"
+        },
+        {
+          "label": "E",
+          "text": "Depletion of serotonin in the raphe nuclei"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Nicotine binds nicotinic receptors on VTA neurons, increasing dopamine release into the nucleus accumbens; this mesolimbic reward circuit reinforces use and drives addiction.",
+        "whyCorrect": "Nicotine binds nicotinic receptors on VTA neurons, increasing dopamine release into the nucleus accumbens; this mesolimbic reward circuit reinforces use and drives addiction.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-882_Brick Exchange - Tobacco Smoking_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-106",
+      "topicId": "chronic-obstructive-pulmonary-disease-part-1-pathophysiology",
+      "topicName": "Chronic Obstructive Pulmonary Disease Part 1: Pathophysiology",
+      "stem": "Compared with normal lung, the emphysematous lung on the right shows abnormally enlarged airspaces. This enlargement results from destruction of what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The pulmonary arterial media"
+        },
+        {
+          "label": "B",
+          "text": "The visceral pleura"
+        },
+        {
+          "label": "C",
+          "text": "The alveolar septal walls"
+        },
+        {
+          "label": "D",
+          "text": "The submucosal mucous glands"
+        },
+        {
+          "label": "E",
+          "text": "The bronchial smooth muscle layer"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Emphysema is defined by permanent enlargement of airspaces distal to the terminal bronchiole due to destruction of alveolar walls without significant fibrosis. Loss of septa reduces gas-exchange surface area and elastic recoil, causing airflow limitation.",
+        "whyCorrect": "Emphysema is defined by permanent enlargement of airspaces distal to the terminal bronchiole due to destruction of alveolar walls without significant fibrosis. Loss of septa reduces gas-exchange surface area and elastic recoil, causing airflow limitation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-106_Brick Exchange - Chronic Obstructive Pulmonary Disease Part 1_ Pathophysiology_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-107",
+      "topicId": "chronic-obstructive-pulmonary-disease-part-1-pathophysiology",
+      "topicName": "Chronic Obstructive Pulmonary Disease Part 1: Pathophysiology",
+      "stem": "These hepatocytes contain PAS-positive, diastase-resistant globules of misfolded protein that is deficient in the serum. Through what mechanism does this deficiency lead to emphysema in the lung?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "IgE-mediated mast cell degranulation causes bronchoconstriction"
+        },
+        {
+          "label": "B",
+          "text": "Surfactant deficiency collapses the alveoli"
+        },
+        {
+          "label": "C",
+          "text": "Excess collagen deposition stiffens the alveolar walls"
+        },
+        {
+          "label": "D",
+          "text": "Ciliary dysfunction impairs mucociliary clearance"
+        },
+        {
+          "label": "E",
+          "text": "Unopposed neutrophil elastase destroys alveolar elastin"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Alpha-1 antitrypsin normally inhibits neutrophil elastase. When the protein misfolds and is retained in hepatocytes, serum levels fall, leaving elastase unopposed to degrade alveolar elastic tissue, producing panacinar emphysema (accelerated by smoking).",
+        "whyCorrect": "Alpha-1 antitrypsin normally inhibits neutrophil elastase. When the protein misfolds and is retained in hepatocytes, serum levels fall, leaving elastase unopposed to degrade alveolar elastic tissue, producing panacinar emphysema (accelerated by smoking).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-107_Brick Exchange - Chronic Obstructive Pulmonary Disease Part 1_ Pathophysiology_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-231",
+      "topicId": "chronic-obstructive-pulmonary-disease-part-1-pathophysiology",
+      "topicName": "Chronic Obstructive Pulmonary Disease Part 1: Pathophysiology",
+      "stem": "This chest CT shows extensive low-attenuation air-filled spaces and large (>1 cm) subpleural cystic areas replacing normal lung parenchyma. These findings are characteristic of which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Idiopathic pulmonary fibrosis"
+        },
+        {
+          "label": "B",
+          "text": "Bronchiectasis"
+        },
+        {
+          "label": "C",
+          "text": "Cardiogenic pulmonary edema"
+        },
+        {
+          "label": "D",
+          "text": "Emphysema (COPD)"
+        },
+        {
+          "label": "E",
+          "text": "Lobar pneumonia"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Areas of destroyed lung appear as low-attenuation regions, and thin-walled spaces larger than 1 cm are bullae. This pattern of parenchymal destruction is typical of emphysema, in contrast to the reticulation of fibrosis or airspace filling of pneumonia and edema.",
+        "whyCorrect": "Areas of destroyed lung appear as low-attenuation regions, and thin-walled spaces larger than 1 cm are bullae. This pattern of parenchymal destruction is typical of emphysema, in contrast to the reticulation of fibrosis or airspace filling of pneumonia and edema.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-231_Brick Exchange - Chronic Obstructive Pulmonary Disease Part 1_ Pathophysiology_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-456",
+      "topicId": "chronic-obstructive-pulmonary-disease-part-1-pathophysiology",
+      "topicName": "Chronic Obstructive Pulmonary Disease Part 1: Pathophysiology",
+      "stem": "This diagram contrasts patterns of emphysema within the acinus. Which pattern preferentially destroys the respiratory bronchioles in an upper-lobe predominant distribution and is most strongly linked to cigarette smoking?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Centriacinar (centrilobular) emphysema"
+        },
+        {
+          "label": "B",
+          "text": "Paraseptal emphysema"
+        },
+        {
+          "label": "C",
+          "text": "Panacinar emphysema"
+        },
+        {
+          "label": "D",
+          "text": "Interstitial emphysema"
+        },
+        {
+          "label": "E",
+          "text": "Irregular (paracicatricial) emphysema"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Centriacinar emphysema damages the central portion of the acinus (respiratory bronchioles) while sparing distal alveoli, is upper-lobe predominant, and is the classic smoking-related pattern. Panacinar emphysema, associated with alpha-1 antitrypsin deficiency, destroys the entire acinus and is lower-lobe predominant.",
+        "whyCorrect": "Centriacinar emphysema damages the central portion of the acinus (respiratory bronchioles) while sparing distal alveoli, is upper-lobe predominant, and is the classic smoking-related pattern. Panacinar emphysema, associated with alpha-1 antitrypsin deficiency, destroys the entire acinus and is lower-lobe predominant.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-456_Brick Exchange - Chronic Obstructive Pulmonary Disease Part 1_ Pathophysiology_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-457",
+      "topicId": "chronic-obstructive-pulmonary-disease-part-1-pathophysiology",
+      "topicName": "Chronic Obstructive Pulmonary Disease Part 1: Pathophysiology",
+      "stem": "This gross lung section shows uniform destruction throughout the entire acinus (panacinar pattern) with dilated airways. This distribution of emphysema is most strongly associated with what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cigarette smoking"
+        },
+        {
+          "label": "B",
+          "text": "Coal dust exposure"
+        },
+        {
+          "label": "C",
+          "text": "Chronic asthma"
+        },
+        {
+          "label": "D",
+          "text": "Alpha-1 antitrypsin deficiency"
+        },
+        {
+          "label": "E",
+          "text": "Cystic fibrosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Panacinar emphysema destroys the acinus uniformly and is lower-lobe predominant, the classic pattern of alpha-1 antitrypsin deficiency. Smoking-related disease is instead typically centriacinar and upper-lobe predominant.",
+        "whyCorrect": "Panacinar emphysema destroys the acinus uniformly and is lower-lobe predominant, the classic pattern of alpha-1 antitrypsin deficiency. Smoking-related disease is instead typically centriacinar and upper-lobe predominant.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-457_Brick Exchange - Chronic Obstructive Pulmonary Disease Part 1_ Pathophysiology_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-458",
+      "topicId": "chronic-obstructive-pulmonary-disease-part-1-pathophysiology",
+      "topicName": "Chronic Obstructive Pulmonary Disease Part 1: Pathophysiology",
+      "stem": "This airway biopsy from a chronic smoker shows the normal pseudostratified ciliated columnar epithelium replaced by a multilayered flat epithelium (arrow). What adaptive change is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Squamous metaplasia"
+        },
+        {
+          "label": "B",
+          "text": "Epithelial hypertrophy"
+        },
+        {
+          "label": "C",
+          "text": "Goblet cell hyperplasia"
+        },
+        {
+          "label": "D",
+          "text": "High-grade dysplasia"
+        },
+        {
+          "label": "E",
+          "text": "Anaplasia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Chronic irritation from cigarette smoke drives replacement of the delicate respiratory epithelium by more resistant stratified squamous epithelium, a reversible adaptive metaplasia. It compromises mucociliary clearance and can be a precursor field for dysplasia.",
+        "whyCorrect": "Chronic irritation from cigarette smoke drives replacement of the delicate respiratory epithelium by more resistant stratified squamous epithelium, a reversible adaptive metaplasia. It compromises mucociliary clearance and can be a precursor field for dysplasia.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-458_Brick Exchange - Chronic Obstructive Pulmonary Disease Part 1_ Pathophysiology_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-691",
+      "topicId": "chronic-obstructive-pulmonary-disease-part-1-pathophysiology",
+      "topicName": "Chronic Obstructive Pulmonary Disease Part 1: Pathophysiology",
+      "stem": "Panel B shows an older patient with a markedly increased anteroposterior chest diameter compared with panel A. What underlies this 'barrel chest' seen in advanced COPD?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Kyphoscoliosis of the thoracic spine"
+        },
+        {
+          "label": "B",
+          "text": "Chronic lung hyperinflation and air trapping"
+        },
+        {
+          "label": "C",
+          "text": "A large pleural effusion expanding the hemithorax"
+        },
+        {
+          "label": "D",
+          "text": "Subcutaneous fat deposition over the chest wall"
+        },
+        {
+          "label": "E",
+          "text": "Pectus carinatum from costal cartilage overgrowth"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Loss of elastic recoil in emphysema traps air and raises residual volume, so the rib cage is held in a hyperinflated, expiratory-limited position. This increases the AP diameter, producing the barrel-shaped chest.",
+        "whyCorrect": "Loss of elastic recoil in emphysema traps air and raises residual volume, so the rib cage is held in a hyperinflated, expiratory-limited position. This increases the AP diameter, producing the barrel-shaped chest.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-691_Brick Exchange - Chronic Obstructive Pulmonary Disease Part 1_ Pathophysiology_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-232",
+      "topicId": "chronic-obstructive-pulmonary-disease-part-2-clinical-presentation-diagnosis-and-management",
+      "topicName": "Chronic Obstructive Pulmonary Disease Part 2: Clinical Presentation, Diagnosis, and Management",
+      "stem": "This PA chest radiograph shows hyperlucent, hyperinflated lungs with flattened hemidiaphragms and a narrow vertical cardiac silhouette. These findings are most typical of which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tension pneumothorax"
+        },
+        {
+          "label": "B",
+          "text": "Cardiogenic pulmonary edema"
+        },
+        {
+          "label": "C",
+          "text": "Large pleural effusion"
+        },
+        {
+          "label": "D",
+          "text": "COPD with emphysematous hyperinflation"
+        },
+        {
+          "label": "E",
+          "text": "Lobar pneumonia"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In emphysema, air trapping expands lung volumes, flattening the diaphragms, increasing lung lucency, widening the retrosternal space, and narrowing the heart shadow. These are the classic radiographic signs of COPD hyperinflation.",
+        "whyCorrect": "In emphysema, air trapping expands lung volumes, flattening the diaphragms, increasing lung lucency, widening the retrosternal space, and narrowing the heart shadow. These are the classic radiographic signs of COPD hyperinflation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-232_Brick Exchange - Chronic Obstructive Pulmonary Disease Part 2_ Clinical Presentation, Diagnosis, and Management_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-233",
+      "topicId": "chronic-obstructive-pulmonary-disease-part-2-clinical-presentation-diagnosis-and-management",
+      "topicName": "Chronic Obstructive Pulmonary Disease Part 2: Clinical Presentation, Diagnosis, and Management",
+      "stem": "On this lateral chest radiograph (trachea, lungs, and heart labeled), which finding is specifically assessed as a sign of hyperinflation in COPD?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An enlarged retrosternal air space"
+        },
+        {
+          "label": "B",
+          "text": "Enlargement of the cardiac silhouette"
+        },
+        {
+          "label": "C",
+          "text": "Widening of the superior mediastinum"
+        },
+        {
+          "label": "D",
+          "text": "Calcification of the pleura"
+        },
+        {
+          "label": "E",
+          "text": "Deviation of the trachea to one side"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The lateral view demonstrates hyperinflation as an increased lucent retrosternal air space and flattening of the diaphragm. This complements the flattened diaphragms and hyperlucency seen on the frontal film.",
+        "whyCorrect": "The lateral view demonstrates hyperinflation as an increased lucent retrosternal air space and flattening of the diaphragm. This complements the flattened diaphragms and hyperlucency seen on the frontal film.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-233_Brick Exchange - Chronic Obstructive Pulmonary Disease Part 2_ Clinical Presentation, Diagnosis, and Management_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-459",
+      "topicId": "chronic-obstructive-pulmonary-disease-part-2-clinical-presentation-diagnosis-and-management",
+      "topicName": "Chronic Obstructive Pulmonary Disease Part 2: Clinical Presentation, Diagnosis, and Management",
+      "stem": "This classic clinical illustration shows an elderly man with marked muscle wasting and a barrel-shaped chest sitting forward. Which COPD phenotype is being depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic bronchitis-predominant ('blue bloater')"
+        },
+        {
+          "label": "B",
+          "text": "Acute severe asthma exacerbation"
+        },
+        {
+          "label": "C",
+          "text": "Emphysema-predominant ('pink puffer')"
+        },
+        {
+          "label": "D",
+          "text": "Decompensated congestive heart failure"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary tuberculosis with cachexia"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The cachectic, barrel-chested patient who leans forward and uses accessory muscles represents the emphysema-predominant 'pink puffer,' who maintains near-normal oxygenation through increased work of breathing rather than becoming cyanotic and edematous.",
+        "whyCorrect": "The cachectic, barrel-chested patient who leans forward and uses accessory muscles represents the emphysema-predominant 'pink puffer,' who maintains near-normal oxygenation through increased work of breathing rather than becoming cyanotic and edematous.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-459_Brick Exchange - Chronic Obstructive Pulmonary Disease Part 2_ Clinical Presentation, Diagnosis, and Management_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-214",
+      "topicId": "asthma",
+      "topicName": "Asthma",
+      "stem": "Comparing the two spirometry tracings, which feature best identifies the asthma tracing as a reversible obstructive process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A reduced total exhaled volume that does not change with bronchodilator"
+        },
+        {
+          "label": "B",
+          "text": "A restrictive pattern with proportionally reduced FVC and FEV1"
+        },
+        {
+          "label": "C",
+          "text": "A faster-than-normal rise to a higher plateau"
+        },
+        {
+          "label": "D",
+          "text": "Slowed initial rise with FEV1 improving substantially after bronchodilator"
+        },
+        {
+          "label": "E",
+          "text": "An unchanged FEV1 before and after bronchodilator"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In asthma the volume-time curve rises slowly (airflow obstruction, low FEV1), and the dashed post-bronchodilator curve shows marked improvement toward normal, demonstrating reversibility, the hallmark distinguishing asthma from fixed obstruction.",
+        "whyCorrect": "In asthma the volume-time curve rises slowly (airflow obstruction, low FEV1), and the dashed post-bronchodilator curve shows marked improvement toward normal, demonstrating reversibility, the hallmark distinguishing asthma from fixed obstruction.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-214_Brick Exchange - Asthma_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-215",
+      "topicId": "asthma",
+      "topicName": "Asthma",
+      "stem": "On this bronchoprovocation test, the asthmatic curve reaches a 20% fall in FEV1 at a much lower inhaled agent dose than normal. What does this indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reduced diffusing capacity of the lung"
+        },
+        {
+          "label": "B",
+          "text": "Increased static lung compliance"
+        },
+        {
+          "label": "C",
+          "text": "Fixed irreversible airflow obstruction"
+        },
+        {
+          "label": "D",
+          "text": "Impaired respiratory muscle strength"
+        },
+        {
+          "label": "E",
+          "text": "Airway hyperresponsiveness"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A low PC20 (here 0.8 vs 20 mg/mL) means only a small provocative concentration of methacholine produces a 20% FEV1 drop, defining airway hyperresponsiveness characteristic of asthma.",
+        "whyCorrect": "A low PC20 (here 0.8 vs 20 mg/mL) means only a small provocative concentration of methacholine produces a 20% FEV1 drop, defining airway hyperresponsiveness characteristic of asthma.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-215_Brick Exchange - Asthma_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-440",
+      "topicId": "asthma",
+      "topicName": "Asthma",
+      "stem": "This H&E section of a bronchus shows a thickened, hyalinized basement membrane, hypertrophied bronchial smooth muscle (blue arrow), goblet-cell/mucus change (green arrow), and a dense eosinophil-rich inflammatory infiltrate (yellow arrow). These airway-remodeling features are characteristic of which disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bronchiectasis"
+        },
+        {
+          "label": "B",
+          "text": "Emphysema"
+        },
+        {
+          "label": "C",
+          "text": "Asthma"
+        },
+        {
+          "label": "D",
+          "text": "Chronic bronchitis"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary tuberculosis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Basement membrane thickening, smooth muscle hypertrophy, goblet-cell/mucous hyperplasia, and eosinophilic inflammation are the histologic hallmarks of chronic asthmatic airway remodeling.",
+        "whyCorrect": "Basement membrane thickening, smooth muscle hypertrophy, goblet-cell/mucous hyperplasia, and eosinophilic inflammation are the histologic hallmarks of chronic asthmatic airway remodeling.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-440_Brick Exchange - Asthma_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-441",
+      "topicId": "asthma",
+      "topicName": "Asthma",
+      "stem": "This mucus-plug finding on sputum microscopy from a patient with an obstructive airway disease is most directly formed by which process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Degenerated red blood cells forming a cast"
+        },
+        {
+          "label": "B",
+          "text": "Aggregated fibrin strands from alveolar hemorrhage"
+        },
+        {
+          "label": "C",
+          "text": "Calcified bronchial cartilage fragments"
+        },
+        {
+          "label": "D",
+          "text": "Crystallized surfactant lipoprotein"
+        },
+        {
+          "label": "E",
+          "text": "Shed/casted bronchial epithelium and mucus"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The spiral shown is a Curschmann spiral, a whorled cast of mucus and shed epithelial cells from occluded small bronchioles, classically seen in asthma sputum alongside eosinophils and Charcot-Leyden crystals.",
+        "whyCorrect": "The spiral shown is a Curschmann spiral, a whorled cast of mucus and shed epithelial cells from occluded small bronchioles, classically seen in asthma sputum alongside eosinophils and Charcot-Leyden crystals.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-441_Brick Exchange - Asthma_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-656",
+      "topicId": "asthma",
+      "topicName": "Asthma",
+      "stem": "In the rightmost airway (asthmatic airway during an acute attack), which combination of changes is most responsible for the reduced airflow?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Accumulation of fluid within the alveoli only"
+        },
+        {
+          "label": "B",
+          "text": "Smooth muscle constriction plus wall inflammation"
+        },
+        {
+          "label": "C",
+          "text": "Loss of alveolar walls with permanent airspace enlargement"
+        },
+        {
+          "label": "D",
+          "text": "Thinning and dilation of the bronchial wall"
+        },
+        {
+          "label": "E",
+          "text": "Replacement of airway epithelium by fibrous scar with a fixed rigid lumen"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "During an asthma attack bronchial smooth muscle contracts and the inflamed, thickened wall narrows the lumen, trapping air distally in alveoli. This bronchoconstriction plus inflammation is reversible, unlike the fixed destruction of emphysema.",
+        "whyCorrect": "During an asthma attack bronchial smooth muscle contracts and the inflamed, thickened wall narrows the lumen, trapping air distally in alveoli. This bronchoconstriction plus inflammation is reversible, unlike the fixed destruction of emphysema.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-656_Brick Exchange - Asthma_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-595",
+      "topicId": "treatment-of-asthma-copd",
+      "topicName": "Treatment of Asthma & COPD",
+      "stem": "This mnemonic cartoon depicts a toxidrome of dry mouth, urinary retention, mydriasis, flushed hot skin, hyperthermia, tachycardia, confusion, and absent bowel sounds. Which inhaled COPD medication class can produce these systemic effects?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Methylxanthines (theophylline)"
+        },
+        {
+          "label": "B",
+          "text": "Muscarinic antagonists (e.g., ipratropium, tiotropium)"
+        },
+        {
+          "label": "C",
+          "text": "Beta-2 agonists (albuterol)"
+        },
+        {
+          "label": "D",
+          "text": "Leukotriene receptor antagonists (montelukast)"
+        },
+        {
+          "label": "E",
+          "text": "Inhaled corticosteroids (fluticasone)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The anticholinergic toxidrome (dry as a bone, red as a beet, hot as a desert, blind as a bat, mad as a hatter) results from muscarinic receptor blockade; inhaled antimuscarinics such as ipratropium and tiotropium used in COPD can cause these effects if systemically absorbed.",
+        "whyCorrect": "The anticholinergic toxidrome (dry as a bone, red as a beet, hot as a desert, blind as a bat, mad as a hatter) results from muscarinic receptor blockade; inhaled antimuscarinics such as ipratropium and tiotropium used in COPD can cause these effects if systemically absorbed.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-595_Brick Exchange - Treatment of Asthma & COPD_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-596",
+      "topicId": "treatment-of-asthma-copd",
+      "topicName": "Treatment of Asthma & COPD",
+      "stem": "This diagram shows the beta-agonist pathway (top right) increasing cAMP via adenylyl cyclase to promote bronchodilation. Which short-acting inhaled drug acts through this beta-receptor pathway for acute asthma relief?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Montelukast"
+        },
+        {
+          "label": "B",
+          "text": "Ipratropium"
+        },
+        {
+          "label": "C",
+          "text": "Fluticasone"
+        },
+        {
+          "label": "D",
+          "text": "Albuterol"
+        },
+        {
+          "label": "E",
+          "text": "Theophylline"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Albuterol is a short-acting beta-2 agonist that stimulates adenylyl cyclase to raise intracellular cAMP, relaxing bronchial smooth muscle; theophylline works instead by inhibiting phosphodiesterase, and ipratropium by blocking muscarinic receptors.",
+        "whyCorrect": "Albuterol is a short-acting beta-2 agonist that stimulates adenylyl cyclase to raise intracellular cAMP, relaxing bronchial smooth muscle; theophylline works instead by inhibiting phosphodiesterase, and ipratropium by blocking muscarinic receptors.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-596_Brick Exchange - Treatment of Asthma & COPD_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,708 @@
+{
+  "categoryId": "resp_w1s3",
+  "categoryName": "Session 3",
+  "questions": [
+    {
+      "id": "repic-549",
+      "topicId": "pulmonary-circulation",
+      "topicName": "Pulmonary Circulation",
+      "stem": "This figure traces fluid moving out of the capillary into the interstitium and perivascular space, then into the alveoli. What condition is being illustrated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Emphysema"
+        },
+        {
+          "label": "B",
+          "text": "Pleural effusion"
+        },
+        {
+          "label": "C",
+          "text": "Pulmonary embolism"
+        },
+        {
+          "label": "D",
+          "text": "Pneumothorax"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary edema"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Fluid leaving the capillary first accumulates in the interstitium/perivascular space and then floods the alveoli, the sequence of pulmonary edema formation.",
+        "whyCorrect": "Fluid leaving the capillary first accumulates in the interstitium/perivascular space and then floods the alveoli, the sequence of pulmonary edema formation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-549_Brick Exchange - Pulmonary Circulation_p23_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-841",
+      "topicId": "pulmonary-circulation",
+      "topicName": "Pulmonary Circulation",
+      "stem": "As pulmonary arterial pressure or cardiac output rises, the two capillary changes shown here occur. What is their net effect on pulmonary vascular resistance?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It reduces total pulmonary blood flow"
+        },
+        {
+          "label": "B",
+          "text": "It has no effect on pulmonary vascular resistance"
+        },
+        {
+          "label": "C",
+          "text": "It increases pulmonary vascular resistance"
+        },
+        {
+          "label": "D",
+          "text": "It decreases pulmonary vascular resistance"
+        },
+        {
+          "label": "E",
+          "text": "It increases alveolar dead space"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Recruitment of previously closed capillaries and distension of already-open ones lower pulmonary vascular resistance as flow and pressure rise, keeping pulmonary pressures low.",
+        "whyCorrect": "Recruitment of previously closed capillaries and distension of already-open ones lower pulmonary vascular resistance as flow and pressure rise, keeping pulmonary pressures low.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-841_Brick Exchange - Pulmonary Circulation_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-842",
+      "topicId": "pulmonary-circulation",
+      "topicName": "Pulmonary Circulation",
+      "stem": "This U-shaped curve relates pulmonary vascular resistance to lung volume, with a minimum at functional residual capacity. Why does resistance rise again at total lung capacity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Surfactant is depleted at total lung capacity"
+        },
+        {
+          "label": "B",
+          "text": "Alveolar capillaries are stretched and compressed by the expanded alveoli"
+        },
+        {
+          "label": "C",
+          "text": "Blood viscosity increases at high lung volumes"
+        },
+        {
+          "label": "D",
+          "text": "Hypoxic vasoconstriction is maximal at high lung volumes"
+        },
+        {
+          "label": "E",
+          "text": "Extra-alveolar vessels collapse from loss of radial traction"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "PVR is lowest near FRC. At high volumes the alveolar capillaries are stretched and squeezed by distended alveoli; at low volumes extra-alveolar vessels narrow from lost radial traction, so PVR rises at both extremes.",
+        "whyCorrect": "PVR is lowest near FRC. At high volumes the alveolar capillaries are stretched and squeezed by distended alveoli; at low volumes extra-alveolar vessels narrow from lost radial traction, so PVR rises at both extremes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-842_Brick Exchange - Pulmonary Circulation_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-843",
+      "topicId": "pulmonary-circulation",
+      "topicName": "Pulmonary Circulation",
+      "stem": "In this figure an alveolus with low oxygen triggers narrowing of its supplying pulmonary artery while a normal alveolus keeps its vessel open. What is the physiological benefit of this response?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It increases anatomic dead space ventilation"
+        },
+        {
+          "label": "B",
+          "text": "It diverts blood from poorly ventilated toward better ventilated alveoli"
+        },
+        {
+          "label": "C",
+          "text": "It increases blood flow to hypoxic regions to raise oxygen uptake"
+        },
+        {
+          "label": "D",
+          "text": "It dilates capillaries to prevent pulmonary edema"
+        },
+        {
+          "label": "E",
+          "text": "It lowers systemic arterial blood pressure"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Hypoxic pulmonary vasoconstriction shunts blood away from hypoxic alveoli toward well-oxygenated regions, optimizing ventilation-perfusion matching.",
+        "whyCorrect": "Hypoxic pulmonary vasoconstriction shunts blood away from hypoxic alveoli toward well-oxygenated regions, optimizing ventilation-perfusion matching.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-843_Brick Exchange - Pulmonary Circulation_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-844",
+      "topicId": "pulmonary-circulation",
+      "topicName": "Pulmonary Circulation",
+      "stem": "This graph shows pulmonary blood flow falling steeply as alveolar PO2 drops below roughly 100 mmHg. Which mechanism produces this relationship?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Carbon dioxide-mediated bronchodilation"
+        },
+        {
+          "label": "B",
+          "text": "Systemic baroreceptor reflex"
+        },
+        {
+          "label": "C",
+          "text": "Hypoxic pulmonary vasoconstriction"
+        },
+        {
+          "label": "D",
+          "text": "Bohr effect on hemoglobin"
+        },
+        {
+          "label": "E",
+          "text": "Laplace-driven alveolar collapse"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Low alveolar PO2 constricts local pulmonary arterioles (hypoxic pulmonary vasoconstriction), reducing blood flow to poorly oxygenated regions of the lung.",
+        "whyCorrect": "Low alveolar PO2 constricts local pulmonary arterioles (hypoxic pulmonary vasoconstriction), reducing blood flow to poorly oxygenated regions of the lung.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-844_Brick Exchange - Pulmonary Circulation_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-845",
+      "topicId": "pulmonary-circulation",
+      "topicName": "Pulmonary Circulation",
+      "stem": "This diagram shows the pressures acting across the alveolar-capillary interface, plus lymphatic drainage. What outcome do these balanced forces normally prevent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diffusion of oxygen into the capillary"
+        },
+        {
+          "label": "B",
+          "text": "Accumulation of fluid in the alveoli"
+        },
+        {
+          "label": "C",
+          "text": "Bronchoconstriction of the small airways"
+        },
+        {
+          "label": "D",
+          "text": "Rupture of the capillary endothelium"
+        },
+        {
+          "label": "E",
+          "text": "Collapse of the alveolus during expiration"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Capillary hydrostatic and colloid osmotic pressures, interstitial forces, and lymphatic drainage normally balance so the alveoli stay dry; disrupting this balance causes pulmonary edema.",
+        "whyCorrect": "Capillary hydrostatic and colloid osmotic pressures, interstitial forces, and lymphatic drainage normally balance so the alveoli stay dry; disrupting this balance causes pulmonary edema.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-845_Brick Exchange - Pulmonary Circulation_p21_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-846",
+      "topicId": "pulmonary-circulation",
+      "topicName": "Pulmonary Circulation",
+      "stem": "This figure divides the upright lung into regions where blood flows 'with gravity' versus 'against gravity.' What does it illustrate about pulmonary perfusion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Gravity has no effect on pulmonary blood flow"
+        },
+        {
+          "label": "B",
+          "text": "Blood flow is greater at the apex than at the base"
+        },
+        {
+          "label": "C",
+          "text": "Ventilation exceeds perfusion at the base"
+        },
+        {
+          "label": "D",
+          "text": "Blood flow is greater at the lung base than at the apex"
+        },
+        {
+          "label": "E",
+          "text": "Perfusion is uniform throughout the upright lung"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In the upright lung, gravity increases perfusion toward the base and reduces it at the apex, producing a vertical gradient of blood flow.",
+        "whyCorrect": "In the upright lung, gravity increases perfusion toward the base and reduces it at the apex, producing a vertical gradient of blood flow.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-846_Brick Exchange - Pulmonary Circulation_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-847",
+      "topicId": "pulmonary-circulation",
+      "topicName": "Pulmonary Circulation",
+      "stem": "This figure divides the upright lung into three regions defined by the relationships among alveolar, arterial, and venous pressures. In the uppermost region, alveolar pressure exceeds arterial pressure. What happens to blood flow there?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Flow reverses back toward the pulmonary artery"
+        },
+        {
+          "label": "B",
+          "text": "Flow is maximal because the vessels are fully distended"
+        },
+        {
+          "label": "C",
+          "text": "Flow is driven by lymphatic drainage"
+        },
+        {
+          "label": "D",
+          "text": "Flow ceases because alveolar pressure collapses the capillaries"
+        },
+        {
+          "label": "E",
+          "text": "Flow depends only on the arterial-to-venous pressure difference"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In West Zone 1 (alveolar > arterial > venous pressure), alveolar pressure compresses the capillaries and no flow occurs; this zone is normally absent in healthy people.",
+        "whyCorrect": "In West Zone 1 (alveolar > arterial > venous pressure), alveolar pressure compresses the capillaries and no flow occurs; this zone is normally absent in healthy people.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-847_Brick Exchange - Pulmonary Circulation_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-797",
+      "topicId": "oxygen-and-carbon-dioxide-transport",
+      "topicName": "Oxygen and Carbon Dioxide Transport",
+      "stem": "This curve plots hemoglobin O2 saturation against PO2. What best explains its characteristic S (sigmoidal) shape?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Denaturation of hemoglobin at high oxygen tensions"
+        },
+        {
+          "label": "B",
+          "text": "Competitive inhibition of O2 binding by dissolved CO2 in plasma"
+        },
+        {
+          "label": "C",
+          "text": "Saturating first-order kinetics of a single independent binding site"
+        },
+        {
+          "label": "D",
+          "text": "A linear one-to-one relationship between dissolved plasma O2 and saturation"
+        },
+        {
+          "label": "E",
+          "text": "Cooperative binding"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Hemoglobin's four subunits bind O2 cooperatively, so affinity rises as successive sites are occupied, producing the sigmoid curve that steepens over the physiological range and plateaus near full saturation.",
+        "whyCorrect": "Hemoglobin's four subunits bind O2 cooperatively, so affinity rises as successive sites are occupied, producing the sigmoid curve that steepens over the physiological range and plateaus near full saturation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-797_Brick Exchange - Oxygen and Carbon Dioxide Transport_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-798",
+      "topicId": "oxygen-and-carbon-dioxide-transport",
+      "topicName": "Oxygen and Carbon Dioxide Transport",
+      "stem": "In the lungs, hemoglobin binds O2 while releasing CO2 and H+; in the tissues it does the reverse. Which principle does this reciprocal exchange illustrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "H+ binding permanently oxidizes heme iron to methemoglobin"
+        },
+        {
+          "label": "B",
+          "text": "Binding of CO2/H+ lowers hemoglobin's O2 affinity, and O2 binding lowers its affinity for CO2/H+"
+        },
+        {
+          "label": "C",
+          "text": "O2 and CO2 compete for the same heme iron binding site"
+        },
+        {
+          "label": "D",
+          "text": "CO2 is carried exclusively bound to the heme groups"
+        },
+        {
+          "label": "E",
+          "text": "Hemoglobin transports all CO2 as carbaminohemoglobin only"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "In tissues, high CO2 and H+ promote O2 release (Bohr effect); in lungs, O2 loading drives off CO2 and H+ (Haldane effect). These allosteric shifts optimize gas exchange at each site.",
+        "whyCorrect": "In tissues, high CO2 and H+ promote O2 release (Bohr effect); in lungs, O2 loading drives off CO2 and H+ (Haldane effect). These allosteric shifts optimize gas exchange at each site.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-798_Brick Exchange - Oxygen and Carbon Dioxide Transport_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-799",
+      "topicId": "oxygen-and-carbon-dioxide-transport",
+      "topicName": "Oxygen and Carbon Dioxide Transport",
+      "stem": "This diagram traces CO2 handling in a red blood cell at the tissues and again at the lungs. What is the role of the enzyme shown catalyzing the reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It splits hemoglobin to release stored oxygen"
+        },
+        {
+          "label": "B",
+          "text": "It binds CO2 directly to form carbaminohemoglobin"
+        },
+        {
+          "label": "C",
+          "text": "It actively pumps chloride out of the red cell against its gradient"
+        },
+        {
+          "label": "D",
+          "text": "It buffers plasma pH by consuming free bicarbonate"
+        },
+        {
+          "label": "E",
+          "text": "It rapidly interconverts CO2 and water with carbonic acid"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Carbonic anhydrase speeds CO2 + H2O to H2CO3, which dissociates to HCO3- and H+. Bicarbonate exits the cell (chloride shift) so ~70% of CO2 travels in plasma as HCO3-; the reaction reverses in the lungs.",
+        "whyCorrect": "Carbonic anhydrase speeds CO2 + H2O to H2CO3, which dissociates to HCO3- and H+. Bicarbonate exits the cell (chloride shift) so ~70% of CO2 travels in plasma as HCO3-; the reaction reverses in the lungs.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-799_Brick Exchange - Oxygen and Carbon Dioxide Transport_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-800",
+      "topicId": "oxygen-and-carbon-dioxide-transport",
+      "topicName": "Oxygen and Carbon Dioxide Transport",
+      "stem": "Panel A shows a rightward-shifted dissociation curve compared with panel B. Physiologically, what does the rightward shift accomplish for the tissues?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased total oxygen-carrying capacity of the blood"
+        },
+        {
+          "label": "B",
+          "text": "Reduced dissolved CO2 content in the plasma"
+        },
+        {
+          "label": "C",
+          "text": "Decreased O2 affinity, which unloads more oxygen"
+        },
+        {
+          "label": "D",
+          "text": "Conversion of hemoglobin to a higher-affinity fetal form"
+        },
+        {
+          "label": "E",
+          "text": "Increased O2 affinity, promoting oxygen loading in the tissues"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A rightward shift (raised PCO2, low pH, high temperature, high 2,3-DPG) raises P50 and lowers O2 affinity, favoring oxygen release where metabolic demand is greatest; a leftward shift does the opposite.",
+        "whyCorrect": "A rightward shift (raised PCO2, low pH, high temperature, high 2,3-DPG) raises P50 and lowers O2 affinity, favoring oxygen release where metabolic demand is greatest; a leftward shift does the opposite.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-800_Brick Exchange - Oxygen and Carbon Dioxide Transport_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-801",
+      "topicId": "oxygen-and-carbon-dioxide-transport",
+      "topicName": "Oxygen and Carbon Dioxide Transport",
+      "stem": "This flowchart contrasts events at the tissues and lungs, linking the Haldane and Bohr effects. What is the net functional result these coupled effects produce at the tissues?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Independent transport of O2 and CO2 with no mutual influence"
+        },
+        {
+          "label": "B",
+          "text": "Increased O2 affinity that traps oxygen on hemoglobin"
+        },
+        {
+          "label": "C",
+          "text": "Enhanced O2 unloading paired with increased CO2 loading"
+        },
+        {
+          "label": "D",
+          "text": "Enhanced O2 loading paired with increased CO2 unloading"
+        },
+        {
+          "label": "E",
+          "text": "Reduced hemoglobin affinity for both O2 and CO2 simultaneously"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "At the tissues, low PO2 and high PCO2 lower hemoglobin's O2 affinity (Bohr) and raise its CO2 carriage (Haldane), so oxygen is released and carbon dioxide is picked up. The reverse occurs in the lungs.",
+        "whyCorrect": "At the tissues, low PO2 and high PCO2 lower hemoglobin's O2 affinity (Bohr) and raise its CO2 carriage (Haldane), so oxygen is released and carbon dioxide is picked up. The reverse occurs in the lungs.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-801_Brick Exchange - Oxygen and Carbon Dioxide Transport_p20_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-802",
+      "topicId": "oxygen-and-carbon-dioxide-transport",
+      "topicName": "Oxygen and Carbon Dioxide Transport",
+      "stem": "This figure shows oxygen molecules being taken up inside a red blood cell and a magnified view of the protein that binds them. How many O2 molecules can one fully saturated unit of this protein carry?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "One, at a single central site"
+        },
+        {
+          "label": "B",
+          "text": "Eight, two per subunit"
+        },
+        {
+          "label": "C",
+          "text": "Four, one per heme group"
+        },
+        {
+          "label": "D",
+          "text": "Two, one per alpha chain"
+        },
+        {
+          "label": "E",
+          "text": "Twelve, distributed across the globin folds"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Hemoglobin is a tetramer of four globin chains, each with one heme iron that binds a single O2, so a fully saturated molecule carries four oxygen molecules as oxyhemoglobin.",
+        "whyCorrect": "Hemoglobin is a tetramer of four globin chains, each with one heme iron that binds a single O2, so a fully saturated molecule carries four oxygen molecules as oxyhemoglobin.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-802_Brick Exchange - Oxygen and Carbon Dioxide Transport_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-803",
+      "topicId": "oxygen-and-carbon-dioxide-transport",
+      "topicName": "Oxygen and Carbon Dioxide Transport",
+      "stem": "This reaction sequence occurs in a red blood cell arriving at the alveolus. Why does the reaction proceed toward generating CO2 for exhalation here rather than toward bicarbonate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Carbonic anhydrase runs only in the CO2-forming direction"
+        },
+        {
+          "label": "B",
+          "text": "High tissue metabolic demand generates additional bicarbonate here"
+        },
+        {
+          "label": "C",
+          "text": "Low alveolar PCO2 pulls the equilibrium toward CO2 formation"
+        },
+        {
+          "label": "D",
+          "text": "Hemoglobin actively pumps CO2 into the alveolus using ATP"
+        },
+        {
+          "label": "E",
+          "text": "The low pH of alveolar gas traps bicarbonate inside the cell"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "As CO2 diffuses down its gradient into the low-PCO2 alveolus, the carbonic anhydrase equilibrium (HCO3- + H+ to H2CO3 to CO2 + H2O) is driven toward CO2, releasing it for exhalation.",
+        "whyCorrect": "As CO2 diffuses down its gradient into the low-PCO2 alveolus, the carbonic anhydrase equilibrium (HCO3- + H+ to H2CO3 to CO2 + H2O) is driven toward CO2, releasing it for exhalation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-803_Brick Exchange - Oxygen and Carbon Dioxide Transport_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-361",
+      "topicId": "respiratory-alkalosis",
+      "topicName": "Respiratory Alkalosis",
+      "stem": "This contrast-enhanced axial CT of the chest shows red arrows pointing to filling defects within the central pulmonary arteries. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute pulmonary embolism"
+        },
+        {
+          "label": "B",
+          "text": "Aortic dissection"
+        },
+        {
+          "label": "C",
+          "text": "Lung abscess"
+        },
+        {
+          "label": "D",
+          "text": "Pericardial effusion"
+        },
+        {
+          "label": "E",
+          "text": "Mediastinal lymphadenopathy"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "On CT pulmonary angiography, hypodense (dark) filling defects within the contrast-opacified pulmonary arteries indicate thromboemboli. Large central emboli can cause hyperventilation and a secondary respiratory alkalosis.",
+        "whyCorrect": "On CT pulmonary angiography, hypodense (dark) filling defects within the contrast-opacified pulmonary arteries indicate thromboemboli. Large central emboli can cause hyperventilation and a secondary respiratory alkalosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-361_Brick Exchange - Respiratory Alkalosis_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-365",
+      "topicId": "respiratory-carbon-monoxide-co-poisoning-and-cyanide-cn-poisoning",
+      "topicName": "Respiratory: Carbon Monoxide (CO) Poisoning and Cyanide (CN) Poisoning",
+      "stem": "This handheld device with a finger probe is used at the bedside in suspected smoke-inhalation victims. Unlike a standard pulse oximeter, what does it specifically measure noninvasively?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Methemoglobin only, not carboxyhemoglobin"
+        },
+        {
+          "label": "B",
+          "text": "Carboxyhemoglobin fraction"
+        },
+        {
+          "label": "C",
+          "text": "End-tidal carbon dioxide"
+        },
+        {
+          "label": "D",
+          "text": "Blood lactate concentration"
+        },
+        {
+          "label": "E",
+          "text": "Arterial partial pressure of oxygen"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A pulse CO-oximeter uses multiple light wavelengths to distinguish carboxyhemoglobin from oxyhemoglobin, allowing noninvasive detection of CO poisoning. A standard 2-wavelength pulse oximeter cannot, and reads falsely normal SpO2 in CO poisoning.",
+        "whyCorrect": "A pulse CO-oximeter uses multiple light wavelengths to distinguish carboxyhemoglobin from oxyhemoglobin, allowing noninvasive detection of CO poisoning. A standard 2-wavelength pulse oximeter cannot, and reads falsely normal SpO2 in CO poisoning.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-365_Brick Exchange - Respiratory_ Carbon Monoxide (CO) Poisoning and Cyanide (CN) Poisoning_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-857",
+      "topicId": "respiratory-carbon-monoxide-co-poisoning-and-cyanide-cn-poisoning",
+      "topicName": "Respiratory: Carbon Monoxide (CO) Poisoning and Cyanide (CN) Poisoning",
+      "stem": "In this plot of blood oxygen content versus oxygen partial pressure, the dashed curve (hemoglobin with 50% carboxyhemoglobin) plateaus at a lower total content AND is shifted so that oxygen is released less readily than the solid normal curve. Which statement best explains the danger illustrated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CO increases oxygen content but right-shifts the curve, improving delivery"
+        },
+        {
+          "label": "B",
+          "text": "CO only lowers dissolved oxygen without affecting hemoglobin"
+        },
+        {
+          "label": "C",
+          "text": "CO raises the P50 so tissues extract more oxygen"
+        },
+        {
+          "label": "D",
+          "text": "CO both lowers total O2-carrying capacity and left-shifts the dissociation curve"
+        },
+        {
+          "label": "E",
+          "text": "CO lowers content but right-shifts the curve, aiding unloading"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Carbon monoxide binds hemoglobin with high affinity, reducing available O2 binding sites (lower content) and simultaneously left-shifting the curve for the remaining sites, so oxygen is held more tightly and released poorly at tissues, causing profound hypoxia despite a 'normal' PaO2.",
+        "whyCorrect": "Carbon monoxide binds hemoglobin with high affinity, reducing available O2 binding sites (lower content) and simultaneously left-shifting the curve for the remaining sites, so oxygen is held more tightly and released poorly at tissues, causing profound hypoxia despite a 'normal' PaO2.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-857_Brick Exchange - Respiratory_ Carbon Monoxide (CO) Poisoning and Cyanide (CN) Poisoning_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

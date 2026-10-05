@@ -1,0 +1,1566 @@
+{
+  "categoryId": "cardio_w2s1",
+  "categoryName": "Session 1",
+  "questions": [
+    {
+      "id": "repic-663",
+      "topicId": "blood-pressure-control-foundations-and-frameworks",
+      "topicName": "Blood Pressure Control: Foundations and Frameworks",
+      "stem": "This diagram shows a single hormone acting simultaneously on arterioles (constriction), the proximal tubule (Na+/H+ exchange), the adrenal cortex (aldosterone), and the hypothalamus/posterior pituitary (thirst and ADH). What is the net physiologic effect of all these coordinated actions?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An increase in arterial blood pressure"
+        },
+        {
+          "label": "B",
+          "text": "A fall in systemic vascular resistance"
+        },
+        {
+          "label": "C",
+          "text": "A net loss of sodium and water"
+        },
+        {
+          "label": "D",
+          "text": "Suppression of thirst and diuresis"
+        },
+        {
+          "label": "E",
+          "text": "A decrease in arterial blood pressure"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "These are the downstream actions of angiotensin II; vasoconstriction plus sodium and water retention (directly, via aldosterone, and via ADH) all converge to raise blood pressure.",
+        "whyCorrect": "These are the downstream actions of angiotensin II; vasoconstriction plus sodium and water retention (directly, via aldosterone, and via ADH) all converge to raise blood pressure.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-663_Brick Exchange - Blood Pressure Control_ Foundations and Frameworks_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-664",
+      "topicId": "blood-pressure-control-foundations-and-frameworks",
+      "topicName": "Blood Pressure Control: Foundations and Frameworks",
+      "stem": "This illustration contrasts a vessel whose smooth muscle has narrowed the lumen (left) with one whose lumen has widened (right). Compared with the left vessel, what effect does the right vessel's state have on systemic vascular resistance and blood pressure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It raises systemic vascular resistance and increases blood pressure"
+        },
+        {
+          "label": "B",
+          "text": "It has no effect on resistance or blood pressure"
+        },
+        {
+          "label": "C",
+          "text": "It raises resistance but lowers blood pressure"
+        },
+        {
+          "label": "D",
+          "text": "It lowers systemic vascular resistance and decreases blood pressure"
+        },
+        {
+          "label": "E",
+          "text": "It increases resistance only in veins, not arterioles"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A wider lumen (vasodilation) reduces resistance to flow; since blood pressure equals cardiac output times systemic vascular resistance, falling resistance lowers blood pressure.",
+        "whyCorrect": "A wider lumen (vasodilation) reduces resistance to flow; since blood pressure equals cardiac output times systemic vascular resistance, falling resistance lowers blood pressure.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-664_Brick Exchange - Blood Pressure Control_ Foundations and Frameworks_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-665",
+      "topicId": "blood-pressure-control-foundations-and-frameworks",
+      "topicName": "Blood Pressure Control: Foundations and Frameworks",
+      "stem": "In this framework the kidney feeds into blood pressure through a different pathway than vasoconstriction does. By which route does increased renal sodium handling raise blood pressure in this scheme?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "By reducing cardiac contractility"
+        },
+        {
+          "label": "B",
+          "text": "By decreasing venous return to the heart"
+        },
+        {
+          "label": "C",
+          "text": "By increasing blood volume, which raises cardiac output"
+        },
+        {
+          "label": "D",
+          "text": "By lowering blood volume through diuresis"
+        },
+        {
+          "label": "E",
+          "text": "By directly increasing systemic vascular resistance"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The diagram splits blood pressure into SVR (set by vascular tone) and cardiac output; renal sodium retention expands blood volume, increasing preload and cardiac output rather than acting on vascular resistance.",
+        "whyCorrect": "The diagram splits blood pressure into SVR (set by vascular tone) and cardiac output; renal sodium retention expands blood volume, increasing preload and cardiac output rather than acting on vascular resistance.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-665_Brick Exchange - Blood Pressure Control_ Foundations and Frameworks_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-661",
+      "topicId": "baroreceptor-regulation-of-blood-pressure",
+      "topicName": "Baroreceptor Regulation of Blood Pressure",
+      "stem": "This flowchart traces the events triggered when arterial pressure falls: reduced carotid sinus stretch and firing lead to withdrawal of parasympathetic and enhancement of sympathetic output that restores pressure. What is the primary physiologic role of this reflex arc?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Control of body core temperature"
+        },
+        {
+          "label": "B",
+          "text": "Maintenance of plasma glucose concentration"
+        },
+        {
+          "label": "C",
+          "text": "Long-term control of blood pressure by adjusting blood volume"
+        },
+        {
+          "label": "D",
+          "text": "Regulation of arterial blood pH and CO2"
+        },
+        {
+          "label": "E",
+          "text": "Rapid, moment-to-moment buffering of arterial blood pressure"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The baroreceptor reflex is a fast neural feedback loop acting within seconds to correct transient changes in blood pressure; sustained (long-term) pressure regulation is instead handled by renal control of volume.",
+        "whyCorrect": "The baroreceptor reflex is a fast neural feedback loop acting within seconds to correct transient changes in blood pressure; sustained (long-term) pressure regulation is instead handled by renal control of volume.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-661_Brick Exchange - Baroreceptor Regulation of Blood Pressure_p11_2.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-662",
+      "topicId": "baroreceptor-regulation-of-blood-pressure",
+      "topicName": "Baroreceptor Regulation of Blood Pressure",
+      "stem": "In this recording, baroreceptor action potentials are shown at increasing mean arterial pressures alongside the phasic aortic pressure trace. What relationship between arterial pressure and baroreceptor firing is demonstrated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Firing ceases entirely above normal pressure"
+        },
+        {
+          "label": "B",
+          "text": "Firing is independent of arterial pressure"
+        },
+        {
+          "label": "C",
+          "text": "Firing occurs only during diastole"
+        },
+        {
+          "label": "D",
+          "text": "Firing frequency decreases as arterial pressure rises"
+        },
+        {
+          "label": "E",
+          "text": "Firing frequency increases as arterial pressure rises"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Baroreceptors are stretch-sensitive; higher arterial pressure stretches the vessel wall more, increasing action potential frequency, which the CNS reads as the afferent pressure signal.",
+        "whyCorrect": "Baroreceptors are stretch-sensitive; higher arterial pressure stretches the vessel wall more, increasing action potential frequency, which the CNS reads as the afferent pressure signal.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-662_Brick Exchange - Baroreceptor Regulation of Blood Pressure_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-750",
+      "topicId": "humoral-regulation-of-blood-pressure",
+      "topicName": "Humoral Regulation of Blood Pressure",
+      "stem": "This flowchart summarizes the actions of atrial natriuretic peptide (ANP). What does the natriuresis it promotes actually refer to?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased excretion of potassium in the urine"
+        },
+        {
+          "label": "B",
+          "text": "Increased secretion of renin by the kidney"
+        },
+        {
+          "label": "C",
+          "text": "Increased excretion of sodium in the urine"
+        },
+        {
+          "label": "D",
+          "text": "Increased reabsorption of sodium by the kidney"
+        },
+        {
+          "label": "E",
+          "text": "Increased water reabsorption in the collecting duct"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Natriuresis means renal excretion of sodium (with accompanying water), which lowers blood volume and pressure. ANP promotes this while suppressing renin and aldosterone.",
+        "whyCorrect": "Natriuresis means renal excretion of sodium (with accompanying water), which lowers blood volume and pressure. ANP promotes this while suppressing renin and aldosterone.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-750_Brick Exchange - Humoral Regulation of Blood Pressure_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-751",
+      "topicId": "humoral-regulation-of-blood-pressure",
+      "topicName": "Humoral Regulation of Blood Pressure",
+      "stem": "This pathway shows kallikrein acting on kininogen to form bradykinin, which produces vasodilation. Which enzyme normally inactivates bradykinin, linking this system to blood pressure control?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Angiotensin-converting enzyme"
+        },
+        {
+          "label": "B",
+          "text": "Carbonic anhydrase"
+        },
+        {
+          "label": "C",
+          "text": "Kallikrein"
+        },
+        {
+          "label": "D",
+          "text": "Renin"
+        },
+        {
+          "label": "E",
+          "text": "Aldosterone synthase"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "ACE not only generates angiotensin II but also degrades bradykinin; ACE inhibitors therefore raise bradykinin levels, contributing to vasodilation (and to the cough side effect).",
+        "whyCorrect": "ACE not only generates angiotensin II but also degrades bradykinin; ACE inhibitors therefore raise bradykinin levels, contributing to vasodilation (and to the cough side effect).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-751_Brick Exchange - Humoral Regulation of Blood Pressure_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-113",
+      "topicId": "hemodynamics-blood-pressure",
+      "topicName": "Hemodynamics: Blood Pressure",
+      "stem": "This cross-section of a vessel wall shows concentric layers of smooth muscle sandwiched between prominent internal and external elastic membranes. What type of vessel is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Muscular vein"
+        },
+        {
+          "label": "B",
+          "text": "Large elastic (conducting) artery"
+        },
+        {
+          "label": "C",
+          "text": "Continuous capillary"
+        },
+        {
+          "label": "D",
+          "text": "Muscular (distributing) artery"
+        },
+        {
+          "label": "E",
+          "text": "Postcapillary venule"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A well-defined internal AND external elastic membrane bounding a thick, concentric smooth-muscle tunica media is the hallmark of a medium-sized muscular artery, whose smooth muscle regulates luminal diameter and distributes blood to organs.",
+        "whyCorrect": "A well-defined internal AND external elastic membrane bounding a thick, concentric smooth-muscle tunica media is the hallmark of a medium-sized muscular artery, whose smooth muscle regulates luminal diameter and distributes blood to organs.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-113_Brick Exchange - Hemodynamics_ Blood Pressure_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-114",
+      "topicId": "hemodynamics-blood-pressure",
+      "topicName": "Hemodynamics: Blood Pressure",
+      "stem": "In this histologic section, the vessel on the left has a thick, circular wall and a round patent lumen, while the vessel on the right has a thin wall and a collapsed, irregular lumen. What accounts for the thicker wall of the left-hand vessel?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A muscular sphincter regulating capillary perfusion"
+        },
+        {
+          "label": "B",
+          "text": "A thick tunica adventitia providing venous valves"
+        },
+        {
+          "label": "C",
+          "text": "Endothelial fenestrations increasing permeability"
+        },
+        {
+          "label": "D",
+          "text": "A thick tunica media resisting high pulsatile pressure"
+        },
+        {
+          "label": "E",
+          "text": "Abundant elastic lamellae for lymphatic drainage"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The artery (left) has a thick, muscular tunica media to withstand high pulsatile arterial pressure, keeping its lumen round and patent. The companion vein (right) carries low-pressure blood, so its wall is thin and the lumen often collapses in section.",
+        "whyCorrect": "The artery (left) has a thick, muscular tunica media to withstand high pulsatile arterial pressure, keeping its lumen round and patent. The companion vein (right) carries low-pressure blood, so its wall is thin and the lumen often collapses in section.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-114_Brick Exchange - Hemodynamics_ Blood Pressure_p21_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-288",
+      "topicId": "hemodynamics-blood-pressure",
+      "topicName": "Hemodynamics: Blood Pressure",
+      "stem": "A clinician places an inflatable cuff and aneroid gauge on a patient's upper arm while palpating/auscultating the brachial region. What is being measured?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Jugular venous pressure"
+        },
+        {
+          "label": "B",
+          "text": "Capillary refill time"
+        },
+        {
+          "label": "C",
+          "text": "Central venous pressure"
+        },
+        {
+          "label": "D",
+          "text": "Pulse oximetry (oxygen saturation)"
+        },
+        {
+          "label": "E",
+          "text": "Arterial blood pressure"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The cuff (sphygmomanometer) is inflated to occlude the brachial artery, then slowly deflated while listening for Korotkoff sounds to determine systolic and diastolic arterial blood pressure.",
+        "whyCorrect": "The cuff (sphygmomanometer) is inflated to occlude the brachial artery, then slowly deflated while listening for Korotkoff sounds to determine systolic and diastolic arterial blood pressure.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-288_Brick Exchange - Hemodynamics_ Blood Pressure_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-740",
+      "topicId": "hemodynamics-blood-pressure",
+      "topicName": "Hemodynamics: Blood Pressure",
+      "stem": "Vascular compliance, the property compared across these three vessels, is defined by which relationship?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Wall tension divided by vessel radius"
+        },
+        {
+          "label": "B",
+          "text": "The change in volume produced by a given change in pressure (ΔV/ΔP)"
+        },
+        {
+          "label": "C",
+          "text": "The change in pressure produced by a given change in volume (ΔP/ΔV)"
+        },
+        {
+          "label": "D",
+          "text": "Flow divided by the pressure gradient"
+        },
+        {
+          "label": "E",
+          "text": "The product of pressure and volume (P x V)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Compliance = ΔV/ΔP. A stiff (zero-compliance) vessel shows large pressure rise with little volume change, an infinitely compliant vessel accommodates volume with no pressure change, and real vessels lie between these extremes.",
+        "whyCorrect": "Compliance = ΔV/ΔP. A stiff (zero-compliance) vessel shows large pressure rise with little volume change, an infinitely compliant vessel accommodates volume with no pressure change, and real vessels lie between these extremes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-740_Brick Exchange - Hemodynamics_ Blood Pressure_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-741",
+      "topicId": "hemodynamics-blood-pressure",
+      "topicName": "Hemodynamics: Blood Pressure",
+      "stem": "Comparing the two pressure-volume curves, what does the much steeper slope of the vena cava curve at low pressures indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Veins have far lower compliance than arteries"
+        },
+        {
+          "label": "B",
+          "text": "The vena cava resists volume change more than the aorta"
+        },
+        {
+          "label": "C",
+          "text": "Venous pressure is higher than arterial pressure"
+        },
+        {
+          "label": "D",
+          "text": "Veins have far greater compliance than arteries"
+        },
+        {
+          "label": "E",
+          "text": "The aorta stores more blood volume than the vena cava"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Slope of the pressure-volume curve reflects compliance (ΔV/ΔP). The steep venous curve shows that veins accommodate large volume changes with minimal pressure change, making them the body's principal blood-volume reservoir, whereas the stiffer aorta is far less compliant.",
+        "whyCorrect": "Slope of the pressure-volume curve reflects compliance (ΔV/ΔP). The steep venous curve shows that veins accommodate large volume changes with minimal pressure change, making them the body's principal blood-volume reservoir, whereas the stiffer aorta is far less compliant.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-741_Brick Exchange - Hemodynamics_ Blood Pressure_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-742",
+      "topicId": "hemodynamics-blood-pressure",
+      "topicName": "Hemodynamics: Blood Pressure",
+      "stem": "As the pressure wave travels from the ascending aorta to the tibial artery in this supine subject, what happens to the systolic pressure and pulse pressure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "They remain unchanged throughout"
+        },
+        {
+          "label": "B",
+          "text": "Both fall progressively"
+        },
+        {
+          "label": "C",
+          "text": "Mean pressure rises sharply while pulse pressure falls"
+        },
+        {
+          "label": "D",
+          "text": "Systolic falls while diastolic rises"
+        },
+        {
+          "label": "E",
+          "text": "Both rise (peripheral pulse pressure amplification)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Moving distally, wave reflection and decreasing arterial compliance cause the systolic peak to rise and the pulse pressure to widen even though mean arterial pressure declines only slightly. This is termed peripheral pulse pressure amplification.",
+        "whyCorrect": "Moving distally, wave reflection and decreasing arterial compliance cause the systolic peak to rise and the pulse pressure to widen even though mean arterial pressure declines only slightly. This is termed peripheral pulse pressure amplification.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-742_Brick Exchange - Hemodynamics_ Blood Pressure_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-743",
+      "topicId": "hemodynamics-blood-pressure",
+      "topicName": "Hemodynamics: Blood Pressure",
+      "stem": "Based on the percent-total-volume bars in this chart, which vascular compartment contains the largest share of total blood volume?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Veins"
+        },
+        {
+          "label": "B",
+          "text": "Arterioles"
+        },
+        {
+          "label": "C",
+          "text": "Aorta"
+        },
+        {
+          "label": "D",
+          "text": "Capillaries"
+        },
+        {
+          "label": "E",
+          "text": "Arteries"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The percent-volume bar is by far tallest for the veins, reflecting the venous system's role as the major capacitance reservoir holding most of the circulating blood, even though mean pressure there is low. Mean pressure, by contrast, is highest in the aorta and large arteries.",
+        "whyCorrect": "The percent-volume bar is by far tallest for the veins, reflecting the venous system's role as the major capacitance reservoir holding most of the circulating blood, even though mean pressure there is low. Mean pressure, by contrast, is highest in the aorta and large arteries.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-743_Brick Exchange - Hemodynamics_ Blood Pressure_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-744",
+      "topicId": "hemodynamics-blood-pressure",
+      "topicName": "Hemodynamics: Blood Pressure",
+      "stem": "The diagram contrasts the aorta during systole (distended) and diastole (recoiling to push blood onward). What physiologic phenomenon does this illustrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Frank-Starling mechanism"
+        },
+        {
+          "label": "B",
+          "text": "Laplace wall-tension effect"
+        },
+        {
+          "label": "C",
+          "text": "Bainbridge reflex"
+        },
+        {
+          "label": "D",
+          "text": "Poiseuille laminar-flow effect"
+        },
+        {
+          "label": "E",
+          "text": "Windkessel effect"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "During systole the elastic aorta stretches and stores energy; during diastole its elastic recoil propels stored blood forward, converting pulsatile ejection into more continuous capillary flow. This is the Windkessel (air-chamber) effect.",
+        "whyCorrect": "During systole the elastic aorta stretches and stores energy; during diastole its elastic recoil propels stored blood forward, converting pulsatile ejection into more continuous capillary flow. This is the Windkessel (air-chamber) effect.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-744_Brick Exchange - Hemodynamics_ Blood Pressure_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-745",
+      "topicId": "hemodynamics-blood-pressure",
+      "topicName": "Hemodynamics: Blood Pressure",
+      "stem": "This schematic of a cylindrical vessel relates wall tension (T) to internal pressure (P) and radius (R) as T = PR. Which principle governs this relationship?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Fick's principle"
+        },
+        {
+          "label": "B",
+          "text": "Ohm's law of flow"
+        },
+        {
+          "label": "C",
+          "text": "Law of Laplace"
+        },
+        {
+          "label": "D",
+          "text": "Bernoulli's principle"
+        },
+        {
+          "label": "E",
+          "text": "Poiseuille's law"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The Law of Laplace states that wall tension in a cylindrical vessel equals the product of transmural pressure and radius (T = PR). It explains why dilated vessels (larger R) require greater wall tension and are prone to rupture, e.g., aneurysms.",
+        "whyCorrect": "The Law of Laplace states that wall tension in a cylindrical vessel equals the product of transmural pressure and radius (T = PR). It explains why dilated vessels (larger R) require greater wall tension and are prone to rupture, e.g., aneurysms.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-745_Brick Exchange - Hemodynamics_ Blood Pressure_p18_2.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-746",
+      "topicId": "hemodynamics-blood-pressure",
+      "topicName": "Hemodynamics: Blood Pressure",
+      "stem": "On this arterial pressure waveform, a brief downward notch (the incisura) interrupts the descending limb before the dicrotic wave. What event produces this notch?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Closure of the aortic valve"
+        },
+        {
+          "label": "B",
+          "text": "Peak of ventricular ejection"
+        },
+        {
+          "label": "C",
+          "text": "Onset of ventricular contraction"
+        },
+        {
+          "label": "D",
+          "text": "Opening of the mitral valve"
+        },
+        {
+          "label": "E",
+          "text": "Atrial systole (a-wave)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The incisura (dicrotic notch) marks aortic valve closure at the end of ventricular ejection; the brief backflow and subsequent elastic rebound of the aortic wall produce the dicrotic wave. Pulse pressure is systolic minus diastolic pressure.",
+        "whyCorrect": "The incisura (dicrotic notch) marks aortic valve closure at the end of ventricular ejection; the brief backflow and subsequent elastic rebound of the aortic wall produce the dicrotic wave. Pulse pressure is systolic minus diastolic pressure.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-746_Brick Exchange - Hemodynamics_ Blood Pressure_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-747",
+      "topicId": "hemodynamics-blood-pressure",
+      "topicName": "Hemodynamics: Blood Pressure",
+      "stem": "The figure compares arterial and venous pressures at the head, heart, and feet in a recumbent versus an upright subject, showing large pressure differences appearing only when upright. What explains these positional changes?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Loss of vascular elastic recoil when upright"
+        },
+        {
+          "label": "B",
+          "text": "Reflex arteriolar vasodilation in the legs"
+        },
+        {
+          "label": "C",
+          "text": "Increased cardiac output on standing"
+        },
+        {
+          "label": "D",
+          "text": "Reduced blood viscosity at dependent sites"
+        },
+        {
+          "label": "E",
+          "text": "Hydrostatic pressure column effects"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "When recumbent, all points lie near heart level so pressures are similar. Standing adds a hydrostatic column: gravity raises pressure at the feet and lowers it at the head, proportional to the vertical distance from the heart.",
+        "whyCorrect": "When recumbent, all points lie near heart level so pressures are similar. Standing adds a hydrostatic column: gravity raises pressure at the feet and lowers it at the head, proportional to the vertical distance from the heart.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-747_Brick Exchange - Hemodynamics_ Blood Pressure_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-173",
+      "topicId": "starling-forces",
+      "topicName": "Starling Forces",
+      "stem": "Three endothelial architectures are compared. Which of the labeled types permits the freest passage of cells and large plasma proteins between blood and tissue?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A capillary with intact intercellular tight junctions"
+        },
+        {
+          "label": "B",
+          "text": "Continuous capillary"
+        },
+        {
+          "label": "C",
+          "text": "Sinusoidal (discontinuous) capillary"
+        },
+        {
+          "label": "D",
+          "text": "A capillary relying only on transcytotic vesicles"
+        },
+        {
+          "label": "E",
+          "text": "Fenestrated capillary with diaphragms"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Sinusoidal capillaries have large fenestrations and intercellular gaps with a discontinuous basement membrane, allowing cells and large proteins to pass; continuous capillaries are least permeable and fenestrated ones are intermediate.",
+        "whyCorrect": "Sinusoidal capillaries have large fenestrations and intercellular gaps with a discontinuous basement membrane, allowing cells and large proteins to pass; continuous capillaries are least permeable and fenestrated ones are intermediate.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-173_Brick Exchange - Starling Forces_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-380",
+      "topicId": "starling-forces",
+      "topicName": "Starling Forces",
+      "stem": "Pressing a finger against this swollen lower leg leaves a persistent indentation (right image). This finding indicates which type of edema?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Myxedema"
+        },
+        {
+          "label": "B",
+          "text": "Subcutaneous emphysema"
+        },
+        {
+          "label": "C",
+          "text": "Pitting edema"
+        },
+        {
+          "label": "D",
+          "text": "Non-pitting lymphedema"
+        },
+        {
+          "label": "E",
+          "text": "Chronic lipedema"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "When fingertip pressure displaces excess interstitial fluid and leaves a lingering depression, the edema is 'pitting,' typically reflecting increased capillary filtration (e.g., elevated hydrostatic pressure or low plasma oncotic pressure).",
+        "whyCorrect": "When fingertip pressure displaces excess interstitial fluid and leaves a lingering depression, the edema is 'pitting,' typically reflecting increased capillary filtration (e.g., elevated hydrostatic pressure or low plasma oncotic pressure).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-380_Brick Exchange - Starling Forces_p19_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-872",
+      "topicId": "starling-forces",
+      "topicName": "Starling Forces",
+      "stem": "At this point along a capillary the outward hydrostatic pressure is 36 while the inward oncotic pressure is 26 (interstitial forces each +1). What is the net effect on fluid movement here?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Net oncotic pull exceeding hydrostatic push"
+        },
+        {
+          "label": "B",
+          "text": "Net reabsorption of fluid into the capillary"
+        },
+        {
+          "label": "C",
+          "text": "No net movement because forces are balanced"
+        },
+        {
+          "label": "D",
+          "text": "Osmotic movement of fluid into the red cells"
+        },
+        {
+          "label": "E",
+          "text": "Net filtration of fluid out of the capillary"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Net filtration pressure = outward forces minus inward forces. With capillary hydrostatic pressure (36) dominating oncotic pressure (26), the net drive is outward, favoring filtration at the arteriolar end.",
+        "whyCorrect": "Net filtration pressure = outward forces minus inward forces. With capillary hydrostatic pressure (36) dominating oncotic pressure (26), the net drive is outward, favoring filtration at the arteriolar end.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-872_Brick Exchange - Starling Forces_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-873",
+      "topicId": "starling-forces",
+      "topicName": "Starling Forces",
+      "stem": "Toward the venular end the capillary hydrostatic pressure has fallen to 17 while plasma oncotic pressure remains 26 (interstitial forces each +1). What is the net direction of fluid movement?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Active transport of water against the gradient"
+        },
+        {
+          "label": "B",
+          "text": "No net movement of fluid"
+        },
+        {
+          "label": "C",
+          "text": "Net reabsorption of fluid into the capillary"
+        },
+        {
+          "label": "D",
+          "text": "Bulk flow into the lymphatics only"
+        },
+        {
+          "label": "E",
+          "text": "Net filtration out of the capillary"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "As hydrostatic pressure drops below the plasma oncotic pressure along the capillary, the inward oncotic pull (26) exceeds the outward hydrostatic push (17), producing net reabsorption toward the venular end.",
+        "whyCorrect": "As hydrostatic pressure drops below the plasma oncotic pressure along the capillary, the inward oncotic pull (26) exceeds the outward hydrostatic push (17), producing net reabsorption toward the venular end.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-873_Brick Exchange - Starling Forces_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-874",
+      "topicId": "starling-forces",
+      "topicName": "Starling Forces",
+      "stem": "This schematic links a capillary to a one-way-valved lymphatic vessel. What is the primary role of the lymphatic in this system?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Return of the net filtered interstitial fluid and protein"
+        },
+        {
+          "label": "B",
+          "text": "Generate the capillary hydrostatic pressure"
+        },
+        {
+          "label": "C",
+          "text": "Reabsorb fluid directly at the venous end of the capillary"
+        },
+        {
+          "label": "D",
+          "text": "Add oncotic protein to the plasma at the arterial end"
+        },
+        {
+          "label": "E",
+          "text": "Actively secrete fluid into the interstitium"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Because filtration slightly exceeds reabsorption across a capillary, the lymphatics collect the excess interstitial fluid and escaped protein and return them to the circulation, preventing edema; one-way valves ensure unidirectional lymph flow.",
+        "whyCorrect": "Because filtration slightly exceeds reabsorption across a capillary, the lymphatics collect the excess interstitial fluid and escaped protein and return them to the circulation, preventing edema; one-way valves ensure unidirectional lymph flow.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-874_Brick Exchange - Starling Forces_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-875",
+      "topicId": "starling-forces",
+      "topicName": "Starling Forces",
+      "stem": "This diagram traces fluid exchange from the arterial to venous end of a capillary, through the interstitium, into a lymphatic capillary. What overall principle does it illustrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lymphatics deliver oxygen to the interstitial cells"
+        },
+        {
+          "label": "B",
+          "text": "Fluid moves only by active transport across endothelium"
+        },
+        {
+          "label": "C",
+          "text": "All filtered fluid is reabsorbed by the same capillary"
+        },
+        {
+          "label": "D",
+          "text": "The interstitium generates the driving pressure for flow"
+        },
+        {
+          "label": "E",
+          "text": "Net capillary filtration is drained by lymphatics"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The figure shows the Starling equilibrium: hydrostatic and oncotic forces drive filtration and reabsorption across the capillary, with the small net filtered volume collected by lymphatics and returned to the circulation.",
+        "whyCorrect": "The figure shows the Starling equilibrium: hydrostatic and oncotic forces drive filtration and reabsorption across the capillary, with the small net filtered volume collected by lymphatics and returned to the circulation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-875_Brick Exchange - Starling Forces_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-876",
+      "topicId": "starling-forces",
+      "topicName": "Starling Forces",
+      "stem": "This diagram partitions body water across a capillary wall and a cell membrane into three compartments. The capillary wall separates plasma from which compartment?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Lymphatic fluid"
+        },
+        {
+          "label": "B",
+          "text": "Intracellular fluid"
+        },
+        {
+          "label": "C",
+          "text": "Cerebrospinal fluid"
+        },
+        {
+          "label": "D",
+          "text": "Transcellular fluid"
+        },
+        {
+          "label": "E",
+          "text": "Interstitial fluid"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Plasma and interstitial fluid together form the extracellular fluid (ECF) and are separated by the capillary wall, which is freely permeable to water and small solutes but not large proteins. The cell membrane separates ECF from intracellular fluid (ICF).",
+        "whyCorrect": "Plasma and interstitial fluid together form the extracellular fluid (ECF) and are separated by the capillary wall, which is freely permeable to water and small solutes but not large proteins. The cell membrane separates ECF from intracellular fluid (ICF).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-876_Brick Exchange - Starling Forces_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-877",
+      "topicId": "starling-forces",
+      "topicName": "Starling Forces",
+      "stem": "Along this capillary between an arteriole and a venule, filtration occurs near the arteriolar end and reabsorption near the venular end. What changes along the length of the vessel to drive this shift?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Capillary hydrostatic pressure declines"
+        },
+        {
+          "label": "B",
+          "text": "Plasma oncotic pressure rises sharply along the capillary"
+        },
+        {
+          "label": "C",
+          "text": "Endothelial permeability falls to zero at the venule"
+        },
+        {
+          "label": "D",
+          "text": "Blood flow reverses direction at the midpoint"
+        },
+        {
+          "label": "E",
+          "text": "Interstitial pressure becomes strongly negative at the venule"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Capillary hydrostatic pressure (Pc) is highest near the arteriole, favoring filtration, and falls toward the venule; once it drops below the relatively constant plasma oncotic pressure, reabsorption predominates.",
+        "whyCorrect": "Capillary hydrostatic pressure (Pc) is highest near the arteriole, favoring filtration, and falls toward the venule; once it drops below the relatively constant plasma oncotic pressure, reabsorption predominates.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-877_Brick Exchange - Starling Forces_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-878",
+      "topicId": "starling-forces",
+      "topicName": "Starling Forces",
+      "stem": "In this capillary, an upward 'push' force and a downward 'pull' force are compared as blood flows from the arteriolar to the venular end. The declining line represents which force?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Interstitial hydrostatic pressure, which rises steadily"
+        },
+        {
+          "label": "B",
+          "text": "Hydrostatic pressure, which decreases along the capillary"
+        },
+        {
+          "label": "C",
+          "text": "Oncotic pressure, which increases along the capillary"
+        },
+        {
+          "label": "D",
+          "text": "Oncotic pressure, which decreases along the capillary"
+        },
+        {
+          "label": "E",
+          "text": "Blood velocity, which is constant throughout"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Hydrostatic pressure ('push,' favoring outward flow) falls progressively from the arteriolar to venular end, while oncotic pressure ('pull,' favoring inward flow) stays relatively constant, so filtration predominates early and reabsorption later.",
+        "whyCorrect": "Hydrostatic pressure ('push,' favoring outward flow) falls progressively from the arteriolar to venular end, while oncotic pressure ('pull,' favoring inward flow) stays relatively constant, so filtration predominates early and reabsorption later.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-878_Brick Exchange - Starling Forces_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-766",
+      "topicId": "local-control-of-the-microcirculation",
+      "topicName": "Local Control of the Microcirculation",
+      "stem": "The diagram shows an endothelial cell releasing several mediators (NO, EDHF, ET-1, PGI2) that act on adjacent vascular smooth muscle, each marked with a plus or minus sign for its effect on contraction. Which of these endothelium-derived mediators PROMOTES vascular smooth muscle contraction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "L-arginine"
+        },
+        {
+          "label": "B",
+          "text": "Nitric oxide (NO)"
+        },
+        {
+          "label": "C",
+          "text": "Endothelium-derived hyperpolarizing factor (EDHF)"
+        },
+        {
+          "label": "D",
+          "text": "Endothelin-1 (ET-1)"
+        },
+        {
+          "label": "E",
+          "text": "Prostacyclin (PGI2)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Of the endothelial mediators shown, ET-1 is the only vasoconstrictor (marked +), acting to increase smooth muscle contraction. NO, EDHF, and PGI2 all cause relaxation (marked -). ET-1 is produced when big-endothelin is cleaved by endothelin-converting enzyme (ECE).",
+        "whyCorrect": "Of the endothelial mediators shown, ET-1 is the only vasoconstrictor (marked +), acting to increase smooth muscle contraction. NO, EDHF, and PGI2 all cause relaxation (marked -). ET-1 is produced when big-endothelin is cleaved by endothelin-converting enzyme (ECE).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-766_Brick Exchange - Local Control of the Microcirculation_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-767",
+      "topicId": "local-control-of-the-microcirculation",
+      "topicName": "Local Control of the Microcirculation",
+      "stem": "In this pathway, shear stress raises endothelial Ca2+, activating NO synthase; the NO then diffuses into smooth muscle. Through which second messenger does NO ultimately trigger smooth muscle relaxation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inositol trisphosphate (IP3)"
+        },
+        {
+          "label": "B",
+          "text": "Increased intracellular Ca2+"
+        },
+        {
+          "label": "C",
+          "text": "cAMP"
+        },
+        {
+          "label": "D",
+          "text": "cGMP"
+        },
+        {
+          "label": "E",
+          "text": "Diacylglycerol (DAG)"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "NO diffuses into the smooth muscle cell and activates soluble guanylate cyclase, converting GTP to cGMP. cGMP activates myosin-light-chain phosphatase (and lowers Ca2+ availability), dephosphorylating myosin and producing relaxation/vasodilation.",
+        "whyCorrect": "NO diffuses into the smooth muscle cell and activates soluble guanylate cyclase, converting GTP to cGMP. cGMP activates myosin-light-chain phosphatase (and lowers Ca2+ availability), dephosphorylating myosin and producing relaxation/vasodilation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-767_Brick Exchange - Local Control of the Microcirculation_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-768",
+      "topicId": "local-control-of-the-microcirculation",
+      "topicName": "Local Control of the Microcirculation",
+      "stem": "These paired tracings compare epinephrine and norepinephrine infusions. With norepinephrine, arterial pressure rises sharply yet heart rate transiently DROPS below baseline. What best explains this fall in heart rate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Baroreceptor-mediated reflex (vagal) bradycardia"
+        },
+        {
+          "label": "B",
+          "text": "Direct blockade of L-type calcium channels in the SA node"
+        },
+        {
+          "label": "C",
+          "text": "Direct beta-1 stimulation of the SA node by norepinephrine"
+        },
+        {
+          "label": "D",
+          "text": "Beta-2-mediated vasodilation lowering afterload"
+        },
+        {
+          "label": "E",
+          "text": "Depletion of cardiac catecholamine stores"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Norepinephrine strongly raises mean arterial pressure via alpha-1 vasoconstriction. The baroreceptor reflex responds to this pressure rise by increasing vagal tone, which slows the heart despite norepinephrine's direct beta-1 effect. Epinephrine raises pressure less (beta-2 vasodilation partly offsets it), so its net effect is a rise in heart rate.",
+        "whyCorrect": "Norepinephrine strongly raises mean arterial pressure via alpha-1 vasoconstriction. The baroreceptor reflex responds to this pressure rise by increasing vagal tone, which slows the heart despite norepinephrine's direct beta-1 effect. Epinephrine raises pressure less (beta-2 vasodilation partly offsets it), so its net effect is a rise in heart rate.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-768_Brick Exchange - Local Control of the Microcirculation_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-769",
+      "topicId": "local-control-of-the-microcirculation",
+      "topicName": "Local Control of the Microcirculation",
+      "stem": "Panel A shows blood flow staying nearly constant over a wide range of perfusion pressures (the autoregulatory range); panel B shows a vessel constricting when stretched and dilating when relaxed. Which intrinsic mechanism is chiefly responsible for keeping flow constant as pressure changes here?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Endothelin-driven vasoconstriction from shear"
+        },
+        {
+          "label": "B",
+          "text": "Sympathetic vasomotor tone from the medulla"
+        },
+        {
+          "label": "C",
+          "text": "The myogenic response of vascular smooth muscle"
+        },
+        {
+          "label": "D",
+          "text": "Circulating angiotensin II"
+        },
+        {
+          "label": "E",
+          "text": "The baroreceptor reflex"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The myogenic mechanism is intrinsic: increased perfusion pressure stretches vascular smooth muscle, which responds by contracting (raising resistance) to hold flow constant; decreased pressure produces relaxation. This keeps flow relatively stable across the autoregulatory range independent of nerves or circulating hormones.",
+        "whyCorrect": "The myogenic mechanism is intrinsic: increased perfusion pressure stretches vascular smooth muscle, which responds by contracting (raising resistance) to hold flow constant; decreased pressure produces relaxation. This keeps flow relatively stable across the autoregulatory range independent of nerves or circulating hormones.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-769_Brick Exchange - Local Control of the Microcirculation_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-770",
+      "topicId": "local-control-of-the-microcirculation",
+      "topicName": "Local Control of the Microcirculation",
+      "stem": "The left tracing shows tissue blood flow rising and staying elevated during a period of increased metabolism, and the right graph shows steady-state flow rising with metabolic activity. This matching of flow to metabolic demand is primarily mediated by what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Local accumulation of metabolic vasodilators"
+        },
+        {
+          "label": "B",
+          "text": "Increased endothelin-1 release"
+        },
+        {
+          "label": "C",
+          "text": "A rise in circulating epinephrine"
+        },
+        {
+          "label": "D",
+          "text": "Withdrawal of sympathetic vasoconstrictor tone"
+        },
+        {
+          "label": "E",
+          "text": "Baroreceptor reflex activation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "This is active (functional) hyperemia: increased tissue metabolism generates vasodilator metabolites and lowers local PO2, relaxing arterioles so that blood flow rises to match metabolic demand. It is a local, metabolically driven mechanism, not a neural or systemic hormonal one.",
+        "whyCorrect": "This is active (functional) hyperemia: increased tissue metabolism generates vasodilator metabolites and lowers local PO2, relaxing arterioles so that blood flow rises to match metabolic demand. It is a local, metabolically driven mechanism, not a neural or systemic hormonal one.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-770_Brick Exchange - Local Control of the Microcirculation_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-771",
+      "topicId": "local-control-of-the-microcirculation",
+      "topicName": "Local Control of the Microcirculation",
+      "stem": "This tracing shows flow held at zero (an arterial occlusion) followed, upon release, by a transient overshoot in flow above baseline. What primarily drives this post-occlusion overshoot?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Endothelin-1 release from the reperfused endothelium"
+        },
+        {
+          "label": "B",
+          "text": "Accumulated vasodilator metabolites and tissue hypoxia"
+        },
+        {
+          "label": "C",
+          "text": "The myogenic response to the sudden pressure rise"
+        },
+        {
+          "label": "D",
+          "text": "A surge of circulating catecholamines on reperfusion"
+        },
+        {
+          "label": "E",
+          "text": "Reflex sympathetic withdrawal triggered by cuff release"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "During the no-flow period, vasodilator metabolites accumulate and PO2 falls, so the arterioles dilate maximally. When flow is restored, the low-resistance dilated vessels allow an excess (overshoot) flow until the metabolites wash out. This is reactive hyperemia, proportional to the duration of occlusion.",
+        "whyCorrect": "During the no-flow period, vasodilator metabolites accumulate and PO2 falls, so the arterioles dilate maximally. When flow is restored, the low-resistance dilated vessels allow an excess (overshoot) flow until the metabolites wash out. This is reactive hyperemia, proportional to the duration of occlusion.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-771_Brick Exchange - Local Control of the Microcirculation_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-772",
+      "topicId": "local-control-of-the-microcirculation",
+      "topicName": "Local Control of the Microcirculation",
+      "stem": "The schematic shows cellular metabolism lowering local PO2 and releasing substances (CO2, H+, adenosine, K+, decreased ATP) that relax the nearby arteriole. What is the physiologic purpose of the mechanism depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "To buffer systemic arterial blood pressure"
+        },
+        {
+          "label": "B",
+          "text": "To promote thrombus formation in low-flow regions"
+        },
+        {
+          "label": "C",
+          "text": "To increase systemic vascular resistance during exercise"
+        },
+        {
+          "label": "D",
+          "text": "To trigger platelet aggregation at sites of injury"
+        },
+        {
+          "label": "E",
+          "text": "To match local blood flow to the metabolic demand of the tissue"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "This is the metabolic theory of local flow control: active tissue consumes O2 and produces vasodilator metabolites (adenosine, CO2, H+, K+) with falling PO2, dilating local arterioles so blood flow increases in proportion to metabolic need (active hyperemia).",
+        "whyCorrect": "This is the metabolic theory of local flow control: active tissue consumes O2 and produces vasodilator metabolites (adenosine, CO2, H+, K+) with falling PO2, dilating local arterioles so blood flow increases in proportion to metabolic need (active hyperemia).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-772_Brick Exchange - Local Control of the Microcirculation_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-754",
+      "topicId": "hypotension-causes-consequences-and-management",
+      "topicName": "Hypotension: Causes, Consequences, and Management",
+      "stem": "This illustration shows a supine patient secured to a table that is tilted head-down with the legs elevated. What is the primary hemodynamic purpose of placing a hypotensive patient in this position?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "To reduce intracranial pressure"
+        },
+        {
+          "label": "B",
+          "text": "To promote venous return and central blood volume"
+        },
+        {
+          "label": "C",
+          "text": "To improve diaphragmatic excursion in respiratory failure"
+        },
+        {
+          "label": "D",
+          "text": "To facilitate lumbar puncture"
+        },
+        {
+          "label": "E",
+          "text": "To decrease cardiac preload in pulmonary edema"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The head-down Trendelenburg position uses gravity to shift venous blood from the legs toward the thorax, transiently augmenting venous return, preload, and cardiac output as a temporizing maneuver in hypotension.",
+        "whyCorrect": "The head-down Trendelenburg position uses gravity to shift venous blood from the legs toward the thorax, transiently augmenting venous return, preload, and cardiac output as a temporizing maneuver in hypotension.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-754_Brick Exchange - Hypotension_ Causes, Consequences, and Management_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-266",
+      "topicId": "ecg-learning-sinus-bradycardia-and-tachycardia",
+      "topicName": "ECG Learning: Sinus Bradycardia and Tachycardia",
+      "stem": "This hexaxial reference diagram plots the standard limb leads around a circle with color-coded quadrants. What clinical parameter is this diagram used to determine?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The absolute heart rate in beats per minute"
+        },
+        {
+          "label": "B",
+          "text": "The corrected QT interval"
+        },
+        {
+          "label": "C",
+          "text": "The duration of the PR interval"
+        },
+        {
+          "label": "D",
+          "text": "The mean electrical axis"
+        },
+        {
+          "label": "E",
+          "text": "The presence of ST-segment elevation"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The hexaxial system arranges the six limb leads to locate the heart's mean QRS vector. A normal axis lies between -30 and +90 degrees; shifts define left, right, or extreme axis deviation, which point to conditions such as hypertrophy or conduction blocks.",
+        "whyCorrect": "The hexaxial system arranges the six limb leads to locate the heart's mean QRS vector. A normal axis lies between -30 and +90 degrees; shifts define left, right, or extreme axis deviation, which point to conditions such as hypertrophy or conduction blocks.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-266_Brick Exchange - ECG Learning_ Sinus Bradycardia and Tachycardia_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-267",
+      "topicId": "ecg-learning-sinus-bradycardia-and-tachycardia",
+      "topicName": "ECG Learning: Sinus Bradycardia and Tachycardia",
+      "stem": "This rhythm strip shows a regular narrow-complex rhythm at 130 bpm with an upright P wave preceding every QRS. Which of the following is a common physiological cause of this rhythm?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Severe hypothyroidism"
+        },
+        {
+          "label": "B",
+          "text": "Fever or exercise"
+        },
+        {
+          "label": "C",
+          "text": "Increased vagal (parasympathetic) tone"
+        },
+        {
+          "label": "D",
+          "text": "Complete (third-degree) AV block"
+        },
+        {
+          "label": "E",
+          "text": "Beta-blocker overdose"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The strip is a sinus tachycardia: SA-node origin with a normal P before each QRS but rate above 100. It is typically a physiological response to increased sympathetic tone or reduced vagal tone, as with fever, exertion, pain, anxiety, or hypovolemia. The listed distractors all tend to slow the heart.",
+        "whyCorrect": "The strip is a sinus tachycardia: SA-node origin with a normal P before each QRS but rate above 100. It is typically a physiological response to increased sympathetic tone or reduced vagal tone, as with fever, exertion, pain, anxiety, or hypovolemia. The listed distractors all tend to slow the heart.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-267_Brick Exchange - ECG Learning_ Sinus Bradycardia and Tachycardia_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-268",
+      "topicId": "ecg-learning-sinus-bradycardia-and-tachycardia",
+      "topicName": "ECG Learning: Sinus Bradycardia and Tachycardia",
+      "stem": "This tracing displays leads I, II, III, aVR, aVL, aVF, and V1 through V6 on gridded paper with a rhythm strip at the bottom. What type of recording is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A single-lead ambulatory (Holter) monitor strip"
+        },
+        {
+          "label": "B",
+          "text": "An intracardiac electrophysiology recording"
+        },
+        {
+          "label": "C",
+          "text": "An electroencephalogram"
+        },
+        {
+          "label": "D",
+          "text": "A standard 12-lead electrocardiogram"
+        },
+        {
+          "label": "E",
+          "text": "An echocardiographic M-mode trace"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Six limb leads plus six precordial leads together form the standard 12-lead ECG, which views the heart's electrical activity from multiple angles in both the frontal and horizontal planes.",
+        "whyCorrect": "Six limb leads plus six precordial leads together form the standard 12-lead ECG, which views the heart's electrical activity from multiple angles in both the frontal and horizontal planes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-268_Brick Exchange - ECG Learning_ Sinus Bradycardia and Tachycardia_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-269",
+      "topicId": "ecg-learning-sinus-bradycardia-and-tachycardia",
+      "topicName": "ECG Learning: Sinus Bradycardia and Tachycardia",
+      "stem": "This figure calculates heart rate by dividing 1500 by the number of small boxes between two R waves. Why is the number 1500 used in this formula?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "1500 is the sampling rate of the ECG machine in hertz"
+        },
+        {
+          "label": "B",
+          "text": "1500 is the average number of QRS complexes in a normal 12-lead tracing"
+        },
+        {
+          "label": "C",
+          "text": "There are 1500 small (1 mm) boxes per minute"
+        },
+        {
+          "label": "D",
+          "text": "1500 represents the number of large boxes recorded per minute"
+        },
+        {
+          "label": "E",
+          "text": "1500 milliseconds is the normal duration of one cardiac cycle"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "At 25 mm/s each small box is 0.04 s, so one minute contains 60 / 0.04 = 1500 small boxes. Dividing 1500 by the R-R interval measured in small boxes gives beats per minute; here 1500/21 is about 71 bpm.",
+        "whyCorrect": "At 25 mm/s each small box is 0.04 s, so one minute contains 60 / 0.04 = 1500 small boxes. Dividing 1500 by the R-R interval measured in small boxes gives beats per minute; here 1500/21 is about 71 bpm.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-269_Brick Exchange - ECG Learning_ Sinus Bradycardia and Tachycardia_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-270",
+      "topicId": "ecg-learning-sinus-bradycardia-and-tachycardia",
+      "topicName": "ECG Learning: Sinus Bradycardia and Tachycardia",
+      "stem": "The diagram shows the resultant P-wave vector pointing toward roughly +60 degrees, with the corresponding tracings from lead aVR and lead II. Why is the P wave normally inverted in lead aVR but upright in lead II?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The atrial depolarization vector points away from aVR and toward lead II"
+        },
+        {
+          "label": "B",
+          "text": "Lead aVR records ventricular repolarization while lead II records atrial depolarization"
+        },
+        {
+          "label": "C",
+          "text": "aVR has reversed electrode polarity due to lead misplacement"
+        },
+        {
+          "label": "D",
+          "text": "The P wave is always inverted in every limb lead by convention"
+        },
+        {
+          "label": "E",
+          "text": "Atrial depolarization spreads from left to right, directly toward aVR"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Normal atrial depolarization begins at the SA node and spreads downward and leftward, producing a mean P vector near +60 degrees. A deflection is upright when the wave of depolarization moves toward a lead's positive pole (lead II) and inverted when it moves away (aVR).",
+        "whyCorrect": "Normal atrial depolarization begins at the SA node and spreads downward and leftward, producing a mean P vector near +60 degrees. A deflection is upright when the wave of depolarization moves toward a lead's positive pole (lead II) and inverted when it moves away (aVR).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-270_Brick Exchange - ECG Learning_ Sinus Bradycardia and Tachycardia_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

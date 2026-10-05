@@ -1,0 +1,552 @@
+{
+  "categoryId": "cardio_w2s2",
+  "categoryName": "Session 2",
+  "questions": [
+    {
+      "id": "repic-292",
+      "topicId": "hypertension-foundations-and-frameworks",
+      "topicName": "Hypertension: Foundations and Frameworks",
+      "stem": "This fundoscopic photograph shows cotton-wool spots, arteriovenous nicking, and flame-shaped retinal hemorrhages around the optic disc. These retinal findings are the classic end-organ manifestation of which systemic condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute angle-closure glaucoma"
+        },
+        {
+          "label": "B",
+          "text": "Central retinal artery occlusion"
+        },
+        {
+          "label": "C",
+          "text": "Diabetic retinopathy with neovascularization"
+        },
+        {
+          "label": "D",
+          "text": "Retinal detachment"
+        },
+        {
+          "label": "E",
+          "text": "Chronic systemic hypertension"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Arteriovenous nicking, cotton-wool spots (retinal ischemia), and flame hemorrhages reflect chronic hypertensive damage to the retinal arterioles, making the retina a window onto systemic hypertensive vascular injury.",
+        "whyCorrect": "Arteriovenous nicking, cotton-wool spots (retinal ischemia), and flame hemorrhages reflect chronic hypertensive damage to the retinal arterioles, making the retina a window onto systemic hypertensive vascular injury.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-292_Brick Exchange - Hypertension_ Foundations and Frameworks_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-490",
+      "topicId": "hypertension-foundations-and-frameworks",
+      "topicName": "Hypertension: Foundations and Frameworks",
+      "stem": "These renal biopsy panels from a hypertensive patient show (A) glomeruli and an arteriole with homogeneous pink wall thickening and luminal narrowing, and (B) an arteriole with concentric 'onion-skin' laminated wall thickening. What vascular process do these images depict?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Polyarteritis nodosa with aneurysms"
+        },
+        {
+          "label": "B",
+          "text": "Amyloid deposition in glomeruli"
+        },
+        {
+          "label": "C",
+          "text": "Fibromuscular dysplasia of the renal artery"
+        },
+        {
+          "label": "D",
+          "text": "Renal cell carcinoma invasion"
+        },
+        {
+          "label": "E",
+          "text": "Arteriolosclerosis of the renal arterioles"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Chronic hypertension produces hyaline arteriolosclerosis (homogeneous protein deposition in the wall) and, with more severe/malignant hypertension, hyperplastic 'onion-skin' arteriolosclerosis, both narrowing the lumen and driving nephrosclerosis.",
+        "whyCorrect": "Chronic hypertension produces hyaline arteriolosclerosis (homogeneous protein deposition in the wall) and, with more severe/malignant hypertension, hyperplastic 'onion-skin' arteriolosclerosis, both narrowing the lumen and driving nephrosclerosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-490_Brick Exchange - Hypertension_ Foundations and Frameworks_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-548",
+      "topicId": "primary-essential-hypertension",
+      "topicName": "Primary (Essential) Hypertension",
+      "stem": "A 34-year-old with new hypertension is found to have renal artery stenosis. On this classification diagram, into which branch does her hypertension fall?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pulmonary arterial hypertension"
+        },
+        {
+          "label": "B",
+          "text": "Idiopathic intracranial hypertension"
+        },
+        {
+          "label": "C",
+          "text": "Secondary hypertension"
+        },
+        {
+          "label": "D",
+          "text": "Primary (essential) hypertension"
+        },
+        {
+          "label": "E",
+          "text": "White-coat hypertension"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Secondary hypertension (5-10% of cases) results from an identifiable cause such as renovascular, renal, or endocrine disease; primary hypertension has no identifiable cause.",
+        "whyCorrect": "Secondary hypertension (5-10% of cases) results from an identifiable cause such as renovascular, renal, or endocrine disease; primary hypertension has no identifiable cause.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-548_Brick Exchange - Primary (Essential) Hypertension_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-839",
+      "topicId": "primary-essential-hypertension",
+      "topicName": "Primary (Essential) Hypertension",
+      "stem": "This hormonal cascade begins with hepatic angiotensinogen and raises blood pressure through vasoconstriction and renal sodium/water reabsorption. What is this system called?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Kallikrein-kinin system"
+        },
+        {
+          "label": "B",
+          "text": "Natriuretic peptide system"
+        },
+        {
+          "label": "C",
+          "text": "Sympathetic baroreflex arc"
+        },
+        {
+          "label": "D",
+          "text": "Hypothalamic-pituitary-adrenal axis"
+        },
+        {
+          "label": "E",
+          "text": "Renin-angiotensin-aldosterone system"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The diagram depicts the RAAS: renin converts angiotensinogen to angiotensin I, pulmonary ACE converts it to angiotensin II, which drives vasoconstriction and aldosterone-mediated Na/water retention.",
+        "whyCorrect": "The diagram depicts the RAAS: renin converts angiotensinogen to angiotensin I, pulmonary ACE converts it to angiotensin II, which drives vasoconstriction and aldosterone-mediated Na/water retention.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-839_Brick Exchange - Primary (Essential) Hypertension_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-840",
+      "topicId": "primary-essential-hypertension",
+      "topicName": "Primary (Essential) Hypertension",
+      "stem": "This schematic shows a renal change leading to increased intravascular volume alongside vasoconstriction, together producing hypertension. Which renal event is depicted as the initiating step?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased renal sodium reabsorption"
+        },
+        {
+          "label": "B",
+          "text": "Decreased cardiac contractility"
+        },
+        {
+          "label": "C",
+          "text": "Peripheral vasodilation"
+        },
+        {
+          "label": "D",
+          "text": "Increased natriuresis with volume loss"
+        },
+        {
+          "label": "E",
+          "text": "Reduced systemic vascular resistance"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Enhanced tubular Na+ reabsorption expands intravascular volume, which combined with vasoconstriction raises the product of SVR and cardiac output, elevating blood pressure.",
+        "whyCorrect": "Enhanced tubular Na+ reabsorption expands intravascular volume, which combined with vasoconstriction raises the product of SVR and cardiac output, elevating blood pressure.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-840_Brick Exchange - Primary (Essential) Hypertension_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-376",
+      "topicId": "secondary-hypertension",
+      "topicName": "Secondary Hypertension",
+      "stem": "The arrow on this MR angiogram of the aorta and renal vessels indicates a narrowing that raises blood pressure primarily through which mechanism?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased cardiac output from severe anemia"
+        },
+        {
+          "label": "B",
+          "text": "Direct autonomous aldosterone secretion by an adrenal tumor"
+        },
+        {
+          "label": "C",
+          "text": "Catecholamine surge from an adrenal medullary tumor"
+        },
+        {
+          "label": "D",
+          "text": "Activation of the renin-angiotensin-aldosterone system"
+        },
+        {
+          "label": "E",
+          "text": "Excess cortisol production causing sodium retention"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Reduced perfusion pressure from renal artery stenosis is sensed by the juxtaglomerular apparatus, triggering renin release and downstream angiotensin II/aldosterone activation, which drives renovascular hypertension.",
+        "whyCorrect": "Reduced perfusion pressure from renal artery stenosis is sensed by the juxtaglomerular apparatus, triggering renin release and downstream angiotensin II/aldosterone activation, which drives renovascular hypertension.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-376_Brick Exchange - Secondary Hypertension_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-377",
+      "topicId": "secondary-hypertension",
+      "topicName": "Secondary Hypertension",
+      "stem": "This renal angiogram shows a beaded 'string of beads' contour of the artery. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atherosclerotic renal artery stenosis"
+        },
+        {
+          "label": "B",
+          "text": "Fibromuscular dysplasia"
+        },
+        {
+          "label": "C",
+          "text": "Renal artery aneurysm"
+        },
+        {
+          "label": "D",
+          "text": "Polyarteritis nodosa"
+        },
+        {
+          "label": "E",
+          "text": "Takayasu arteritis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The alternating areas of stenosis and dilation give a classic 'string of beads' pattern on angiography, diagnostic of fibromuscular dysplasia of the renal artery.",
+        "whyCorrect": "The alternating areas of stenosis and dilation give a classic 'string of beads' pattern on angiography, diagnostic of fibromuscular dysplasia of the renal artery.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-377_Brick Exchange - Secondary Hypertension_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-557",
+      "topicId": "secondary-hypertension",
+      "topicName": "Secondary Hypertension",
+      "stem": "This figure illustrates a patient with moon facies, buffalo hump, central obesity with abdominal striae, thin skin, proximal muscle weakness, and hypertension from cortisol excess. Which condition causes this constellation and its associated secondary hypertension?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Primary hyperaldosteronism (Conn syndrome)"
+        },
+        {
+          "label": "B",
+          "text": "Acromegaly"
+        },
+        {
+          "label": "C",
+          "text": "Hyperthyroidism (Graves disease)"
+        },
+        {
+          "label": "D",
+          "text": "Cushing syndrome"
+        },
+        {
+          "label": "E",
+          "text": "Addison disease"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Chronic glucocorticoid excess (Cushing syndrome) produces moon face, buffalo hump, central obesity with striae, thin skin, proximal myopathy, and osteoporosis; excess cortisol also raises blood pressure, causing secondary hypertension.",
+        "whyCorrect": "Chronic glucocorticoid excess (Cushing syndrome) produces moon face, buffalo hump, central obesity with striae, thin skin, proximal myopathy, and osteoporosis; excess cortisol also raises blood pressure, causing secondary hypertension.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-557_Brick Exchange - Secondary Hypertension_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-558",
+      "topicId": "secondary-hypertension",
+      "topicName": "Secondary Hypertension",
+      "stem": "This renal artery abnormality producing a 'string of beads' and alternating stenosis is characteristic of a condition that most classically causes renovascular hypertension in which patient group?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Adolescent boys"
+        },
+        {
+          "label": "B",
+          "text": "Elderly men with diffuse atherosclerosis"
+        },
+        {
+          "label": "C",
+          "text": "Young to middle-aged women"
+        },
+        {
+          "label": "D",
+          "text": "Post-menopausal diabetic men"
+        },
+        {
+          "label": "E",
+          "text": "Neonates and infants"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Fibromuscular dysplasia causes non-atherosclerotic thickening of the arterial wall, giving a beaded appearance with intervening stenoses. It predominantly affects young to middle-aged women and is a treatable cause of secondary hypertension.",
+        "whyCorrect": "Fibromuscular dysplasia causes non-atherosclerotic thickening of the arterial wall, giving a beaded appearance with intervening stenoses. It predominantly affects young to middle-aged women and is a treatable cause of secondary hypertension.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-558_Brick Exchange - Secondary Hypertension_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-862",
+      "topicId": "secondary-hypertension",
+      "topicName": "Secondary Hypertension",
+      "stem": "This sagittal illustration of a sleeping person shows the tongue and soft tissues falling back against the pharyngeal wall. What process is being depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Upper airway collapse"
+        },
+        {
+          "label": "B",
+          "text": "Laryngospasm from aspiration"
+        },
+        {
+          "label": "C",
+          "text": "Epiglottitis with airway swelling"
+        },
+        {
+          "label": "D",
+          "text": "Choanal atresia"
+        },
+        {
+          "label": "E",
+          "text": "Vocal cord paralysis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "During sleep, relaxation of pharyngeal muscles lets the tongue and soft palate collapse posteriorly, occluding the upper airway. This is obstructive sleep apnea, a recognized secondary cause of hypertension.",
+        "whyCorrect": "During sleep, relaxation of pharyngeal muscles lets the tongue and soft palate collapse posteriorly, occluding the upper airway. This is obstructive sleep apnea, a recognized secondary cause of hypertension.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-862_Brick Exchange - Secondary Hypertension_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-293",
+      "topicId": "hypertensive-emergency",
+      "topicName": "Hypertensive Emergency",
+      "stem": "Comparing these two fundus photos: the left shows a sharp normal optic disc, while the right shows a swollen, elevated disc with blurred margins and engorged vessels. In a patient with a blood pressure of 220/130 mmHg, the finding on the right indicates what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A retinal detachment"
+        },
+        {
+          "label": "B",
+          "text": "Papilledema signaling a hypertensive emergency"
+        },
+        {
+          "label": "C",
+          "text": "Glaucomatous optic disc cupping"
+        },
+        {
+          "label": "D",
+          "text": "Optic atrophy"
+        },
+        {
+          "label": "E",
+          "text": "A normal physiologic optic cup"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Disc swelling with blurred margins and engorged vessels is papilledema; in the setting of severely elevated blood pressure it defines a hypertensive emergency (grade IV/malignant hypertension) requiring urgent BP lowering.",
+        "whyCorrect": "Disc swelling with blurred margins and engorged vessels is papilledema; in the setting of severely elevated blood pressure it defines a hypertensive emergency (grade IV/malignant hypertension) requiring urgent BP lowering.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-293_Brick Exchange - Hypertensive Emergency_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-294",
+      "topicId": "hypertensive-emergency",
+      "topicName": "Hypertensive Emergency",
+      "stem": "This peripheral blood smear (abnormal cells circled) shows fragmented red cells with sharp points and helmet shapes. In a patient with malignant hypertension and rising creatinine, these cells indicate which process?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Schistocytes from microangiopathic hemolytic anemia"
+        },
+        {
+          "label": "B",
+          "text": "Spherocytes from hereditary spherocytosis"
+        },
+        {
+          "label": "C",
+          "text": "Rouleaux from multiple myeloma"
+        },
+        {
+          "label": "D",
+          "text": "Sickle cells from sickle cell disease"
+        },
+        {
+          "label": "E",
+          "text": "Target cells from thalassemia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Schistocytes are red cells sheared as they pass through fibrin/damaged small vessels. In malignant hypertension the microvascular injury causes a microangiopathic hemolytic anemia, evidenced by these fragmented cells on the smear.",
+        "whyCorrect": "Schistocytes are red cells sheared as they pass through fibrin/damaged small vessels. In malignant hypertension the microvascular injury causes a microangiopathic hemolytic anemia, evidenced by these fragmented cells on the smear.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-294_Brick Exchange - Hypertensive Emergency_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-491",
+      "topicId": "hypertensive-emergency",
+      "topicName": "Hypertensive Emergency",
+      "stem": "This renal biopsy from a patient with severely elevated blood pressure shows an arteriole with concentric laminated 'onion-skin' wall thickening and marked luminal narrowing next to a glomerulus and tubules. This vascular lesion is characteristic of which entity?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Renal artery atherosclerosis"
+        },
+        {
+          "label": "B",
+          "text": "Hyperplastic arteriolosclerosis"
+        },
+        {
+          "label": "C",
+          "text": "Membranous glomerulonephritis"
+        },
+        {
+          "label": "D",
+          "text": "Acute tubular necrosis"
+        },
+        {
+          "label": "E",
+          "text": "Diabetic nodular glomerulosclerosis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Malignant/accelerated hypertension causes hyperplastic arteriolosclerosis, with concentric onion-skin layering of smooth muscle and basement membrane that severely narrows the lumen and produces ischemic renal injury.",
+        "whyCorrect": "Malignant/accelerated hypertension causes hyperplastic arteriolosclerosis, with concentric onion-skin layering of smooth muscle and basement membrane that severely narrows the lumen and produces ischemic renal injury.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-491_Brick Exchange - Hypertensive Emergency_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-492",
+      "topicId": "hypertensive-emergency",
+      "topicName": "Hypertensive Emergency",
+      "stem": "This H&E section of a small arteriole shows the vessel wall replaced by a bright eosinophilic, smudgy acellular deposit with surrounding inflammation. In a patient with a hypertensive emergency, what is the significance of this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Amyloid deposition"
+        },
+        {
+          "label": "B",
+          "text": "Fibrinoid necrosis indicating acute severe hypertensive vascular injury"
+        },
+        {
+          "label": "C",
+          "text": "Benign hyaline change of aging"
+        },
+        {
+          "label": "D",
+          "text": "Atherosclerotic plaque with a lipid core"
+        },
+        {
+          "label": "E",
+          "text": "Caseating granulomatous vasculitis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Fibrinoid necrosis is deposition of plasma proteins and fibrin in a necrotic vessel wall and is the hallmark acute lesion of malignant hypertension, reflecting endothelial injury from abruptly, severely elevated pressures.",
+        "whyCorrect": "Fibrinoid necrosis is deposition of plasma proteins and fibrin in a necrotic vessel wall and is the hallmark acute lesion of malignant hypertension, reflecting endothelial injury from abruptly, severely elevated pressures.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-492_Brick Exchange - Hypertensive Emergency_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

@@ -1,1528 +1,1000 @@
 {
   "categories": [
     {
-      "id": "acute-pericarditis",
-      "name": "Acute Pericarditis",
-      "topics": [
-        {
-          "id": "acute-pericarditis",
-          "name": "Acute Pericarditis",
-          "sourceFile": "brick",
-          "questionCount": 8
-        }
-      ]
-    },
-    {
-      "id": "acute-respiratory-distress-syndrome",
-      "name": "Acute Respiratory Distress Syndrome",
-      "topics": [
-        {
-          "id": "acute-respiratory-distress-syndrome",
-          "name": "Acute Respiratory Distress Syndrome",
-          "sourceFile": "brick",
-          "questionCount": 3
-        }
-      ]
-    },
-    {
-      "id": "acute-rheumatic-fever-and-rheumatic-heart-disease",
-      "name": "Acute Rheumatic Fever and Rheumatic Heart Disease",
-      "topics": [
-        {
-          "id": "acute-rheumatic-fever-and-rheumatic-heart-disease",
-          "name": "Acute Rheumatic Fever and Rheumatic Heart Disease",
-          "sourceFile": "brick",
-          "questionCount": 6
-        }
-      ]
-    },
-    {
-      "id": "acyanotic-congenital-heart-defects-left-to-right-shunts",
-      "name": "Acyanotic Congenital Heart Defects (Left-to-Right Shunts)",
-      "topics": [
-        {
-          "id": "acyanotic-congenital-heart-defects-left-to-right-shunts",
-          "name": "Acyanotic Congenital Heart Defects (Left-to-Right Shunts)",
-          "sourceFile": "brick",
-          "questionCount": 13
-        }
-      ]
-    },
-    {
-      "id": "airway-resistance",
-      "name": "Airway Resistance",
-      "topics": [
-        {
-          "id": "airway-resistance",
-          "name": "Airway Resistance",
-          "sourceFile": "brick",
-          "questionCount": 8
-        }
-      ]
-    },
-    {
-      "id": "anatomy-of-the-diaphragm-ribs-and-intercostal-muscles",
-      "name": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
-      "topics": [
-        {
-          "id": "anatomy-of-the-diaphragm-ribs-and-intercostal-muscles",
-          "name": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
-          "sourceFile": "brick",
-          "questionCount": 13
-        }
-      ]
-    },
-    {
-      "id": "anatomy-of-the-heart",
-      "name": "Anatomy of the Heart",
-      "topics": [
-        {
-          "id": "anatomy-of-the-heart",
-          "name": "Anatomy of the Heart",
-          "sourceFile": "brick",
-          "questionCount": 14
-        }
-      ]
-    },
-    {
-      "id": "anatomy-of-the-lower-respiratory-tract",
-      "name": "Anatomy of the Lower Respiratory Tract",
-      "topics": [
-        {
-          "id": "anatomy-of-the-lower-respiratory-tract",
-          "name": "Anatomy of the Lower Respiratory Tract",
-          "sourceFile": "brick",
-          "questionCount": 11
-        }
-      ]
-    },
-    {
-      "id": "anatomy-of-the-upper-respiratory-tract",
-      "name": "Anatomy of the Upper Respiratory Tract",
-      "topics": [
-        {
-          "id": "anatomy-of-the-upper-respiratory-tract",
-          "name": "Anatomy of the Upper Respiratory Tract",
-          "sourceFile": "brick",
-          "questionCount": 29
-        }
-      ]
-    },
-    {
-      "id": "angina-pectoris",
-      "name": "Angina Pectoris",
-      "topics": [
-        {
-          "id": "angina-pectoris",
-          "name": "Angina Pectoris",
-          "sourceFile": "brick",
-          "questionCount": 7
-        }
-      ]
-    },
-    {
-      "id": "antiarrhythmic-agents-class-i-drugs",
-      "name": "Antiarrhythmic Agents - Class I Drugs",
-      "topics": [
-        {
-          "id": "antiarrhythmic-agents-class-i-drugs",
-          "name": "Antiarrhythmic Agents - Class I Drugs",
-          "sourceFile": "brick",
-          "questionCount": 6
-        }
-      ]
-    },
-    {
-      "id": "antiarrhythmic-agents-classes-ii-iv",
-      "name": "Antiarrhythmic Agents: Classes II-IV",
-      "topics": [
-        {
-          "id": "antiarrhythmic-agents-classes-ii-iv",
-          "name": "Antiarrhythmic Agents: Classes II-IV",
-          "sourceFile": "brick",
-          "questionCount": 3
-        }
-      ]
-    },
-    {
-      "id": "antiplatelet-drugs",
-      "name": "Antiplatelet Drugs",
-      "topics": [
-        {
-          "id": "antiplatelet-drugs",
-          "name": "Antiplatelet Drugs",
-          "sourceFile": "brick",
-          "questionCount": 2
-        }
-      ]
-    },
-    {
-      "id": "aortic-aneurysm",
-      "name": "Aortic Aneurysm",
-      "topics": [
-        {
-          "id": "aortic-aneurysm",
-          "name": "Aortic Aneurysm",
-          "sourceFile": "brick",
-          "questionCount": 15
-        }
-      ]
-    },
-    {
-      "id": "aortic-dissection",
-      "name": "Aortic Dissection",
-      "topics": [
-        {
-          "id": "aortic-dissection",
-          "name": "Aortic Dissection",
-          "sourceFile": "brick",
-          "questionCount": 5
-        }
-      ]
-    },
-    {
-      "id": "aortic-regurgitation-and-pulmonary-valve-disease",
-      "name": "Aortic Regurgitation and Pulmonary Valve Disease",
-      "topics": [
-        {
-          "id": "aortic-regurgitation-and-pulmonary-valve-disease",
-          "name": "Aortic Regurgitation and Pulmonary Valve Disease",
-          "sourceFile": "brick",
-          "questionCount": 12
-        }
-      ]
-    },
-    {
-      "id": "aortic-stenosis",
-      "name": "Aortic Stenosis",
-      "topics": [
-        {
-          "id": "aortic-stenosis",
-          "name": "Aortic Stenosis",
-          "sourceFile": "brick",
-          "questionCount": 8
-        }
-      ]
-    },
-    {
-      "id": "arrhythmias-pathophysiology-and-diagnosis",
-      "name": "Arrhythmias: Pathophysiology and Diagnosis",
-      "topics": [
-        {
-          "id": "arrhythmias-pathophysiology-and-diagnosis",
-          "name": "Arrhythmias: Pathophysiology and Diagnosis",
-          "sourceFile": "brick",
-          "questionCount": 6
-        }
-      ]
-    },
-    {
-      "id": "arrhythmogenic-right-ventricular-cardiomyopathy",
-      "name": "Arrhythmogenic Right Ventricular Cardiomyopathy",
-      "topics": [
-        {
-          "id": "arrhythmogenic-right-ventricular-cardiomyopathy",
-          "name": "Arrhythmogenic Right Ventricular Cardiomyopathy",
-          "sourceFile": "brick",
-          "questionCount": 9
-        }
-      ]
-    },
-    {
-      "id": "arterial-emboli",
-      "name": "Arterial Emboli",
-      "topics": [
-        {
-          "id": "arterial-emboli",
-          "name": "Arterial Emboli",
-          "sourceFile": "brick",
-          "questionCount": 8
-        }
-      ]
-    },
-    {
-      "id": "asthma",
-      "name": "Asthma",
-      "topics": [
-        {
-          "id": "asthma",
-          "name": "Asthma",
-          "sourceFile": "brick",
-          "questionCount": 5
-        }
-      ]
-    },
-    {
-      "id": "atherosclerosis",
-      "name": "Atherosclerosis",
-      "topics": [
-        {
-          "id": "atherosclerosis",
-          "name": "Atherosclerosis",
-          "sourceFile": "brick",
-          "questionCount": 9
-        }
-      ]
-    },
-    {
-      "id": "atrial-fibrillation-pathophysiology-risk-factors-and-treatment",
-      "name": "Atrial Fibrillation: Pathophysiology, Risk Factors, and Treatment",
-      "topics": [
-        {
-          "id": "atrial-fibrillation-pathophysiology-risk-factors-and-treatment",
-          "name": "Atrial Fibrillation: Pathophysiology, Risk Factors, and Treatment",
-          "sourceFile": "brick",
-          "questionCount": 4
-        }
-      ]
-    },
-    {
-      "id": "autoimmune-diseases-with-respiratory-manifestations",
-      "name": "Autoimmune Diseases with Respiratory Manifestations",
-      "topics": [
-        {
-          "id": "autoimmune-diseases-with-respiratory-manifestations",
-          "name": "Autoimmune Diseases with Respiratory Manifestations",
-          "sourceFile": "brick",
-          "questionCount": 6
-        }
-      ]
-    },
-    {
-      "id": "baroreceptor-regulation-of-blood-pressure",
-      "name": "Baroreceptor Regulation of Blood Pressure",
-      "topics": [
-        {
-          "id": "baroreceptor-regulation-of-blood-pressure",
-          "name": "Baroreceptor Regulation of Blood Pressure",
-          "sourceFile": "brick",
-          "questionCount": 2
-        }
-      ]
-    },
-    {
-      "id": "blood-pressure-control-foundations-and-frameworks",
-      "name": "Blood Pressure Control: Foundations and Frameworks",
-      "topics": [
-        {
-          "id": "blood-pressure-control-foundations-and-frameworks",
-          "name": "Blood Pressure Control: Foundations and Frameworks",
-          "sourceFile": "brick",
-          "questionCount": 3
-        }
-      ]
-    },
-    {
-      "id": "bronchiectasis",
-      "name": "Bronchiectasis",
-      "topics": [
-        {
-          "id": "bronchiectasis",
-          "name": "Bronchiectasis",
-          "sourceFile": "brick",
-          "questionCount": 5
-        }
-      ]
-    },
-    {
-      "id": "cardiac-compliance-contractility-preload-and-afterload",
-      "name": "Cardiac - Compliance, Contractility, Preload, and Afterload",
-      "topics": [
-        {
-          "id": "cardiac-compliance-contractility-preload-and-afterload",
-          "name": "Cardiac - Compliance, Contractility, Preload, and Afterload",
-          "sourceFile": "brick",
-          "questionCount": 7
-        }
-      ]
-    },
-    {
-      "id": "cardiac-and-vascular-function-curves",
-      "name": "Cardiac and Vascular Function Curves",
-      "topics": [
-        {
-          "id": "cardiac-and-vascular-function-curves",
-          "name": "Cardiac and Vascular Function Curves",
-          "sourceFile": "brick",
-          "questionCount": 12
-        }
-      ]
-    },
-    {
-      "id": "cardiac-cycle",
-      "name": "Cardiac Cycle",
-      "topics": [
-        {
-          "id": "cardiac-cycle",
-          "name": "Cardiac Cycle",
-          "sourceFile": "brick",
-          "questionCount": 6
-        }
-      ]
-    },
-    {
-      "id": "cardiac-tumors",
-      "name": "Cardiac Tumors",
-      "topics": [
-        {
-          "id": "cardiac-tumors",
-          "name": "Cardiac Tumors",
-          "sourceFile": "brick",
-          "questionCount": 8
-        }
-      ]
-    },
-    {
-      "id": "carotid-stenosis",
-      "name": "Carotid Stenosis",
-      "topics": [
-        {
-          "id": "carotid-stenosis",
-          "name": "Carotid Stenosis",
-          "sourceFile": "brick",
-          "questionCount": 8
-        }
-      ]
-    },
-    {
-      "id": "chronic-obstructive-pulmonary-disease-part-1-pathophysiology",
-      "name": "Chronic Obstructive Pulmonary Disease Part 1: Pathophysiology",
-      "topics": [
-        {
-          "id": "chronic-obstructive-pulmonary-disease-part-1-pathophysiology",
-          "name": "Chronic Obstructive Pulmonary Disease Part 1: Pathophysiology",
-          "sourceFile": "brick",
-          "questionCount": 7
-        }
-      ]
-    },
-    {
-      "id": "chronic-obstructive-pulmonary-disease-part-2-clinical-presentation-diagnosis-and-management",
-      "name": "Chronic Obstructive Pulmonary Disease Part 2: Clinical Presentation, Diagnosis, and Management",
-      "topics": [
-        {
-          "id": "chronic-obstructive-pulmonary-disease-part-2-clinical-presentation-diagnosis-and-management",
-          "name": "Chronic Obstructive Pulmonary Disease Part 2: Clinical Presentation, Diagnosis, and Management",
-          "sourceFile": "brick",
-          "questionCount": 3
-        }
-      ]
-    },
-    {
-      "id": "congenital-heart-defects-foundations-and-frameworks",
-      "name": "Congenital Heart Defects: Foundations and Frameworks",
-      "topics": [
-        {
-          "id": "congenital-heart-defects-foundations-and-frameworks",
-          "name": "Congenital Heart Defects: Foundations and Frameworks",
-          "sourceFile": "brick",
-          "questionCount": 7
-        }
-      ]
-    },
-    {
-      "id": "constrictive-pericarditis",
-      "name": "Constrictive Pericarditis",
-      "topics": [
-        {
-          "id": "constrictive-pericarditis",
-          "name": "Constrictive Pericarditis",
-          "sourceFile": "brick",
-          "questionCount": 4
-        }
-      ]
-    },
-    {
-      "id": "control-of-ventilation-and-effects-of-altitude-and-exercise",
-      "name": "Control of Ventilation and Effects of Altitude and Exercise",
-      "topics": [
-        {
-          "id": "control-of-ventilation-and-effects-of-altitude-and-exercise",
-          "name": "Control of Ventilation and Effects of Altitude and Exercise",
-          "sourceFile": "brick",
-          "questionCount": 10
-        }
-      ]
-    },
-    {
-      "id": "coronary-blood-flow-vascular-physiology",
-      "name": "Coronary Blood Flow- Vascular Physiology",
-      "topics": [
-        {
-          "id": "coronary-blood-flow-vascular-physiology",
-          "name": "Coronary Blood Flow- Vascular Physiology",
-          "sourceFile": "brick",
-          "questionCount": 6
-        }
-      ]
-    },
-    {
-      "id": "cyanotic-congenital-heart-defects-right-to-left-shunts",
-      "name": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
-      "topics": [
-        {
-          "id": "cyanotic-congenital-heart-defects-right-to-left-shunts",
-          "name": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
-          "sourceFile": "brick",
-          "questionCount": 12
-        }
-      ]
-    },
-    {
-      "id": "cystic-fibrosis-1-of-2",
-      "name": "Cystic Fibrosis (1 of 2)",
-      "topics": [
-        {
-          "id": "cystic-fibrosis-1-of-2",
-          "name": "Cystic Fibrosis (1 of 2)",
-          "sourceFile": "brick",
-          "questionCount": 3
-        }
-      ]
-    },
-    {
-      "id": "cystic-fibrosis-2-of-2",
-      "name": "Cystic Fibrosis (2 of 2)",
-      "topics": [
-        {
-          "id": "cystic-fibrosis-2-of-2",
-          "name": "Cystic Fibrosis (2 of 2)",
-          "sourceFile": "brick",
-          "questionCount": 1
-        }
-      ]
-    },
-    {
-      "id": "deep-vein-thrombosis",
-      "name": "Deep Vein Thrombosis",
-      "topics": [
-        {
-          "id": "deep-vein-thrombosis",
-          "name": "Deep Vein Thrombosis",
-          "sourceFile": "brick",
-          "questionCount": 10
-        }
-      ]
-    },
-    {
-      "id": "development-of-the-aortic-arches",
-      "name": "Development of the Aortic Arches",
-      "topics": [
-        {
-          "id": "development-of-the-aortic-arches",
-          "name": "Development of the Aortic Arches",
-          "sourceFile": "brick",
-          "questionCount": 10
-        }
-      ]
-    },
-    {
-      "id": "development-of-the-respiratory-tract",
-      "name": "Development of the Respiratory Tract",
-      "topics": [
-        {
-          "id": "development-of-the-respiratory-tract",
-          "name": "Development of the Respiratory Tract",
-          "sourceFile": "brick",
-          "questionCount": 7
-        }
-      ]
-    },
-    {
-      "id": "diagnosis-by-cardiovascular-imaging",
-      "name": "Diagnosis by Cardiovascular Imaging",
-      "topics": [
-        {
-          "id": "diagnosis-by-cardiovascular-imaging",
-          "name": "Diagnosis by Cardiovascular Imaging",
-          "sourceFile": "brick",
-          "questionCount": 26
-        }
-      ]
-    },
-    {
-      "id": "diagnosis-of-heart-failure-from-clinical-presentation-to-classification",
-      "name": "Diagnosis of Heart Failure: From Clinical Presentation to Classification",
-      "topics": [
-        {
-          "id": "diagnosis-of-heart-failure-from-clinical-presentation-to-classification",
-          "name": "Diagnosis of Heart Failure: From Clinical Presentation to Classification",
-          "sourceFile": "brick",
-          "questionCount": 4
-        }
-      ]
-    },
-    {
-      "id": "dilated-cardiomyopathy",
-      "name": "Dilated Cardiomyopathy",
-      "topics": [
-        {
-          "id": "dilated-cardiomyopathy",
-          "name": "Dilated Cardiomyopathy",
-          "sourceFile": "brick",
-          "questionCount": 6
-        }
-      ]
-    },
-    {
-      "id": "doacs",
-      "name": "DOACs",
-      "topics": [
-        {
-          "id": "doacs",
-          "name": "DOACs",
-          "sourceFile": "brick",
-          "questionCount": 1
-        }
-      ]
-    },
-    {
-      "id": "dyslipidemia-pathophysiology",
-      "name": "Dyslipidemia: Pathophysiology",
-      "topics": [
-        {
-          "id": "dyslipidemia-pathophysiology",
-          "name": "Dyslipidemia: Pathophysiology",
-          "sourceFile": "brick",
-          "questionCount": 3
-        }
-      ]
-    },
-    {
-      "id": "dyslipidemia-pharmacological-and-non-pharmacological-options",
-      "name": "Dyslipidemia: Pharmacological and Non-Pharmacological options",
-      "topics": [
-        {
-          "id": "dyslipidemia-pharmacological-and-non-pharmacological-options",
-          "name": "Dyslipidemia: Pharmacological and Non-Pharmacological options",
-          "sourceFile": "brick",
-          "questionCount": 1
-        }
-      ]
-    },
-    {
-      "id": "ecg-learning-sinus-bradycardia-and-tachycardia",
-      "name": "ECG Learning: Sinus Bradycardia and Tachycardia",
-      "topics": [
-        {
-          "id": "ecg-learning-sinus-bradycardia-and-tachycardia",
-          "name": "ECG Learning: Sinus Bradycardia and Tachycardia",
-          "sourceFile": "brick",
-          "questionCount": 5
-        }
-      ]
-    },
-    {
-      "id": "edema",
-      "name": "Edema",
-      "topics": [
-        {
-          "id": "edema",
-          "name": "Edema",
-          "sourceFile": "brick",
-          "questionCount": 6
-        }
-      ]
-    },
-    {
-      "id": "electrocardiogram-fundamentals-and-lead-placement-1-of-2",
-      "name": "Electrocardiogram: Fundamentals and Lead Placement (1 of 2)",
-      "topics": [
-        {
-          "id": "electrocardiogram-fundamentals-and-lead-placement-1-of-2",
-          "name": "Electrocardiogram: Fundamentals and Lead Placement (1 of 2)",
-          "sourceFile": "brick",
-          "questionCount": 13
-        }
-      ]
-    },
-    {
-      "id": "electrocardiogram-waves-intervals-and-segments-2-of-2",
-      "name": "Electrocardiogram: Waves, Intervals, and Segments (2 of 2)",
-      "topics": [
-        {
-          "id": "electrocardiogram-waves-intervals-and-segments-2-of-2",
-          "name": "Electrocardiogram: Waves, Intervals, and Segments (2 of 2)",
-          "sourceFile": "brick",
-          "questionCount": 9
-        }
-      ]
-    },
-    {
-      "id": "heart-blocks-pathophysiology-diagnosis-and-treatment",
-      "name": "Heart Blocks: Pathophysiology, Diagnosis and Treatment",
-      "topics": [
-        {
-          "id": "heart-blocks-pathophysiology-diagnosis-and-treatment",
-          "name": "Heart Blocks: Pathophysiology, Diagnosis and Treatment",
-          "sourceFile": "brick",
-          "questionCount": 4
-        }
-      ]
-    },
-    {
-      "id": "heart-sounds-s1-s2-s3-and-s4",
-      "name": "Heart Sounds (S1, S2, S3, and S4)",
-      "topics": [
-        {
-          "id": "heart-sounds-s1-s2-s3-and-s4",
-          "name": "Heart Sounds (S1, S2, S3, and S4)",
-          "sourceFile": "brick",
-          "questionCount": 4
-        }
-      ]
-    },
-    {
-      "id": "hemodynamics-blood-pressure",
-      "name": "Hemodynamics: Blood Pressure",
-      "topics": [
-        {
-          "id": "hemodynamics-blood-pressure",
-          "name": "Hemodynamics: Blood Pressure",
-          "sourceFile": "brick",
-          "questionCount": 11
-        }
-      ]
-    },
-    {
-      "id": "histology-of-blood-vessels-and-lymphatics",
-      "name": "Histology of Blood Vessels and Lymphatics",
-      "topics": [
-        {
-          "id": "histology-of-blood-vessels-and-lymphatics",
-          "name": "Histology of Blood Vessels and Lymphatics",
-          "sourceFile": "brick",
-          "questionCount": 17
-        }
-      ]
-    },
-    {
-      "id": "histology-of-the-heart",
-      "name": "Histology of the Heart",
-      "topics": [
-        {
-          "id": "histology-of-the-heart",
-          "name": "Histology of the Heart",
-          "sourceFile": "brick",
-          "questionCount": 7
-        }
-      ]
-    },
-    {
-      "id": "histology-of-the-respiratory-tract",
-      "name": "Histology of the Respiratory Tract",
-      "topics": [
-        {
-          "id": "histology-of-the-respiratory-tract",
-          "name": "Histology of the Respiratory Tract",
-          "sourceFile": "brick",
-          "questionCount": 15
-        }
-      ]
-    },
-    {
-      "id": "humoral-regulation-of-blood-pressure",
-      "name": "Humoral Regulation of Blood Pressure",
-      "topics": [
-        {
-          "id": "humoral-regulation-of-blood-pressure",
-          "name": "Humoral Regulation of Blood Pressure",
-          "sourceFile": "brick",
-          "questionCount": 2
-        }
-      ]
-    },
-    {
-      "id": "hypercapnia",
-      "name": "Hypercapnia",
-      "topics": [
-        {
-          "id": "hypercapnia",
-          "name": "Hypercapnia",
-          "sourceFile": "brick",
-          "questionCount": 4
-        }
-      ]
-    },
-    {
-      "id": "hypersensitivity-pneumonitis",
-      "name": "Hypersensitivity Pneumonitis",
-      "topics": [
-        {
-          "id": "hypersensitivity-pneumonitis",
-          "name": "Hypersensitivity Pneumonitis",
-          "sourceFile": "brick",
-          "questionCount": 4
-        }
-      ]
-    },
-    {
-      "id": "hypertension-foundations-and-frameworks",
-      "name": "Hypertension: Foundations and Frameworks",
-      "topics": [
-        {
-          "id": "hypertension-foundations-and-frameworks",
-          "name": "Hypertension: Foundations and Frameworks",
-          "sourceFile": "brick",
-          "questionCount": 2
-        }
-      ]
-    },
-    {
-      "id": "hypertensive-emergency",
-      "name": "Hypertensive Emergency",
-      "topics": [
-        {
-          "id": "hypertensive-emergency",
-          "name": "Hypertensive Emergency",
-          "sourceFile": "brick",
-          "questionCount": 4
-        }
-      ]
-    },
-    {
-      "id": "hypotension-causes-consequences-and-management",
-      "name": "Hypotension: Causes, Consequences, and Management",
-      "topics": [
-        {
-          "id": "hypotension-causes-consequences-and-management",
-          "name": "Hypotension: Causes, Consequences, and Management",
-          "sourceFile": "brick",
-          "questionCount": 1
-        }
-      ]
-    },
-    {
-      "id": "hypoxemia",
-      "name": "Hypoxemia",
-      "topics": [
-        {
-          "id": "hypoxemia",
-          "name": "Hypoxemia",
-          "sourceFile": "brick",
-          "questionCount": 4
-        }
-      ]
-    },
-    {
-      "id": "idiopathic-pulmonary-fibrosis",
-      "name": "Idiopathic Pulmonary Fibrosis",
-      "topics": [
-        {
-          "id": "idiopathic-pulmonary-fibrosis",
-          "name": "Idiopathic Pulmonary Fibrosis",
-          "sourceFile": "brick",
-          "questionCount": 7
-        }
-      ]
-    },
-    {
-      "id": "infective-endocarditis",
-      "name": "Infective Endocarditis",
-      "topics": [
-        {
-          "id": "infective-endocarditis",
-          "name": "Infective Endocarditis",
-          "sourceFile": "brick",
-          "questionCount": 9
-        }
-      ]
-    },
-    {
-      "id": "inflammatory-disorders-of-the-nasal-cavities-and-sinuses",
-      "name": "Inflammatory Disorders of the Nasal Cavities and Sinuses",
-      "topics": [
-        {
-          "id": "inflammatory-disorders-of-the-nasal-cavities-and-sinuses",
-          "name": "Inflammatory Disorders of the Nasal Cavities and Sinuses",
-          "sourceFile": "brick",
-          "questionCount": 5
-        }
-      ]
-    },
-    {
-      "id": "inflammatory-disorders-of-the-pharynx-larynx-and-trachea",
-      "name": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
-      "topics": [
-        {
-          "id": "inflammatory-disorders-of-the-pharynx-larynx-and-trachea",
-          "name": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
-          "sourceFile": "brick",
-          "questionCount": 6
-        }
-      ]
-    },
-    {
-      "id": "interstitial-lung-disease-foundations-and-frameworks",
-      "name": "Interstitial Lung Disease: Foundations and Frameworks",
-      "topics": [
-        {
-          "id": "interstitial-lung-disease-foundations-and-frameworks",
-          "name": "Interstitial Lung Disease: Foundations and Frameworks",
-          "sourceFile": "brick",
-          "questionCount": 5
-        }
-      ]
-    },
-    {
-      "id": "large-vessel-vasculitis",
-      "name": "Large-Vessel Vasculitis",
-      "topics": [
-        {
-          "id": "large-vessel-vasculitis",
-          "name": "Large-Vessel Vasculitis",
-          "sourceFile": "brick",
-          "questionCount": 7
-        }
-      ]
-    },
-    {
-      "id": "left-ventricular-hypertrophy-and-hypertrophic-cardiomyopathy",
-      "name": "Left Ventricular Hypertrophy and Hypertrophic Cardiomyopathy",
-      "topics": [
-        {
-          "id": "left-ventricular-hypertrophy-and-hypertrophic-cardiomyopathy",
-          "name": "Left Ventricular Hypertrophy and Hypertrophic Cardiomyopathy",
-          "sourceFile": "brick",
-          "questionCount": 9
-        }
-      ]
-    },
-    {
-      "id": "local-control-of-the-microcirculation",
-      "name": "Local Control of the Microcirculation",
-      "topics": [
-        {
-          "id": "local-control-of-the-microcirculation",
-          "name": "Local Control of the Microcirculation",
-          "sourceFile": "brick",
-          "questionCount": 7
-        }
-      ]
-    },
-    {
-      "id": "management-of-chronic-heart-failure",
-      "name": "Management of Chronic Heart Failure",
-      "topics": [
-        {
-          "id": "management-of-chronic-heart-failure",
-          "name": "Management of Chronic Heart Failure",
-          "sourceFile": "brick",
-          "questionCount": 1
-        }
-      ]
-    },
-    {
-      "id": "management-of-shock",
-      "name": "Management of Shock",
-      "topics": [
-        {
-          "id": "management-of-shock",
-          "name": "Management of Shock",
-          "sourceFile": "brick",
-          "questionCount": 4
-        }
-      ]
-    },
-    {
-      "id": "measuring-cardiac-function",
-      "name": "Measuring Cardiac Function",
-      "topics": [
-        {
-          "id": "measuring-cardiac-function",
-          "name": "Measuring Cardiac Function",
-          "sourceFile": "brick",
-          "questionCount": 3
-        }
-      ]
-    },
-    {
-      "id": "mediastinum-part-1-of-2",
-      "name": "Mediastinum (Part 1 of 2)",
+      "id": "cardio_w1s1",
+      "name": "Session 1",
       "topics": [
         {
           "id": "mediastinum-part-1-of-2",
           "name": "Mediastinum (Part 1 of 2)",
           "sourceFile": "brick",
           "questionCount": 15
-        }
-      ]
-    },
-    {
-      "id": "mediastinum-part-2-of-2",
-      "name": "Mediastinum (Part 2 of 2)",
-      "topics": [
+        },
         {
           "id": "mediastinum-part-2-of-2",
           "name": "Mediastinum (Part 2 of 2)",
           "sourceFile": "brick",
           "questionCount": 11
+        },
+        {
+          "id": "anatomy-of-the-heart",
+          "name": "Anatomy of the Heart",
+          "sourceFile": "brick",
+          "questionCount": 14
+        },
+        {
+          "id": "vasculature-and-lymphatics-of-the-heart",
+          "name": "Vasculature and Lymphatics of the Heart",
+          "sourceFile": "brick",
+          "questionCount": 10
+        },
+        {
+          "id": "histology-of-the-heart",
+          "name": "Histology of the Heart",
+          "sourceFile": "brick",
+          "questionCount": 7
+        },
+        {
+          "id": "cardiac-cycle",
+          "name": "Cardiac Cycle",
+          "sourceFile": "brick",
+          "questionCount": 6
+        },
+        {
+          "id": "heart-sounds-s1-s2-s3-and-s4",
+          "name": "Heart Sounds (S1, S2, S3, and S4)",
+          "sourceFile": "brick",
+          "questionCount": 4
         }
-      ]
+      ],
+      "week": 1,
+      "weekName": "Cardio · Week 1",
+      "weekSubtitle": ""
     },
     {
-      "id": "medium-vessel-vasculitis",
-      "name": "Medium-Vessel Vasculitis",
+      "id": "cardio_w1s2",
+      "name": "Session 2",
       "topics": [
+        {
+          "id": "cardiac-compliance-contractility-preload-and-afterload",
+          "name": "Cardiac - Compliance, Contractility, Preload, and Afterload",
+          "sourceFile": "brick",
+          "questionCount": 7
+        },
+        {
+          "id": "measuring-cardiac-function",
+          "name": "Measuring Cardiac Function",
+          "sourceFile": "brick",
+          "questionCount": 3
+        },
+        {
+          "id": "cardiac-and-vascular-function-curves",
+          "name": "Cardiac and Vascular Function Curves",
+          "sourceFile": "brick",
+          "questionCount": 12
+        },
+        {
+          "id": "pressure-volume-pv-loops",
+          "name": "Pressure Volume (PV) Loops",
+          "sourceFile": "brick",
+          "questionCount": 7
+        },
+        {
+          "id": "electrocardiogram-fundamentals-and-lead-placement-1-of-2",
+          "name": "Electrocardiogram: Fundamentals and Lead Placement (1 of 2)",
+          "sourceFile": "brick",
+          "questionCount": 13
+        },
+        {
+          "id": "electrocardiogram-waves-intervals-and-segments-2-of-2",
+          "name": "Electrocardiogram: Waves, Intervals, and Segments (2 of 2)",
+          "sourceFile": "brick",
+          "questionCount": 9
+        }
+      ],
+      "week": 1,
+      "weekName": "Cardio · Week 1",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "cardio_w1s3",
+      "name": "Session 3",
+      "topics": [
+        {
+          "id": "dyslipidemia-pathophysiology",
+          "name": "Dyslipidemia: Pathophysiology",
+          "sourceFile": "brick",
+          "questionCount": 3
+        },
+        {
+          "id": "dyslipidemia-pharmacological-and-non-pharmacological-options",
+          "name": "Dyslipidemia: Pharmacological and Non-Pharmacological options",
+          "sourceFile": "brick",
+          "questionCount": 1
+        },
+        {
+          "id": "treatment-of-dyslipidemia",
+          "name": "Treatment of Dyslipidemia",
+          "sourceFile": "brick",
+          "questionCount": 3
+        },
+        {
+          "id": "diagnosis-by-cardiovascular-imaging",
+          "name": "Diagnosis by Cardiovascular Imaging",
+          "sourceFile": "brick",
+          "questionCount": 26
+        }
+      ],
+      "week": 1,
+      "weekName": "Cardio · Week 1",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "cardio_w2s1",
+      "name": "Session 1",
+      "topics": [
+        {
+          "id": "blood-pressure-control-foundations-and-frameworks",
+          "name": "Blood Pressure Control: Foundations and Frameworks",
+          "sourceFile": "brick",
+          "questionCount": 3
+        },
+        {
+          "id": "baroreceptor-regulation-of-blood-pressure",
+          "name": "Baroreceptor Regulation of Blood Pressure",
+          "sourceFile": "brick",
+          "questionCount": 2
+        },
+        {
+          "id": "humoral-regulation-of-blood-pressure",
+          "name": "Humoral Regulation of Blood Pressure",
+          "sourceFile": "brick",
+          "questionCount": 2
+        },
+        {
+          "id": "hemodynamics-blood-pressure",
+          "name": "Hemodynamics: Blood Pressure",
+          "sourceFile": "brick",
+          "questionCount": 11
+        },
+        {
+          "id": "starling-forces",
+          "name": "Starling Forces",
+          "sourceFile": "brick",
+          "questionCount": 9
+        },
+        {
+          "id": "local-control-of-the-microcirculation",
+          "name": "Local Control of the Microcirculation",
+          "sourceFile": "brick",
+          "questionCount": 7
+        },
+        {
+          "id": "hypotension-causes-consequences-and-management",
+          "name": "Hypotension: Causes, Consequences, and Management",
+          "sourceFile": "brick",
+          "questionCount": 1
+        },
+        {
+          "id": "ecg-learning-sinus-bradycardia-and-tachycardia",
+          "name": "ECG Learning: Sinus Bradycardia and Tachycardia",
+          "sourceFile": "brick",
+          "questionCount": 5
+        }
+      ],
+      "week": 2,
+      "weekName": "Cardio · Week 2",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "cardio_w2s2",
+      "name": "Session 2",
+      "topics": [
+        {
+          "id": "hypertension-foundations-and-frameworks",
+          "name": "Hypertension: Foundations and Frameworks",
+          "sourceFile": "brick",
+          "questionCount": 2
+        },
+        {
+          "id": "primary-essential-hypertension",
+          "name": "Primary (Essential) Hypertension",
+          "sourceFile": "brick",
+          "questionCount": 3
+        },
+        {
+          "id": "secondary-hypertension",
+          "name": "Secondary Hypertension",
+          "sourceFile": "brick",
+          "questionCount": 5
+        },
+        {
+          "id": "hypertensive-emergency",
+          "name": "Hypertensive Emergency",
+          "sourceFile": "brick",
+          "questionCount": 4
+        }
+      ],
+      "week": 2,
+      "weekName": "Cardio · Week 2",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "cardio_w2s3",
+      "name": "Session 3",
+      "topics": [
+        {
+          "id": "histology-of-blood-vessels-and-lymphatics",
+          "name": "Histology of Blood Vessels and Lymphatics",
+          "sourceFile": "brick",
+          "questionCount": 17
+        },
+        {
+          "id": "aortic-aneurysm",
+          "name": "Aortic Aneurysm",
+          "sourceFile": "brick",
+          "questionCount": 15
+        },
+        {
+          "id": "aortic-dissection",
+          "name": "Aortic Dissection",
+          "sourceFile": "brick",
+          "questionCount": 5
+        },
+        {
+          "id": "small-vessel-vasculitis",
+          "name": "Small-Vessel Vasculitis",
+          "sourceFile": "brick",
+          "questionCount": 6
+        },
+        {
+          "id": "large-vessel-vasculitis",
+          "name": "Large-Vessel Vasculitis",
+          "sourceFile": "brick",
+          "questionCount": 7
+        },
         {
           "id": "medium-vessel-vasculitis",
           "name": "Medium-Vessel Vasculitis",
           "sourceFile": "brick",
           "questionCount": 9
         }
-      ]
+      ],
+      "week": 2,
+      "weekName": "Cardio · Week 2",
+      "weekSubtitle": ""
     },
     {
-      "id": "mesothelioma",
-      "name": "Mesothelioma",
+      "id": "cardio_w3s1",
+      "name": "Session 1",
       "topics": [
         {
-          "id": "mesothelioma",
-          "name": "Mesothelioma",
-          "sourceFile": "brick",
-          "questionCount": 7
-        }
-      ]
-    },
-    {
-      "id": "mitral-regurgitation-and-mitral-valve-prolapse",
-      "name": "Mitral Regurgitation and Mitral Valve Prolapse",
-      "topics": [
-        {
-          "id": "mitral-regurgitation-and-mitral-valve-prolapse",
-          "name": "Mitral Regurgitation and Mitral Valve Prolapse",
-          "sourceFile": "brick",
-          "questionCount": 13
-        }
-      ]
-    },
-    {
-      "id": "mitral-stenosis",
-      "name": "Mitral Stenosis",
-      "topics": [
-        {
-          "id": "mitral-stenosis",
-          "name": "Mitral Stenosis",
-          "sourceFile": "brick",
-          "questionCount": 8
-        }
-      ]
-    },
-    {
-      "id": "myocardial-infarction",
-      "name": "Myocardial Infarction",
-      "topics": [
-        {
-          "id": "myocardial-infarction",
-          "name": "Myocardial Infarction",
-          "sourceFile": "brick",
-          "questionCount": 8
-        }
-      ]
-    },
-    {
-      "id": "neonatal-respiratory-distress-syndrome",
-      "name": "Neonatal Respiratory Distress Syndrome",
-      "topics": [
-        {
-          "id": "neonatal-respiratory-distress-syndrome",
-          "name": "Neonatal Respiratory Distress Syndrome",
-          "sourceFile": "brick",
-          "questionCount": 8
-        }
-      ]
-    },
-    {
-      "id": "nonbacterial-thrombotic-endocarditis",
-      "name": "Nonbacterial Thrombotic Endocarditis",
-      "topics": [
-        {
-          "id": "nonbacterial-thrombotic-endocarditis",
-          "name": "Nonbacterial Thrombotic Endocarditis",
-          "sourceFile": "brick",
-          "questionCount": 3
-        }
-      ]
-    },
-    {
-      "id": "obstructive-and-restrictive-lung-diseases-foundations-and-frameworks",
-      "name": "Obstructive and Restrictive Lung Diseases: Foundations and Frameworks",
-      "topics": [
-        {
-          "id": "obstructive-and-restrictive-lung-diseases-foundations-and-frameworks",
-          "name": "Obstructive and Restrictive Lung Diseases: Foundations and Frameworks",
-          "sourceFile": "brick",
-          "questionCount": 3
-        }
-      ]
-    },
-    {
-      "id": "obstructive-congenital-heart-defects",
-      "name": "Obstructive Congenital Heart Defects",
-      "topics": [
-        {
-          "id": "obstructive-congenital-heart-defects",
-          "name": "Obstructive Congenital Heart Defects",
-          "sourceFile": "brick",
-          "questionCount": 8
-        }
-      ]
-    },
-    {
-      "id": "overview-of-respiratory-physiology",
-      "name": "Overview of Respiratory Physiology",
-      "topics": [
-        {
-          "id": "overview-of-respiratory-physiology",
-          "name": "Overview of Respiratory Physiology",
-          "sourceFile": "brick",
-          "questionCount": 5
-        }
-      ]
-    },
-    {
-      "id": "oxygen-and-carbon-dioxide-transport",
-      "name": "Oxygen and Carbon Dioxide Transport",
-      "topics": [
-        {
-          "id": "oxygen-and-carbon-dioxide-transport",
-          "name": "Oxygen and Carbon Dioxide Transport",
-          "sourceFile": "brick",
-          "questionCount": 7
-        }
-      ]
-    },
-    {
-      "id": "pericardial-effusion-and-cardiac-tamponade",
-      "name": "Pericardial Effusion and Cardiac Tamponade",
-      "topics": [
-        {
-          "id": "pericardial-effusion-and-cardiac-tamponade",
-          "name": "Pericardial Effusion and Cardiac Tamponade",
+          "id": "coronary-blood-flow-vascular-physiology",
+          "name": "Coronary Blood Flow- Vascular Physiology",
           "sourceFile": "brick",
           "questionCount": 6
-        }
-      ]
-    },
-    {
-      "id": "peripheral-arterial-disease",
-      "name": "Peripheral Arterial Disease",
-      "topics": [
+        },
+        {
+          "id": "atherosclerosis",
+          "name": "Atherosclerosis",
+          "sourceFile": "brick",
+          "questionCount": 9
+        },
+        {
+          "id": "arterial-emboli",
+          "name": "Arterial Emboli",
+          "sourceFile": "brick",
+          "questionCount": 8
+        },
+        {
+          "id": "carotid-stenosis",
+          "name": "Carotid Stenosis",
+          "sourceFile": "brick",
+          "questionCount": 8
+        },
+        {
+          "id": "antiplatelet-drugs",
+          "name": "Antiplatelet Drugs",
+          "sourceFile": "brick",
+          "questionCount": 2
+        },
         {
           "id": "peripheral-arterial-disease",
           "name": "Peripheral Arterial Disease",
           "sourceFile": "brick",
           "questionCount": 7
         }
-      ]
+      ],
+      "week": 3,
+      "weekName": "Cardio · Week 3",
+      "weekSubtitle": ""
     },
     {
-      "id": "physiology-of-heart-failure",
-      "name": "Physiology of Heart Failure",
+      "id": "cardio_w3s2",
+      "name": "Session 2",
       "topics": [
         {
-          "id": "physiology-of-heart-failure",
-          "name": "Physiology of Heart Failure",
-          "sourceFile": "brick",
-          "questionCount": 8
-        }
-      ]
-    },
-    {
-      "id": "physiology-alveolar-gas-exchange-and-diffusion-2-of-2",
-      "name": "Physiology- Alveolar Gas exchange and Diffusion 2 of 2",
-      "topics": [
-        {
-          "id": "physiology-alveolar-gas-exchange-and-diffusion-2-of-2",
-          "name": "Physiology- Alveolar Gas exchange and Diffusion 2 of 2",
-          "sourceFile": "brick",
-          "questionCount": 9
-        }
-      ]
-    },
-    {
-      "id": "physiology-mechanics-and-pressures-of-breathing",
-      "name": "Physiology: Mechanics and pressures of breathing",
-      "topics": [
-        {
-          "id": "physiology-mechanics-and-pressures-of-breathing",
-          "name": "Physiology: Mechanics and pressures of breathing",
+          "id": "angina-pectoris",
+          "name": "Angina Pectoris",
           "sourceFile": "brick",
           "questionCount": 7
-        }
-      ]
-    },
-    {
-      "id": "pleural-effusion",
-      "name": "Pleural Effusion",
-      "topics": [
+        },
         {
-          "id": "pleural-effusion",
-          "name": "Pleural Effusion",
-          "sourceFile": "brick",
-          "questionCount": 11
-        }
-      ]
-    },
-    {
-      "id": "pneumoconioses",
-      "name": "Pneumoconioses",
-      "topics": [
-        {
-          "id": "pneumoconioses",
-          "name": "Pneumoconioses",
-          "sourceFile": "brick",
-          "questionCount": 7
-        }
-      ]
-    },
-    {
-      "id": "pneumothorax",
-      "name": "Pneumothorax",
-      "topics": [
-        {
-          "id": "pneumothorax",
-          "name": "Pneumothorax",
-          "sourceFile": "brick",
-          "questionCount": 14
-        }
-      ]
-    },
-    {
-      "id": "pressure-volume-pv-loops",
-      "name": "Pressure Volume (PV) Loops",
-      "topics": [
-        {
-          "id": "pressure-volume-pv-loops",
-          "name": "Pressure Volume (PV) Loops",
-          "sourceFile": "brick",
-          "questionCount": 7
-        }
-      ]
-    },
-    {
-      "id": "primary-essential-hypertension",
-      "name": "Primary (Essential) Hypertension",
-      "topics": [
-        {
-          "id": "primary-essential-hypertension",
-          "name": "Primary (Essential) Hypertension",
-          "sourceFile": "brick",
-          "questionCount": 3
-        }
-      ]
-    },
-    {
-      "id": "pulmonary-circulation",
-      "name": "Pulmonary Circulation",
-      "topics": [
-        {
-          "id": "pulmonary-circulation",
-          "name": "Pulmonary Circulation",
+          "id": "myocardial-infarction",
+          "name": "Myocardial Infarction",
           "sourceFile": "brick",
           "questionCount": 8
-        }
-      ]
-    },
-    {
-      "id": "pulmonary-function-tests-pft",
-      "name": "Pulmonary Function Tests (PFT)",
-      "topics": [
-        {
-          "id": "pulmonary-function-tests-pft",
-          "name": "Pulmonary Function Tests (PFT)",
-          "sourceFile": "brick",
-          "questionCount": 5
-        }
-      ]
-    },
-    {
-      "id": "pulmonary-ventilation-and-perfusion-v-q",
-      "name": "Pulmonary Ventilation and Perfusion (V Q)",
-      "topics": [
-        {
-          "id": "pulmonary-ventilation-and-perfusion-v-q",
-          "name": "Pulmonary Ventilation and Perfusion (V Q)",
-          "sourceFile": "brick",
-          "questionCount": 5
-        }
-      ]
-    },
-    {
-      "id": "respiratory-alkalosis",
-      "name": "Respiratory Alkalosis",
-      "topics": [
-        {
-          "id": "respiratory-alkalosis",
-          "name": "Respiratory Alkalosis",
-          "sourceFile": "brick",
-          "questionCount": 1
-        }
-      ]
-    },
-    {
-      "id": "respiratory-alveolar-ventilation-and-dead-space-1-of-2",
-      "name": "Respiratory: Alveolar ventilation and Dead space 1 of 2",
-      "topics": [
-        {
-          "id": "respiratory-alveolar-ventilation-and-dead-space-1-of-2",
-          "name": "Respiratory: Alveolar ventilation and Dead space 1 of 2",
-          "sourceFile": "brick",
-          "questionCount": 3
-        }
-      ]
-    },
-    {
-      "id": "respiratory-b-pertussis-and-c-diphtheriae",
-      "name": "Respiratory: B. pertussis and C. diphtheriae",
-      "topics": [
-        {
-          "id": "respiratory-b-pertussis-and-c-diphtheriae",
-          "name": "Respiratory: B. pertussis and C. diphtheriae",
-          "sourceFile": "brick",
-          "questionCount": 9
-        }
-      ]
-    },
-    {
-      "id": "respiratory-carbon-monoxide-co-poisoning-and-cyanide-cn-poisoning",
-      "name": "Respiratory: Carbon Monoxide (CO) Poisoning and Cyanide (CN) Poisoning",
-      "topics": [
-        {
-          "id": "respiratory-carbon-monoxide-co-poisoning-and-cyanide-cn-poisoning",
-          "name": "Respiratory: Carbon Monoxide (CO) Poisoning and Cyanide (CN) Poisoning",
-          "sourceFile": "brick",
-          "questionCount": 2
-        }
-      ]
-    },
-    {
-      "id": "restrictive-cardiomyopathy",
-      "name": "Restrictive Cardiomyopathy",
-      "topics": [
-        {
-          "id": "restrictive-cardiomyopathy",
-          "name": "Restrictive Cardiomyopathy",
-          "sourceFile": "brick",
-          "questionCount": 8
-        }
-      ]
-    },
-    {
-      "id": "sarcoidosis",
-      "name": "Sarcoidosis",
-      "topics": [
-        {
-          "id": "sarcoidosis",
-          "name": "Sarcoidosis",
-          "sourceFile": "brick",
-          "questionCount": 4
-        }
-      ]
-    },
-    {
-      "id": "secondary-hypertension",
-      "name": "Secondary Hypertension",
-      "topics": [
-        {
-          "id": "secondary-hypertension",
-          "name": "Secondary Hypertension",
-          "sourceFile": "brick",
-          "questionCount": 5
-        }
-      ]
-    },
-    {
-      "id": "shock",
-      "name": "Shock",
-      "topics": [
-        {
-          "id": "shock",
-          "name": "Shock",
-          "sourceFile": "brick",
-          "questionCount": 6
-        }
-      ]
-    },
-    {
-      "id": "sinus-bradycardia-and-related-disorders",
-      "name": "Sinus Bradycardia and Related Disorders",
-      "topics": [
-        {
-          "id": "sinus-bradycardia-and-related-disorders",
-          "name": "Sinus Bradycardia and Related Disorders",
-          "sourceFile": "brick",
-          "questionCount": 3
-        }
-      ]
-    },
-    {
-      "id": "sleep-apnea",
-      "name": "Sleep Apnea",
-      "topics": [
-        {
-          "id": "sleep-apnea",
-          "name": "Sleep Apnea",
-          "sourceFile": "brick",
-          "questionCount": 2
-        }
-      ]
-    },
-    {
-      "id": "small-vessel-vasculitis",
-      "name": "Small-Vessel Vasculitis",
-      "topics": [
-        {
-          "id": "small-vessel-vasculitis",
-          "name": "Small-Vessel Vasculitis",
-          "sourceFile": "brick",
-          "questionCount": 6
-        }
-      ]
-    },
-    {
-      "id": "st-segment-changes-recognition-and-localization-of-myocardial-ischemia",
-      "name": "ST Segment Changes: Recognition and Localization of Myocardial Ischemia",
-      "topics": [
+        },
         {
           "id": "st-segment-changes-recognition-and-localization-of-myocardial-ischemia",
           "name": "ST Segment Changes: Recognition and Localization of Myocardial Ischemia",
           "sourceFile": "brick",
           "questionCount": 9
         }
-      ]
+      ],
+      "week": 3,
+      "weekName": "Cardio · Week 3",
+      "weekSubtitle": ""
     },
     {
-      "id": "starling-forces",
-      "name": "Starling Forces",
-      "topics": [
-        {
-          "id": "starling-forces",
-          "name": "Starling Forces",
-          "sourceFile": "brick",
-          "questionCount": 9
-        }
-      ]
-    },
-    {
-      "id": "superficial-venous-disease",
-      "name": "Superficial Venous Disease",
-      "topics": [
-        {
-          "id": "superficial-venous-disease",
-          "name": "Superficial Venous Disease",
-          "sourceFile": "brick",
-          "questionCount": 10
-        }
-      ]
-    },
-    {
-      "id": "supraventricular-arrhythmias-pathophysiology-diagnosis-and-treatment",
-      "name": "Supraventricular Arrhythmias: Pathophysiology, Diagnosis, and Treatment",
-      "topics": [
-        {
-          "id": "supraventricular-arrhythmias-pathophysiology-diagnosis-and-treatment",
-          "name": "Supraventricular Arrhythmias: Pathophysiology, Diagnosis, and Treatment",
-          "sourceFile": "brick",
-          "questionCount": 5
-        }
-      ]
-    },
-    {
-      "id": "tobacco-smoking",
-      "name": "Tobacco Smoking",
-      "topics": [
-        {
-          "id": "tobacco-smoking",
-          "name": "Tobacco Smoking",
-          "sourceFile": "brick",
-          "questionCount": 4
-        }
-      ]
-    },
-    {
-      "id": "traumatic-injuries-and-other-disorders-of-the-chest-wall-pleura-mediastinum-and-lung",
-      "name": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
-      "topics": [
-        {
-          "id": "traumatic-injuries-and-other-disorders-of-the-chest-wall-pleura-mediastinum-and-lung",
-          "name": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
-          "sourceFile": "brick",
-          "questionCount": 7
-        }
-      ]
-    },
-    {
-      "id": "treatment-of-acute-coronary-syndrome-agents-and-interventions",
-      "name": "Treatment of Acute Coronary Syndrome - Agents and Interventions",
+      "id": "cardio_w3s3",
+      "name": "Session 3",
       "topics": [
         {
           "id": "treatment-of-acute-coronary-syndrome-agents-and-interventions",
           "name": "Treatment of Acute Coronary Syndrome - Agents and Interventions",
           "sourceFile": "brick",
           "questionCount": 5
-        }
-      ]
-    },
-    {
-      "id": "treatment-of-asthma-copd",
-      "name": "Treatment of Asthma & COPD",
-      "topics": [
+        },
         {
-          "id": "treatment-of-asthma-copd",
-          "name": "Treatment of Asthma & COPD",
+          "id": "deep-vein-thrombosis",
+          "name": "Deep Vein Thrombosis",
           "sourceFile": "brick",
-          "questionCount": 2
+          "questionCount": 10
+        },
+        {
+          "id": "doacs",
+          "name": "DOACs",
+          "sourceFile": "brick",
+          "questionCount": 1
+        },
+        {
+          "id": "superficial-venous-disease",
+          "name": "Superficial Venous Disease",
+          "sourceFile": "brick",
+          "questionCount": 10
         }
-      ]
+      ],
+      "week": 3,
+      "weekName": "Cardio · Week 3",
+      "weekSubtitle": ""
     },
     {
-      "id": "treatment-of-dyslipidemia",
-      "name": "Treatment of Dyslipidemia",
+      "id": "cardio_w4s1",
+      "name": "Session 1",
       "topics": [
         {
-          "id": "treatment-of-dyslipidemia",
-          "name": "Treatment of Dyslipidemia",
+          "id": "arrhythmias-pathophysiology-and-diagnosis",
+          "name": "Arrhythmias: Pathophysiology and Diagnosis",
+          "sourceFile": "brick",
+          "questionCount": 6
+        },
+        {
+          "id": "antiarrhythmic-agents-class-i-drugs",
+          "name": "Antiarrhythmic Agents - Class I Drugs",
+          "sourceFile": "brick",
+          "questionCount": 6
+        },
+        {
+          "id": "sinus-bradycardia-and-related-disorders",
+          "name": "Sinus Bradycardia and Related Disorders",
           "sourceFile": "brick",
           "questionCount": 3
         }
-      ]
+      ],
+      "week": 4,
+      "weekName": "Cardio · Week 4",
+      "weekSubtitle": ""
     },
     {
-      "id": "tricuspid-regurgitation-and-tricuspid-stenosis",
-      "name": "Tricuspid Regurgitation and Tricuspid Stenosis",
+      "id": "cardio_w4s2",
+      "name": "Session 2",
       "topics": [
         {
-          "id": "tricuspid-regurgitation-and-tricuspid-stenosis",
-          "name": "Tricuspid Regurgitation and Tricuspid Stenosis",
+          "id": "antiarrhythmic-agents-classes-ii-iv",
+          "name": "Antiarrhythmic Agents: Classes II-IV",
           "sourceFile": "brick",
-          "questionCount": 10
+          "questionCount": 3
+        },
+        {
+          "id": "atrial-fibrillation-pathophysiology-risk-factors-and-treatment",
+          "name": "Atrial Fibrillation: Pathophysiology, Risk Factors, and Treatment",
+          "sourceFile": "brick",
+          "questionCount": 4
+        },
+        {
+          "id": "supraventricular-arrhythmias-pathophysiology-diagnosis-and-treatment",
+          "name": "Supraventricular Arrhythmias: Pathophysiology, Diagnosis, and Treatment",
+          "sourceFile": "brick",
+          "questionCount": 5
         }
-      ]
+      ],
+      "week": 4,
+      "weekName": "Cardio · Week 4",
+      "weekSubtitle": ""
     },
     {
-      "id": "vasculature-and-lymphatics-of-the-heart",
-      "name": "Vasculature and Lymphatics of the Heart",
+      "id": "cardio_w4s3",
+      "name": "Session 3",
       "topics": [
         {
-          "id": "vasculature-and-lymphatics-of-the-heart",
-          "name": "Vasculature and Lymphatics of the Heart",
+          "id": "heart-blocks-pathophysiology-diagnosis-and-treatment",
+          "name": "Heart Blocks: Pathophysiology, Diagnosis and Treatment",
           "sourceFile": "brick",
-          "questionCount": 10
-        }
-      ]
-    },
-    {
-      "id": "ventricular-arrhythmias",
-      "name": "Ventricular Arrhythmias",
-      "topics": [
+          "questionCount": 4
+        },
         {
           "id": "ventricular-arrhythmias",
           "name": "Ventricular Arrhythmias",
           "sourceFile": "brick",
           "questionCount": 6
         }
-      ]
+      ],
+      "week": 4,
+      "weekName": "Cardio · Week 4",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "cardio_w5s1",
+      "name": "Session 1",
+      "topics": [
+        {
+          "id": "physiology-of-heart-failure",
+          "name": "Physiology of Heart Failure",
+          "sourceFile": "brick",
+          "questionCount": 8
+        },
+        {
+          "id": "edema",
+          "name": "Edema",
+          "sourceFile": "brick",
+          "questionCount": 6
+        },
+        {
+          "id": "diagnosis-of-heart-failure-from-clinical-presentation-to-classification",
+          "name": "Diagnosis of Heart Failure: From Clinical Presentation to Classification",
+          "sourceFile": "brick",
+          "questionCount": 4
+        },
+        {
+          "id": "management-of-chronic-heart-failure",
+          "name": "Management of Chronic Heart Failure",
+          "sourceFile": "brick",
+          "questionCount": 1
+        }
+      ],
+      "week": 5,
+      "weekName": "Cardio · Week 5",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "cardio_w5s2",
+      "name": "Session 2",
+      "topics": [
+        {
+          "id": "dilated-cardiomyopathy",
+          "name": "Dilated Cardiomyopathy",
+          "sourceFile": "brick",
+          "questionCount": 6
+        },
+        {
+          "id": "left-ventricular-hypertrophy-and-hypertrophic-cardiomyopathy",
+          "name": "Left Ventricular Hypertrophy and Hypertrophic Cardiomyopathy",
+          "sourceFile": "brick",
+          "questionCount": 9
+        },
+        {
+          "id": "restrictive-cardiomyopathy",
+          "name": "Restrictive Cardiomyopathy",
+          "sourceFile": "brick",
+          "questionCount": 8
+        },
+        {
+          "id": "arrhythmogenic-right-ventricular-cardiomyopathy",
+          "name": "Arrhythmogenic Right Ventricular Cardiomyopathy",
+          "sourceFile": "brick",
+          "questionCount": 9
+        },
+        {
+          "id": "cardiac-tumors",
+          "name": "Cardiac Tumors",
+          "sourceFile": "brick",
+          "questionCount": 8
+        }
+      ],
+      "week": 5,
+      "weekName": "Cardio · Week 5",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "cardio_w5s3",
+      "name": "Session 3",
+      "topics": [
+        {
+          "id": "aortic-stenosis",
+          "name": "Aortic Stenosis",
+          "sourceFile": "brick",
+          "questionCount": 8
+        },
+        {
+          "id": "aortic-regurgitation-and-pulmonary-valve-disease",
+          "name": "Aortic Regurgitation and Pulmonary Valve Disease",
+          "sourceFile": "brick",
+          "questionCount": 12
+        },
+        {
+          "id": "acute-rheumatic-fever-and-rheumatic-heart-disease",
+          "name": "Acute Rheumatic Fever and Rheumatic Heart Disease",
+          "sourceFile": "brick",
+          "questionCount": 6
+        },
+        {
+          "id": "mitral-regurgitation-and-mitral-valve-prolapse",
+          "name": "Mitral Regurgitation and Mitral Valve Prolapse",
+          "sourceFile": "brick",
+          "questionCount": 13
+        },
+        {
+          "id": "tricuspid-regurgitation-and-tricuspid-stenosis",
+          "name": "Tricuspid Regurgitation and Tricuspid Stenosis",
+          "sourceFile": "brick",
+          "questionCount": 10
+        },
+        {
+          "id": "mitral-stenosis",
+          "name": "Mitral Stenosis",
+          "sourceFile": "brick",
+          "questionCount": 8
+        }
+      ],
+      "week": 5,
+      "weekName": "Cardio · Week 5",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "cardio_w6s1",
+      "name": "Session 1",
+      "topics": [
+        {
+          "id": "infective-endocarditis",
+          "name": "Infective Endocarditis",
+          "sourceFile": "brick",
+          "questionCount": 9
+        },
+        {
+          "id": "nonbacterial-thrombotic-endocarditis",
+          "name": "Nonbacterial Thrombotic Endocarditis",
+          "sourceFile": "brick",
+          "questionCount": 3
+        },
+        {
+          "id": "acute-pericarditis",
+          "name": "Acute Pericarditis",
+          "sourceFile": "brick",
+          "questionCount": 8
+        },
+        {
+          "id": "constrictive-pericarditis",
+          "name": "Constrictive Pericarditis",
+          "sourceFile": "brick",
+          "questionCount": 4
+        },
+        {
+          "id": "shock",
+          "name": "Shock",
+          "sourceFile": "brick",
+          "questionCount": 6
+        },
+        {
+          "id": "management-of-shock",
+          "name": "Management of Shock",
+          "sourceFile": "brick",
+          "questionCount": 4
+        },
+        {
+          "id": "pericardial-effusion-and-cardiac-tamponade",
+          "name": "Pericardial Effusion and Cardiac Tamponade",
+          "sourceFile": "brick",
+          "questionCount": 6
+        }
+      ],
+      "week": 6,
+      "weekName": "Cardio · Week 6",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "cardio_w6s2",
+      "name": "Session 2",
+      "topics": [
+        {
+          "id": "development-of-the-aortic-arches",
+          "name": "Development of the Aortic Arches",
+          "sourceFile": "brick",
+          "questionCount": 10
+        },
+        {
+          "id": "congenital-heart-defects-foundations-and-frameworks",
+          "name": "Congenital Heart Defects: Foundations and Frameworks",
+          "sourceFile": "brick",
+          "questionCount": 7
+        },
+        {
+          "id": "obstructive-congenital-heart-defects",
+          "name": "Obstructive Congenital Heart Defects",
+          "sourceFile": "brick",
+          "questionCount": 8
+        },
+        {
+          "id": "acyanotic-congenital-heart-defects-left-to-right-shunts",
+          "name": "Acyanotic Congenital Heart Defects (Left-to-Right Shunts)",
+          "sourceFile": "brick",
+          "questionCount": 13
+        },
+        {
+          "id": "cyanotic-congenital-heart-defects-right-to-left-shunts",
+          "name": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+          "sourceFile": "brick",
+          "questionCount": 12
+        }
+      ],
+      "week": 6,
+      "weekName": "Cardio · Week 6",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "resp_w1s1",
+      "name": "Session 1",
+      "topics": [
+        {
+          "id": "histology-of-the-respiratory-tract",
+          "name": "Histology of the Respiratory Tract",
+          "sourceFile": "brick",
+          "questionCount": 15
+        },
+        {
+          "id": "development-of-the-respiratory-tract",
+          "name": "Development of the Respiratory Tract",
+          "sourceFile": "brick",
+          "questionCount": 7
+        },
+        {
+          "id": "anatomy-of-the-upper-respiratory-tract",
+          "name": "Anatomy of the Upper Respiratory Tract",
+          "sourceFile": "brick",
+          "questionCount": 29
+        },
+        {
+          "id": "anatomy-of-the-lower-respiratory-tract",
+          "name": "Anatomy of the Lower Respiratory Tract",
+          "sourceFile": "brick",
+          "questionCount": 11
+        },
+        {
+          "id": "anatomy-of-the-diaphragm-ribs-and-intercostal-muscles",
+          "name": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+          "sourceFile": "brick",
+          "questionCount": 13
+        }
+      ],
+      "week": 101,
+      "weekName": "Resp · Week 1",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "resp_w1s2",
+      "name": "Session 2",
+      "topics": [
+        {
+          "id": "overview-of-respiratory-physiology",
+          "name": "Overview of Respiratory Physiology",
+          "sourceFile": "brick",
+          "questionCount": 5
+        },
+        {
+          "id": "physiology-mechanics-and-pressures-of-breathing",
+          "name": "Physiology: Mechanics and pressures of breathing",
+          "sourceFile": "brick",
+          "questionCount": 7
+        },
+        {
+          "id": "respiratory-alveolar-ventilation-and-dead-space-1-of-2",
+          "name": "Respiratory: Alveolar ventilation and Dead space 1 of 2",
+          "sourceFile": "brick",
+          "questionCount": 3
+        },
+        {
+          "id": "physiology-alveolar-gas-exchange-and-diffusion-2-of-2",
+          "name": "Physiology- Alveolar Gas exchange and Diffusion 2 of 2",
+          "sourceFile": "brick",
+          "questionCount": 9
+        }
+      ],
+      "week": 101,
+      "weekName": "Resp · Week 1",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "resp_w1s3",
+      "name": "Session 3",
+      "topics": [
+        {
+          "id": "pulmonary-circulation",
+          "name": "Pulmonary Circulation",
+          "sourceFile": "brick",
+          "questionCount": 8
+        },
+        {
+          "id": "oxygen-and-carbon-dioxide-transport",
+          "name": "Oxygen and Carbon Dioxide Transport",
+          "sourceFile": "brick",
+          "questionCount": 7
+        },
+        {
+          "id": "respiratory-alkalosis",
+          "name": "Respiratory Alkalosis",
+          "sourceFile": "brick",
+          "questionCount": 1
+        },
+        {
+          "id": "respiratory-carbon-monoxide-co-poisoning-and-cyanide-cn-poisoning",
+          "name": "Respiratory: Carbon Monoxide (CO) Poisoning and Cyanide (CN) Poisoning",
+          "sourceFile": "brick",
+          "questionCount": 2
+        }
+      ],
+      "week": 101,
+      "weekName": "Resp · Week 1",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "resp_w2s1",
+      "name": "Session 1",
+      "topics": [
+        {
+          "id": "control-of-ventilation-and-effects-of-altitude-and-exercise",
+          "name": "Control of Ventilation and Effects of Altitude and Exercise",
+          "sourceFile": "brick",
+          "questionCount": 10
+        },
+        {
+          "id": "airway-resistance",
+          "name": "Airway Resistance",
+          "sourceFile": "brick",
+          "questionCount": 8
+        },
+        {
+          "id": "pulmonary-function-tests-pft",
+          "name": "Pulmonary Function Tests (PFT)",
+          "sourceFile": "brick",
+          "questionCount": 5
+        },
+        {
+          "id": "pulmonary-ventilation-and-perfusion-v-q",
+          "name": "Pulmonary Ventilation and Perfusion (V Q)",
+          "sourceFile": "brick",
+          "questionCount": 5
+        },
+        {
+          "id": "hypoxemia",
+          "name": "Hypoxemia",
+          "sourceFile": "brick",
+          "questionCount": 4
+        },
+        {
+          "id": "hypercapnia",
+          "name": "Hypercapnia",
+          "sourceFile": "brick",
+          "questionCount": 4
+        }
+      ],
+      "week": 102,
+      "weekName": "Resp · Week 2",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "resp_w2s2",
+      "name": "Session 2",
+      "topics": [
+        {
+          "id": "obstructive-and-restrictive-lung-diseases-foundations-and-frameworks",
+          "name": "Obstructive and Restrictive Lung Diseases: Foundations and Frameworks",
+          "sourceFile": "brick",
+          "questionCount": 3
+        },
+        {
+          "id": "tobacco-smoking",
+          "name": "Tobacco Smoking",
+          "sourceFile": "brick",
+          "questionCount": 4
+        },
+        {
+          "id": "chronic-obstructive-pulmonary-disease-part-1-pathophysiology",
+          "name": "Chronic Obstructive Pulmonary Disease Part 1: Pathophysiology",
+          "sourceFile": "brick",
+          "questionCount": 7
+        },
+        {
+          "id": "chronic-obstructive-pulmonary-disease-part-2-clinical-presentation-diagnosis-and-management",
+          "name": "Chronic Obstructive Pulmonary Disease Part 2: Clinical Presentation, Diagnosis, and Management",
+          "sourceFile": "brick",
+          "questionCount": 3
+        },
+        {
+          "id": "asthma",
+          "name": "Asthma",
+          "sourceFile": "brick",
+          "questionCount": 5
+        },
+        {
+          "id": "treatment-of-asthma-copd",
+          "name": "Treatment of Asthma & COPD",
+          "sourceFile": "brick",
+          "questionCount": 2
+        }
+      ],
+      "week": 102,
+      "weekName": "Resp · Week 2",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "resp_w2s3",
+      "name": "Session 3",
+      "topics": [
+        {
+          "id": "bronchiectasis",
+          "name": "Bronchiectasis",
+          "sourceFile": "brick",
+          "questionCount": 5
+        },
+        {
+          "id": "cystic-fibrosis-1-of-2",
+          "name": "Cystic Fibrosis (1 of 2)",
+          "sourceFile": "brick",
+          "questionCount": 3
+        },
+        {
+          "id": "cystic-fibrosis-2-of-2",
+          "name": "Cystic Fibrosis (2 of 2)",
+          "sourceFile": "brick",
+          "questionCount": 1
+        },
+        {
+          "id": "inflammatory-disorders-of-the-pharynx-larynx-and-trachea",
+          "name": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
+          "sourceFile": "brick",
+          "questionCount": 6
+        },
+        {
+          "id": "respiratory-b-pertussis-and-c-diphtheriae",
+          "name": "Respiratory: B. pertussis and C. diphtheriae",
+          "sourceFile": "brick",
+          "questionCount": 9
+        },
+        {
+          "id": "inflammatory-disorders-of-the-nasal-cavities-and-sinuses",
+          "name": "Inflammatory Disorders of the Nasal Cavities and Sinuses",
+          "sourceFile": "brick",
+          "questionCount": 5
+        }
+      ],
+      "week": 102,
+      "weekName": "Resp · Week 2",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "resp_w3s1",
+      "name": "Session 1",
+      "topics": [
+        {
+          "id": "interstitial-lung-disease-foundations-and-frameworks",
+          "name": "Interstitial Lung Disease: Foundations and Frameworks",
+          "sourceFile": "brick",
+          "questionCount": 5
+        },
+        {
+          "id": "hypersensitivity-pneumonitis",
+          "name": "Hypersensitivity Pneumonitis",
+          "sourceFile": "brick",
+          "questionCount": 4
+        },
+        {
+          "id": "idiopathic-pulmonary-fibrosis",
+          "name": "Idiopathic Pulmonary Fibrosis",
+          "sourceFile": "brick",
+          "questionCount": 7
+        },
+        {
+          "id": "pneumoconioses",
+          "name": "Pneumoconioses",
+          "sourceFile": "brick",
+          "questionCount": 7
+        },
+        {
+          "id": "sarcoidosis",
+          "name": "Sarcoidosis",
+          "sourceFile": "brick",
+          "questionCount": 4
+        },
+        {
+          "id": "autoimmune-diseases-with-respiratory-manifestations",
+          "name": "Autoimmune Diseases with Respiratory Manifestations",
+          "sourceFile": "brick",
+          "questionCount": 6
+        }
+      ],
+      "week": 103,
+      "weekName": "Resp · Week 3",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "resp_w3s2",
+      "name": "Session 2",
+      "topics": [
+        {
+          "id": "pleural-effusion",
+          "name": "Pleural Effusion",
+          "sourceFile": "brick",
+          "questionCount": 11
+        },
+        {
+          "id": "pneumothorax",
+          "name": "Pneumothorax",
+          "sourceFile": "brick",
+          "questionCount": 14
+        },
+        {
+          "id": "mesothelioma",
+          "name": "Mesothelioma",
+          "sourceFile": "brick",
+          "questionCount": 7
+        }
+      ],
+      "week": 103,
+      "weekName": "Resp · Week 3",
+      "weekSubtitle": ""
+    },
+    {
+      "id": "resp_w3s3",
+      "name": "Session 3",
+      "topics": [
+        {
+          "id": "traumatic-injuries-and-other-disorders-of-the-chest-wall-pleura-mediastinum-and-lung",
+          "name": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+          "sourceFile": "brick",
+          "questionCount": 7
+        },
+        {
+          "id": "acute-respiratory-distress-syndrome",
+          "name": "Acute Respiratory Distress Syndrome",
+          "sourceFile": "brick",
+          "questionCount": 3
+        },
+        {
+          "id": "neonatal-respiratory-distress-syndrome",
+          "name": "Neonatal Respiratory Distress Syndrome",
+          "sourceFile": "brick",
+          "questionCount": 8
+        },
+        {
+          "id": "sleep-apnea",
+          "name": "Sleep Apnea",
+          "sourceFile": "brick",
+          "questionCount": 2
+        }
+      ],
+      "week": 103,
+      "weekName": "Resp · Week 3",
+      "weekSubtitle": ""
     }
   ],
   "totalQuestions": 888

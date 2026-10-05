@@ -1,0 +1,747 @@
+{
+  "categoryId": "cardio_w5s1",
+  "categoryName": "Session 1",
+  "questions": [
+    {
+      "id": "repic-544",
+      "topicId": "physiology-of-heart-failure",
+      "topicName": "Physiology of Heart Failure",
+      "stem": "The right-hand heart shows a thickened wall and septum with a smaller left-sided cavity compared with the normal heart on the left. What hemodynamic stress most commonly drives this remodeling pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A pericardial effusion compressing the ventricle"
+        },
+        {
+          "label": "B",
+          "text": "Chronic volume overload from mitral regurgitation"
+        },
+        {
+          "label": "C",
+          "text": "Chronic pressure overload"
+        },
+        {
+          "label": "D",
+          "text": "A left-to-right atrial septal shunt"
+        },
+        {
+          "label": "E",
+          "text": "An acute myocardial infarction with wall thinning"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Concentric left ventricular hypertrophy, with a thickened wall and reduced cavity size, is the classic adaptation to chronic pressure overload; sarcomeres added in parallel increase wall thickness to normalize wall stress.",
+        "whyCorrect": "Concentric left ventricular hypertrophy, with a thickened wall and reduced cavity size, is the classic adaptation to chronic pressure overload; sarcomeres added in parallel increase wall thickness to normalize wall stress.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-544_Brick Exchange - Physiology of Heart Failure_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-545",
+      "topicId": "physiology-of-heart-failure",
+      "topicName": "Physiology of Heart Failure",
+      "stem": "Compared with the normal heart, the right-hand heart shows all four chambers enlarged with a thinned ventricular wall. What is the principal functional consequence of this remodeling?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Obstruction of left ventricular outflow"
+        },
+        {
+          "label": "B",
+          "text": "Enhanced stroke volume from improved preload reserve"
+        },
+        {
+          "label": "C",
+          "text": "Impaired relaxation with preserved ejection fraction"
+        },
+        {
+          "label": "D",
+          "text": "Reduced contractility and systolic dysfunction"
+        },
+        {
+          "label": "E",
+          "text": "Increased wall thickness raising diastolic filling pressures"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Dilated cardiomyopathy features four-chamber enlargement and wall thinning; the dilated, weakened ventricle contracts poorly, lowering stroke volume and ejection fraction, the hallmark of systolic heart failure.",
+        "whyCorrect": "Dilated cardiomyopathy features four-chamber enlargement and wall thinning; the dilated, weakened ventricle contracts poorly, lowering stroke volume and ejection fraction, the hallmark of systolic heart failure.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-545_Brick Exchange - Physiology of Heart Failure_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-809",
+      "topicId": "physiology-of-heart-failure",
+      "topicName": "Physiology of Heart Failure",
+      "stem": "This flow diagram begins with reduced LV contractility and traces the body's compensatory loops. What is the long-term detrimental consequence of these neurohormonal responses?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Suppression of the renin-angiotensin-aldosterone system"
+        },
+        {
+          "label": "B",
+          "text": "Permanent normalization of cardiac output"
+        },
+        {
+          "label": "C",
+          "text": "Reduced sympathetic tone causing chronic bradycardia"
+        },
+        {
+          "label": "D",
+          "text": "Progressive loss of circulating blood volume leading to dehydration"
+        },
+        {
+          "label": "E",
+          "text": "Sustained fluid retention and increased preload/afterload"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Falling cardiac output activates RAAS and the sympathetic system, boosting sodium/water reabsorption, venous pressure, preload and heart rate; while acutely supportive, chronic activation raises workload and volume overload, accelerating heart-failure progression.",
+        "whyCorrect": "Falling cardiac output activates RAAS and the sympathetic system, boosting sodium/water reabsorption, venous pressure, preload and heart rate; while acutely supportive, chronic activation raises workload and volume overload, accelerating heart-failure progression.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-809_Brick Exchange - Physiology of Heart Failure_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-810",
+      "topicId": "physiology-of-heart-failure",
+      "topicName": "Physiology of Heart Failure",
+      "stem": "In this pressure-volume loop, the shaded loop is shifted relative to the normal loop with a downward-shifted end-systolic pressure-volume relationship. What does this indicate about ventricular function?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reduced contractility with a larger end-systolic volume and decreased stroke volume"
+        },
+        {
+          "label": "B",
+          "text": "Increased stroke volume from enhanced preload reserve"
+        },
+        {
+          "label": "C",
+          "text": "Impaired relaxation with a steep end-diastolic pressure curve and normal contractility"
+        },
+        {
+          "label": "D",
+          "text": "Normal systolic function with isolated valvular regurgitation"
+        },
+        {
+          "label": "E",
+          "text": "Increased contractility with a smaller end-systolic volume"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A depressed ESPVR reflects reduced contractility; the ventricle empties less completely, end-systolic volume rises, and stroke volume falls, the hallmark of systolic (reduced ejection fraction) heart failure.",
+        "whyCorrect": "A depressed ESPVR reflects reduced contractility; the ventricle empties less completely, end-systolic volume rises, and stroke volume falls, the hallmark of systolic (reduced ejection fraction) heart failure.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-810_Brick Exchange - Physiology of Heart Failure_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-811",
+      "topicId": "physiology-of-heart-failure",
+      "topicName": "Physiology of Heart Failure",
+      "stem": "This pressure-volume loop shows a taller, narrower shaded loop with an upward-shifted end-diastolic pressure-volume relationship compared to normal. What mechanism does it illustrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Enhanced compliance allowing greater diastolic filling"
+        },
+        {
+          "label": "B",
+          "text": "Chronic volume overload with an enlarged end-diastolic volume"
+        },
+        {
+          "label": "C",
+          "text": "Acute mitral regurgitation lowering afterload"
+        },
+        {
+          "label": "D",
+          "text": "A stiff, poorly compliant ventricle that fills at higher pressures"
+        },
+        {
+          "label": "E",
+          "text": "A dilated ventricle with depressed contractility and low ejection fraction"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "An elevated EDPVR indicates increased diastolic stiffness; the ventricle requires higher filling pressures for a given volume, so end-diastolic volume and stroke volume shrink, characterizing diastolic (preserved ejection fraction) heart failure.",
+        "whyCorrect": "An elevated EDPVR indicates increased diastolic stiffness; the ventricle requires higher filling pressures for a given volume, so end-diastolic volume and stroke volume shrink, characterizing diastolic (preserved ejection fraction) heart failure.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-811_Brick Exchange - Physiology of Heart Failure_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-812",
+      "topicId": "physiology-of-heart-failure",
+      "topicName": "Physiology of Heart Failure",
+      "stem": "The diagram links how sarcomeres are added (in parallel vs in series) to two remodeling patterns of the ventricle. Which pairing is correct?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Parallel addition thins the wall; series addition thickens it without chamber change"
+        },
+        {
+          "label": "B",
+          "text": "Both parallel and series addition produce concentric hypertrophy"
+        },
+        {
+          "label": "C",
+          "text": "Sarcomeres added in parallel produce concentric hypertrophy; sarcomeres added in series produce eccentric hypertrophy"
+        },
+        {
+          "label": "D",
+          "text": "Neither pattern changes chamber geometry, only wall thickness"
+        },
+        {
+          "label": "E",
+          "text": "Sarcomeres in parallel produce eccentric hypertrophy; in series produce concentric hypertrophy"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Pressure overload adds sarcomeres in parallel, thickening the wall (concentric hypertrophy), whereas volume overload adds sarcomeres in series, lengthening myocytes and dilating the chamber (eccentric hypertrophy).",
+        "whyCorrect": "Pressure overload adds sarcomeres in parallel, thickening the wall (concentric hypertrophy), whereas volume overload adds sarcomeres in series, lengthening myocytes and dilating the chamber (eccentric hypertrophy).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-812_Brick Exchange - Physiology of Heart Failure_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-813",
+      "topicId": "physiology-of-heart-failure",
+      "topicName": "Physiology of Heart Failure",
+      "stem": "Using the wall-stress relationship shown (stress = P x r / 2h), how does the ventricle normalize wall stress in response to chronic pressure overload versus volume overload?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Wall stress is independent of chamber radius, so only pressure matters"
+        },
+        {
+          "label": "B",
+          "text": "Pressure overload thickens the wall; volume overload increases radius, requiring added wall thickness to normalize stress"
+        },
+        {
+          "label": "C",
+          "text": "Both overloads reduce wall thickness to lower stress"
+        },
+        {
+          "label": "D",
+          "text": "Increasing wall thickness always raises wall stress"
+        },
+        {
+          "label": "E",
+          "text": "Pressure overload increases radius while volume overload thickens the wall"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "By Laplace's law, wall stress rises with pressure and radius and falls with wall thickness. Pressure overload adds thickness (concentric), while volume overload dilates the chamber (eccentric); in both cases increasing h helps normalize wall stress.",
+        "whyCorrect": "By Laplace's law, wall stress rises with pressure and radius and falls with wall thickness. Pressure overload adds thickness (concentric), while volume overload dilates the chamber (eccentric); in both cases increasing h helps normalize wall stress.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-813_Brick Exchange - Physiology of Heart Failure_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-814",
+      "topicId": "physiology-of-heart-failure",
+      "topicName": "Physiology of Heart Failure",
+      "stem": "On this curve relating stroke volume to ventricular end-diastolic volume, sarcomere cartoons show stretch increasing until a plateau. What accounts for the rising portion of the curve?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sympathetic stimulation directly raises contractility independent of filling"
+        },
+        {
+          "label": "B",
+          "text": "Coronary vasodilation increases oxygen delivery to myocytes"
+        },
+        {
+          "label": "C",
+          "text": "Greater diastolic stretch improves actin-myosin overlap"
+        },
+        {
+          "label": "D",
+          "text": "Reduced afterload allows more complete emptying"
+        },
+        {
+          "label": "E",
+          "text": "Increased heart rate shortens filling time and raises output"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The Frank-Starling mechanism: increasing end-diastolic volume stretches sarcomeres toward their optimal length, enhancing cross-bridge overlap and contractile force; beyond the optimum (or with LV dysfunction) the curve plateaus or declines.",
+        "whyCorrect": "The Frank-Starling mechanism: increasing end-diastolic volume stretches sarcomeres toward their optimal length, enhancing cross-bridge overlap and contractile force; beyond the optimum (or with LV dysfunction) the curve plateaus or declines.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-814_Brick Exchange - Physiology of Heart Failure_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-487",
+      "topicId": "edema",
+      "topicName": "Edema",
+      "stem": "This patient has a markedly distended abdomen with a tense, fluid-filled contour and dilated superficial veins. In the context of fluid overload, what does this most likely represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ascites"
+        },
+        {
+          "label": "B",
+          "text": "A large abdominal wall lipoma"
+        },
+        {
+          "label": "C",
+          "text": "Massive splenomegaly alone"
+        },
+        {
+          "label": "D",
+          "text": "An incarcerated umbilical hernia"
+        },
+        {
+          "label": "E",
+          "text": "Diffuse subcutaneous emphysema"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Ascites is the pathological accumulation of fluid within the peritoneal cavity, most often from portal hypertension (cirrhosis) or heart failure. The tense distension and visible collateral veins reflect the same imbalance in Starling forces and sodium retention that drives peripheral edema.",
+        "whyCorrect": "Ascites is the pathological accumulation of fluid within the peritoneal cavity, most often from portal hypertension (cirrhosis) or heart failure. The tense distension and visible collateral veins reflect the same imbalance in Starling forces and sodium retention that drives peripheral edema.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-487_Brick Exchange - Edema_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-488",
+      "topicId": "edema",
+      "topicName": "Edema",
+      "stem": "In the left panel a fingertip has been pressed into this swollen lower leg, leaving a persistent indentation seen in the right panel. What physical finding does this demonstrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pitting edema"
+        },
+        {
+          "label": "B",
+          "text": "Cellulitis"
+        },
+        {
+          "label": "C",
+          "text": "Chronic lipedema"
+        },
+        {
+          "label": "D",
+          "text": "Non-pitting myxedema"
+        },
+        {
+          "label": "E",
+          "text": "Deep vein thrombosis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Pressure that displaces interstitial fluid and leaves a lingering pit indicates pitting edema, typical of fluid overload from heart failure, hypoalbuminemia, or venous insufficiency. Non-pitting swelling (myxedema, chronic lymphedema) does not retain the indentation.",
+        "whyCorrect": "Pressure that displaces interstitial fluid and leaves a lingering pit indicates pitting edema, typical of fluid overload from heart failure, hypoalbuminemia, or venous insufficiency. Non-pitting swelling (myxedema, chronic lymphedema) does not retain the indentation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-488_Brick Exchange - Edema_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-724",
+      "topicId": "edema",
+      "topicName": "Edema",
+      "stem": "This capillary-bed schematic maps the Starling forces and disease processes that cause edema. Through what direct effect does an increase in capillary hydrostatic pressure promote edema?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It reduces capillary wall permeability to plasma proteins"
+        },
+        {
+          "label": "B",
+          "text": "It increases lymphatic drainage of the interstitial space"
+        },
+        {
+          "label": "C",
+          "text": "It raises plasma oncotic pressure, pulling fluid back into the capillary"
+        },
+        {
+          "label": "D",
+          "text": "It shifts fluid from the interstitium into the intracellular compartment"
+        },
+        {
+          "label": "E",
+          "text": "It increases the outward force driving fluid from the capillary"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Capillary hydrostatic pressure pushes fluid out of the vessel. When it rises (e.g., in heart failure, venous obstruction, or cirrhosis) the outward filtration exceeds reabsorption and lymphatic clearance, so fluid accumulates in the interstitium as edema.",
+        "whyCorrect": "Capillary hydrostatic pressure pushes fluid out of the vessel. When it rises (e.g., in heart failure, venous obstruction, or cirrhosis) the outward filtration exceeds reabsorption and lymphatic clearance, so fluid accumulates in the interstitium as edema.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-724_Brick Exchange - Edema_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-725",
+      "topicId": "edema",
+      "topicName": "Edema",
+      "stem": "This diagram partitions a 70 kg body into total body water and non-water mass, then subdivides body water into extracellular and intracellular fractions. Which fluid compartment holds the largest volume of water?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The plasma compartment"
+        },
+        {
+          "label": "B",
+          "text": "The total non-water mass"
+        },
+        {
+          "label": "C",
+          "text": "The intracellular fluid compartment"
+        },
+        {
+          "label": "D",
+          "text": "The transcellular fluid compartment"
+        },
+        {
+          "label": "E",
+          "text": "The interstitial fluid compartment"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Total body water is about 60% of body mass. Two-thirds of it is intracellular (~28 L in a 70 kg person) and one-third extracellular; the extracellular fraction is further split into interstitial fluid (~75%) and plasma (~25%), so the ICF is by far the largest single compartment.",
+        "whyCorrect": "Total body water is about 60% of body mass. Two-thirds of it is intracellular (~28 L in a 70 kg person) and one-third extracellular; the extracellular fraction is further split into interstitial fluid (~75%) and plasma (~25%), so the ICF is by far the largest single compartment.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-725_Brick Exchange - Edema_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-726",
+      "topicId": "edema",
+      "topicName": "Edema",
+      "stem": "This diagram shows four arrows acting across a capillary wall, labeled Pc, Pi, and the oncotic pressures. Which of these forces favors movement of fluid OUT of the capillary into the interstitium?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Capillary (plasma) oncotic pressure"
+        },
+        {
+          "label": "B",
+          "text": "Interstitial hydrostatic pressure when positive"
+        },
+        {
+          "label": "C",
+          "text": "Interstitial oncotic pressure acting to reabsorb fluid"
+        },
+        {
+          "label": "D",
+          "text": "Plasma colloid osmotic pressure"
+        },
+        {
+          "label": "E",
+          "text": "Capillary hydrostatic pressure (Pc)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "By Starling's principle, capillary hydrostatic pressure (Pc) is the dominant force pushing fluid out of the vessel, while plasma (capillary) oncotic pressure pulls fluid back in. Net filtration reflects the balance of these opposing hydrostatic and oncotic forces.",
+        "whyCorrect": "By Starling's principle, capillary hydrostatic pressure (Pc) is the dominant force pushing fluid out of the vessel, while plasma (capillary) oncotic pressure pulls fluid back in. Net filtration reflects the balance of these opposing hydrostatic and oncotic forces.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-726_Brick Exchange - Edema_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-727",
+      "topicId": "edema",
+      "topicName": "Edema",
+      "stem": "This microcirculation schematic shows an arteriole feeding a capillary bed that drains into a venule, alongside a separate network of green lymphatic capillaries. What is the principal function of that green lymphatic network?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "To collect excess interstitial fluid"
+        },
+        {
+          "label": "B",
+          "text": "To directly connect arterioles to venules, bypassing the capillaries"
+        },
+        {
+          "label": "C",
+          "text": "To secrete plasma proteins into the interstitium"
+        },
+        {
+          "label": "D",
+          "text": "To deliver oxygenated blood to the capillary bed"
+        },
+        {
+          "label": "E",
+          "text": "To generate the capillary hydrostatic pressure that drives filtration"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Lymphatic capillaries drain the small excess of fluid and protein that filters out of the blood capillaries into the interstitium, returning it to the venous system. When lymphatic drainage is overwhelmed or obstructed, that fluid accumulates as edema.",
+        "whyCorrect": "Lymphatic capillaries drain the small excess of fluid and protein that filters out of the blood capillaries into the interstitium, returning it to the venous system. When lymphatic drainage is overwhelmed or obstructed, that fluid accumulates as edema.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-727_Brick Exchange - Edema_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-264",
+      "topicId": "diagnosis-of-heart-failure-from-clinical-presentation-to-classification",
+      "topicName": "Diagnosis of Heart Failure: From Clinical Presentation to Classification",
+      "stem": "The 12-lead ECG shows tall R waves over the lateral/left-sided leads with a leftward-directed depolarization vector. What does this pattern indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Left atrial enlargement"
+        },
+        {
+          "label": "B",
+          "text": "Acute inferior myocardial infarction"
+        },
+        {
+          "label": "C",
+          "text": "Left ventricular hypertrophy"
+        },
+        {
+          "label": "D",
+          "text": "Right ventricular hypertrophy"
+        },
+        {
+          "label": "E",
+          "text": "Right bundle branch block"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Increased left ventricular muscle mass amplifies the leftward QRS vector, producing tall R waves in leads I, aVL, and V5-V6 with deep S waves in V1-V2, the hallmark of LVH.",
+        "whyCorrect": "Increased left ventricular muscle mass amplifies the leftward QRS vector, producing tall R waves in leads I, aVL, and V5-V6 with deep S waves in V1-V2, the hallmark of LVH.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-264_Brick Exchange - Diagnosis of Heart Failure_ From Clinical Presentation to Classification_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-481",
+      "topicId": "diagnosis-of-heart-failure-from-clinical-presentation-to-classification",
+      "topicName": "Diagnosis of Heart Failure: From Clinical Presentation to Classification",
+      "stem": "This chest radiograph shows bilateral diffuse perihilar airspace and interstitial opacities in a patient with heart failure. What do these opacities represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Diffuse pulmonary fibrosis"
+        },
+        {
+          "label": "B",
+          "text": "Large bilateral pleural effusions only"
+        },
+        {
+          "label": "C",
+          "text": "Bilateral lobar pneumonia"
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary edema"
+        },
+        {
+          "label": "E",
+          "text": "Metastatic lung nodules"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The symmetric bilateral hazy opacities radiating from the hila indicate pulmonary edema, fluid extravasated into the interstitium and alveoli from elevated pulmonary venous pressure in decompensated heart failure.",
+        "whyCorrect": "The symmetric bilateral hazy opacities radiating from the hila indicate pulmonary edema, fluid extravasated into the interstitium and alveoli from elevated pulmonary venous pressure in decompensated heart failure.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-481_Brick Exchange - Diagnosis of Heart Failure_ From Clinical Presentation to Classification_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-720",
+      "topicId": "diagnosis-of-heart-failure-from-clinical-presentation-to-classification",
+      "topicName": "Diagnosis of Heart Failure: From Clinical Presentation to Classification",
+      "stem": "This constellation of clinical findings (orthopnea, paroxysmal nocturnal dyspnea, pulmonary congestion with crackles and blood-tinged sputum) is most characteristic of which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Constrictive pericarditis"
+        },
+        {
+          "label": "B",
+          "text": "Pulmonary embolism"
+        },
+        {
+          "label": "C",
+          "text": "Left-sided heart failure"
+        },
+        {
+          "label": "D",
+          "text": "Right-sided heart failure"
+        },
+        {
+          "label": "E",
+          "text": "Cardiac tamponade"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The predominant symptoms reflect pulmonary venous congestion from the left ventricle failing to forward blood, producing dyspnea, orthopnea, PND, crackles, and pink frothy sputum.",
+        "whyCorrect": "The predominant symptoms reflect pulmonary venous congestion from the left ventricle failing to forward blood, producing dyspnea, orthopnea, PND, crackles, and pink frothy sputum.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-720_Brick Exchange - Diagnosis of Heart Failure_ From Clinical Presentation to Classification_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-721",
+      "topicId": "diagnosis-of-heart-failure-from-clinical-presentation-to-classification",
+      "topicName": "Diagnosis of Heart Failure: From Clinical Presentation to Classification",
+      "stem": "Dependent edema, hepatomegaly, ascites, a dilated jugular vein, and raised peripheral venous pressure together indicate which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Primary hepatic cirrhosis"
+        },
+        {
+          "label": "B",
+          "text": "Right-sided heart failure"
+        },
+        {
+          "label": "C",
+          "text": "Left-sided heart failure"
+        },
+        {
+          "label": "D",
+          "text": "Acute pulmonary edema"
+        },
+        {
+          "label": "E",
+          "text": "Nephrotic syndrome"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "These signs reflect systemic venous congestion behind a failing right ventricle: raised venous pressure backs up into the jugular veins, liver, peritoneum, and dependent tissues.",
+        "whyCorrect": "These signs reflect systemic venous congestion behind a failing right ventricle: raised venous pressure backs up into the jugular veins, liver, peritoneum, and dependent tissues.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-721_Brick Exchange - Diagnosis of Heart Failure_ From Clinical Presentation to Classification_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-590",
+      "topicId": "management-of-chronic-heart-failure",
+      "topicName": "Management of Chronic Heart Failure",
+      "stem": "This membrane diagram shows a drug blocking the Na+/K+-ATPase, after which intracellular Na+ rises, the Na+/Ca2+ exchanger extrudes less Ca2+, and free intracellular Ca2+ increases to act on the myofibrils. What is the net effect of this sequence on the cardiac myocyte?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Decreased contractility due to Ca2+ depletion"
+        },
+        {
+          "label": "B",
+          "text": "Membrane hyperpolarization and reduced excitability"
+        },
+        {
+          "label": "C",
+          "text": "Increased contractility from higher intracellular Ca2+"
+        },
+        {
+          "label": "D",
+          "text": "Accelerated pacemaker firing at the SA node"
+        },
+        {
+          "label": "E",
+          "text": "Increased extrusion of Ca2+ from the cell"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "By inhibiting the Na+/K+-ATPase, the drug (digoxin) raises intracellular Na+, which reduces the driving gradient for the Na+/Ca2+ exchanger. Less Ca2+ is pumped out, so intracellular Ca2+ accumulates and is available to the myofibrils, increasing contractile force (positive inotropy).",
+        "whyCorrect": "By inhibiting the Na+/K+-ATPase, the drug (digoxin) raises intracellular Na+, which reduces the driving gradient for the Na+/Ca2+ exchanger. Less Ca2+ is pumped out, so intracellular Ca2+ accumulates and is available to the myofibrils, increasing contractile force (positive inotropy).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-590_Brick Exchange - Management of Chronic Heart Failure_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,474 @@
+{
+  "categoryId": "cardio_w4s2",
+  "categoryName": "Session 2",
+  "questions": [
+    {
+      "id": "repic-584",
+      "topicId": "antiarrhythmic-agents-classes-ii-iv",
+      "topicName": "Antiarrhythmic Agents: Classes II-IV",
+      "stem": "This action potential shows markedly prolonged repolarization due to potassium-current blockade, greatly increasing the action potential duration and effective refractory period with little change in phase 0. Which agent is the prototype for this effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atropine"
+        },
+        {
+          "label": "B",
+          "text": "Verapamil"
+        },
+        {
+          "label": "C",
+          "text": "Amiodarone"
+        },
+        {
+          "label": "D",
+          "text": "Flecainide"
+        },
+        {
+          "label": "E",
+          "text": "Lidocaine"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Selective prolongation of repolarization via K+ channel block (increased APD and ERP) defines Class III antiarrhythmics, prototypically amiodarone, sotalol, dofetilide, and ibutilide. Lidocaine is IB, flecainide IC, verapamil IV.",
+        "whyCorrect": "Selective prolongation of repolarization via K+ channel block (increased APD and ERP) defines Class III antiarrhythmics, prototypically amiodarone, sotalol, dofetilide, and ibutilide. Lidocaine is IB, flecainide IC, verapamil IV.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-584_Brick Exchange - Antiarrhythmic Agents_ Classes II-IV_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-585",
+      "topicId": "antiarrhythmic-agents-classes-ii-iv",
+      "topicName": "Antiarrhythmic Agents: Classes II-IV",
+      "stem": "This pacemaker (nodal) action potential shows a drug decreasing the slope of phase 4 spontaneous depolarization and prolonging repolarization at the AV node. Which agent produces this effect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Quinidine"
+        },
+        {
+          "label": "B",
+          "text": "Digoxin"
+        },
+        {
+          "label": "C",
+          "text": "Metoprolol"
+        },
+        {
+          "label": "D",
+          "text": "Amiodarone"
+        },
+        {
+          "label": "E",
+          "text": "Lidocaine"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Reducing the slope of phase 4 depolarization in pacemaker cells (slowing SA-node firing and AV-node conduction) is the mechanism of Class II beta blockers such as metoprolol and propranolol. They decrease heart rate and prolong AV nodal refractoriness by blunting sympathetic (cAMP) drive.",
+        "whyCorrect": "Reducing the slope of phase 4 depolarization in pacemaker cells (slowing SA-node firing and AV-node conduction) is the mechanism of Class II beta blockers such as metoprolol and propranolol. They decrease heart rate and prolong AV nodal refractoriness by blunting sympathetic (cAMP) drive.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-585_Brick Exchange - Antiarrhythmic Agents_ Classes II-IV_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-636",
+      "topicId": "antiarrhythmic-agents-classes-ii-iv",
+      "topicName": "Antiarrhythmic Agents: Classes II-IV",
+      "stem": "This action potential (dark curve) shows a slow upstroke and prolonged repolarization at the AV node compared with a normal fast-response cell. Which ionic mechanism is chiefly responsible for the slowed upstroke seen here?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased K+ efflux during phase 1"
+        },
+        {
+          "label": "B",
+          "text": "Electrogenic Na+/K+-ATPase pumping"
+        },
+        {
+          "label": "C",
+          "text": "Rapid Na+ influx through fast sodium channels"
+        },
+        {
+          "label": "D",
+          "text": "Cl- influx driving the plateau"
+        },
+        {
+          "label": "E",
+          "text": "Depolarization depends on slow inward Ca2+ current"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "AV nodal (slow-response) cells depend on the slow inward Ca2+ current for their upstroke. Class IV agents (non-dihydropyridine calcium channel blockers) blunt this current, slowing the rise and prolonging AV nodal conduction/repolarization.",
+        "whyCorrect": "AV nodal (slow-response) cells depend on the slow inward Ca2+ current for their upstroke. Class IV agents (non-dihydropyridine calcium channel blockers) blunt this current, slowing the rise and prolonging AV nodal conduction/repolarization.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-636_Brick Exchange - Antiarrhythmic Agents_ Classes II-IV_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-039",
+      "topicId": "atrial-fibrillation-pathophysiology-risk-factors-and-treatment",
+      "topicName": "Atrial Fibrillation: Pathophysiology, Risk Factors, and Treatment",
+      "stem": "On this posterior view of the heart, the highlighted vessels draining into the left atrium are clinically important in atrial fibrillation because they:",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Supply the myocardium with coronary arterial blood"
+        },
+        {
+          "label": "B",
+          "text": "Return blood directly to the systemic circulation bypassing the heart"
+        },
+        {
+          "label": "C",
+          "text": "Carry deoxygenated blood to the right ventricle"
+        },
+        {
+          "label": "D",
+          "text": "Contain sleeves of atrial muscle that generate the ectopic triggers of AF"
+        },
+        {
+          "label": "E",
+          "text": "Are the site where the sinoatrial node normally resides"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The highlighted structures are the pulmonary veins entering the left atrium. Myocardial sleeves extending into these veins are the principal source of ectopic activity triggering AF, which is why they are the target of pulmonary vein isolation.",
+        "whyCorrect": "The highlighted structures are the pulmonary veins entering the left atrium. Myocardial sleeves extending into these veins are the principal source of ectopic activity triggering AF, which is why they are the target of pulmonary vein isolation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-039_Brick Exchange - Atrial Fibrillation_ Pathophysiology, Risk Factors, and Treatment_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-218",
+      "topicId": "atrial-fibrillation-pathophysiology-risk-factors-and-treatment",
+      "topicName": "Atrial Fibrillation: Pathophysiology, Risk Factors, and Treatment",
+      "stem": "This 12-lead ECG shows an irregularly irregular ventricular rhythm with no discernible P waves and a fibrillating baseline. What is the rhythm?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atrial flutter with fixed 2:1 conduction"
+        },
+        {
+          "label": "B",
+          "text": "Ventricular tachycardia"
+        },
+        {
+          "label": "C",
+          "text": "Normal sinus rhythm"
+        },
+        {
+          "label": "D",
+          "text": "Third-degree (complete) heart block"
+        },
+        {
+          "label": "E",
+          "text": "Atrial fibrillation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Absence of organized P waves, a chaotic fibrillatory baseline, and an irregularly irregular R-R interval are diagnostic of atrial fibrillation, reflecting disorganized atrial activity with variable AV conduction.",
+        "whyCorrect": "Absence of organized P waves, a chaotic fibrillatory baseline, and an irregularly irregular R-R interval are diagnostic of atrial fibrillation, reflecting disorganized atrial activity with variable AV conduction.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-218_Brick Exchange - Atrial Fibrillation_ Pathophysiology, Risk Factors, and Treatment_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-219",
+      "topicId": "atrial-fibrillation-pathophysiology-risk-factors-and-treatment",
+      "topicName": "Atrial Fibrillation: Pathophysiology, Risk Factors, and Treatment",
+      "stem": "This 12-lead ECG with rhythm strip shows an irregularly irregular ventricular rhythm with no discernible P waves. What arrhythmia is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atrial fibrillation"
+        },
+        {
+          "label": "B",
+          "text": "Atrial flutter"
+        },
+        {
+          "label": "C",
+          "text": "First-degree AV block"
+        },
+        {
+          "label": "D",
+          "text": "Sinus tachycardia"
+        },
+        {
+          "label": "E",
+          "text": "Ventricular tachycardia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The absence of organized P waves combined with an irregularly irregular R-R interval is the hallmark of atrial fibrillation, caused by chaotic atrial electrical activity and variable AV nodal conduction.",
+        "whyCorrect": "The absence of organized P waves combined with an irregularly irregular R-R interval is the hallmark of atrial fibrillation, caused by chaotic atrial electrical activity and variable AV nodal conduction.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-219_Brick Exchange - Atrial Fibrillation_ Pathophysiology, Risk Factors, and Treatment_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-660",
+      "topicId": "atrial-fibrillation-pathophysiology-risk-factors-and-treatment",
+      "topicName": "Atrial Fibrillation: Pathophysiology, Risk Factors, and Treatment",
+      "stem": "This 3-D electroanatomic map of the left atrium shows ablation lesions arranged in rings around the openings of the pulmonary veins. What is the rationale for this lesion placement?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "To interrupt accessory pathways of the mitral valve"
+        },
+        {
+          "label": "B",
+          "text": "To ablate the sinoatrial node and slow the ventricular rate"
+        },
+        {
+          "label": "C",
+          "text": "To create scar in the ventricles preventing tachycardia"
+        },
+        {
+          "label": "D",
+          "text": "To electrically isolate the pulmonary veins"
+        },
+        {
+          "label": "E",
+          "text": "To destroy the AV node so a pacemaker can take over"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Ectopic foci near the pulmonary vein ostia commonly initiate AF. Encircling ablation lines electrically isolate the veins from the atrium, preventing these triggers from propagating and maintaining fibrillation.",
+        "whyCorrect": "Ectopic foci near the pulmonary vein ostia commonly initiate AF. Encircling ablation lines electrically isolate the veins from the atrium, preventing these triggers from propagating and maintaining fibrillation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-660_Brick Exchange - Atrial Fibrillation_ Pathophysiology, Risk Factors, and Treatment_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-381",
+      "topicId": "supraventricular-arrhythmias-pathophysiology-diagnosis-and-treatment",
+      "topicName": "Supraventricular Arrhythmias: Pathophysiology, Diagnosis, and Treatment",
+      "stem": "On this lead II rhythm strip, arrows mark small recurring deflections occurring just before each QRS complex. These deflections most likely represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "U waves"
+        },
+        {
+          "label": "B",
+          "text": "Delta waves of pre-excitation"
+        },
+        {
+          "label": "C",
+          "text": "Pacemaker spikes"
+        },
+        {
+          "label": "D",
+          "text": "J (Osborn) waves"
+        },
+        {
+          "label": "E",
+          "text": "P waves of atrial depolarization"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The low-amplitude deflection preceding each QRS represents atrial depolarization (the P wave); analyzing its presence and morphology helps classify supraventricular rhythms.",
+        "whyCorrect": "The low-amplitude deflection preceding each QRS represents atrial depolarization (the P wave); analyzing its presence and morphology helps classify supraventricular rhythms.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-381_Brick Exchange - Supraventricular Arrhythmias_ Pathophysiology, Diagnosis, and Treatment_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-382",
+      "topicId": "supraventricular-arrhythmias-pathophysiology-diagnosis-and-treatment",
+      "topicName": "Supraventricular Arrhythmias: Pathophysiology, Diagnosis, and Treatment",
+      "stem": "This narrow-complex tachycardia is annotated with a P wave that is described as 'retrograde.' What does a retrograde P wave indicate about atrial activation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The atria are depolarized normally from the sinus node"
+        },
+        {
+          "label": "B",
+          "text": "The impulse originates in the ventricular myocardium"
+        },
+        {
+          "label": "C",
+          "text": "There is complete AV dissociation"
+        },
+        {
+          "label": "D",
+          "text": "The atria are being depolarized backward from the AV junction"
+        },
+        {
+          "label": "E",
+          "text": "The ventricles are depolarizing the atria through the His-Purkinje system only"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A retrograde P wave means atrial activation spreads upward from the AV junction rather than downward from the SA node, a signature of junctional/reentrant supraventricular tachycardias such as AVNRT.",
+        "whyCorrect": "A retrograde P wave means atrial activation spreads upward from the AV junction rather than downward from the SA node, a signature of junctional/reentrant supraventricular tachycardias such as AVNRT.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-382_Brick Exchange - Supraventricular Arrhythmias_ Pathophysiology, Diagnosis, and Treatment_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-383",
+      "topicId": "supraventricular-arrhythmias-pathophysiology-diagnosis-and-treatment",
+      "topicName": "Supraventricular Arrhythmias: Pathophysiology, Diagnosis, and Treatment",
+      "stem": "On this 12-lead ECG, arrows point to a slurred initial upstroke of the QRS complex in multiple leads, with a short PR interval. This feature is diagnostic of?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ST-segment elevation of acute infarction"
+        },
+        {
+          "label": "B",
+          "text": "Pathologic Q waves"
+        },
+        {
+          "label": "C",
+          "text": "Hyperkalemic peaked T waves"
+        },
+        {
+          "label": "D",
+          "text": "A delta wave from ventricular pre-excitation"
+        },
+        {
+          "label": "E",
+          "text": "Prominent U waves"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "An accessory pathway conducts to the ventricle early, producing a short PR interval and a slurred QRS upstroke (delta wave), the hallmark of ventricular pre-excitation in WPW.",
+        "whyCorrect": "An accessory pathway conducts to the ventricle early, producing a short PR interval and a slurred QRS upstroke (delta wave), the hallmark of ventricular pre-excitation in WPW.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-383_Brick Exchange - Supraventricular Arrhythmias_ Pathophysiology, Diagnosis, and Treatment_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-384",
+      "topicId": "supraventricular-arrhythmias-pathophysiology-diagnosis-and-treatment",
+      "topicName": "Supraventricular Arrhythmias: Pathophysiology, Diagnosis, and Treatment",
+      "stem": "This tracing labels a normal sinus P wave and, later, an early beat with a differently-shaped 'ectopic' P wave preceding a normal QRS. This early beat represents?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A normal sinus beat"
+        },
+        {
+          "label": "B",
+          "text": "A premature ventricular complex"
+        },
+        {
+          "label": "C",
+          "text": "A junctional escape beat"
+        },
+        {
+          "label": "D",
+          "text": "A retrogradely conducted ventricular beat"
+        },
+        {
+          "label": "E",
+          "text": "A premature atrial complex"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "An early P wave of different morphology than the sinus P wave, followed by a normal narrow QRS, indicates a premature atrial complex arising from an ectopic atrial focus rather than the sinus node.",
+        "whyCorrect": "An early P wave of different morphology than the sinus P wave, followed by a normal narrow QRS, indicates a premature atrial complex arising from an ectopic atrial focus rather than the sinus node.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-384_Brick Exchange - Supraventricular Arrhythmias_ Pathophysiology, Diagnosis, and Treatment_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-385",
+      "topicId": "supraventricular-arrhythmias-pathophysiology-diagnosis-and-treatment",
+      "topicName": "Supraventricular Arrhythmias: Pathophysiology, Diagnosis, and Treatment",
+      "stem": "On this 12-lead ECG of a regular narrow-complex tachycardia, the red-highlighted deflections in lead II mark the atrial activity between QRS complexes. Identifying these deflections is most useful for?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Locating an ischemic ST segment"
+        },
+        {
+          "label": "B",
+          "text": "Measuring the QT interval for drug toxicity"
+        },
+        {
+          "label": "C",
+          "text": "Confirming ventricular tachycardia"
+        },
+        {
+          "label": "D",
+          "text": "Distinguishing the type of supraventricular tachycardia"
+        },
+        {
+          "label": "E",
+          "text": "Detecting a bundle branch block"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Careful identification of atrial (P or flutter) waves and their relationship to the QRS is the key step in classifying a supraventricular tachycardia (e.g., sinus tachycardia, atrial flutter, AVNRT, or AVRT).",
+        "whyCorrect": "Careful identification of atrial (P or flutter) waves and their relationship to the QRS is the key step in classifying a supraventricular tachycardia (e.g., sinus tachycardia, atrial flutter, AVNRT, or AVRT).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-385_Brick Exchange - Supraventricular Arrhythmias_ Pathophysiology, Diagnosis, and Treatment_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

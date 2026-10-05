@@ -1,0 +1,1956 @@
+{
+  "categoryId": "cardio_w6s2",
+  "categoryName": "Session 2",
+  "questions": [
+    {
+      "id": "repic-045",
+      "topicId": "development-of-the-aortic-arches",
+      "topicName": "Development of the Aortic Arches",
+      "stem": "This multi-panel figure traces the paired embryonic pharyngeal (aortic) arch arteries as they remodel into the definitive great vessels seen in the neonate. On the LEFT side, which arch persists to form the definitive arch of the aorta?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The aortic sac directly"
+        },
+        {
+          "label": "B",
+          "text": "The left 6th pharyngeal arch artery"
+        },
+        {
+          "label": "C",
+          "text": "The left 3rd pharyngeal arch artery"
+        },
+        {
+          "label": "D",
+          "text": "The left 4th pharyngeal arch artery"
+        },
+        {
+          "label": "E",
+          "text": "The left 1st pharyngeal arch artery"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "During remodeling of the aortic arches, the left 4th arch becomes the definitive arch of the aorta. The 3rd arches form the common/proximal internal carotids, and the left 6th arch gives the ductus arteriosus (ligamentum arteriosum postnatally).",
+        "whyCorrect": "During remodeling of the aortic arches, the left 4th arch becomes the definitive arch of the aorta. The 3rd arches form the common/proximal internal carotids, and the left 6th arch gives the ductus arteriosus (ligamentum arteriosum postnatally).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-045_Brick Exchange - Development of the Aortic Arches_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-046",
+      "topicId": "development-of-the-aortic-arches",
+      "topicName": "Development of the Aortic Arches",
+      "stem": "This anterior neck dissection shows a bilobed, butterfly-shaped organ draped over the upper trachea with a connecting bridge of tissue and a fine yellow nerve running in the tracheo-esophageal groove behind it. What organ is shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Submandibular gland"
+        },
+        {
+          "label": "B",
+          "text": "Larynx"
+        },
+        {
+          "label": "C",
+          "text": "Thymus"
+        },
+        {
+          "label": "D",
+          "text": "Parotid gland"
+        },
+        {
+          "label": "E",
+          "text": "Thyroid gland"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The paired lateral lobes joined by a central isthmus draped over the trachea identify the thyroid gland. The delicate nerve ascending in the tracheo-esophageal groove is the recurrent laryngeal nerve, closely related to the gland surgically.",
+        "whyCorrect": "The paired lateral lobes joined by a central isthmus draped over the trachea identify the thyroid gland. The delicate nerve ascending in the tracheo-esophageal groove is the recurrent laryngeal nerve, closely related to the gland surgically.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-046_Brick Exchange - Development of the Aortic Arches_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-047",
+      "topicId": "development-of-the-aortic-arches",
+      "topicName": "Development of the Aortic Arches",
+      "stem": "This lateral view of an early embryo shows a series of rounded bulges in the future head/neck region, each separated by external grooves, near the otic placode. What are these serially arranged bulges?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Limb buds"
+        },
+        {
+          "label": "B",
+          "text": "Pharyngeal arches"
+        },
+        {
+          "label": "C",
+          "text": "Neural crest ganglia"
+        },
+        {
+          "label": "D",
+          "text": "Somites of the trunk"
+        },
+        {
+          "label": "E",
+          "text": "Optic vesicles"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The stacked bulges in the cranial region are the pharyngeal (branchial) arches, separated externally by pharyngeal clefts/grooves. They give rise to structures of the face and neck, and their arch arteries remodel into the great vessels.",
+        "whyCorrect": "The stacked bulges in the cranial region are the pharyngeal (branchial) arches, separated externally by pharyngeal clefts/grooves. They give rise to structures of the face and neck, and their arch arteries remodel into the great vessels.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-047_Brick Exchange - Development of the Aortic Arches_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-048",
+      "topicId": "development-of-the-aortic-arches",
+      "topicName": "Development of the Aortic Arches",
+      "stem": "This close-up of an embryo's cranial region labels the external depressions between the rounded arches, and separately labels the lens placode and the heart bulge. The grooves indicated between the arches are lined by which germ layer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Ectoderm"
+        },
+        {
+          "label": "B",
+          "text": "Neural crest only"
+        },
+        {
+          "label": "C",
+          "text": "Notochord"
+        },
+        {
+          "label": "D",
+          "text": "Mesoderm"
+        },
+        {
+          "label": "E",
+          "text": "Endoderm"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The pharyngeal clefts/grooves are external and lined by ectoderm, whereas the internal pharyngeal pouches are lined by endoderm; the arch cores contain mesoderm and neural crest. Only the first cleft persists as the external auditory meatus.",
+        "whyCorrect": "The pharyngeal clefts/grooves are external and lined by ectoderm, whereas the internal pharyngeal pouches are lined by endoderm; the arch cores contain mesoderm and neural crest. Only the first cleft persists as the external auditory meatus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-048_Brick Exchange - Development of the Aortic Arches_p5_2.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-049",
+      "topicId": "development-of-the-aortic-arches",
+      "topicName": "Development of the Aortic Arches",
+      "stem": "This view of the caudal/dorsal region of an early embryo shows a row of small, regularly repeating segmented blocks running along the length of the body wall. What are these paired, metameric structures?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Renal pyramids"
+        },
+        {
+          "label": "B",
+          "text": "Rib primordia"
+        },
+        {
+          "label": "C",
+          "text": "Somites"
+        },
+        {
+          "label": "D",
+          "text": "Ganglia of the sympathetic chain"
+        },
+        {
+          "label": "E",
+          "text": "Pharyngeal arches"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The regularly repeating paraxial blocks flanking the neural tube are somites. They segment craniocaudally and differentiate into sclerotome (vertebrae/ribs), myotome (skeletal muscle), and dermatome (dermis), providing the body's segmental organization.",
+        "whyCorrect": "The regularly repeating paraxial blocks flanking the neural tube are somites. They segment craniocaudally and differentiate into sclerotome (vertebrae/ribs), myotome (skeletal muscle), and dermatome (dermis), providing the body's segmental organization.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-049_Brick Exchange - Development of the Aortic Arches_p5_3.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-050",
+      "topicId": "development-of-the-aortic-arches",
+      "topicName": "Development of the Aortic Arches",
+      "stem": "This schematic shows six paired, color-coded embryonic arteries arising symmetrically from the aortic sac and draining into the paired dorsal aortae. These vessels are the precursors of the definitive great vessels; what is the collective name for them?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Intersegmental arteries"
+        },
+        {
+          "label": "B",
+          "text": "Umbilical arteries"
+        },
+        {
+          "label": "C",
+          "text": "Cardinal veins"
+        },
+        {
+          "label": "D",
+          "text": "Pharyngeal arch arteries"
+        },
+        {
+          "label": "E",
+          "text": "Vitelline arteries"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The paired arteries connecting the aortic sac to the dorsal aortae through each pharyngeal arch are the aortic (pharyngeal) arch arteries. Selective regression and persistence of these six pairs generate the asymmetric adult arch of the aorta and its branches.",
+        "whyCorrect": "The paired arteries connecting the aortic sac to the dorsal aortae through each pharyngeal arch are the aortic (pharyngeal) arch arteries. Selective regression and persistence of these six pairs generate the asymmetric adult arch of the aorta and its branches.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-050_Brick Exchange - Development of the Aortic Arches_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-051",
+      "topicId": "development-of-the-aortic-arches",
+      "topicName": "Development of the Aortic Arches",
+      "stem": "This 3D model of the remodeling embryonic arches highlights the 6th arch connecting to the pulmonary outflow, with a note about a left-sided loop persisting until after birth. On the left side, the 6th aortic arch gives rise to which structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Arch of the aorta"
+        },
+        {
+          "label": "B",
+          "text": "Ductus arteriosus"
+        },
+        {
+          "label": "C",
+          "text": "Common carotid artery"
+        },
+        {
+          "label": "D",
+          "text": "Brachiocephalic trunk"
+        },
+        {
+          "label": "E",
+          "text": "Right subclavian artery"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The left 6th aortic arch forms the proximal left pulmonary artery and the ductus arteriosus, which shunts blood from the pulmonary trunk to the descending aorta in fetal life and closes postnatally to become the ligamentum arteriosum.",
+        "whyCorrect": "The left 6th aortic arch forms the proximal left pulmonary artery and the ductus arteriosus, which shunts blood from the pulmonary trunk to the descending aorta in fetal life and closes postnatally to become the ligamentum arteriosum.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-051_Brick Exchange - Development of the Aortic Arches_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-052",
+      "topicId": "development-of-the-aortic-arches",
+      "topicName": "Development of the Aortic Arches",
+      "stem": "This 3D developmental model labels the 3rd and 4th arches at the upper, branching (carotid) portion of the remodeling great vessels. The 3rd aortic arch gives rise to which adult vessel?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pulmonary trunk"
+        },
+        {
+          "label": "B",
+          "text": "Descending thoracic aorta"
+        },
+        {
+          "label": "C",
+          "text": "Common carotid artery"
+        },
+        {
+          "label": "D",
+          "text": "Arch of the aorta"
+        },
+        {
+          "label": "E",
+          "text": "Ductus arteriosus"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The 3rd pharyngeal arch arteries form the common carotid arteries and the proximal parts of the internal carotid arteries. The 4th arch on the left becomes the definitive aortic arch, while on the right it forms the proximal right subclavian artery.",
+        "whyCorrect": "The 3rd pharyngeal arch arteries form the common carotid arteries and the proximal parts of the internal carotid arteries. The 4th arch on the left becomes the definitive aortic arch, while on the right it forms the proximal right subclavian artery.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-052_Brick Exchange - Development of the Aortic Arches_p9_2.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-053",
+      "topicId": "development-of-the-aortic-arches",
+      "topicName": "Development of the Aortic Arches",
+      "stem": "This 3D model labels the 3rd, 4th, and 6th arches on the developing great-vessel complex. On the LEFT side, the 4th aortic arch is destined to become which definitive adult structure?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pulmonary trunk"
+        },
+        {
+          "label": "B",
+          "text": "Right subclavian artery"
+        },
+        {
+          "label": "C",
+          "text": "Arch of the aorta"
+        },
+        {
+          "label": "D",
+          "text": "Ductus arteriosus"
+        },
+        {
+          "label": "E",
+          "text": "Common carotid artery"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The left 4th aortic arch persists as the arch of the aorta, whereas the right 4th arch forms the proximal right subclavian artery. This left-right asymmetry explains the adult configuration of the great vessels.",
+        "whyCorrect": "The left 4th aortic arch persists as the arch of the aorta, whereas the right 4th arch forms the proximal right subclavian artery. This left-right asymmetry explains the adult configuration of the great vessels.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-053_Brick Exchange - Development of the Aortic Arches_p9_3.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-054",
+      "topicId": "development-of-the-aortic-arches",
+      "topicName": "Development of the Aortic Arches",
+      "stem": "This more complete 3D model shows the embryonic arches (3rd, 4th, 6th) coalescing into the mature arch of the aorta and its branches, with a note that one connection persists until after birth. The structure that remains patent in the fetus but closes postnatally is derived from which arch?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The aortic sac"
+        },
+        {
+          "label": "B",
+          "text": "The right 4th aortic arch"
+        },
+        {
+          "label": "C",
+          "text": "The left 3rd aortic arch"
+        },
+        {
+          "label": "D",
+          "text": "The left 4th aortic arch"
+        },
+        {
+          "label": "E",
+          "text": "The left 6th aortic arch"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The ductus arteriosus, derived from the left 6th aortic arch, stays open in fetal life to bypass the lungs and normally closes soon after birth to form the ligamentum arteriosum. Failure to close results in a patent ductus arteriosus.",
+        "whyCorrect": "The ductus arteriosus, derived from the left 6th aortic arch, stays open in fetal life to bypass the lungs and normally closes soon after birth to form the ligamentum arteriosum. Failure to close results in a patent ductus arteriosus.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-054_Brick Exchange - Development of the Aortic Arches_p9_4.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-460",
+      "topicId": "congenital-heart-defects-foundations-and-frameworks",
+      "topicName": "Congenital Heart Defects: Foundations and Frameworks",
+      "stem": "These photographs show bluish discoloration of the fingers and toes in a patient with a congenital heart defect. What underlying pathophysiology produces this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Peripheral arterial thrombotic occlusion"
+        },
+        {
+          "label": "B",
+          "text": "Left-to-right shunting increasing pulmonary blood flow"
+        },
+        {
+          "label": "C",
+          "text": "Right-to-left shunting of deoxygenated blood"
+        },
+        {
+          "label": "D",
+          "text": "Carbon monoxide poisoning saturating hemoglobin"
+        },
+        {
+          "label": "E",
+          "text": "Iron deficiency anemia reducing hemoglobin"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Central cyanosis in congenital heart disease reflects a right-to-left shunt, which delivers deoxygenated blood directly to the systemic circulation, raising deoxyhemoglobin above roughly 5 g/dL and producing the bluish skin and nail discoloration.",
+        "whyCorrect": "Central cyanosis in congenital heart disease reflects a right-to-left shunt, which delivers deoxygenated blood directly to the systemic circulation, raising deoxyhemoglobin above roughly 5 g/dL and producing the bluish skin and nail discoloration.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-460_Brick Exchange - Congenital Heart Defects_ Foundations and Frameworks_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-461",
+      "topicId": "congenital-heart-defects-foundations-and-frameworks",
+      "topicName": "Congenital Heart Defects: Foundations and Frameworks",
+      "stem": "This photograph of a child's hands shows bulbous, rounded fingertips with loss of the normal nail-fold angle. What is this physical finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Raynaud phenomenon"
+        },
+        {
+          "label": "B",
+          "text": "Digital clubbing"
+        },
+        {
+          "label": "C",
+          "text": "Dupuytren contracture"
+        },
+        {
+          "label": "D",
+          "text": "Osler nodes"
+        },
+        {
+          "label": "E",
+          "text": "Koilonychia (spoon nails)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Digital clubbing is the softening and bulbous enlargement of the distal fingertips with loss of the normal nail-bed angle; in congenital heart disease it results from chronic hypoxemia caused by a right-to-left shunt.",
+        "whyCorrect": "Digital clubbing is the softening and bulbous enlargement of the distal fingertips with loss of the normal nail-bed angle; in congenital heart disease it results from chronic hypoxemia caused by a right-to-left shunt.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-461_Brick Exchange - Congenital Heart Defects_ Foundations and Frameworks_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-462",
+      "topicId": "congenital-heart-defects-foundations-and-frameworks",
+      "topicName": "Congenital Heart Defects: Foundations and Frameworks",
+      "stem": "Compared with the normal heart on the left, the right panel shows a long-standing ventricular septal defect. The inset vessel demonstrates a thickened tunica media and narrowed lumen. What process does this illustrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coronary atherosclerosis reducing myocardial perfusion"
+        },
+        {
+          "label": "B",
+          "text": "Deep venous thrombosis of a peripheral vessel"
+        },
+        {
+          "label": "C",
+          "text": "Systemic hypertension from renal artery stenosis"
+        },
+        {
+          "label": "D",
+          "text": "Aortic dissection propagating through the media"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary vascular remodeling causing pulmonary hypertension"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Chronic left-to-right shunting raises pulmonary blood flow and pressure, driving medial hypertrophy and luminal narrowing of pulmonary arteries; the resulting pulmonary hypertension increases right ventricular afterload and causes RV hypertrophy (potentially leading to Eisenmenger shunt reversal).",
+        "whyCorrect": "Chronic left-to-right shunting raises pulmonary blood flow and pressure, driving medial hypertrophy and luminal narrowing of pulmonary arteries; the resulting pulmonary hypertension increases right ventricular afterload and causes RV hypertrophy (potentially leading to Eisenmenger shunt reversal).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-462_Brick Exchange - Congenital Heart Defects_ Foundations and Frameworks_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-463",
+      "topicId": "congenital-heart-defects-foundations-and-frameworks",
+      "topicName": "Congenital Heart Defects: Foundations and Frameworks",
+      "stem": "The right-hand diagram shows a persistent connection between the aorta and pulmonary artery after birth. Which fetal structure has failed to close to produce this defect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Umbilical vein"
+        },
+        {
+          "label": "B",
+          "text": "Ductus arteriosus"
+        },
+        {
+          "label": "C",
+          "text": "Ductus venosus"
+        },
+        {
+          "label": "D",
+          "text": "Coronary sinus"
+        },
+        {
+          "label": "E",
+          "text": "Foramen ovale"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A patent ductus arteriosus results when the fetal ductus arteriosus (which normally shunts blood from the pulmonary artery to the aorta in utero) fails to close after birth, leaving an aorta-to-pulmonary artery connection.",
+        "whyCorrect": "A patent ductus arteriosus results when the fetal ductus arteriosus (which normally shunts blood from the pulmonary artery to the aorta in utero) fails to close after birth, leaving an aorta-to-pulmonary artery connection.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-463_Brick Exchange - Congenital Heart Defects_ Foundations and Frameworks_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-692",
+      "topicId": "congenital-heart-defects-foundations-and-frameworks",
+      "topicName": "Congenital Heart Defects: Foundations and Frameworks",
+      "stem": "In the patent ductus arteriosus shown at right, blood flows through the abnormal connection between the aorta and the pulmonary artery. In which direction does blood shunt through this connection after birth?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "From pulmonary artery to aorta (right-to-left)"
+        },
+        {
+          "label": "B",
+          "text": "From aorta to pulmonary artery (left-to-right)"
+        },
+        {
+          "label": "C",
+          "text": "From left ventricle to right ventricle"
+        },
+        {
+          "label": "D",
+          "text": "From right atrium to left atrium"
+        },
+        {
+          "label": "E",
+          "text": "There is no net flow because pressures are equal"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Because systemic (aortic) pressure normally exceeds pulmonary pressure, a patent ductus arteriosus produces a left-to-right shunt from the aorta into the pulmonary artery, increasing pulmonary blood flow.",
+        "whyCorrect": "Because systemic (aortic) pressure normally exceeds pulmonary pressure, a patent ductus arteriosus produces a left-to-right shunt from the aorta into the pulmonary artery, increasing pulmonary blood flow.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-692_Brick Exchange - Congenital Heart Defects_ Foundations and Frameworks_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-693",
+      "topicId": "congenital-heart-defects-foundations-and-frameworks",
+      "topicName": "Congenital Heart Defects: Foundations and Frameworks",
+      "stem": "The arrows in the middle heart illustrate the direction of blood flow through an atrial septal defect and a ventricular septal defect. Why does blood cross both defects in the direction shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Higher pressure on the left side drives blood from left to right"
+        },
+        {
+          "label": "B",
+          "text": "Gravity directs blood downward through the ventricular defect"
+        },
+        {
+          "label": "C",
+          "text": "Lower oxygen content on the left pulls blood leftward"
+        },
+        {
+          "label": "D",
+          "text": "Valve incompetence forces blood from right to left"
+        },
+        {
+          "label": "E",
+          "text": "Equalized chamber pressures cause bidirectional mixing only"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Left-sided chambers operate at higher pressure than the corresponding right-sided chambers, so uncomplicated septal defects initially shunt oxygenated blood left-to-right, increasing pulmonary flow and right heart volume.",
+        "whyCorrect": "Left-sided chambers operate at higher pressure than the corresponding right-sided chambers, so uncomplicated septal defects initially shunt oxygenated blood left-to-right, increasing pulmonary flow and right heart volume.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-693_Brick Exchange - Congenital Heart Defects_ Foundations and Frameworks_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-694",
+      "topicId": "congenital-heart-defects-foundations-and-frameworks",
+      "topicName": "Congenital Heart Defects: Foundations and Frameworks",
+      "stem": "Comparing the fetal heart (left) with the newborn heart (right), what triggers the functional closure of the foramen ovale at birth?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A sudden fall in systemic arterial oxygen tension"
+        },
+        {
+          "label": "B",
+          "text": "Rising left atrial pressure"
+        },
+        {
+          "label": "C",
+          "text": "A drop in left ventricular contractility after delivery"
+        },
+        {
+          "label": "D",
+          "text": "Increased prostaglandin production by the placenta"
+        },
+        {
+          "label": "E",
+          "text": "Constriction of the umbilical vein at birth"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "With the first breaths, pulmonary vascular resistance falls and pulmonary venous return rises, increasing left atrial pressure above right atrial pressure; this pressure reversal presses the septum primum against the septum secundum, functionally closing the foramen ovale.",
+        "whyCorrect": "With the first breaths, pulmonary vascular resistance falls and pulmonary venous return rises, increasing left atrial pressure above right atrial pressure; this pressure reversal presses the septum primum against the septum secundum, functionally closing the foramen ovale.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-694_Brick Exchange - Congenital Heart Defects_ Foundations and Frameworks_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-325",
+      "topicId": "obstructive-congenital-heart-defects",
+      "topicName": "Obstructive Congenital Heart Defects",
+      "stem": "On this chest radiograph, the inferior margins of several posterior ribs show scalloped erosions (highlighted). This finding is a classic sign of which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coarctation of the aorta"
+        },
+        {
+          "label": "B",
+          "text": "Pulmonary embolism"
+        },
+        {
+          "label": "C",
+          "text": "Chronic pulmonary hypertension"
+        },
+        {
+          "label": "D",
+          "text": "Tetralogy of Fallot"
+        },
+        {
+          "label": "E",
+          "text": "Mitral stenosis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Rib notching results from dilated, tortuous intercostal collateral arteries eroding the undersurface of the ribs; it is a hallmark of longstanding aortic coarctation, in which blood bypasses the narrowed segment through the intercostal circulation.",
+        "whyCorrect": "Rib notching results from dilated, tortuous intercostal collateral arteries eroding the undersurface of the ribs; it is a hallmark of longstanding aortic coarctation, in which blood bypasses the narrowed segment through the intercostal circulation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-325_Brick Exchange - Obstructive Congenital Heart Defects_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-326",
+      "topicId": "obstructive-congenital-heart-defects",
+      "topicName": "Obstructive Congenital Heart Defects",
+      "stem": "This magnetic resonance angiogram of the thoracic aorta shows an abrupt focal narrowing (arrow) just distal to the origin of the great vessels. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coarctation of the aorta"
+        },
+        {
+          "label": "B",
+          "text": "Takayasu arteritis of the arch"
+        },
+        {
+          "label": "C",
+          "text": "Aortic dissection"
+        },
+        {
+          "label": "D",
+          "text": "Patent ductus arteriosus"
+        },
+        {
+          "label": "E",
+          "text": "Thoracic aortic aneurysm"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The discrete focal narrowing of the aorta near the isthmus (just beyond the left subclavian artery) on angiographic imaging is the defining feature of aortic coarctation.",
+        "whyCorrect": "The discrete focal narrowing of the aorta near the isthmus (just beyond the left subclavian artery) on angiographic imaging is the defining feature of aortic coarctation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-326_Brick Exchange - Obstructive Congenital Heart Defects_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-327",
+      "topicId": "obstructive-congenital-heart-defects",
+      "topicName": "Obstructive Congenital Heart Defects",
+      "stem": "These serial angiographic images of the aortic arch show a focal narrowed segment (black arrow), an inflated balloon at that segment, and a widened lumen afterward (white arrow). What procedure is being depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pulmonary valvuloplasty"
+        },
+        {
+          "label": "B",
+          "text": "Balloon angioplasty of an aortic coarctation"
+        },
+        {
+          "label": "C",
+          "text": "Coronary artery stenting"
+        },
+        {
+          "label": "D",
+          "text": "Transcatheter aortic valve replacement"
+        },
+        {
+          "label": "E",
+          "text": "Atrial septal defect closure"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The sequence shows a stenotic aortic segment, balloon dilation, and post-procedure luminal improvement, illustrating catheter-based balloon angioplasty used to treat coarctation of the aorta.",
+        "whyCorrect": "The sequence shows a stenotic aortic segment, balloon dilation, and post-procedure luminal improvement, illustrating catheter-based balloon angioplasty used to treat coarctation of the aorta.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-327_Brick Exchange - Obstructive Congenital Heart Defects_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-539",
+      "topicId": "obstructive-congenital-heart-defects",
+      "topicName": "Obstructive Congenital Heart Defects",
+      "stem": "Compared with the normal heart (left), the right panel shows a thickened, incompletely opening valve between the right ventricle and pulmonary artery. Which chamber change would you most expect as a chronic consequence?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Left atrial dilation"
+        },
+        {
+          "label": "B",
+          "text": "Right ventricular hypertrophy"
+        },
+        {
+          "label": "C",
+          "text": "Right atrial hypoplasia"
+        },
+        {
+          "label": "D",
+          "text": "Left ventricular hypertrophy"
+        },
+        {
+          "label": "E",
+          "text": "Thinning of the interventricular septum"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Pulmonary valve stenosis increases the afterload on the right ventricle, which must generate higher pressures to eject blood through the narrowed valve, leading to concentric right ventricular hypertrophy.",
+        "whyCorrect": "Pulmonary valve stenosis increases the afterload on the right ventricle, which must generate higher pressures to eject blood through the narrowed valve, leading to concentric right ventricular hypertrophy.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-539_Brick Exchange - Obstructive Congenital Heart Defects_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-540",
+      "topicId": "obstructive-congenital-heart-defects",
+      "topicName": "Obstructive Congenital Heart Defects",
+      "stem": "The right panel shows a thickened valve at the outflow of the left ventricle that fails to open fully during systole. Chronic pressure overload from this lesion most directly produces which change?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dilation of the aortic root aneurysm"
+        },
+        {
+          "label": "B",
+          "text": "Left atrial thrombus formation"
+        },
+        {
+          "label": "C",
+          "text": "Right ventricular hypertrophy"
+        },
+        {
+          "label": "D",
+          "text": "Eccentric left ventricular dilation"
+        },
+        {
+          "label": "E",
+          "text": "Concentric left ventricular hypertrophy"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Aortic stenosis imposes a pressure (afterload) overload on the left ventricle, which responds with concentric hypertrophy (parallel sarcomere addition) to maintain wall stress while ejecting through the narrowed valve.",
+        "whyCorrect": "Aortic stenosis imposes a pressure (afterload) overload on the left ventricle, which responds with concentric hypertrophy (parallel sarcomere addition) to maintain wall stress while ejecting through the narrowed valve.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-540_Brick Exchange - Obstructive Congenital Heart Defects_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-541",
+      "topicId": "obstructive-congenital-heart-defects",
+      "topicName": "Obstructive Congenital Heart Defects",
+      "stem": "These three schematics classify coarctation of the aorta by its position relative to the ductus arteriosus. The form that typically presents in the neonatal period with lower-body cyanosis and collapse when the ductus closes is which type?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Preductal (infantile) coarctation"
+        },
+        {
+          "label": "B",
+          "text": "Ductal coarctation"
+        },
+        {
+          "label": "C",
+          "text": "Postductal (adult) coarctation"
+        },
+        {
+          "label": "D",
+          "text": "Pseudocoarctation"
+        },
+        {
+          "label": "E",
+          "text": "Interrupted aortic arch type B"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In preductal coarctation the narrowing lies proximal to the ductus arteriosus, so lower-body perfusion depends on right-to-left ductal flow; ductal closure after birth precipitates lower-body hypoperfusion and differential cyanosis, unlike the later-presenting postductal form.",
+        "whyCorrect": "In preductal coarctation the narrowing lies proximal to the ductus arteriosus, so lower-body perfusion depends on right-to-left ductal flow; ductal closure after birth precipitates lower-body hypoperfusion and differential cyanosis, unlike the later-presenting postductal form.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-541_Brick Exchange - Obstructive Congenital Heart Defects_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-793",
+      "topicId": "obstructive-congenital-heart-defects",
+      "topicName": "Obstructive Congenital Heart Defects",
+      "stem": "The right diagram shows a focal narrowing of the aorta just past the origin of the left subclavian artery. In an adult with this lesion, which physical exam finding is classically expected?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Equal, bounding pulses in all four limbs"
+        },
+        {
+          "label": "B",
+          "text": "Cyanosis of the upper body only"
+        },
+        {
+          "label": "C",
+          "text": "Hypertension in the legs with weak arm pulses"
+        },
+        {
+          "label": "D",
+          "text": "Continuous machinery murmur with wide pulse pressure"
+        },
+        {
+          "label": "E",
+          "text": "Upper extremity hypertension with diminished femoral pulses"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Coarctation distal to the left subclavian raises blood pressure proximally (arms) while reducing perfusion pressure distally, producing upper-limb hypertension and weak, delayed lower-extremity (radiofemoral delay) pulses.",
+        "whyCorrect": "Coarctation distal to the left subclavian raises blood pressure proximally (arms) while reducing perfusion pressure distally, producing upper-limb hypertension and weak, delayed lower-extremity (radiofemoral delay) pulses.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-793_Brick Exchange - Obstructive Congenital Heart Defects_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-794",
+      "topicId": "obstructive-congenital-heart-defects",
+      "topicName": "Obstructive Congenital Heart Defects",
+      "stem": "This diagram traces blood flow around an aortic narrowing through the subclavian, internal thoracic, and intercostal arteries. This collateral pathway explains which radiographic finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Inferior rib notching"
+        },
+        {
+          "label": "B",
+          "text": "Widened mediastinum"
+        },
+        {
+          "label": "C",
+          "text": "Egg-on-a-string mediastinum"
+        },
+        {
+          "label": "D",
+          "text": "Boot-shaped heart"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary oligemia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "To bypass the coarctation, blood is shunted retrograde through enlarged intercostal arteries fed by the internal thoracic and subclavian vessels; the dilated, pulsatile intercostals erode the undersurface of the ribs, producing rib notching.",
+        "whyCorrect": "To bypass the coarctation, blood is shunted retrograde through enlarged intercostal arteries fed by the internal thoracic and subclavian vessels; the dilated, pulsatile intercostals erode the undersurface of the ribs, producing rib notching.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-794_Brick Exchange - Obstructive Congenital Heart Defects_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-179",
+      "topicId": "acyanotic-congenital-heart-defects-left-to-right-shunts",
+      "topicName": "Acyanotic Congenital Heart Defects (Left-to-Right Shunts)",
+      "stem": "This chest overlay maps the four cardiac auscultation areas (A-P-T and the apex). The systolic ejection murmur of aortic stenosis is heard best at area 'A'; where does this murmur characteristically radiate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "To the interscapular region of the back"
+        },
+        {
+          "label": "B",
+          "text": "To the left lower sternal border"
+        },
+        {
+          "label": "C",
+          "text": "To the axilla"
+        },
+        {
+          "label": "D",
+          "text": "To the epigastrium"
+        },
+        {
+          "label": "E",
+          "text": "To the carotid arteries"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The aortic area sits at the right second intercostal space. Aortic stenosis produces a crescendo-decrescendo systolic ejection murmur that radiates upward along the direction of turbulent flow into the carotid arteries (radiation to the axilla instead suggests mitral regurgitation).",
+        "whyCorrect": "The aortic area sits at the right second intercostal space. Aortic stenosis produces a crescendo-decrescendo systolic ejection murmur that radiates upward along the direction of turbulent flow into the carotid arteries (radiation to the axilla instead suggests mitral regurgitation).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-179_Brick Exchange - Acyanotic Congenital Heart Defects (Left-to-Right Shunts)_p22_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-180",
+      "topicId": "acyanotic-congenital-heart-defects-left-to-right-shunts",
+      "topicName": "Acyanotic Congenital Heart Defects (Left-to-Right Shunts)",
+      "stem": "This bedside cardiac study labels all four chambers, and the right-hand panel adds a mosaic of red and blue flow superimposed on the grayscale image with an ECG tracing at the bottom. What imaging modality is shown?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Echocardiography with color Doppler"
+        },
+        {
+          "label": "B",
+          "text": "Cardiac MRI"
+        },
+        {
+          "label": "C",
+          "text": "Contrast-enhanced CT angiography"
+        },
+        {
+          "label": "D",
+          "text": "Radionuclide myocardial perfusion scan"
+        },
+        {
+          "label": "E",
+          "text": "Coronary catheter angiography (fluoroscopy)"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The real-time grayscale sector image with a simultaneous ECG gate is transthoracic echocardiography; the superimposed red/blue mosaic is color-flow Doppler encoding blood velocity toward (red) and away from (blue) the transducer, used here to reveal shunt flow.",
+        "whyCorrect": "The real-time grayscale sector image with a simultaneous ECG gate is transthoracic echocardiography; the superimposed red/blue mosaic is color-flow Doppler encoding blood velocity toward (red) and away from (blue) the transducer, used here to reveal shunt flow.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-180_Brick Exchange - Acyanotic Congenital Heart Defects (Left-to-Right Shunts)_p23_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-181",
+      "topicId": "acyanotic-congenital-heart-defects-left-to-right-shunts",
+      "topicName": "Acyanotic Congenital Heart Defects (Left-to-Right Shunts)",
+      "stem": "In this clinical photograph a pulse oximeter on the toe reads 80% while one on the finger reads 95%. This finding of lower saturation in the lower body than the upper body is termed what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Peripheral vasoconstriction"
+        },
+        {
+          "label": "B",
+          "text": "Differential cyanosis"
+        },
+        {
+          "label": "C",
+          "text": "Reverse differential cyanosis"
+        },
+        {
+          "label": "D",
+          "text": "Acrocyanosis"
+        },
+        {
+          "label": "E",
+          "text": "Central cyanosis"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Differential cyanosis (pink upper body, cyanotic lower body) occurs when deoxygenated blood shunts right-to-left through a patent ductus arteriosus into the descending aorta distal to the arch vessels, as in a PDA with pulmonary hypertension/Eisenmenger physiology or a coarctation with PDA.",
+        "whyCorrect": "Differential cyanosis (pink upper body, cyanotic lower body) occurs when deoxygenated blood shunts right-to-left through a patent ductus arteriosus into the descending aorta distal to the arch vessels, as in a PDA with pulmonary hypertension/Eisenmenger physiology or a coarctation with PDA.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-181_Brick Exchange - Acyanotic Congenital Heart Defects (Left-to-Right Shunts)_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-182",
+      "topicId": "acyanotic-congenital-heart-defects-left-to-right-shunts",
+      "topicName": "Acyanotic Congenital Heart Defects (Left-to-Right Shunts)",
+      "stem": "This echocardiogram (right panel with color Doppler) demonstrates abnormal flow through a connection between the main pulmonary artery and the descending aorta. In an uncomplicated case, in which direction does blood flow through this connection?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "No net flow because aortic and pulmonary pressures are equal"
+        },
+        {
+          "label": "B",
+          "text": "From the left atrium into the right atrium"
+        },
+        {
+          "label": "C",
+          "text": "From the pulmonary artery into the aorta (right-to-left)"
+        },
+        {
+          "label": "D",
+          "text": "From the pulmonary artery to the aorta only during diastole"
+        },
+        {
+          "label": "E",
+          "text": "From the aorta into the pulmonary artery (left-to-right)"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Aortic pressure exceeds pulmonary artery pressure throughout the cardiac cycle, so a patent ductus arteriosus carries a continuous left-to-right (aorta-to-pulmonary-artery) shunt. Color Doppler shows this as turbulent flow entering the pulmonary artery near the descending aorta.",
+        "whyCorrect": "Aortic pressure exceeds pulmonary artery pressure throughout the cardiac cycle, so a patent ductus arteriosus carries a continuous left-to-right (aorta-to-pulmonary-artery) shunt. Color Doppler shows this as turbulent flow entering the pulmonary artery near the descending aorta.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-182_Brick Exchange - Acyanotic Congenital Heart Defects (Left-to-Right Shunts)_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-410",
+      "topicId": "acyanotic-congenital-heart-defects-left-to-right-shunts",
+      "topicName": "Acyanotic Congenital Heart Defects (Left-to-Right Shunts)",
+      "stem": "This anterior cutaway shows an opening in the wall between the two upper chambers with blood crossing through it. Under normal chamber pressures, in which direction does blood shunt across this defect and what is the immediate hemodynamic result?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Left-to-right shunt that lowers left atrial pressure"
+        },
+        {
+          "label": "B",
+          "text": "Right-to-left shunt causing pulmonary overcirculation"
+        },
+        {
+          "label": "C",
+          "text": "Right-to-left shunt causing systemic hypoxemia"
+        },
+        {
+          "label": "D",
+          "text": "Left-to-right shunt causing right heart volume overload"
+        },
+        {
+          "label": "E",
+          "text": "Bidirectional shunt with no net flow"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Because left atrial pressure normally exceeds right atrial pressure, an atrial septal defect produces an acyanotic left-to-right shunt. The extra volume returning to the right heart and lungs causes right atrial/ventricular volume overload and pulmonary overcirculation.",
+        "whyCorrect": "Because left atrial pressure normally exceeds right atrial pressure, an atrial septal defect produces an acyanotic left-to-right shunt. The extra volume returning to the right heart and lungs causes right atrial/ventricular volume overload and pulmonary overcirculation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-410_Brick Exchange - Acyanotic Congenital Heart Defects (Left-to-Right Shunts)_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-411",
+      "topicId": "acyanotic-congenital-heart-defects-left-to-right-shunts",
+      "topicName": "Acyanotic Congenital Heart Defects (Left-to-Right Shunts)",
+      "stem": "This view of the atrial septum marks several possible locations for an interatrial communication. A defect at the most ventral/inferior location adjacent to the AV valves (the primum type) is characteristically associated with which other anomaly?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Anomalous pulmonary venous return"
+        },
+        {
+          "label": "B",
+          "text": "A cleft anterior mitral valve leaflet"
+        },
+        {
+          "label": "C",
+          "text": "Ebstein anomaly of the tricuspid valve"
+        },
+        {
+          "label": "D",
+          "text": "Coarctation of the aorta"
+        },
+        {
+          "label": "E",
+          "text": "Bicuspid aortic valve"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Ostium primum ASDs arise from failure of endocardial cushion fusion, so they occur low in the septum near the AV valves and are frequently accompanied by a cleft mitral valve and AV canal defects, classically in trisomy 21. (Sinus venosus defects, by contrast, associate with anomalous pulmonary venous drainage.)",
+        "whyCorrect": "Ostium primum ASDs arise from failure of endocardial cushion fusion, so they occur low in the septum near the AV valves and are frequently accompanied by a cleft mitral valve and AV canal defects, classically in trisomy 21. (Sinus venosus defects, by contrast, associate with anomalous pulmonary venous drainage.)",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-411_Brick Exchange - Acyanotic Congenital Heart Defects (Left-to-Right Shunts)_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-412",
+      "topicId": "acyanotic-congenital-heart-defects-left-to-right-shunts",
+      "topicName": "Acyanotic Congenital Heart Defects (Left-to-Right Shunts)",
+      "stem": "This cutaway shows a communication in the wall separating the two pumping chambers, with a shunt arrow crossing from one to the other. What auscultatory finding does this lesion classically produce?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A continuous 'machinery' murmur"
+        },
+        {
+          "label": "B",
+          "text": "A systolic ejection murmur that increases with inspiration"
+        },
+        {
+          "label": "C",
+          "text": "A mid-diastolic rumble at the apex"
+        },
+        {
+          "label": "D",
+          "text": "An early diastolic decrescendo murmur"
+        },
+        {
+          "label": "E",
+          "text": "A holosystolic murmur at the left lower sternal border"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "A ventricular septal defect drives a left-to-right shunt throughout systole because left ventricular pressure exceeds right ventricular pressure for the entire ejection period, producing a harsh holosystolic murmur best heard at the left lower sternal border. Interestingly, smaller VSDs are often louder.",
+        "whyCorrect": "A ventricular septal defect drives a left-to-right shunt throughout systole because left ventricular pressure exceeds right ventricular pressure for the entire ejection period, producing a harsh holosystolic murmur best heard at the left lower sternal border. Interestingly, smaller VSDs are often louder.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-412_Brick Exchange - Acyanotic Congenital Heart Defects (Left-to-Right Shunts)_p19_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-413",
+      "topicId": "acyanotic-congenital-heart-defects-left-to-right-shunts",
+      "topicName": "Acyanotic Congenital Heart Defects (Left-to-Right Shunts)",
+      "stem": "This diagram shows persistent postnatal patency of the vessel connecting the aorta and pulmonary artery, with resulting increased pulmonary flow and an enlarged left ventricle. What is the characteristic auscultatory finding of this lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A continuous 'machinery' murmur"
+        },
+        {
+          "label": "B",
+          "text": "A systolic ejection click radiating to the carotids"
+        },
+        {
+          "label": "C",
+          "text": "An opening snap followed by a diastolic rumble"
+        },
+        {
+          "label": "D",
+          "text": "A holosystolic murmur at the lower sternal border"
+        },
+        {
+          "label": "E",
+          "text": "A fixed, widely split S2"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Because aortic pressure exceeds pulmonary pressure in both systole and diastole, a patent ductus arteriosus shunts blood left-to-right throughout the cardiac cycle, producing a continuous 'machinery' murmur. Chronic left-heart volume overload causes left ventricular/atrial enlargement.",
+        "whyCorrect": "Because aortic pressure exceeds pulmonary pressure in both systole and diastole, a patent ductus arteriosus shunts blood left-to-right throughout the cardiac cycle, producing a continuous 'machinery' murmur. Chronic left-heart volume overload causes left ventricular/atrial enlargement.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-413_Brick Exchange - Acyanotic Congenital Heart Defects (Left-to-Right Shunts)_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-599",
+      "topicId": "acyanotic-congenital-heart-defects-left-to-right-shunts",
+      "topicName": "Acyanotic Congenital Heart Defects (Left-to-Right Shunts)",
+      "stem": "This five-stage sequence traces the formation and apposition of two membranous partitions that divide the primitive common atrium. What normally happens to these structures at birth?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The septum primum perforates to create a new ostium secundum after birth"
+        },
+        {
+          "label": "B",
+          "text": "The septum secundum degenerates, leaving the foramen ovale permanently open"
+        },
+        {
+          "label": "C",
+          "text": "The endocardial cushions fuse to form the interventricular septum"
+        },
+        {
+          "label": "D",
+          "text": "The ostium primum enlarges to become the coronary sinus"
+        },
+        {
+          "label": "E",
+          "text": "Rising left atrial pressure presses the septum primum against the septum secundum"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "During fetal life blood shunts right-to-left through the foramen ovale (between the ostium secundum and the septum secundum). After birth, increased pulmonary venous return raises left atrial pressure, pushing the flap-like septum primum against the septum secundum and functionally closing the foramen ovale; failure to seal leaves a patent foramen ovale.",
+        "whyCorrect": "During fetal life blood shunts right-to-left through the foramen ovale (between the ostium secundum and the septum secundum). After birth, increased pulmonary venous return raises left atrial pressure, pushing the flap-like septum primum against the septum secundum and functionally closing the foramen ovale; failure to seal leaves a patent foramen ovale.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-599_Brick Exchange - Acyanotic Congenital Heart Defects (Left-to-Right Shunts)_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-600",
+      "topicId": "acyanotic-congenital-heart-defects-left-to-right-shunts",
+      "topicName": "Acyanotic Congenital Heart Defects (Left-to-Right Shunts)",
+      "stem": "This diagram contrasts the normal respiratory variation in the second heart sound with a pattern that stays widely split and unchanged between inspiration and expiration. The lower ('fixed, wide') pattern is the classic auscultatory sign of which lesion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Patent ductus arteriosus"
+        },
+        {
+          "label": "B",
+          "text": "Ventricular septal defect"
+        },
+        {
+          "label": "C",
+          "text": "Atrial septal defect"
+        },
+        {
+          "label": "D",
+          "text": "Aortic stenosis"
+        },
+        {
+          "label": "E",
+          "text": "Mitral regurgitation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In an ASD the left-to-right shunt equalizes right and left atrial filling across the respiratory cycle, so right ventricular ejection (and thus P2 timing relative to A2) no longer varies with inspiration. This produces a fixed, widely split S2.",
+        "whyCorrect": "In an ASD the left-to-right shunt equalizes right and left atrial filling across the respiratory cycle, so right ventricular ejection (and thus P2 timing relative to A2) no longer varies with inspiration. This produces a fixed, widely split S2.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-600_Brick Exchange - Acyanotic Congenital Heart Defects (Left-to-Right Shunts)_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-601",
+      "topicId": "acyanotic-congenital-heart-defects-left-to-right-shunts",
+      "topicName": "Acyanotic Congenital Heart Defects (Left-to-Right Shunts)",
+      "stem": "This schematic shows fusion of the endocardial cushions and the septa that partition the atrioventricular canal and the ventricles. Failure of the membranous portion forming at the top of the ventricular septum to close results in which defect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coarctation of the aorta"
+        },
+        {
+          "label": "B",
+          "text": "Secundum atrial septal defect"
+        },
+        {
+          "label": "C",
+          "text": "Complete atrioventricular canal defect"
+        },
+        {
+          "label": "D",
+          "text": "Patent ductus arteriosus"
+        },
+        {
+          "label": "E",
+          "text": "Membranous ventricular septal defect"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The interventricular septum closes last at its membranous portion, where the endocardial cushions, muscular septum, and conotruncal ridges meet. Failure of these to fuse leaves a membranous VSD, the most common type of ventricular septal defect.",
+        "whyCorrect": "The interventricular septum closes last at its membranous portion, where the endocardial cushions, muscular septum, and conotruncal ridges meet. Failure of these to fuse leaves a membranous VSD, the most common type of ventricular septal defect.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-601_Brick Exchange - Acyanotic Congenital Heart Defects (Left-to-Right Shunts)_p20_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-602",
+      "topicId": "acyanotic-congenital-heart-defects-left-to-right-shunts",
+      "topicName": "Acyanotic Congenital Heart Defects (Left-to-Right Shunts)",
+      "stem": "These paired diagrams give oxygen-saturation values throughout the heart in a normal patient and in one with the labeled defect; note the right ventricle rises from 75% to 83%. This oxygen 'step-up' in the right ventricle is direct evidence of what?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A pulmonary arteriovenous malformation"
+        },
+        {
+          "label": "B",
+          "text": "A right-to-left shunt at the ventricular level"
+        },
+        {
+          "label": "C",
+          "text": "A left-to-right shunt at the atrial level"
+        },
+        {
+          "label": "D",
+          "text": "Globally reduced systemic oxygen extraction"
+        },
+        {
+          "label": "E",
+          "text": "A left-to-right shunt at the ventricular level"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Fully saturated left ventricular blood crossing a VSD mixes into the deoxygenated right ventricular blood, raising RV saturation above the expected ~75%. A saturation step-up localizes the shunt to the chamber where it first appears (here the right ventricle), confirming a left-to-right VSD.",
+        "whyCorrect": "Fully saturated left ventricular blood crossing a VSD mixes into the deoxygenated right ventricular blood, raising RV saturation above the expected ~75%. A saturation step-up localizes the shunt to the chamber where it first appears (here the right ventricle), confirming a left-to-right VSD.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-602_Brick Exchange - Acyanotic Congenital Heart Defects (Left-to-Right Shunts)_p24_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-603",
+      "topicId": "acyanotic-congenital-heart-defects-left-to-right-shunts",
+      "topicName": "Acyanotic Congenital Heart Defects (Left-to-Right Shunts)",
+      "stem": "This diagram traces blood flow through the fetal heart and its three shunts. What is the primary functional purpose of the shunt (labeled at the great vessels) that connects the pulmonary artery to the aorta?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "To shunt blood from the left atrium into the right atrium"
+        },
+        {
+          "label": "B",
+          "text": "To bypass the fetal liver with placental blood"
+        },
+        {
+          "label": "C",
+          "text": "To deliver oxygenated blood to the fetal lungs for gas exchange"
+        },
+        {
+          "label": "D",
+          "text": "To divert blood away from the non-functioning fetal lungs"
+        },
+        {
+          "label": "E",
+          "text": "To equalize pressure between the two ventricles"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The ductus arteriosus shunts blood from the pulmonary artery to the aorta, bypassing the high-resistance, fluid-filled fetal lungs. (The foramen ovale bypasses the lungs at the atrial level, and the ductus venosus bypasses the liver.) It normally closes after birth as oxygen tension rises and prostaglandins fall.",
+        "whyCorrect": "The ductus arteriosus shunts blood from the pulmonary artery to the aorta, bypassing the high-resistance, fluid-filled fetal lungs. (The foramen ovale bypasses the lungs at the atrial level, and the ductus venosus bypasses the liver.) It normally closes after birth as oxygen tension rises and prostaglandins fall.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-603_Brick Exchange - Acyanotic Congenital Heart Defects (Left-to-Right Shunts)_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-236",
+      "topicId": "cyanotic-congenital-heart-defects-right-to-left-shunts",
+      "topicName": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+      "stem": "This chest radiograph shows a cardiac silhouette resembling the boot placed beside it. This classic 'boot-shaped heart' is most characteristic of which cyanotic congenital defect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Persistent truncus arteriosus"
+        },
+        {
+          "label": "B",
+          "text": "Transposition of the great arteries"
+        },
+        {
+          "label": "C",
+          "text": "Tetralogy of Fallot"
+        },
+        {
+          "label": "D",
+          "text": "Tricuspid atresia"
+        },
+        {
+          "label": "E",
+          "text": "Total anomalous pulmonary venous return"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "In Tetralogy of Fallot, right ventricular hypertrophy with an upturned apex and a concave (small) pulmonary artery segment produces the characteristic coeur en sabot, or boot-shaped, cardiac silhouette.",
+        "whyCorrect": "In Tetralogy of Fallot, right ventricular hypertrophy with an upturned apex and a concave (small) pulmonary artery segment produces the characteristic coeur en sabot, or boot-shaped, cardiac silhouette.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-236_Brick Exchange - Cyanotic Congenital Heart Defects (Right-to-Left Shunts)_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-237",
+      "topicId": "cyanotic-congenital-heart-defects-right-to-left-shunts",
+      "topicName": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+      "stem": "This echocardiogram demonstrates an enlarged right ventricle, a ventricular septal defect, and an aorta that overrides the ventricular septum. Which condition is depicted?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Isolated atrial septal defect"
+        },
+        {
+          "label": "B",
+          "text": "Coarctation of the aorta"
+        },
+        {
+          "label": "C",
+          "text": "Patent ductus arteriosus"
+        },
+        {
+          "label": "D",
+          "text": "Tetralogy of Fallot"
+        },
+        {
+          "label": "E",
+          "text": "Isolated mitral stenosis"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "An overriding aorta and VSD with right ventricular hypertrophy are two of the four hallmark features of Tetralogy of Fallot (the others being pulmonary stenosis and RVH driving the right-to-left shunt).",
+        "whyCorrect": "An overriding aorta and VSD with right ventricular hypertrophy are two of the four hallmark features of Tetralogy of Fallot (the others being pulmonary stenosis and RVH driving the right-to-left shunt).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-237_Brick Exchange - Cyanotic Congenital Heart Defects (Right-to-Left Shunts)_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-238",
+      "topicId": "cyanotic-congenital-heart-defects-right-to-left-shunts",
+      "topicName": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+      "stem": "This echocardiogram is annotated to show an absent tricuspid valve together with a ventricular septal defect. Which cyanotic congenital defect does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tetralogy of Fallot"
+        },
+        {
+          "label": "B",
+          "text": "Tricuspid atresia"
+        },
+        {
+          "label": "C",
+          "text": "Ebstein anomaly"
+        },
+        {
+          "label": "D",
+          "text": "Transposition of the great arteries"
+        },
+        {
+          "label": "E",
+          "text": "Persistent truncus arteriosus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Tricuspid atresia is the complete absence of the tricuspid valve, so blood must cross an atrial-level shunt and a VSD to reach the hypoplastic right ventricle and lungs, producing cyanosis.",
+        "whyCorrect": "Tricuspid atresia is the complete absence of the tricuspid valve, so blood must cross an atrial-level shunt and a VSD to reach the hypoplastic right ventricle and lungs, producing cyanosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-238_Brick Exchange - Cyanotic Congenital Heart Defects (Right-to-Left Shunts)_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-239",
+      "topicId": "cyanotic-congenital-heart-defects-right-to-left-shunts",
+      "topicName": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+      "stem": "These paired grayscale cross-sectional cardiac images with bright blood pool, labeled by chamber (RA, LA, RV, LV), were obtained using which imaging modality?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Coronary angiography"
+        },
+        {
+          "label": "B",
+          "text": "Positron emission tomography (PET)"
+        },
+        {
+          "label": "C",
+          "text": "Cardiac MRI"
+        },
+        {
+          "label": "D",
+          "text": "Transthoracic echocardiography"
+        },
+        {
+          "label": "E",
+          "text": "Plain chest radiograph"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The tomographic slices with uniformly bright intracavitary blood and high soft-tissue contrast delineating myocardium and chambers are typical of cine cardiac MRI rather than ultrasound or radiographic techniques.",
+        "whyCorrect": "The tomographic slices with uniformly bright intracavitary blood and high soft-tissue contrast delineating myocardium and chambers are typical of cine cardiac MRI rather than ultrasound or radiographic techniques.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-239_Brick Exchange - Cyanotic Congenital Heart Defects (Right-to-Left Shunts)_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-240",
+      "topicId": "cyanotic-congenital-heart-defects-right-to-left-shunts",
+      "topicName": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+      "stem": "What imaging modality produced this labeled cross-sectional view of the cardiac chambers and great vessels?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cardiac MRI"
+        },
+        {
+          "label": "B",
+          "text": "Chest radiograph"
+        },
+        {
+          "label": "C",
+          "text": "Coronary angiography"
+        },
+        {
+          "label": "D",
+          "text": "Transthoracic echocardiogram"
+        },
+        {
+          "label": "E",
+          "text": "Nuclear myocardial perfusion scan"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The grayscale tomographic soft-tissue image showing the ventricles and great vessels in a single slice is characteristic of cardiac magnetic resonance imaging.",
+        "whyCorrect": "The grayscale tomographic soft-tissue image showing the ventricles and great vessels in a single slice is characteristic of cardiac magnetic resonance imaging.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-240_Brick Exchange - Cyanotic Congenital Heart Defects (Right-to-Left Shunts)_p23_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-466",
+      "topicId": "cyanotic-congenital-heart-defects-right-to-left-shunts",
+      "topicName": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+      "stem": "This diagram shows a single arterial trunk leaving the heart that gives rise to both the aorta and the pulmonary arteries, guarded by one truncal valve. What defect is illustrated?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Aortopulmonary window"
+        },
+        {
+          "label": "B",
+          "text": "Persistent truncus arteriosus"
+        },
+        {
+          "label": "C",
+          "text": "Transposition of the great arteries"
+        },
+        {
+          "label": "D",
+          "text": "Tetralogy of Fallot"
+        },
+        {
+          "label": "E",
+          "text": "Double outlet right ventricle"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Persistent truncus arteriosus results from failure of the truncus to septate into separate aortic and pulmonary trunks, leaving a single truncal vessel and valve overriding a VSD that mixes systemic and pulmonary blood.",
+        "whyCorrect": "Persistent truncus arteriosus results from failure of the truncus to septate into separate aortic and pulmonary trunks, leaving a single truncal vessel and valve overriding a VSD that mixes systemic and pulmonary blood.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-466_Brick Exchange - Cyanotic Congenital Heart Defects (Right-to-Left Shunts)_p19_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-467",
+      "topicId": "cyanotic-congenital-heart-defects-right-to-left-shunts",
+      "topicName": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+      "stem": "This patient's fingers and toes show a bluish-dusky discoloration. What underlying abnormality does this finding most directly reflect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bilirubin deposition in the skin"
+        },
+        {
+          "label": "B",
+          "text": "Excess methemoglobin from a genetic enzyme defect"
+        },
+        {
+          "label": "C",
+          "text": "Increased deoxygenated hemoglobin"
+        },
+        {
+          "label": "D",
+          "text": "Dermal iron deposition from iron overload"
+        },
+        {
+          "label": "E",
+          "text": "Carboxyhemoglobin from carbon monoxide poisoning"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Cyanosis of the digits appears when the absolute amount of deoxygenated (reduced) hemoglobin in the blood rises, giving skin and mucosa a bluish color; in right-to-left shunts this reflects poorly oxygenated blood reaching the systemic circulation.",
+        "whyCorrect": "Cyanosis of the digits appears when the absolute amount of deoxygenated (reduced) hemoglobin in the blood rises, giving skin and mucosa a bluish color; in right-to-left shunts this reflects poorly oxygenated blood reaching the systemic circulation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-467_Brick Exchange - Cyanotic Congenital Heart Defects (Right-to-Left Shunts)_p1_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-468",
+      "topicId": "cyanotic-congenital-heart-defects-right-to-left-shunts",
+      "topicName": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+      "stem": "This heart shows four features: pulmonary valve stenosis, an overriding aorta, a ventricular septal defect, and an enlarged (hypertrophied) right ventricle. What is the diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tricuspid atresia"
+        },
+        {
+          "label": "B",
+          "text": "Tetralogy of Fallot"
+        },
+        {
+          "label": "C",
+          "text": "Transposition of the great arteries"
+        },
+        {
+          "label": "D",
+          "text": "Truncus arteriosus"
+        },
+        {
+          "label": "E",
+          "text": "Total anomalous pulmonary venous return"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The tetrad of pulmonary stenosis, overriding aorta, ventricular septal defect, and right ventricular hypertrophy defines Tetralogy of Fallot, the most common cyanotic congenital heart disease of childhood.",
+        "whyCorrect": "The tetrad of pulmonary stenosis, overriding aorta, ventricular septal defect, and right ventricular hypertrophy defines Tetralogy of Fallot, the most common cyanotic congenital heart disease of childhood.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-468_Brick Exchange - Cyanotic Congenital Heart Defects (Right-to-Left Shunts)_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-469",
+      "topicId": "cyanotic-congenital-heart-defects-right-to-left-shunts",
+      "topicName": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+      "stem": "This infant illustration shows bluish discoloration of the lips, hands, and feet. What does this appearance most likely indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Bruising from birth trauma"
+        },
+        {
+          "label": "B",
+          "text": "Pallor from severe anemia"
+        },
+        {
+          "label": "C",
+          "text": "Normal newborn acrocyanosis that resolves within hours"
+        },
+        {
+          "label": "D",
+          "text": "Central cyanosis from a right-to-left cardiac shunt"
+        },
+        {
+          "label": "E",
+          "text": "Jaundice from hemolytic disease of the newborn"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Bluish discoloration involving the lips and trunk (not just the extremities) indicates central cyanosis, seen when a right-to-left shunt delivers deoxygenated blood to the systemic circulation.",
+        "whyCorrect": "Bluish discoloration involving the lips and trunk (not just the extremities) indicates central cyanosis, seen when a right-to-left shunt delivers deoxygenated blood to the systemic circulation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-469_Brick Exchange - Cyanotic Congenital Heart Defects (Right-to-Left Shunts)_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-470",
+      "topicId": "cyanotic-congenital-heart-defects-right-to-left-shunts",
+      "topicName": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+      "stem": "This patient's fingertips appear dusky and bulbous. Chronic hypoxemia from a cyanotic heart defect classically produces which finger finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Leukonychia"
+        },
+        {
+          "label": "B",
+          "text": "Digital clubbing"
+        },
+        {
+          "label": "C",
+          "text": "Splinter hemorrhages"
+        },
+        {
+          "label": "D",
+          "text": "Koilonychia (spoon nails)"
+        },
+        {
+          "label": "E",
+          "text": "Beau's lines"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Long-standing hypoxemia stimulates soft-tissue proliferation at the nail beds, producing the bulbous fingertips and increased nail curvature known as digital clubbing.",
+        "whyCorrect": "Long-standing hypoxemia stimulates soft-tissue proliferation at the nail beds, producing the bulbous fingertips and increased nail curvature known as digital clubbing.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-470_Brick Exchange - Cyanotic Congenital Heart Defects (Right-to-Left Shunts)_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-708",
+      "topicId": "cyanotic-congenital-heart-defects-right-to-left-shunts",
+      "topicName": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+      "stem": "In this diagram the aorta carries purple 'mixed blood' because blood crosses the labeled shunts. What is the physiologic consequence of this mixing?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Reduced pulmonary blood flow with normal systemic oxygenation"
+        },
+        {
+          "label": "B",
+          "text": "Complete separation of the pulmonary and systemic circulations"
+        },
+        {
+          "label": "C",
+          "text": "Isolated left ventricular hypertrophy without cyanosis"
+        },
+        {
+          "label": "D",
+          "text": "Left-to-right shunting causing pulmonary overcirculation only"
+        },
+        {
+          "label": "E",
+          "text": "Systemic delivery of partially deoxygenated blood"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "When oxygen-poor and oxygen-rich blood mix through connections such as a patent ductus arteriosus and foramen ovale, the aorta ejects blood of intermediate oxygen content to the body, causing cyanosis.",
+        "whyCorrect": "When oxygen-poor and oxygen-rich blood mix through connections such as a patent ductus arteriosus and foramen ovale, the aorta ejects blood of intermediate oxygen content to the body, causing cyanosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-708_Brick Exchange - Cyanotic Congenital Heart Defects (Right-to-Left Shunts)_p22_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-709",
+      "topicId": "cyanotic-congenital-heart-defects-right-to-left-shunts",
+      "topicName": "Cyanotic Congenital Heart Defects (Right-to-Left Shunts)",
+      "stem": "In the anomaly on the right, all pulmonary venous blood returns to the right atrium. Why is the labeled atrial septal defect essential for the infant to survive?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It equalizes pressures to reverse the direction of shunting"
+        },
+        {
+          "label": "B",
+          "text": "It allows deoxygenated blood to bypass stenotic lungs"
+        },
+        {
+          "label": "C",
+          "text": "It reflexively closes the ductus arteriosus"
+        },
+        {
+          "label": "D",
+          "text": "It decompresses the left ventricle to prevent failure"
+        },
+        {
+          "label": "E",
+          "text": "It is the only route for oxygenated blood to reach the systemic circulation"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "When pulmonary veins connect anomalously to the systemic venous system, all blood collects in the right atrium; a right-to-left shunt across an atrial septal defect is the only way oxygenated blood can pass to the left heart and body.",
+        "whyCorrect": "When pulmonary veins connect anomalously to the systemic venous system, all blood collects in the right atrium; a right-to-left shunt across an atrial septal defect is the only way oxygenated blood can pass to the left heart and body.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-709_Brick Exchange - Cyanotic Congenital Heart Defects (Right-to-Left Shunts)_p25_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

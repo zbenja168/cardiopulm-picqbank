@@ -1,0 +1,942 @@
+{
+  "categoryId": "cardio_w3s2",
+  "categoryName": "Session 2",
+  "questions": [
+    {
+      "id": "repic-190",
+      "topicId": "angina-pectoris",
+      "topicName": "Angina Pectoris",
+      "stem": "This 12-lead ECG from a patient with exertional chest pain shows the abnormality indicated by the arrows across multiple leads. What does this finding most likely represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Peaked T waves of hyperkalemia"
+        },
+        {
+          "label": "B",
+          "text": "Pathologic Q waves from a completed infarct"
+        },
+        {
+          "label": "C",
+          "text": "ST-segment depression indicating subendocardial ischemia"
+        },
+        {
+          "label": "D",
+          "text": "Delta waves of ventricular pre-excitation"
+        },
+        {
+          "label": "E",
+          "text": "ST-segment elevation indicating transmural infarction"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Horizontal or down-sloping ST-segment depression across multiple leads is the classic ECG marker of subendocardial ischemia, typical of stable/unstable angina where oxygen demand exceeds supply. ST elevation would instead suggest transmural injury (STEMI).",
+        "whyCorrect": "Horizontal or down-sloping ST-segment depression across multiple leads is the classic ECG marker of subendocardial ischemia, typical of stable/unstable angina where oxygen demand exceeds supply. ST elevation would instead suggest transmural injury (STEMI).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-190_Brick Exchange - Angina Pectoris_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-191",
+      "topicId": "angina-pectoris",
+      "topicName": "Angina Pectoris",
+      "stem": "This cardiac CT angiogram shows a coronary vessel (arrow) with an area of luminal narrowing and adjacent higher-density material in the wall. What does this noninvasive study primarily demonstrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A congenital coronary artery fistula"
+        },
+        {
+          "label": "B",
+          "text": "A pulmonary embolus lodged in a pulmonary artery"
+        },
+        {
+          "label": "C",
+          "text": "Atherosclerotic plaque causing coronary artery stenosis"
+        },
+        {
+          "label": "D",
+          "text": "A pericardial effusion compressing the ventricle"
+        },
+        {
+          "label": "E",
+          "text": "A dissection flap within the aortic root"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Coronary CT angiography visualizes the coronary lumen and wall noninvasively. Narrowing with adjacent (often calcified) plaque indicates atherosclerotic stenosis, the anatomic substrate for angina and acute coronary syndromes.",
+        "whyCorrect": "Coronary CT angiography visualizes the coronary lumen and wall noninvasively. Narrowing with adjacent (often calcified) plaque indicates atherosclerotic stenosis, the anatomic substrate for angina and acute coronary syndromes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-191_Brick Exchange - Angina Pectoris_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-192",
+      "topicId": "angina-pectoris",
+      "topicName": "Angina Pectoris",
+      "stem": "This invasive catheter-based image opacifies the coronary tree with contrast; arrows mark a focal region of the vessel. What finding does this study best demonstrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Mitral regurgitation on a contrast study"
+        },
+        {
+          "label": "B",
+          "text": "Left ventricular aneurysm on ventriculography"
+        },
+        {
+          "label": "C",
+          "text": "Normal coronary arteries with no obstruction"
+        },
+        {
+          "label": "D",
+          "text": "A focal coronary artery stenosis"
+        },
+        {
+          "label": "E",
+          "text": "Aortic coarctation on aortography"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Invasive coronary angiography injects contrast directly into the coronary arteries via a catheter. A focal reduction in contrast column (arrows) indicates a hemodynamically significant stenosis, the gold-standard demonstration of obstructive coronary disease.",
+        "whyCorrect": "Invasive coronary angiography injects contrast directly into the coronary arteries via a catheter. A focal reduction in contrast column (arrows) indicates a hemodynamically significant stenosis, the gold-standard demonstration of obstructive coronary disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-192_Brick Exchange - Angina Pectoris_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-193",
+      "topicId": "angina-pectoris",
+      "topicName": "Angina Pectoris",
+      "stem": "These paired coronary angiographic images from the same patient show the vessel before (left) and after (right, arrows) an intervention, with markedly improved contrast filling of the artery and its branches on the right. What does this comparison best demonstrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Progression of an untreated coronary occlusion"
+        },
+        {
+          "label": "B",
+          "text": "Spontaneous coronary artery dissection"
+        },
+        {
+          "label": "C",
+          "text": "Contrast extravasation from a ruptured vessel"
+        },
+        {
+          "label": "D",
+          "text": "Restoration of coronary blood flow after revascularization"
+        },
+        {
+          "label": "E",
+          "text": "Development of a new coronary aneurysm"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "The left panel shows a poorly opacified/obstructed vessel; after revascularization (e.g., PCI/stenting or bypass) the right panel shows restored antegrade flow into the artery and its distal branches, the therapeutic goal in obstructive coronary disease.",
+        "whyCorrect": "The left panel shows a poorly opacified/obstructed vessel; after revascularization (e.g., PCI/stenting or bypass) the right panel shows restored antegrade flow into the artery and its distal branches, the therapeutic goal in obstructive coronary disease.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-193_Brick Exchange - Angina Pectoris_p21_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-416",
+      "topicId": "angina-pectoris",
+      "topicName": "Angina Pectoris",
+      "stem": "This classification of ischemic heart disease separates acute coronary syndromes (unstable angina, NSTEMI, STEMI) from another chronic category. What distinguishes myocardial infarction from unstable angina within this scheme?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Unstable angina causes permanent scar while MI resolves completely"
+        },
+        {
+          "label": "B",
+          "text": "Myocardial infarction involves myocyte necrosis, whereas unstable angina does not"
+        },
+        {
+          "label": "C",
+          "text": "Myocardial infarction is caused by coronary vasospasm and unstable angina by embolism"
+        },
+        {
+          "label": "D",
+          "text": "Myocardial infarction occurs only with exertion, unstable angina only at rest"
+        },
+        {
+          "label": "E",
+          "text": "Unstable angina always shows ST elevation while MI never does"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Within acute coronary syndrome, unstable angina and MI both reflect plaque rupture/thrombosis, but MI (NSTEMI or STEMI) is defined by myocardial necrosis and troponin elevation. Unstable angina has ischemic symptoms without a detectable rise in biomarkers. Stable angina is the chronic category.",
+        "whyCorrect": "Within acute coronary syndrome, unstable angina and MI both reflect plaque rupture/thrombosis, but MI (NSTEMI or STEMI) is defined by myocardial necrosis and troponin elevation. Unstable angina has ischemic symptoms without a detectable rise in biomarkers. Stable angina is the chronic category.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-416_Brick Exchange - Angina Pectoris_p1_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-417",
+      "topicId": "angina-pectoris",
+      "topicName": "Angina Pectoris",
+      "stem": "This histologic section of a coronary artery shows a disrupted lipid-laden lesion with overlying platelet-rich and fibrin-rich material occluding the lumen. This combination of findings is the immediate cause of which clinical event?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Dilated cardiomyopathy from chronic alcohol use"
+        },
+        {
+          "label": "B",
+          "text": "Acute coronary syndrome from thrombotic occlusion"
+        },
+        {
+          "label": "C",
+          "text": "Aortic dissection from cystic medial degeneration"
+        },
+        {
+          "label": "D",
+          "text": "Pericarditis from a viral infection"
+        },
+        {
+          "label": "E",
+          "text": "Chronic stable angina from a fixed, stable plaque"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The section shows a ruptured atherosclerotic plaque with an exposed lipid core triggering platelet and fibrin thrombus formation. Acute thrombotic occlusion over a ruptured plaque is the mechanism of acute coronary syndrome (unstable angina, NSTEMI, STEMI), not stable angina.",
+        "whyCorrect": "The section shows a ruptured atherosclerotic plaque with an exposed lipid core triggering platelet and fibrin thrombus formation. Acute thrombotic occlusion over a ruptured plaque is the mechanism of acute coronary syndrome (unstable angina, NSTEMI, STEMI), not stable angina.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-417_Brick Exchange - Angina Pectoris_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-580",
+      "topicId": "angina-pectoris",
+      "topicName": "Angina Pectoris",
+      "stem": "This schematic contrasts agents/interventions acting on the left versus the right of a central determinant of myocardial ischemia. What overarching therapeutic principle does it illustrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Antianginal therapy relieves ischemia by restoring the balance between myocardial oxygen supply and demand"
+        },
+        {
+          "label": "B",
+          "text": "Antianginal drugs work only by dissolving coronary thrombi"
+        },
+        {
+          "label": "C",
+          "text": "Ischemia is treated primarily by increasing systemic blood pressure"
+        },
+        {
+          "label": "D",
+          "text": "Nitrates act mainly by increasing myocardial contractility"
+        },
+        {
+          "label": "E",
+          "text": "Angina is relieved solely by raising the heart rate"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Ischemia occurs when myocardial O2 demand exceeds supply. The figure groups interventions that lower demand (beta blockers, nitrates, some Ca2+ channel blockers reducing rate, contractility, preload, afterload) versus those that raise supply (coronary vasodilators), restoring balance.",
+        "whyCorrect": "Ischemia occurs when myocardial O2 demand exceeds supply. The figure groups interventions that lower demand (beta blockers, nitrates, some Ca2+ channel blockers reducing rate, contractility, preload, afterload) versus those that raise supply (coronary vasodilators), restoring balance.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-580_Brick Exchange - Angina Pectoris_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-322",
+      "topicId": "myocardial-infarction",
+      "topicName": "Myocardial Infarction",
+      "stem": "The lower ECG tracing differs from the normal one above by the change marked with the arrow. What does this finding most specifically indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chronic stable angina"
+        },
+        {
+          "label": "B",
+          "text": "Pericardial effusion with tamponade"
+        },
+        {
+          "label": "C",
+          "text": "Atrial fibrillation"
+        },
+        {
+          "label": "D",
+          "text": "Right bundle branch block"
+        },
+        {
+          "label": "E",
+          "text": "Acute transmural myocardial injury"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "ST-segment elevation reflects a current of injury from acute transmural ischemia, defining a STEMI that warrants emergent reperfusion.",
+        "whyCorrect": "ST-segment elevation reflects a current of injury from acute transmural ischemia, defining a STEMI that warrants emergent reperfusion.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-322_Brick Exchange - Myocardial Infarction_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-323",
+      "topicId": "myocardial-infarction",
+      "topicName": "Myocardial Infarction",
+      "stem": "Based on these biomarker time courses after an MI, why is CK-MB preferred over troponin for detecting a re-infarction occurring a few days after the initial event?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "CK-MB is more cardiac-specific than troponin"
+        },
+        {
+          "label": "B",
+          "text": "CK-MB normalizes within 2-3 days, so a fresh rise signals re-infarction"
+        },
+        {
+          "label": "C",
+          "text": "CK-MB rises earlier than troponin after the first infarct"
+        },
+        {
+          "label": "D",
+          "text": "CK-MB peaks higher than troponin"
+        },
+        {
+          "label": "E",
+          "text": "Troponin is undetectable in blood after an MI"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Troponin stays elevated 7-10 days, obscuring a second event; CK-MB returns to baseline in 2-3 days, so a new rise is a useful marker of re-infarction.",
+        "whyCorrect": "Troponin stays elevated 7-10 days, obscuring a second event; CK-MB returns to baseline in 2-3 days, so a new rise is a useful marker of re-infarction.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-323_Brick Exchange - Myocardial Infarction_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-531",
+      "topicId": "myocardial-infarction",
+      "topicName": "Myocardial Infarction",
+      "stem": "This cardiac tissue shows dense neutrophil infiltration at the border of dead myocytes whose cell outlines are still preserved. What is the approximate age of this myocardial infarction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Less than 6 hours old"
+        },
+        {
+          "label": "B",
+          "text": "1-3 days old"
+        },
+        {
+          "label": "C",
+          "text": "About 2 months old"
+        },
+        {
+          "label": "D",
+          "text": "1-2 weeks old"
+        },
+        {
+          "label": "E",
+          "text": "4-7 days old"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Coagulative necrosis (preserved myocyte outlines without nuclei) plus a wave of neutrophilic infiltration is the hallmark of an infarct roughly 1-3 days old.",
+        "whyCorrect": "Coagulative necrosis (preserved myocyte outlines without nuclei) plus a wave of neutrophilic infiltration is the hallmark of an infarct roughly 1-3 days old.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-531_Brick Exchange - Myocardial Infarction_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-532",
+      "topicId": "myocardial-infarction",
+      "topicName": "Myocardial Infarction",
+      "stem": "This region of myocardium shows dense, paucicellular collagen replacing muscle fibers (boxed). Which phase of myocardial infarct healing does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Macrophage clearance of debris (days 3-7)"
+        },
+        {
+          "label": "B",
+          "text": "Scar formation (weeks to months)"
+        },
+        {
+          "label": "C",
+          "text": "Granulation tissue with neovascularization (days 7-10)"
+        },
+        {
+          "label": "D",
+          "text": "Coagulative necrosis within the first day"
+        },
+        {
+          "label": "E",
+          "text": "Acute neutrophilic infiltration (days 1-3)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Dense collagenous scar replacing myocytes is the end stage of infarct healing, occurring over weeks to months; myocardium cannot regenerate.",
+        "whyCorrect": "Dense collagenous scar replacing myocytes is the end stage of infarct healing, occurring over weeks to months; myocardium cannot regenerate.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-532_Brick Exchange - Myocardial Infarction_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-533",
+      "topicId": "myocardial-infarction",
+      "topicName": "Myocardial Infarction",
+      "stem": "This myocardial histology shows hypereosinophilic transverse bands within damaged myocytes. This pattern is most characteristic of which scenario?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A long-standing healed scar"
+        },
+        {
+          "label": "B",
+          "text": "Viral myocarditis"
+        },
+        {
+          "label": "C",
+          "text": "Reperfusion of ischemic myocardium"
+        },
+        {
+          "label": "D",
+          "text": "Cardiac amyloid deposition"
+        },
+        {
+          "label": "E",
+          "text": "Chronic hypertensive hypertrophy"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Contraction band necrosis reflects a massive calcium influx into reperfused, injured myocytes causing hypercontracted sarcomeres; it is typical of reperfusion injury.",
+        "whyCorrect": "Contraction band necrosis reflects a massive calcium influx into reperfused, injured myocytes causing hypercontracted sarcomeres; it is typical of reperfusion injury.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-533_Brick Exchange - Myocardial Infarction_p24_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-534",
+      "topicId": "myocardial-infarction",
+      "topicName": "Myocardial Infarction",
+      "stem": "This cross-section of the ventricles shows a pale, firm, well-demarcated region within the left ventricular wall (boxed). What does this most likely represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute hemorrhage into the myocardium"
+        },
+        {
+          "label": "B",
+          "text": "A cardiac myxoma"
+        },
+        {
+          "label": "C",
+          "text": "A normal papillary muscle"
+        },
+        {
+          "label": "D",
+          "text": "A healed myocardial infarct"
+        },
+        {
+          "label": "E",
+          "text": "An area of fatty infiltration"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A pale, firm, sharply demarcated area of ventricular wall is a healed transmural infarct replaced by collagenous scar.",
+        "whyCorrect": "A pale, firm, sharply demarcated area of ventricular wall is a healed transmural infarct replaced by collagenous scar.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-534_Brick Exchange - Myocardial Infarction_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-786",
+      "topicId": "myocardial-infarction",
+      "topicName": "Myocardial Infarction",
+      "stem": "This diagram of the cardiac thin and thick filaments shows the troponin complex sitting on actin. What triggers the conformational shift that lets myosin heads bind actin and generate contraction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Release of acetylcholine onto the sarcomere"
+        },
+        {
+          "label": "B",
+          "text": "Depolarization opening voltage-gated K+ channels"
+        },
+        {
+          "label": "C",
+          "text": "Phosphorylation of myosin light-chain kinase"
+        },
+        {
+          "label": "D",
+          "text": "Binding of Ca2+ to troponin C"
+        },
+        {
+          "label": "E",
+          "text": "Hydrolysis of GTP by tropomyosin"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Ca2+ binds troponin C, moving troponin I and tropomyosin off the myosin-binding sites on actin, allowing cross-bridge cycling and contraction.",
+        "whyCorrect": "Ca2+ binds troponin C, moving troponin I and tropomyosin off the myosin-binding sites on actin, allowing cross-bridge cycling and contraction.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-786_Brick Exchange - Myocardial Infarction_p20_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-787",
+      "topicId": "myocardial-infarction",
+      "topicName": "Myocardial Infarction",
+      "stem": "This body diagram highlights the typical distribution of a symptom in acute coronary syndrome (chest, left arm, jaw, upper back). What does the shaded pattern represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Sites of subcutaneous emphysema"
+        },
+        {
+          "label": "B",
+          "text": "Areas of cyanosis in heart failure"
+        },
+        {
+          "label": "C",
+          "text": "Distribution of a shingles (herpes zoster) rash"
+        },
+        {
+          "label": "D",
+          "text": "Dermatomes affected by spinal cord injury"
+        },
+        {
+          "label": "E",
+          "text": "Referred/radiating ischemic chest pain"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Cardiac ischemic pain is referred via shared spinal afferents to the chest, left arm, jaw, and back, a classic pattern in myocardial infarction.",
+        "whyCorrect": "Cardiac ischemic pain is referred via shared spinal afferents to the chest, left arm, jaw, and back, a classic pattern in myocardial infarction.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-787_Brick Exchange - Myocardial Infarction_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-087",
+      "topicId": "st-segment-changes-recognition-and-localization-of-myocardial-ischemia",
+      "topicName": "ST Segment Changes: Recognition and Localization of Myocardial Ischemia",
+      "stem": "In this diagram of the coronary circulation, which vessel most commonly supplies the inferior wall of the left ventricle and is the usual culprit in an inferior STEMI?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Left circumflex artery"
+        },
+        {
+          "label": "B",
+          "text": "Left anterior descending artery"
+        },
+        {
+          "label": "C",
+          "text": "Aorta"
+        },
+        {
+          "label": "D",
+          "text": "Right coronary artery"
+        },
+        {
+          "label": "E",
+          "text": "Left main coronary artery"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In right-dominant circulation (about 85% of people) the right coronary artery gives rise to the posterior descending artery supplying the inferior wall, making it the typical culprit in inferior infarcts.",
+        "whyCorrect": "In right-dominant circulation (about 85% of people) the right coronary artery gives rise to the posterior descending artery supplying the inferior wall, making it the typical culprit in inferior infarcts.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-087_Brick Exchange - ST Segment Changes_ Recognition and Localization of Myocardial Ischemia_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-369",
+      "topicId": "st-segment-changes-recognition-and-localization-of-myocardial-ischemia",
+      "topicName": "ST Segment Changes: Recognition and Localization of Myocardial Ischemia",
+      "stem": "On this 12-lead ECG the red arrows mark ST-segment elevation in leads I, aVL, V4, V5 and V6. This distribution localizes an acute STEMI to which region?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Right ventricle"
+        },
+        {
+          "label": "B",
+          "text": "Inferior wall"
+        },
+        {
+          "label": "C",
+          "text": "Apex only"
+        },
+        {
+          "label": "D",
+          "text": "Anterolateral / lateral wall"
+        },
+        {
+          "label": "E",
+          "text": "True posterior wall"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "ST elevation in the lateral leads (I, aVL, V5-V6) plus lateral precordial leads indicates an anterolateral/lateral infarct, typically from left circumflex or a diagonal/LAD branch of the left coronary system.",
+        "whyCorrect": "ST elevation in the lateral leads (I, aVL, V5-V6) plus lateral precordial leads indicates an anterolateral/lateral infarct, typically from left circumflex or a diagonal/LAD branch of the left coronary system.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-369_Brick Exchange - ST Segment Changes_ Recognition and Localization of Myocardial Ischemia_p11_2.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-370",
+      "topicId": "st-segment-changes-recognition-and-localization-of-myocardial-ischemia",
+      "topicName": "ST Segment Changes: Recognition and Localization of Myocardial Ischemia",
+      "stem": "The red arrows highlight ST-segment elevation concentrated in leads II, III and aVF of this 12-lead ECG. Which coronary artery is most commonly responsible for this pattern?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Left circumflex artery (isolated)"
+        },
+        {
+          "label": "B",
+          "text": "Left anterior descending artery"
+        },
+        {
+          "label": "C",
+          "text": "Diagonal branch"
+        },
+        {
+          "label": "D",
+          "text": "Left main coronary artery"
+        },
+        {
+          "label": "E",
+          "text": "Right coronary artery"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "ST elevation in II, III and aVF indicates an inferior wall infarct, most often caused by occlusion of the right coronary artery, which supplies the inferior wall in the majority of individuals.",
+        "whyCorrect": "ST elevation in II, III and aVF indicates an inferior wall infarct, most often caused by occlusion of the right coronary artery, which supplies the inferior wall in the majority of individuals.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-370_Brick Exchange - ST Segment Changes_ Recognition and Localization of Myocardial Ischemia_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-371",
+      "topicId": "st-segment-changes-recognition-and-localization-of-myocardial-ischemia",
+      "topicName": "ST Segment Changes: Recognition and Localization of Myocardial Ischemia",
+      "stem": "This diagram shows extra precordial electrodes (V3R, V4R) placed as a mirror image on the right side of the chest. What is the primary reason for obtaining these additional leads?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "To diagnose left bundle branch block"
+        },
+        {
+          "label": "B",
+          "text": "To assess left atrial enlargement"
+        },
+        {
+          "label": "C",
+          "text": "To detect right ventricular infarction"
+        },
+        {
+          "label": "D",
+          "text": "To measure the QT interval more accurately"
+        },
+        {
+          "label": "E",
+          "text": "To confirm atrial fibrillation"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Right-sided precordial leads (V3R/V4R) increase sensitivity for right ventricular infarction, which typically accompanies inferior STEMI from a proximal right coronary artery occlusion.",
+        "whyCorrect": "Right-sided precordial leads (V3R/V4R) increase sensitivity for right ventricular infarction, which typically accompanies inferior STEMI from a proximal right coronary artery occlusion.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-371_Brick Exchange - ST Segment Changes_ Recognition and Localization of Myocardial Ischemia_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-372",
+      "topicId": "st-segment-changes-recognition-and-localization-of-myocardial-ischemia",
+      "topicName": "ST Segment Changes: Recognition and Localization of Myocardial Ischemia",
+      "stem": "This figure depicts electrodes positioned around the left posterior chest and back, wrapping the standard precordial array toward the spine. Detecting infarction of which myocardial wall is the purpose of these additional leads?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Posterior wall"
+        },
+        {
+          "label": "B",
+          "text": "Right ventricular free wall"
+        },
+        {
+          "label": "C",
+          "text": "Anteroseptal wall"
+        },
+        {
+          "label": "D",
+          "text": "High lateral wall"
+        },
+        {
+          "label": "E",
+          "text": "Inferior wall"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Posterior leads (V7-V9) are placed toward the back to directly capture ST elevation of a true posterior infarct, which otherwise only shows indirect mirror-image ST depression in V1-V2.",
+        "whyCorrect": "Posterior leads (V7-V9) are placed toward the back to directly capture ST elevation of a true posterior infarct, which otherwise only shows indirect mirror-image ST depression in V1-V2.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-372_Brick Exchange - ST Segment Changes_ Recognition and Localization of Myocardial Ischemia_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-373",
+      "topicId": "st-segment-changes-recognition-and-localization-of-myocardial-ischemia",
+      "topicName": "ST Segment Changes: Recognition and Localization of Myocardial Ischemia",
+      "stem": "The arrows in these two leads indicate the J point. What does the J point mark on the ECG?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The peak of the R wave"
+        },
+        {
+          "label": "B",
+          "text": "The end of the T wave"
+        },
+        {
+          "label": "C",
+          "text": "The onset of the P wave"
+        },
+        {
+          "label": "D",
+          "text": "The midpoint of the PR interval"
+        },
+        {
+          "label": "E",
+          "text": "The junction between the QRS complex and the ST segment"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The J point is where the QRS complex ends and the ST segment begins; it is the reference used to measure ST elevation or depression relative to the baseline (T-P segment).",
+        "whyCorrect": "The J point is where the QRS complex ends and the ST segment begins; it is the reference used to measure ST elevation or depression relative to the baseline (T-P segment).",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-373_Brick Exchange - ST Segment Changes_ Recognition and Localization of Myocardial Ischemia_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-859",
+      "topicId": "st-segment-changes-recognition-and-localization-of-myocardial-ischemia",
+      "topicName": "ST Segment Changes: Recognition and Localization of Myocardial Ischemia",
+      "stem": "On this schematic of a single ECG complex, which labeled deflection corresponds to ventricular repolarization?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "T wave"
+        },
+        {
+          "label": "B",
+          "text": "P wave"
+        },
+        {
+          "label": "C",
+          "text": "ST segment"
+        },
+        {
+          "label": "D",
+          "text": "QRS complex"
+        },
+        {
+          "label": "E",
+          "text": "U wave"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "The T wave represents ventricular repolarization. The P wave is atrial depolarization, the QRS is ventricular depolarization, and the ST segment is the isoelectric period between depolarization and repolarization.",
+        "whyCorrect": "The T wave represents ventricular repolarization. The P wave is atrial depolarization, the QRS is ventricular depolarization, and the ST segment is the isoelectric period between depolarization and repolarization.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-859_Brick Exchange - ST Segment Changes_ Recognition and Localization of Myocardial Ischemia_p1_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-860",
+      "topicId": "st-segment-changes-recognition-and-localization-of-myocardial-ischemia",
+      "topicName": "ST Segment Changes: Recognition and Localization of Myocardial Ischemia",
+      "stem": "This figure aligns the ventricular myocyte action potential (top) with the surface ECG (bottom), highlighting the ST segment. Which phase of the action potential does the ST segment correspond to?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Phase 1 (initial repolarization)"
+        },
+        {
+          "label": "B",
+          "text": "Phase 2 (plateau)"
+        },
+        {
+          "label": "C",
+          "text": "Phase 0 (rapid upstroke)"
+        },
+        {
+          "label": "D",
+          "text": "Phase 3 (rapid repolarization)"
+        },
+        {
+          "label": "E",
+          "text": "Phase 4 (resting potential)"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "During the plateau (phase 2) all ventricular cells are depolarized with little voltage gradient between them, producing the isoelectric ST segment on the surface ECG.",
+        "whyCorrect": "During the plateau (phase 2) all ventricular cells are depolarized with little voltage gradient between them, producing the isoelectric ST segment on the surface ECG.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-860_Brick Exchange - ST Segment Changes_ Recognition and Localization of Myocardial Ischemia_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-861",
+      "topicId": "st-segment-changes-recognition-and-localization-of-myocardial-ischemia",
+      "topicName": "ST Segment Changes: Recognition and Localization of Myocardial Ischemia",
+      "stem": "These two panels contrast ischemia limited to the inner myocardial layer versus ischemia extending through the full wall thickness. Which ECG change is characteristically produced by full-thickness (transmural/epicardial) injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "ST-segment depression"
+        },
+        {
+          "label": "B",
+          "text": "Peaked P waves"
+        },
+        {
+          "label": "C",
+          "text": "ST-segment elevation"
+        },
+        {
+          "label": "D",
+          "text": "Shortened QT interval"
+        },
+        {
+          "label": "E",
+          "text": "Prolonged PR interval"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Transmural (epicardial) injury generates an injury current that produces ST elevation in the overlying leads, whereas ischemia confined to the subendocardium tends to produce ST depression.",
+        "whyCorrect": "Transmural (epicardial) injury generates an injury current that produces ST elevation in the overlying leads, whereas ischemia confined to the subendocardium tends to produce ST depression.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-861_Brick Exchange - ST Segment Changes_ Recognition and Localization of Myocardial Ischemia_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

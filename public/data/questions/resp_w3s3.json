@@ -1,0 +1,786 @@
+{
+  "categoryId": "resp_w3s3",
+  "categoryName": "Session 3",
+  "questions": [
+    {
+      "id": "repic-088",
+      "topicId": "traumatic-injuries-and-other-disorders-of-the-chest-wall-pleura-mediastinum-and-lung",
+      "topicName": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+      "stem": "This lateral chest illustration outlines a region bordered by the pectoralis major, the latissimus dorsi (anterior axillary fold to the lateral edge), the axillary fold above, and the nipple/5th intercostal space below. What is the clinical importance of this region?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It locates the cardiac apex for auscultation"
+        },
+        {
+          "label": "B",
+          "text": "It outlines the borders of the breast for mastectomy"
+        },
+        {
+          "label": "C",
+          "text": "It defines the 'triangle of safety' for chest tube insertion"
+        },
+        {
+          "label": "D",
+          "text": "It marks the landmark for subclavian central venous access"
+        },
+        {
+          "label": "E",
+          "text": "It identifies the site for pericardiocentesis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The triangle bounded by pectoralis major, latissimus dorsi, and a line at the 5th intercostal space (nipple level) is the safe zone for tube thoracostomy, avoiding major vessels, the heart, and abdominal organs.",
+        "whyCorrect": "The triangle bounded by pectoralis major, latissimus dorsi, and a line at the 5th intercostal space (nipple level) is the safe zone for tube thoracostomy, avoiding major vessels, the heart, and abdominal organs.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-088_Brick Exchange - Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-386",
+      "topicId": "traumatic-injuries-and-other-disorders-of-the-chest-wall-pleura-mediastinum-and-lung",
+      "topicName": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+      "stem": "On these chest radiographs and coronal CT, the red arrows outline lucent streaks of air tracking along the borders of the mediastinum and heart. What does this finding represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Hilar lymphadenopathy"
+        },
+        {
+          "label": "B",
+          "text": "Pneumomediastinum"
+        },
+        {
+          "label": "C",
+          "text": "Lobar pneumonia"
+        },
+        {
+          "label": "D",
+          "text": "Pulmonary interstitial edema"
+        },
+        {
+          "label": "E",
+          "text": "Cardiomegaly"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Air tracking along the mediastinal and cardiac borders (with the accompanying continuous diaphragm sign and neck/chest-wall lucencies of subcutaneous emphysema) indicates pneumomediastinum, air within the mediastinal soft tissues, often from alveolar or airway rupture in trauma.",
+        "whyCorrect": "Air tracking along the mediastinal and cardiac borders (with the accompanying continuous diaphragm sign and neck/chest-wall lucencies of subcutaneous emphysema) indicates pneumomediastinum, air within the mediastinal soft tissues, often from alveolar or airway rupture in trauma.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-386_Brick Exchange - Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-387",
+      "topicId": "traumatic-injuries-and-other-disorders-of-the-chest-wall-pleura-mediastinum-and-lung",
+      "topicName": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+      "stem": "This portable chest radiograph shows marked hyperlucency of one hemithorax with absent lung markings peripherally and displacement of the mediastinum toward the opposite side. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Large pleural effusion"
+        },
+        {
+          "label": "B",
+          "text": "Diaphragmatic paralysis"
+        },
+        {
+          "label": "C",
+          "text": "Tension pneumothorax"
+        },
+        {
+          "label": "D",
+          "text": "Lobar consolidation"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary edema"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "A hyperlucent hemithorax lacking peripheral vascular markings with contralateral mediastinal shift indicates a pneumothorax under tension, a life-threatening emergency requiring immediate needle decompression.",
+        "whyCorrect": "A hyperlucent hemithorax lacking peripheral vascular markings with contralateral mediastinal shift indicates a pneumothorax under tension, a life-threatening emergency requiring immediate needle decompression.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-387_Brick Exchange - Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung_p17_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-388",
+      "topicId": "traumatic-injuries-and-other-disorders-of-the-chest-wall-pleura-mediastinum-and-lung",
+      "topicName": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+      "stem": "The red circle highlights a radiopaque linear structure projecting over the left lower hemithorax on this trauma chest radiograph. What does this most likely represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "A healing rib fracture callus"
+        },
+        {
+          "label": "B",
+          "text": "A pacemaker generator"
+        },
+        {
+          "label": "C",
+          "text": "A pulmonary arteriovenous malformation"
+        },
+        {
+          "label": "D",
+          "text": "A retained penetrating foreign body"
+        },
+        {
+          "label": "E",
+          "text": "A calcified pulmonary granuloma"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "In the setting of penetrating chest trauma, a sharply defined radiopaque linear object within the thorax represents a retained foreign body; its position must be correlated with vascular and visceral structures before removal.",
+        "whyCorrect": "In the setting of penetrating chest trauma, a sharply defined radiopaque linear object within the thorax represents a retained foreign body; its position must be correlated with vascular and visceral structures before removal.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-388_Brick Exchange - Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung_p21_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-389",
+      "topicId": "traumatic-injuries-and-other-disorders-of-the-chest-wall-pleura-mediastinum-and-lung",
+      "topicName": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+      "stem": "This trauma patient's coronal CT shows abdominal viscera and bowel located high within the left lower thorax with loss of the normal diaphragmatic contour. What injury does this indicate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Tension pneumothorax"
+        },
+        {
+          "label": "B",
+          "text": "Lobar collapse"
+        },
+        {
+          "label": "C",
+          "text": "Loculated empyema"
+        },
+        {
+          "label": "D",
+          "text": "Traumatic diaphragmatic rupture"
+        },
+        {
+          "label": "E",
+          "text": "Hiatal hernia from chronic reflux"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Displacement of abdominal contents into the thoracic cavity through a defect in the diaphragm indicates traumatic diaphragmatic rupture, which most often affects the left hemidiaphragm and requires surgical repair.",
+        "whyCorrect": "Displacement of abdominal contents into the thoracic cavity through a defect in the diaphragm indicates traumatic diaphragmatic rupture, which most often affects the left hemidiaphragm and requires surgical repair.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-389_Brick Exchange - Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-574",
+      "topicId": "traumatic-injuries-and-other-disorders-of-the-chest-wall-pleura-mediastinum-and-lung",
+      "topicName": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+      "stem": "The color overlay and 3D rib model illustrate a chest-wall injury in which a segment of the thoracic cage moves paradoxically with respiration. How is this segment anatomically defined?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Three or more consecutive ribs each fractured in two or more places"
+        },
+        {
+          "label": "B",
+          "text": "Separation of a single costochondral junction"
+        },
+        {
+          "label": "C",
+          "text": "Fracture of the sternum alone"
+        },
+        {
+          "label": "D",
+          "text": "Fracture confined to the clavicle"
+        },
+        {
+          "label": "E",
+          "text": "A single rib fractured at one point"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A flail chest occurs when three or more contiguous ribs are each fractured in at least two locations, creating a free segment that moves inward on inspiration (paradoxical motion); it is frequently accompanied by underlying pulmonary contusion.",
+        "whyCorrect": "A flail chest occurs when three or more contiguous ribs are each fractured in at least two locations, creating a free segment that moves inward on inspiration (paradoxical motion); it is frequently accompanied by underlying pulmonary contusion.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-574_Brick Exchange - Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-575",
+      "topicId": "traumatic-injuries-and-other-disorders-of-the-chest-wall-pleura-mediastinum-and-lung",
+      "topicName": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+      "stem": "Panel A shows a unilateral pleural opacification and Panel B shows the drained pleural fluid as an opaque, milky-white liquid. What is this pleural effusion?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Chylothorax"
+        },
+        {
+          "label": "B",
+          "text": "Empyema"
+        },
+        {
+          "label": "C",
+          "text": "Hemothorax"
+        },
+        {
+          "label": "D",
+          "text": "Transudative effusion from heart failure"
+        },
+        {
+          "label": "E",
+          "text": "Malignant serous effusion"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A milky-white, triglyceride-rich pleural effusion is a chylothorax, caused by disruption of the thoracic duct (e.g., trauma or malignancy) allowing lymphatic chyle to accumulate in the pleural space.",
+        "whyCorrect": "A milky-white, triglyceride-rich pleural effusion is a chylothorax, caused by disruption of the thoracic duct (e.g., trauma or malignancy) allowing lymphatic chyle to accumulate in the pleural space.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-575_Brick Exchange - Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-177",
+      "topicId": "acute-respiratory-distress-syndrome",
+      "topicName": "Acute Respiratory Distress Syndrome",
+      "stem": "These three bedside images compare a normal aerated lung with two patterns of increased lung water at the pleural surface. What imaging modality is being used?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "MRI of the thorax"
+        },
+        {
+          "label": "B",
+          "text": "High-resolution CT"
+        },
+        {
+          "label": "C",
+          "text": "Ventilation-perfusion scan"
+        },
+        {
+          "label": "D",
+          "text": "Lung ultrasound"
+        },
+        {
+          "label": "E",
+          "text": "Chest radiograph"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Horizontal A-lines and vertical B-lines are reverberation artifacts seen on lung ultrasound; a heterogeneous, patchy B-line distribution favors ARDS over the homogeneous pattern of cardiogenic pulmonary edema.",
+        "whyCorrect": "Horizontal A-lines and vertical B-lines are reverberation artifacts seen on lung ultrasound; a heterogeneous, patchy B-line distribution favors ARDS over the homogeneous pattern of cardiogenic pulmonary edema.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-177_Brick Exchange - Acute Respiratory Distress Syndrome_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-405",
+      "topicId": "acute-respiratory-distress-syndrome",
+      "topicName": "Acute Respiratory Distress Syndrome",
+      "stem": "This lung section from a patient with acute respiratory failure shows widened alveolar septa, intra-alveolar hemorrhage, and inflammatory cells filling airspaces. What underlying process does this represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Caseating granulomatous inflammation"
+        },
+        {
+          "label": "B",
+          "text": "Diffuse alveolar damage"
+        },
+        {
+          "label": "C",
+          "text": "Usual interstitial pneumonia"
+        },
+        {
+          "label": "D",
+          "text": "Bronchopneumonia with abscess"
+        },
+        {
+          "label": "E",
+          "text": "Emphysematous airspace destruction"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "ARDS is the clinical correlate of diffuse alveolar damage, characterized by alveolar epithelial and endothelial injury, protein-rich exudate, and inflammatory infiltration of airspaces.",
+        "whyCorrect": "ARDS is the clinical correlate of diffuse alveolar damage, characterized by alveolar epithelial and endothelial injury, protein-rich exudate, and inflammatory infiltration of airspaces.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-405_Brick Exchange - Acute Respiratory Distress Syndrome_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-406",
+      "topicId": "acute-respiratory-distress-syndrome",
+      "topicName": "Acute Respiratory Distress Syndrome",
+      "stem": "This lung histology from a patient with acute hypoxemic respiratory failure shows airspaces lined by glassy, eosinophilic material together with inflammatory cells. This lining material indicates which phase of which disease?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Exudative phase of diffuse alveolar damage (ARDS)"
+        },
+        {
+          "label": "B",
+          "text": "Resolution phase of cardiogenic pulmonary edema"
+        },
+        {
+          "label": "C",
+          "text": "Organizing phase of usual interstitial pneumonia"
+        },
+        {
+          "label": "D",
+          "text": "Chronic phase of emphysema"
+        },
+        {
+          "label": "E",
+          "text": "Acute phase of lobar pneumonia"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Eosinophilic hyaline membranes lining alveolar ducts are the histologic hallmark of the early exudative phase of diffuse alveolar damage seen in ARDS.",
+        "whyCorrect": "Eosinophilic hyaline membranes lining alveolar ducts are the histologic hallmark of the early exudative phase of diffuse alveolar damage seen in ARDS.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-406_Brick Exchange - Acute Respiratory Distress Syndrome_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-159",
+      "topicId": "neonatal-respiratory-distress-syndrome",
+      "topicName": "Neonatal Respiratory Distress Syndrome",
+      "stem": "This diagram of the alveolar wall shows the surfactant layer produced by type 2 pneumocytes. What is the main function of that surfactant layer?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It triggers pulmonary vasoconstriction"
+        },
+        {
+          "label": "B",
+          "text": "It filters inhaled pathogens like a mucus blanket"
+        },
+        {
+          "label": "C",
+          "text": "It lowers alveolar surface tension, preventing alveolar collapse"
+        },
+        {
+          "label": "D",
+          "text": "It carries oxygen from the alveolus into red blood cells"
+        },
+        {
+          "label": "E",
+          "text": "It forms the barrier that blocks CO2 diffusion"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Surfactant reduces surface tension at the air-liquid interface, keeping alveoli open at end-expiration; its deficiency causes atelectasis in neonatal RDS.",
+        "whyCorrect": "Surfactant reduces surface tension at the air-liquid interface, keeping alveoli open at end-expiration; its deficiency causes atelectasis in neonatal RDS.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-159_Brick Exchange - Neonatal Respiratory Distress Syndrome_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-324",
+      "topicId": "neonatal-respiratory-distress-syndrome",
+      "topicName": "Neonatal Respiratory Distress Syndrome",
+      "stem": "This chest radiograph of a premature newborn shows diffuse fine ground-glass (reticulogranular) opacities with air bronchograms and low lung volumes. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Meconium aspiration with hyperinflation"
+        },
+        {
+          "label": "B",
+          "text": "A normal neonatal chest"
+        },
+        {
+          "label": "C",
+          "text": "Neonatal respiratory distress syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Tension pneumothorax"
+        },
+        {
+          "label": "E",
+          "text": "Congenital diaphragmatic hernia"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Diffuse ground-glass opacity with air bronchograms and underinflated lungs in a preterm infant is the classic surfactant-deficiency (RDS) pattern.",
+        "whyCorrect": "Diffuse ground-glass opacity with air bronchograms and underinflated lungs in a preterm infant is the classic surfactant-deficiency (RDS) pattern.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-324_Brick Exchange - Neonatal Respiratory Distress Syndrome_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-535",
+      "topicId": "neonatal-respiratory-distress-syndrome",
+      "topicName": "Neonatal Respiratory Distress Syndrome",
+      "stem": "This lung section from a premature neonate with respiratory distress shows eosinophilic membranes lining the alveolar ducts (arrow). What are these structures?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Psammoma bodies"
+        },
+        {
+          "label": "B",
+          "text": "Amyloid deposits"
+        },
+        {
+          "label": "C",
+          "text": "Bronchial cartilage plates"
+        },
+        {
+          "label": "D",
+          "text": "Granulomas"
+        },
+        {
+          "label": "E",
+          "text": "Hyaline membranes"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Surfactant deficiency causes alveolar collapse, epithelial injury, and plasma leak that forms eosinophilic hyaline membranes lining alveoli in neonatal RDS.",
+        "whyCorrect": "Surfactant deficiency causes alveolar collapse, epithelial injury, and plasma leak that forms eosinophilic hyaline membranes lining alveoli in neonatal RDS.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-535_Brick Exchange - Neonatal Respiratory Distress Syndrome_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-788",
+      "topicId": "neonatal-respiratory-distress-syndrome",
+      "topicName": "Neonatal Respiratory Distress Syndrome",
+      "stem": "This fetal circulation diagram labels a shunt (foramen ovale) that lets blood pass directly from the right atrium to the left atrium. What is its physiologic purpose in the fetus?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It equalizes pressure between the two ventricles during systole"
+        },
+        {
+          "label": "B",
+          "text": "It drains oxygenated blood from the lungs into the aorta"
+        },
+        {
+          "label": "C",
+          "text": "It bypasses the non-functioning fetal lungs"
+        },
+        {
+          "label": "D",
+          "text": "It supplies the coronary arteries directly"
+        },
+        {
+          "label": "E",
+          "text": "It connects the umbilical vein to the portal system"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The foramen ovale shunts oxygenated right-atrial blood into the left atrium, bypassing the collapsed fetal lungs so oxygen-rich blood reaches the body.",
+        "whyCorrect": "The foramen ovale shunts oxygenated right-atrial blood into the left atrium, bypassing the collapsed fetal lungs so oxygen-rich blood reaches the body.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-788_Brick Exchange - Neonatal Respiratory Distress Syndrome_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-789",
+      "topicId": "neonatal-respiratory-distress-syndrome",
+      "topicName": "Neonatal Respiratory Distress Syndrome",
+      "stem": "This portion of the fetal circulation diagram shows the pulmonary trunk, pulmonary arteries, and lung. In the fetus, most blood entering the pulmonary trunk does NOT reach the lungs. Where is it diverted instead?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Back into the right ventricle"
+        },
+        {
+          "label": "B",
+          "text": "Through the ductus arteriosus into the aorta"
+        },
+        {
+          "label": "C",
+          "text": "Through the foramen ovale into the left atrium"
+        },
+        {
+          "label": "D",
+          "text": "Into the ductus venosus"
+        },
+        {
+          "label": "E",
+          "text": "Into the coronary sinus"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "High fetal pulmonary vascular resistance directs blood from the pulmonary trunk through the ductus arteriosus into the aorta, bypassing the lungs.",
+        "whyCorrect": "High fetal pulmonary vascular resistance directs blood from the pulmonary trunk through the ductus arteriosus into the aorta, bypassing the lungs.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-789_Brick Exchange - Neonatal Respiratory Distress Syndrome_p5_2.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-790",
+      "topicId": "neonatal-respiratory-distress-syndrome",
+      "topicName": "Neonatal Respiratory Distress Syndrome",
+      "stem": "This part of the fetal circulation diagram labels a vessel (ductus venosus) that shunts umbilical vein blood past the liver into the inferior vena cava. What is its function?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It connects the right and left atria"
+        },
+        {
+          "label": "B",
+          "text": "It shunts blood from the pulmonary artery to the aorta"
+        },
+        {
+          "label": "C",
+          "text": "It allows oxygen-rich placental blood to bypass the hepatic sinusoids"
+        },
+        {
+          "label": "D",
+          "text": "It drains the coronary circulation"
+        },
+        {
+          "label": "E",
+          "text": "It carries deoxygenated blood from the fetus to the placenta"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The ductus venosus routes highly oxygenated umbilical vein blood past the liver directly into the IVC, preserving oxygen delivery to the heart and brain.",
+        "whyCorrect": "The ductus venosus routes highly oxygenated umbilical vein blood past the liver directly into the IVC, preserving oxygen delivery to the heart and brain.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-790_Brick Exchange - Neonatal Respiratory Distress Syndrome_p5_3.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-791",
+      "topicId": "neonatal-respiratory-distress-syndrome",
+      "topicName": "Neonatal Respiratory Distress Syndrome",
+      "stem": "In this fetal circulation diagram the portal vein branches near the liver from incoming umbilical blood. Which structure allows most umbilical vein blood to bypass the hepatic portal circulation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The foramen ovale"
+        },
+        {
+          "label": "B",
+          "text": "The coronary sinus"
+        },
+        {
+          "label": "C",
+          "text": "The ductus venosus"
+        },
+        {
+          "label": "D",
+          "text": "The pulmonary trunk"
+        },
+        {
+          "label": "E",
+          "text": "The ductus arteriosus"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The ductus venosus diverts the majority of oxygenated umbilical vein blood around the liver into the IVC, leaving only a portion to perfuse the hepatic/portal system.",
+        "whyCorrect": "The ductus venosus diverts the majority of oxygenated umbilical vein blood around the liver into the IVC, leaving only a portion to perfuse the hepatic/portal system.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-791_Brick Exchange - Neonatal Respiratory Distress Syndrome_p5_4.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-792",
+      "topicId": "neonatal-respiratory-distress-syndrome",
+      "topicName": "Neonatal Respiratory Distress Syndrome",
+      "stem": "This flowchart begins with prematurity and reduced surfactant synthesis by type 2 pneumocytes. Which downstream event most directly explains the alveolar collapse (atelectasis) in this condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Increased alveolar surface tension"
+        },
+        {
+          "label": "B",
+          "text": "Excess surfactant accumulation"
+        },
+        {
+          "label": "C",
+          "text": "Increased alveolar compliance"
+        },
+        {
+          "label": "D",
+          "text": "Bronchial cartilage overgrowth"
+        },
+        {
+          "label": "E",
+          "text": "Pulmonary vasodilation"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "Without enough surfactant, alveolar surface tension rises, collapsing alveoli (atelectasis) and driving the hypoxemia and CO2 retention of neonatal RDS.",
+        "whyCorrect": "Without enough surfactant, alveolar surface tension rises, collapsing alveoli (atelectasis) and driving the hypoxemia and CO2 retention of neonatal RDS.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-792_Brick Exchange - Neonatal Respiratory Distress Syndrome_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-870",
+      "topicId": "sleep-apnea",
+      "topicName": "Sleep Apnea",
+      "stem": "The right panel shows a mask and machine treating the obstruction seen on the left. By what mechanism does this therapy keep the airway open?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It sedates the patient to suppress arousals"
+        },
+        {
+          "label": "B",
+          "text": "It delivers continuous positive pressure"
+        },
+        {
+          "label": "C",
+          "text": "It delivers inhaled bronchodilator medication"
+        },
+        {
+          "label": "D",
+          "text": "It supplies supplemental oxygen without any pressure"
+        },
+        {
+          "label": "E",
+          "text": "It electrically stimulates the diaphragm to contract"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "CPAP maintains a positive intraluminal pressure throughout the respiratory cycle, acting as a pneumatic splint that prevents the relaxed pharyngeal soft tissues from collapsing.",
+        "whyCorrect": "CPAP maintains a positive intraluminal pressure throughout the respiratory cycle, acting as a pneumatic splint that prevents the relaxed pharyngeal soft tissues from collapsing.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-870_Brick Exchange - Sleep Apnea_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-871",
+      "topicId": "sleep-apnea",
+      "topicName": "Sleep Apnea",
+      "stem": "Comparing the 'during sleep' and 'obstruction' panels, what directly produces the airway blockage in obstructive sleep apnea?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Collapse of relaxed pharyngeal soft tissues"
+        },
+        {
+          "label": "B",
+          "text": "Bronchospasm of the lower airways"
+        },
+        {
+          "label": "C",
+          "text": "Bilateral vocal cord paralysis"
+        },
+        {
+          "label": "D",
+          "text": "A nasal polyp blocking the nasal cavity"
+        },
+        {
+          "label": "E",
+          "text": "Fluid filling the alveoli"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "During sleep, loss of muscle tone allows the tongue base, soft palate, and uvula to fall back and occlude the pharynx, obstructing airflow despite continued respiratory effort.",
+        "whyCorrect": "During sleep, loss of muscle tone allows the tongue base, soft palate, and uvula to fall back and occlude the pharynx, obstructing airflow despite continued respiratory effort.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-871_Brick Exchange - Sleep Apnea_p5_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}

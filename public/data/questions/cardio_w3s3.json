@@ -1,0 +1,1020 @@
+{
+  "categoryId": "cardio_w3s3",
+  "categoryName": "Session 3",
+  "questions": [
+    {
+      "id": "repic-390",
+      "topicId": "treatment-of-acute-coronary-syndrome-agents-and-interventions",
+      "topicName": "Treatment of Acute Coronary Syndrome - Agents and Interventions",
+      "stem": "In these paired coronary angiograms, panel A (arrow) shows an abrupt occlusion of a coronary artery and panel B shows the same vessel with restored flow. What procedure produced the change from A to B?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Pericardiocentesis"
+        },
+        {
+          "label": "B",
+          "text": "Percutaneous coronary intervention"
+        },
+        {
+          "label": "C",
+          "text": "Coronary artery bypass grafting"
+        },
+        {
+          "label": "D",
+          "text": "Transcatheter aortic valve replacement"
+        },
+        {
+          "label": "E",
+          "text": "Radiofrequency ablation"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The occluded segment in A is reopened in B by percutaneous coronary intervention, in which a catheter-delivered balloon and stent restore antegrade flow, the definitive reperfusion strategy for STEMI.",
+        "whyCorrect": "The occluded segment in A is reopened in B by percutaneous coronary intervention, in which a catheter-delivered balloon and stent restore antegrade flow, the definitive reperfusion strategy for STEMI.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-390_Brick Exchange - Treatment of Acute Coronary Syndrome - Agents and Interventions_p18_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-576",
+      "topicId": "treatment-of-acute-coronary-syndrome-agents-and-interventions",
+      "topicName": "Treatment of Acute Coronary Syndrome - Agents and Interventions",
+      "stem": "This figure contrasts NSTEMI (partially occlusive thrombus) with STEMI (completely occlusive thrombus). The complete coronary occlusion of STEMI characteristically produces which pattern of myocardial injury?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Transmural infarction"
+        },
+        {
+          "label": "B",
+          "text": "Reversible ischemia without necrosis"
+        },
+        {
+          "label": "C",
+          "text": "Isolated pericardial inflammation"
+        },
+        {
+          "label": "D",
+          "text": "Subendocardial infarction only"
+        },
+        {
+          "label": "E",
+          "text": "Global biventricular myocarditis"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A completely occlusive thrombus halts flow to the full thickness of the myocardium supplied, producing transmural infarction and ST-segment elevation, whereas a partially occlusive thrombus in NSTEMI typically causes subendocardial injury.",
+        "whyCorrect": "A completely occlusive thrombus halts flow to the full thickness of the myocardium supplied, producing transmural infarction and ST-segment elevation, whereas a partially occlusive thrombus in NSTEMI typically causes subendocardial injury.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-576_Brick Exchange - Treatment of Acute Coronary Syndrome - Agents and Interventions_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-593",
+      "topicId": "treatment-of-acute-coronary-syndrome-agents-and-interventions",
+      "topicName": "Treatment of Acute Coronary Syndrome - Agents and Interventions",
+      "stem": "This coagulation cascade highlights the sites where heparin acts (factor Xa and thrombin/IIa). By what molecular mechanism does heparin inhibit these factors?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It directly binds thrombin's active site without a cofactor"
+        },
+        {
+          "label": "B",
+          "text": "It inhibits vitamin K epoxide reductase"
+        },
+        {
+          "label": "C",
+          "text": "It blocks platelet cyclooxygenase"
+        },
+        {
+          "label": "D",
+          "text": "It potentiates antithrombin III, which then inactivates the factors"
+        },
+        {
+          "label": "E",
+          "text": "It chelates plasma calcium"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Heparin binds antithrombin III and dramatically accelerates its inactivation of thrombin (IIa) and factor Xa; it therefore requires adequate antithrombin III to be effective and works indirectly rather than by direct enzyme inhibition.",
+        "whyCorrect": "Heparin binds antithrombin III and dramatically accelerates its inactivation of thrombin (IIa) and factor Xa; it therefore requires adequate antithrombin III to be effective and works indirectly rather than by direct enzyme inhibition.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-593_Brick Exchange - Treatment of Acute Coronary Syndrome - Agents and Interventions_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-594",
+      "topicId": "treatment-of-acute-coronary-syndrome-agents-and-interventions",
+      "topicName": "Treatment of Acute Coronary Syndrome - Agents and Interventions",
+      "stem": "This diagram shows aspirin blocking platelet cyclooxygenase (COX) to prevent thromboxane A2 synthesis. Because aspirin's inhibition of platelet COX is irreversible, how long does its antiplatelet effect persist after a single dose?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Permanently for all future platelets"
+        },
+        {
+          "label": "B",
+          "text": "About 30 days"
+        },
+        {
+          "label": "C",
+          "text": "Only a few hours until it is metabolized"
+        },
+        {
+          "label": "D",
+          "text": "Approximately 24 hours"
+        },
+        {
+          "label": "E",
+          "text": "For the lifespan of the affected platelets"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Platelets lack nuclei and cannot synthesize new cyclooxygenase, so aspirin's irreversible COX inhibition lasts the ~7-10 day lifespan of the exposed platelets until new platelets are produced.",
+        "whyCorrect": "Platelets lack nuclei and cannot synthesize new cyclooxygenase, so aspirin's irreversible COX inhibition lasts the ~7-10 day lifespan of the exposed platelets until new platelets are produced.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-594_Brick Exchange - Treatment of Acute Coronary Syndrome - Agents and Interventions_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-883",
+      "topicId": "treatment-of-acute-coronary-syndrome-agents-and-interventions",
+      "topicName": "Treatment of Acute Coronary Syndrome - Agents and Interventions",
+      "stem": "This diagram shows tPA converting plasminogen to plasmin, which degrades fibrin into fragments. Which laboratory test measures these fibrin degradation products clinically?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Serum fibrinogen level"
+        },
+        {
+          "label": "B",
+          "text": "D-dimer"
+        },
+        {
+          "label": "C",
+          "text": "C-reactive protein"
+        },
+        {
+          "label": "D",
+          "text": "Prothrombin time (INR)"
+        },
+        {
+          "label": "E",
+          "text": "Troponin I"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Plasmin cleaves cross-linked fibrin into degradation products, the most specific of which is D-dimer; an elevated D-dimer reflects active clot breakdown and is used in the workup of venous thromboembolism.",
+        "whyCorrect": "Plasmin cleaves cross-linked fibrin into degradation products, the most specific of which is D-dimer; an elevated D-dimer reflects active clot breakdown and is used in the workup of venous thromboembolism.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-883_Brick Exchange - Treatment of Acute Coronary Syndrome - Agents and Interventions_p23_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-241",
+      "topicId": "deep-vein-thrombosis",
+      "topicName": "Deep Vein Thrombosis",
+      "stem": "This diagram shows a fibrin-rich thrombus being broken down, with the circled laboratory marker rising. What does elevation of that marker reflect?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Impaired thrombin generation"
+        },
+        {
+          "label": "B",
+          "text": "Vitamin K deficiency"
+        },
+        {
+          "label": "C",
+          "text": "Ongoing breakdown of cross-linked fibrin"
+        },
+        {
+          "label": "D",
+          "text": "Depletion of circulating platelets"
+        },
+        {
+          "label": "E",
+          "text": "Increased hepatic fibrinogen synthesis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "The circled marker is released when plasmin degrades cross-linked fibrin within a clot; its elevation is a sensitive but nonspecific indicator of active clot formation and breakdown, useful for excluding DVT when low.",
+        "whyCorrect": "The circled marker is released when plasmin degrades cross-linked fibrin within a clot; its elevation is a sensitive but nonspecific indicator of active clot formation and breakdown, useful for excluding DVT when low.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-241_Brick Exchange - Deep Vein Thrombosis_p12_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-242",
+      "topicId": "deep-vein-thrombosis",
+      "topicName": "Deep Vein Thrombosis",
+      "stem": "This paired imaging test evaluates whether a vein flattens under probe pressure to detect thrombus. What imaging modality is this?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Compression ultrasonography"
+        },
+        {
+          "label": "B",
+          "text": "CT pulmonary angiography"
+        },
+        {
+          "label": "C",
+          "text": "Magnetic resonance venography"
+        },
+        {
+          "label": "D",
+          "text": "Contrast venography"
+        },
+        {
+          "label": "E",
+          "text": "Ventilation-perfusion scan"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "In compression ultrasound, a normal vein collapses fully under probe pressure; a vein that fails to compress contains thrombus. It is the first-line imaging test for diagnosing deep vein thrombosis.",
+        "whyCorrect": "In compression ultrasound, a normal vein collapses fully under probe pressure; a vein that fails to compress contains thrombus. It is the first-line imaging test for diagnosing deep vein thrombosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-242_Brick Exchange - Deep Vein Thrombosis_p14_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-243",
+      "topicId": "deep-vein-thrombosis",
+      "topicName": "Deep Vein Thrombosis",
+      "stem": "This flowchart integrates pretest probability (Wells score), D-dimer testing, and compression ultrasound. Which clinical decision does it support?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Staging lung cancer"
+        },
+        {
+          "label": "B",
+          "text": "Grading heart failure severity"
+        },
+        {
+          "label": "C",
+          "text": "Classifying congenital heart defects"
+        },
+        {
+          "label": "D",
+          "text": "Selecting an antibiotic for pneumonia"
+        },
+        {
+          "label": "E",
+          "text": "Diagnosing deep vein thrombosis"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "The algorithm combines clinical pretest probability, D-dimer, and compression ultrasound results to confirm or rule out DVT while minimizing unnecessary imaging.",
+        "whyCorrect": "The algorithm combines clinical pretest probability, D-dimer, and compression ultrasound results to confirm or rule out DVT while minimizing unnecessary imaging.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-243_Brick Exchange - Deep Vein Thrombosis_p15_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-472",
+      "topicId": "deep-vein-thrombosis",
+      "topicName": "Deep Vein Thrombosis",
+      "stem": "This patient has unilateral swelling, erythema, and dusky discoloration of the left lower limb. What is the most likely diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Acute peripheral arterial occlusion"
+        },
+        {
+          "label": "B",
+          "text": "Deep vein thrombosis"
+        },
+        {
+          "label": "C",
+          "text": "Bilateral edema from heart failure"
+        },
+        {
+          "label": "D",
+          "text": "Cellulitis of both legs"
+        },
+        {
+          "label": "E",
+          "text": "Chronic lymphedema"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Acute unilateral leg swelling with discoloration and warmth reflects venous outflow obstruction from a deep vein thrombosis; the contrast with the normal opposite limb supports a localized venous cause.",
+        "whyCorrect": "Acute unilateral leg swelling with discoloration and warmth reflects venous outflow obstruction from a deep vein thrombosis; the contrast with the normal opposite limb supports a localized venous cause.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-472_Brick Exchange - Deep Vein Thrombosis_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-473",
+      "topicId": "deep-vein-thrombosis",
+      "topicName": "Deep Vein Thrombosis",
+      "stem": "The diagram shows a clot fixed within a vein and, below, a fragment of that clot breaking free and moving downstream. What is the most dangerous consequence when such a fragment travels through the venous circulation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "It dissolves harmlessly before reaching any organ"
+        },
+        {
+          "label": "B",
+          "text": "It settles in the coronary arteries, causing myocardial infarction"
+        },
+        {
+          "label": "C",
+          "text": "It travels to the brain, causing an ischemic stroke"
+        },
+        {
+          "label": "D",
+          "text": "It lodges in the pulmonary arteries, causing pulmonary embolism"
+        },
+        {
+          "label": "E",
+          "text": "It blocks the renal artery, causing acute kidney injury"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "A detached venous thrombus (embolus) follows venous return to the right heart and is pumped into the pulmonary arteries, where it obstructs pulmonary blood flow, i.e., a pulmonary embolism. Venous emboli reach the lungs, not the systemic arterial circulation, unless a right-to-left shunt exists.",
+        "whyCorrect": "A detached venous thrombus (embolus) follows venous return to the right heart and is pumped into the pulmonary arteries, where it obstructs pulmonary blood flow, i.e., a pulmonary embolism. Venous emboli reach the lungs, not the systemic arterial circulation, unless a right-to-left shunt exists.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-473_Brick Exchange - Deep Vein Thrombosis_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-474",
+      "topicId": "deep-vein-thrombosis",
+      "topicName": "Deep Vein Thrombosis",
+      "stem": "This figure links a clot at a lower-leg deep vein (bottom) with a blockage in the lungs (top) by way of the large central vein. What pathophysiologic sequence does it illustrate?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "An arterial plaque ruptures and travels to the legs"
+        },
+        {
+          "label": "B",
+          "text": "A lower-limb thrombus embolizes up the IVC into the lungs"
+        },
+        {
+          "label": "C",
+          "text": "Bronchial mucus plugs migrate into the pulmonary veins"
+        },
+        {
+          "label": "D",
+          "text": "A leg infection spreads through lymphatics to the lung"
+        },
+        {
+          "label": "E",
+          "text": "A lung clot showers emboli down into the leg veins"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "A deep vein thrombosis in the leg can dislodge and travel up the inferior vena cava to the right heart, then into the pulmonary arteries, producing a pulmonary embolism. This DVT-to-PE progression is the central danger of lower-extremity venous thrombosis.",
+        "whyCorrect": "A deep vein thrombosis in the leg can dislodge and travel up the inferior vena cava to the right heart, then into the pulmonary arteries, producing a pulmonary embolism. This DVT-to-PE progression is the central danger of lower-extremity venous thrombosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-474_Brick Exchange - Deep Vein Thrombosis_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-475",
+      "topicId": "deep-vein-thrombosis",
+      "topicName": "Deep Vein Thrombosis",
+      "stem": "This clinical photograph (arrow) shows one calf that is noticeably larger and more swollen than the other. In a patient with recent immobilization, this asymmetric finding most strongly suggests which diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Peripheral arterial occlusion"
+        },
+        {
+          "label": "B",
+          "text": "Bilateral heart-failure edema"
+        },
+        {
+          "label": "C",
+          "text": "Chronic lymphedema of the foot"
+        },
+        {
+          "label": "D",
+          "text": "Deep vein thrombosis"
+        },
+        {
+          "label": "E",
+          "text": "Cellulitis of both lower limbs"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Unilateral leg swelling, with one calf larger than the other, is a classic sign of deep vein thrombosis. The obstructing venous thrombus impairs outflow, causing edema, warmth, and tenderness confined to that limb, unlike the symmetric swelling of systemic causes.",
+        "whyCorrect": "Unilateral leg swelling, with one calf larger than the other, is a classic sign of deep vein thrombosis. The obstructing venous thrombus impairs outflow, causing edema, warmth, and tenderness confined to that limb, unlike the symmetric swelling of systemic causes.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-475_Brick Exchange - Deep Vein Thrombosis_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-476",
+      "topicId": "deep-vein-thrombosis",
+      "topicName": "Deep Vein Thrombosis",
+      "stem": "This Venn diagram places thrombosis at the intersection of endothelial damage, a hypercoagulable state, and abnormal blood flow/venous stasis. By what eponymous name is this trio of predisposing factors known?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Samter's triad"
+        },
+        {
+          "label": "B",
+          "text": "Virchow's triad"
+        },
+        {
+          "label": "C",
+          "text": "Beck's triad"
+        },
+        {
+          "label": "D",
+          "text": "Charcot's triad"
+        },
+        {
+          "label": "E",
+          "text": "Cushing's triad"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The three overlapping contributors to thrombus formation, endothelial injury, hypercoagulability, and stasis/turbulent flow, constitute Virchow's triad. Any one component predisposes to thrombosis, and their overlap markedly increases risk.",
+        "whyCorrect": "The three overlapping contributors to thrombus formation, endothelial injury, hypercoagulability, and stasis/turbulent flow, constitute Virchow's triad. Any one component predisposes to thrombosis, and their overlap markedly increases risk.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-476_Brick Exchange - Deep Vein Thrombosis_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-713",
+      "topicId": "deep-vein-thrombosis",
+      "topicName": "Deep Vein Thrombosis",
+      "stem": "A hospitalized, immobile patient has these inflatable sleeves wrapped around the calves and thighs, cyclically inflating and deflating. What is the primary purpose of this device?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Immobilize a fractured tibia during healing"
+        },
+        {
+          "label": "B",
+          "text": "Promote venous return and prevent deep vein thrombosis"
+        },
+        {
+          "label": "C",
+          "text": "Reduce arterial blood pressure in the lower limb"
+        },
+        {
+          "label": "D",
+          "text": "Warm the extremity to treat hypothermia"
+        },
+        {
+          "label": "E",
+          "text": "Deliver localized chemotherapy to the leg"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "This is an intermittent pneumatic compression device. By rhythmically compressing the legs it augments venous flow and counteracts the venous stasis of Virchow's triad, providing mechanical prophylaxis against DVT in immobile patients.",
+        "whyCorrect": "This is an intermittent pneumatic compression device. By rhythmically compressing the legs it augments venous flow and counteracts the venous stasis of Virchow's triad, providing mechanical prophylaxis against DVT in immobile patients.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-713_Brick Exchange - Deep Vein Thrombosis_p16_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-714",
+      "topicId": "deep-vein-thrombosis",
+      "topicName": "Deep Vein Thrombosis",
+      "stem": "The upper vessel shows blood moving in smooth parallel streamlines while the lower vessel shows chaotic swirling eddies. Which flow pattern (and associated hemodynamic condition) most favors venous thrombus formation?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Neither pattern affects thrombosis risk"
+        },
+        {
+          "label": "B",
+          "text": "Only high-velocity laminar flow promotes clotting"
+        },
+        {
+          "label": "C",
+          "text": "Both patterns equally promote clotting"
+        },
+        {
+          "label": "D",
+          "text": "The lower, turbulent/stagnant flow pattern"
+        },
+        {
+          "label": "E",
+          "text": "The upper, smooth streamlined pattern"
+        }
+      ],
+      "correctAnswer": "D",
+      "explanation": {
+        "summary": "Laminar flow (top) keeps cells centered and endothelium undisturbed, whereas turbulence and stasis (bottom) allow platelet contact with the wall, activate clotting factors, and injure endothelium, the flow abnormalities of Virchow's triad that promote thrombosis.",
+        "whyCorrect": "Laminar flow (top) keeps cells centered and endothelium undisturbed, whereas turbulence and stasis (bottom) allow platelet contact with the wall, activate clotting factors, and injure endothelium, the flow abnormalities of Virchow's triad that promote thrombosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-714_Brick Exchange - Deep Vein Thrombosis_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-588",
+      "topicId": "doacs",
+      "topicName": "DOACs",
+      "stem": "The boxed drugs (apixaban, rivaroxaban, edoxaban) block the circled clotting factor in this cascade. That factor normally catalyzes which reaction?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Conversion of plasminogen to plasmin"
+        },
+        {
+          "label": "B",
+          "text": "Conversion of prothrombin to thrombin"
+        },
+        {
+          "label": "C",
+          "text": "Cross-linking of fibrin by factor XIII"
+        },
+        {
+          "label": "D",
+          "text": "Activation of factor VII by tissue factor"
+        },
+        {
+          "label": "E",
+          "text": "Conversion of fibrinogen to fibrin"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Factor Xa sits at the start of the common pathway and converts prothrombin (II) to thrombin (IIa); the '-xaban' direct oral anticoagulants inhibit Xa, reducing thrombin generation and clot formation.",
+        "whyCorrect": "Factor Xa sits at the start of the common pathway and converts prothrombin (II) to thrombin (IIa); the '-xaban' direct oral anticoagulants inhibit Xa, reducing thrombin generation and clot formation.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-588_Brick Exchange - DOACs_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-565",
+      "topicId": "superficial-venous-disease",
+      "topicName": "Superficial Venous Disease",
+      "stem": "An indwelling catheter in a hand vein produces localized redness, and the adjacent vein contains a clot with wall inflammation. This combination is best described as which condition?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Arterial embolism"
+        },
+        {
+          "label": "B",
+          "text": "Lymphangitis"
+        },
+        {
+          "label": "C",
+          "text": "Superficial thrombophlebitis"
+        },
+        {
+          "label": "D",
+          "text": "Deep vein thrombosis"
+        },
+        {
+          "label": "E",
+          "text": "Cellulitis without vascular involvement"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Trauma from an indwelling catheter injures the venous endothelium, promoting inflammation and clot formation within a superficial vein, i.e., superficial thrombophlebitis, typically presenting as a tender, red, cord-like vessel.",
+        "whyCorrect": "Trauma from an indwelling catheter injures the venous endothelium, promoting inflammation and clot formation within a superficial vein, i.e., superficial thrombophlebitis, typically presenting as a tender, red, cord-like vessel.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-565_Brick Exchange - Superficial Venous Disease_p10_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-566",
+      "topicId": "superficial-venous-disease",
+      "topicName": "Superficial Venous Disease",
+      "stem": "This three-circle diagram shows the central overlap of endothelial damage, a hypercoagulable state, and abnormal blood flow. The central intersection represents the outcome favored when all three coexist. Clinically, which scenario most directly reflects this concept?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vasodilation causing distributive shock"
+        },
+        {
+          "label": "B",
+          "text": "Postoperative immobility plus a vessel injury and inherited clotting tendency"
+        },
+        {
+          "label": "C",
+          "text": "Iron deficiency causing microcytic anemia"
+        },
+        {
+          "label": "D",
+          "text": "Excess bleeding from platelet dysfunction"
+        },
+        {
+          "label": "E",
+          "text": "Hemolysis from a mechanical valve alone"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "The figure depicts Virchow triad: endothelial injury, hypercoagulability, and stasis (abnormal flow). Convergence of these factors, as in an immobile postoperative patient with vessel injury and a thrombophilia, predisposes to venous thrombosis.",
+        "whyCorrect": "The figure depicts Virchow triad: endothelial injury, hypercoagulability, and stasis (abnormal flow). Convergence of these factors, as in an immobile postoperative patient with vessel injury and a thrombophilia, predisposes to venous thrombosis.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-566_Brick Exchange - Superficial Venous Disease_p11_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-567",
+      "topicId": "superficial-venous-disease",
+      "topicName": "Superficial Venous Disease",
+      "stem": "This leg shows a tender, erythematous, indurated cord-like streak with reddish nodularity tracking along the course of a superficial vein. This finding is most consistent with which diagnosis?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Superficial thrombophlebitis"
+        },
+        {
+          "label": "B",
+          "text": "Deep vein thrombosis"
+        },
+        {
+          "label": "C",
+          "text": "Cellulitis of the entire limb"
+        },
+        {
+          "label": "D",
+          "text": "Stasis dermatitis with hemosiderin"
+        },
+        {
+          "label": "E",
+          "text": "Erythema nodosum"
+        }
+      ],
+      "correctAnswer": "A",
+      "explanation": {
+        "summary": "A palpable, tender, red cord following a superficial vein reflects thrombosis with surrounding inflammation of that vein (superficial thrombophlebitis), distinct from the diffuse swelling of DVT or the septal panniculitis of erythema nodosum.",
+        "whyCorrect": "A palpable, tender, red cord following a superficial vein reflects thrombosis with surrounding inflammation of that vein (superficial thrombophlebitis), distinct from the diffuse swelling of DVT or the septal panniculitis of erythema nodosum.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-567_Brick Exchange - Superficial Venous Disease_p13_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-568",
+      "topicId": "superficial-venous-disease",
+      "topicName": "Superficial Venous Disease",
+      "stem": "A patient's lower legs are shown: one leg has marked distal swelling, skin thickening, and dark discoloration compared with the other. What chronic condition does this appearance most likely represent?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Peripheral arterial occlusive disease"
+        },
+        {
+          "label": "B",
+          "text": "Congestive heart failure edema"
+        },
+        {
+          "label": "C",
+          "text": "Acute deep vein thrombosis"
+        },
+        {
+          "label": "D",
+          "text": "Bacterial cellulitis"
+        },
+        {
+          "label": "E",
+          "text": "Chronic venous insufficiency"
+        }
+      ],
+      "correctAnswer": "E",
+      "explanation": {
+        "summary": "Long-standing venous hypertension from valvular incompetence produces dependent edema, skin thickening, and hemosiderin/pigment changes of the lower leg, the hallmark of chronic venous insufficiency.",
+        "whyCorrect": "Long-standing venous hypertension from valvular incompetence produces dependent edema, skin thickening, and hemosiderin/pigment changes of the lower leg, the hallmark of chronic venous insufficiency.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-568_Brick Exchange - Superficial Venous Disease_p2_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-569",
+      "topicId": "superficial-venous-disease",
+      "topicName": "Superficial Venous Disease",
+      "stem": "The medial ankle and foot show brownish pigmentation, induration, and scaling in a patient with long-standing venous disease. This skin change is best described as?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Cellulitis with abscess"
+        },
+        {
+          "label": "B",
+          "text": "Arterial ischemic gangrene"
+        },
+        {
+          "label": "C",
+          "text": "Venous stasis dermatitis"
+        },
+        {
+          "label": "D",
+          "text": "Tinea pedis fungal infection"
+        },
+        {
+          "label": "E",
+          "text": "Acute contact dermatitis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Chronic venous hypertension causes red-cell extravasation; breakdown of hemoglobin deposits hemosiderin, giving the characteristic brown pigmentation and eczematous change of stasis dermatitis in the gaiter area.",
+        "whyCorrect": "Chronic venous hypertension causes red-cell extravasation; breakdown of hemoglobin deposits hemosiderin, giving the characteristic brown pigmentation and eczematous change of stasis dermatitis in the gaiter area.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-569_Brick Exchange - Superficial Venous Disease_p4_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-570",
+      "topicId": "superficial-venous-disease",
+      "topicName": "Superficial Venous Disease",
+      "stem": "A dilated, tortuous, rope-like subcutaneous vein bulges from the calf of this patient. What is this finding?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Superficial thrombophlebitis cord"
+        },
+        {
+          "label": "B",
+          "text": "Varicose vein"
+        },
+        {
+          "label": "C",
+          "text": "Arteriovenous fistula"
+        },
+        {
+          "label": "D",
+          "text": "Ruptured Baker cyst"
+        },
+        {
+          "label": "E",
+          "text": "Lymphangitic streak"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Sustained venous reflux dilates superficial veins into the visible, tortuous, elongated cords known as varicose veins.",
+        "whyCorrect": "Sustained venous reflux dilates superficial veins into the visible, tortuous, elongated cords known as varicose veins.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-570_Brick Exchange - Superficial Venous Disease_p6_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-571",
+      "topicId": "superficial-venous-disease",
+      "topicName": "Superficial Venous Disease",
+      "stem": "Both lower legs show woody induration with confluent purple-brown discoloration and scaling over the gaiter region in advanced venous disease. This end-stage skin/subcutaneous change is termed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Erythema nodosum"
+        },
+        {
+          "label": "B",
+          "text": "Lipodermatosclerosis"
+        },
+        {
+          "label": "C",
+          "text": "Pretibial myxedema"
+        },
+        {
+          "label": "D",
+          "text": "Necrotizing fasciitis"
+        },
+        {
+          "label": "E",
+          "text": "Kaposi sarcoma"
+        }
+      ],
+      "correctAnswer": "B",
+      "explanation": {
+        "summary": "Chronic venous hypertension drives fibrosis of dermis and subcutaneous fat, producing the firm, hyperpigmented, inverted-champagne-bottle change called lipodermatosclerosis, often preceding venous ulceration.",
+        "whyCorrect": "Chronic venous hypertension drives fibrosis of dermis and subcutaneous fat, producing the firm, hyperpigmented, inverted-champagne-bottle change called lipodermatosclerosis, often preceding venous ulceration.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-571_Brick Exchange - Superficial Venous Disease_p7_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-879",
+      "topicId": "superficial-venous-disease",
+      "topicName": "Superficial Venous Disease",
+      "stem": "This diagram contrasts normal and abnormal venous return in the leg. What underlying defect explains the abnormal (refluxing) blood flow and varicosities shown on the right?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Atherosclerotic narrowing of leg arteries"
+        },
+        {
+          "label": "B",
+          "text": "Increased arterial inflow pressure"
+        },
+        {
+          "label": "C",
+          "text": "Incompetent venous valves"
+        },
+        {
+          "label": "D",
+          "text": "Occlusion of the deep vein by thrombus"
+        },
+        {
+          "label": "E",
+          "text": "Obstruction of lymphatic channels"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "When one-way venous valves fail, blood refluxes distally under gravity, raising venous pressure and dilating superficial veins into varicosities, in contrast with competent valves that direct flow upward.",
+        "whyCorrect": "When one-way venous valves fail, blood refluxes distally under gravity, raising venous pressure and dilating superficial veins into varicosities, in contrast with competent valves that direct flow upward.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-879_Brick Exchange - Superficial Venous Disease_p3_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-880",
+      "topicId": "superficial-venous-disease",
+      "topicName": "Superficial Venous Disease",
+      "stem": "The illustration shows a needle injecting an agent directly into a superficial vein, with a magnified view of the vein lumen filling with a fibrotic/occluding mass. What treatment does this depict?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "Vein stripping surgery"
+        },
+        {
+          "label": "B",
+          "text": "Arterial angioplasty"
+        },
+        {
+          "label": "C",
+          "text": "Sclerotherapy"
+        },
+        {
+          "label": "D",
+          "text": "Endovenous thermal ablation"
+        },
+        {
+          "label": "E",
+          "text": "Deep venous thrombolysis"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Sclerotherapy injects a chemical sclerosant into the target vein, damaging the endothelium so the vein fibroses and is obliterated, as shown by the occluded lumen.",
+        "whyCorrect": "Sclerotherapy injects a chemical sclerosant into the target vein, damaging the endothelium so the vein fibroses and is obliterated, as shown by the occluded lumen.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-880_Brick Exchange - Superficial Venous Disease_p8_1.png",
+      "tags": [
+        "picture"
+      ]
+    },
+    {
+      "id": "repic-881",
+      "topicId": "superficial-venous-disease",
+      "topicName": "Superficial Venous Disease",
+      "stem": "This 4-step sequence shows a catheter introduced and advanced up a vein, then the vein narrowing and closing as the catheter is withdrawn. By what mechanism is the vein closed?",
+      "choices": [
+        {
+          "label": "A",
+          "text": "The vein is surgically tied off and removed"
+        },
+        {
+          "label": "B",
+          "text": "A metal stent holds the vein permanently open"
+        },
+        {
+          "label": "C",
+          "text": "Thermal energy from the catheter injures the vein wall"
+        },
+        {
+          "label": "D",
+          "text": "A chemical sclerosant is injected into the lumen"
+        },
+        {
+          "label": "E",
+          "text": "A clot-dissolving drug is infused to reopen it"
+        }
+      ],
+      "correctAnswer": "C",
+      "explanation": {
+        "summary": "Endovenous thermal (radiofrequency or laser) ablation delivers heat that denatures the vein wall collagen, causing contraction and fibrotic closure as the catheter is slowly withdrawn.",
+        "whyCorrect": "Endovenous thermal (radiofrequency or laser) ablation delivers heat that denatures the vein wall collagen, causing contraction and fibrotic closure as the catheter is slowly withdrawn.",
+        "whyWrongByChoice": {}
+      },
+      "difficulty": "medium",
+      "imageRef": "repic-881_Brick Exchange - Superficial Venous Disease_p9_1.png",
+      "tags": [
+        "picture"
+      ]
+    }
+  ]
+}
