@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "The airway is split into the conducting zone (nose through terminal bronchioles, which transports but does not exchange gas) and the respiratory zone (respiratory bronchioles, alveolar ducts, and alveoli), where actual gas exchange takes place.",
         "whyCorrect": "The airway is split into the conducting zone (nose through terminal bronchioles, which transports but does not exchange gas) and the respiratory zone (respiratory bronchioles, alveolar ducts, and alveoli), where actual gas exchange takes place.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The conducting zone ends at the terminal bronchioles and does not include alveolar ducts and sacs.",
+          "C": "Phonation occurs in the larynx in the upper airway, far proximal to the respiratory bronchioles.",
+          "D": "Anatomic dead space is the conducting zone; the region described participates in gas exchange.",
+          "E": "The pleural space surrounds the lung outside the airways and is not an airway region."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-083_Brick Exchange - Overview of Respiratory Physiology_p2_1.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "Goblet cells and submucosal glands secrete mucus that traps pathogens and debris, while coordinated ciliary beating propels the mucus layer upward toward the pharynx to be cleared, forming the mucociliary escalator.",
         "whyCorrect": "Goblet cells and submucosal glands secrete mucus that traps pathogens and debris, while coordinated ciliary beating propels the mucus layer upward toward the pharynx to be cleared, forming the mucociliary escalator.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Surfactant is produced by type II pneumocytes in alveoli, not by the ciliated tracheal epithelium.",
+          "C": "Gas exchange occurs only in alveoli, not across tracheal epithelium.",
+          "D": "Cartilage lies deep in the wall, and the diagram shows mucus and cilia moving debris, not cartilage remodeling.",
+          "E": "Airway antibodies (mainly IgA) are secreted into the lumen, not into the bloodstream, and this is not what the diagram depicts."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-160_Brick Exchange - Overview of Respiratory Physiology_p5_1.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "Goblet cells synthesize and secrete mucin granules that form the airway mucus layer, while adjacent ciliated cells propel the mucus and basal cells serve as progenitors; ion channels regulate the periciliary fluid depth needed for effective ciliary beating.",
         "whyCorrect": "Goblet cells synthesize and secrete mucin granules that form the airway mucus layer, while adjacent ciliated cells propel the mucus and basal cells serve as progenitors; ion channels regulate the periciliary fluid depth needed for effective ciliary beating.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Ciliated cells propel the mucus layer with their cilia but do not secrete the mucin granules.",
+          "B": "Basal cells are short progenitor cells on the basement membrane and lack secretory granules.",
+          "C": "Club cells line the bronchioles and secrete surfactant-like proteins and detoxify, rather than producing the mucus layer of large airways.",
+          "D": "Type II pneumocytes are alveolar cells that secrete surfactant, not airway mucus."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-161_Brick Exchange - Overview of Respiratory Physiology_p5_2.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Gas exchange at the respiratory membrane occurs by simple passive diffusion: each gas moves from higher to lower partial pressure, with O2 entering blood to bind hemoglobin and CO2 leaving blood into the alveolus.",
         "whyCorrect": "Gas exchange at the respiratory membrane occurs by simple passive diffusion: each gas moves from higher to lower partial pressure, with O2 entering blood to bind hemoglobin and CO2 leaving blood into the alveolus.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "No ATP-driven pump moves O2 or CO2; they cross membranes passively.",
+          "C": "These small, lipid-soluble gases do not require channel or carrier proteins.",
+          "D": "Bulk flow moves air through the airways, but across the barrier the gases move by diffusion, not through pores.",
+          "E": "Sodium-coupled transport applies to solutes such as glucose, not respiratory gases."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-795_Brick Exchange - Overview of Respiratory Physiology_p10_1.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "By Fick's law of diffusion, transfer rate is inversely proportional to membrane thickness; interstitial thickening increases the diffusion distance and reduces gas transfer, impairing oxygenation.",
         "whyCorrect": "By Fick's law of diffusion, transfer rate is inversely proportional to membrane thickness; interstitial thickening increases the diffusion distance and reduces gas transfer, impairing oxygenation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Thickening impairs diffusion of all gases, and it reduces rather than increases oxygen transfer.",
+          "B": "Diffusion rate is inversely proportional to thickness, so thickening slows it.",
+          "D": "Membrane thickness is a direct term in Fick's law, so thickening does affect diffusion.",
+          "E": "The direction of CO2 movement depends on its partial pressure gradient, which thickening does not reverse."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-796_Brick Exchange - Overview of Respiratory Physiology_p12_1.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "The diaphragm is the principal muscle of inspiration; its contraction flattens the dome, increasing thoracic volume and lowering intrathoracic pressure to draw air in. Scalenes and sternocleidomastoid are accessory inspiratory muscles used with increased effort, while the internal intercostals and abdominal muscles (rectus abdominis, obliques) drive active/forced expiration.",
         "whyCorrect": "The diaphragm is the principal muscle of inspiration; its contraction flattens the dome, increasing thoracic volume and lowering intrathoracic pressure to draw air in. Scalenes and sternocleidomastoid are accessory inspiratory muscles used with increased effort, while the internal intercostals and abdominal muscles (rectus abdominis, obliques) drive active/forced expiration.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Internal intercostals depress the ribs during forced expiration.",
+          "B": "Rectus abdominis compresses the abdomen during forced expiration.",
+          "C": "Scalenes elevate the upper ribs and assist inspiration but are accessory to the diaphragm.",
+          "E": "Sternocleidomastoid is an accessory inspiratory muscle used only with increased effort."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-085_Brick Exchange - Physiology_ Mechanics and pressures of breathing_p4_1.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "Radiographic density depends on tissue attenuation of X-rays. Air-filled lung attenuates little radiation, so most X-rays pass through to the detector, rendering the lung dark. Denser structures (bone, effusion, consolidation) absorb more X-rays and appear white, which is why replacement of lung air by fluid or tissue produces opacity.",
         "whyCorrect": "Radiographic density depends on tissue attenuation of X-rays. Air-filled lung attenuates little radiation, so most X-rays pass through to the detector, rendering the lung dark. Denser structures (bone, effusion, consolidation) absorb more X-rays and appear white, which is why replacement of lung air by fluid or tissue produces opacity.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Lung tissue does not emit radiation; darkness comes from X-rays passing through the air.",
+          "C": "Air does not fluoresce under X-rays; it simply attenuates little of the beam.",
+          "D": "This reverses the physics: strong absorption makes a structure white, as with bone.",
+          "E": "Calcium density would make the lung appear white, not dark."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-336_Brick Exchange - Physiology_ Mechanics and pressures of breathing_p18_1.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "Airflow is driven by the difference between alveolar and atmospheric pressure. During inspiration, muscle contraction and thoracic expansion make alveolar pressure negative, drawing air in. As the lung fills, alveolar pressure rises back toward 0; when it equals atmospheric pressure the gradient is gone and flow ceases, even though lung volume is at its peak.",
         "whyCorrect": "Airflow is driven by the difference between alveolar and atmospheric pressure. During inspiration, muscle contraction and thoracic expansion make alveolar pressure negative, drawing air in. As the lung fills, alveolar pressure rises back toward 0; when it equals atmospheric pressure the gradient is gone and flow ceases, even though lung volume is at its peak.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Airway resistance does not fall to zero; flow stops because the pressure gradient disappears.",
+          "C": "Pleural pressure remains negative at end-inspiration, at its most negative value, rather than turning positive.",
+          "D": "Inspiratory muscles need not reach maximal contraction; flow stops once alveolar and atmospheric pressures are equal.",
+          "E": "Residual volume is the volume left after maximal expiration, not the volume at end-inspiration."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-822_Brick Exchange - Physiology_ Mechanics and pressures of breathing_p10_1.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "When the diaphragm contracts and the thoracic cavity enlarges, the increase in intrathoracic volume lowers pressure (P1V1 = P2V2), drawing air in; expiration reverses this. This inverse pressure-volume relationship at constant temperature is Boyle's law, the fundamental basis of the mechanics of ventilation.",
         "whyCorrect": "When the diaphragm contracts and the thoracic cavity enlarges, the increase in intrathoracic volume lowers pressure (P1V1 = P2V2), drawing air in; expiration reverses this. This inverse pressure-volume relationship at constant temperature is Boyle's law, the fundamental basis of the mechanics of ventilation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Charles's law relates volume to temperature at constant pressure, while the figure shows pressure changing with volume.",
+          "C": "Dalton's law says total pressure is the sum of partial pressures; it does not describe pressure falling as volume increases.",
+          "D": "Fick's law describes diffusion across membranes, not pressure-volume changes in the thorax.",
+          "E": "Henry's law relates dissolved gas to partial pressure, not thoracic volume to pressure."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-823_Brick Exchange - Physiology_ Mechanics and pressures of breathing_p12_1.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "Transpulmonary pressure = alveolar pressure - pleural pressure, and it is the net distending pressure holding the lungs open. The plot shows it widening during inspiration (as pleural pressure becomes more negative) and correlating with the rise in lung volume, illustrating why a more negative pleural pressure inflates the lung.",
         "whyCorrect": "Transpulmonary pressure = alveolar pressure - pleural pressure, and it is the net distending pressure holding the lungs open. The plot shows it widening during inspiration (as pleural pressure becomes more negative) and correlating with the rise in lung volume, illustrating why a more negative pleural pressure inflates the lung.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The atmospheric-alveolar difference drives airflow through the airways (transairway pressure), not lung distension.",
+          "B": "Pleural pressure alone is a single value; transpulmonary pressure is the difference between alveolar and pleural pressure.",
+          "C": "Transpulmonary pressure is a difference, not a sum, of alveolar and pleural pressures.",
+          "E": "Chest wall recoil is reflected by the pressure across the chest wall (pleural minus atmospheric), not across the lung."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-824_Brick Exchange - Physiology_ Mechanics and pressures of breathing_p14_1.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "By the Law of Laplace (P = 2T/r), for a given surface tension a smaller alveolar radius produces a higher collapsing pressure, so small alveoli would tend to empty into larger ones. Surfactant counteracts this by lowering surface tension more in smaller alveoli, stabilizing them and preventing collapse.",
         "whyCorrect": "By the Law of Laplace (P = 2T/r), for a given surface tension a smaller alveolar radius produces a higher collapsing pressure, so small alveoli would tend to empty into larger ones. Surfactant counteracts this by lowering surface tension more in smaller alveoli, stabilizing them and preventing collapse.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Fick's law concerns diffusion of gas across membranes, not the collapsing pressure from surface tension.",
+          "B": "Boyle's law relates pressure and volume at constant temperature; alveolar size does not change gas temperature.",
+          "C": "Poiseuille's law governs airway resistance and flow, not the collapsing pressure inside an alveolus.",
+          "E": "Bernoulli's principle relates flow velocity and pressure in moving fluid, not the static surface tension pressure of alveoli."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-825_Brick Exchange - Physiology_ Mechanics and pressures of breathing_p21_1.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "Transpulmonary pressure = alveolar pressure - intrapleural pressure = 0 - (-4) = +4 cmH2O. This positive distending pressure keeps the lungs inflated and apposed to the chest wall despite their inward elastic recoil. If the pleural seal is lost (e.g., pneumothorax), transpulmonary pressure falls and the lung collapses.",
         "whyCorrect": "Transpulmonary pressure = alveolar pressure - intrapleural pressure = 0 - (-4) = +4 cmH2O. This positive distending pressure keeps the lungs inflated and apposed to the chest wall despite their inward elastic recoil. If the pleural seal is lost (e.g., pneumothorax), transpulmonary pressure falls and the lung collapses.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Oncotic pressure relates to plasma proteins and fluid exchange, not to the pressure difference across the lung.",
+          "C": "A positive distending pressure keeps airways and alveoli open rather than closing them.",
+          "D": "Airflow out during passive expiration is driven by alveolar pressure rising above atmospheric, not by transpulmonary pressure.",
+          "E": "O2 diffusion is driven by the partial pressure gradient between alveolar gas and capillary blood, not by mechanical pressure."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-826_Brick Exchange - Physiology_ Mechanics and pressures of breathing_p8_1.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "Alveolar ventilation = (tidal volume - dead space) x respiratory rate = (500 - 150) x 15 = 5,250 ml/min. Total (minute) ventilation of 7,500 ml/min overstates gas exchange because ~150 ml per breath fills conducting airways.",
         "whyCorrect": "Alveolar ventilation = (tidal volume - dead space) x respiratory rate = (500 - 150) x 15 = 5,250 ml/min. Total (minute) ventilation of 7,500 ml/min overstates gas exchange because ~150 ml per breath fills conducting airways.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "2,250 ml/min is dead space ventilation (150 x 15), not alveolar ventilation.",
+          "C": "750 ml/min is far too low; it would imply only 50 ml of alveolar gas per breath instead of the 350 ml left after subtracting dead space.",
+          "D": "7,500 ml/min is total minute ventilation (500 x 15), which ignores the dead space.",
+          "E": "3,000 ml/min would imply 200 ml of alveolar gas per breath, but subtracting 150 ml of dead space from a 500 ml tidal volume leaves 350 ml."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-854_Brick Exchange - Respiratory_ Alveolar ventilation and Dead space 1 of 2_p18_1.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "The stepwise decline in PO2 from inspired air through humidification, alveolar dilution, diffusion, venous admixture, and tissue diffusion down to mitochondria is the oxygen cascade—the sequential pressure drops driving O2 from atmosphere to cells.",
         "whyCorrect": "The stepwise decline in PO2 from inspired air through humidification, alveolar dilution, diffusion, venous admixture, and tissue diffusion down to mitochondria is the oxygen cascade—the sequential pressure drops driving O2 from atmosphere to cells.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The dissociation curve plots hemoglobin saturation against PO2, not a stepwise fall in PO2 from air to cells.",
+          "C": "The Bohr shift is a rightward movement of the dissociation curve with rising CO2, not a sequence of PO2 values.",
+          "D": "CO2 transport concerns bicarbonate, carbamino compounds, and dissolved CO2, not the descent of PO2.",
+          "E": "The A-a gradient is only one step in the cascade and normally widens, not reverses, during exercise."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-855_Brick Exchange - Respiratory_ Alveolar ventilation and Dead space 1 of 2_p4_1.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "This is the alveolar gas equation. Solving for alveolar PO2 (PAO2) and subtracting measured arterial PO2 (PaO2) yields the A-a gradient, which helps distinguish causes of hypoxemia (e.g., shunt/V-Q mismatch versus hypoventilation).",
         "whyCorrect": "This is the alveolar gas equation. Solving for alveolar PO2 (PAO2) and subtracting measured arterial PO2 (PaO2) yields the A-a gradient, which helps distinguish causes of hypoxemia (e.g., shunt/V-Q mismatch versus hypoventilation).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Bicarbonate deficit uses base deficit and body weight, not alveolar oxygen tension.",
+          "C": "Arterial O2 content uses hemoglobin, SaO2, and PaO2, not the alveolar gas equation.",
+          "D": "Dead space fraction is calculated with the Bohr equation from arterial and expired PCO2.",
+          "E": "The anion gap is calculated from serum sodium, chloride, and bicarbonate."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-856_Brick Exchange - Respiratory_ Alveolar ventilation and Dead space 1 of 2_p7_1.png",
@@ -591,7 +666,7 @@
       "id": "repic-162",
       "topicId": "physiology-alveolar-gas-exchange-and-diffusion-2-of-2",
       "topicName": "Physiology- Alveolar Gas exchange and Diffusion 2 of 2",
-      "stem": "This cross-section shows the layered barrier separating alveolar air from red blood cells, across which O2 and CO2 diffuse in opposite directions. Increased thickness of which listed layer would most impair gas diffusion?",
+      "stem": "This cross-section shows the layered barrier separating alveolar air from red blood cells, across which O2 and CO2 diffuse in opposite directions. Which of the following changes would most impair gas diffusion across this barrier?",
       "choices": [
         {
           "label": "A",
@@ -616,9 +691,14 @@
       ],
       "correctAnswer": "A",
       "explanation": {
-        "summary": "Gas diffusion is inversely proportional to membrane thickness (Fick's law). Thickening any layer of the respiratory membrane, as with pulmonary edema or fibrosis, lengthens the diffusion path and reduces O2/CO2 transfer.",
-        "whyCorrect": "Gas diffusion is inversely proportional to membrane thickness (Fick's law). Thickening any layer of the respiratory membrane, as with pulmonary edema or fibrosis, lengthens the diffusion path and reduces O2/CO2 transfer.",
-        "whyWrongByChoice": {}
+        "summary": "Gas diffusion is inversely proportional to the thickness of the diffusion path (Fick's law). Fluid accumulating in the alveolus, as in pulmonary edema, lengthens that path and reduces O2/CO2 transfer; fibrosis of the membrane itself has the same effect.",
+        "whyCorrect": "Gas diffusion is inversely proportional to the thickness of the diffusion path (Fick's law). Fluid accumulating in the alveolus, as in pulmonary edema, lengthens that path and reduces O2/CO2 transfer; fibrosis of the membrane itself has the same effect.",
+        "whyWrongByChoice": {
+          "B": "A larger surface area increases diffusion under Fick's law rather than impairing it.",
+          "C": "Faster capillary flow shortens transit time but does not thicken the barrier, and normally O2 still equilibrates.",
+          "D": "Higher hemoglobin increases O2 carrying capacity and sustains the gradient rather than lengthening the diffusion path.",
+          "E": "Higher alveolar O2 increases the partial pressure gradient and enhances diffusion."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-162_Brick Exchange - Physiology- Alveolar Gas exchange and Diffusion 2 of 2_p2_1.png",
@@ -657,7 +737,12 @@
       "explanation": {
         "summary": "The central cell is a type 2 pneumocyte, a cuboidal cell that synthesizes and secretes pulmonary surfactant to reduce surface tension and prevent alveolar collapse; it also serves as a progenitor for type 1 pneumocytes.",
         "whyCorrect": "The central cell is a type 2 pneumocyte, a cuboidal cell that synthesizes and secretes pulmonary surfactant to reduce surface tension and prevent alveolar collapse; it also serves as a progenitor for type 1 pneumocytes.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Mucus is made by goblet cells in conducting airways, not by alveolar wall cells.",
+          "C": "Oxygen bound to hemoglobin is carried by red blood cells within capillaries, not pneumocytes.",
+          "D": "The thin diffusion barrier is formed by flat type 1 pneumocytes.",
+          "E": "Phagocytosis is performed by alveolar macrophages, which wander in the alveolar lumen."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-163_Brick Exchange - Physiology- Alveolar Gas exchange and Diffusion 2 of 2_p3_1.png",
@@ -696,7 +781,12 @@
       "explanation": {
         "summary": "Because hemoglobin does not bind N2O, the free gas equilibrates with alveolar levels almost instantly; further uptake depends only on how much blood flows past, making it the prototype of perfusion-limited gas exchange.",
         "whyCorrect": "Because hemoglobin does not bind N2O, the free gas equilibrates with alveolar levels almost instantly; further uptake depends only on how much blood flows past, making it the prototype of perfusion-limited gas exchange.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Ventilation-limited is not a standard category of gas transfer across the capillary; the distinction is perfusion versus diffusion limitation.",
+          "C": "N2O does not bind hemoglobin, so its transfer is not buffered by hemoglobin.",
+          "D": "Shunt refers to blood bypassing ventilated alveoli, not to how a gas equilibrates within a capillary.",
+          "E": "Diffusion-limited gases, such as CO, fail to equilibrate along the capillary, the opposite of this curve."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-815_Brick Exchange - Physiology- Alveolar Gas exchange and Diffusion 2 of 2_p16_1.png",
@@ -735,7 +825,12 @@
       "explanation": {
         "summary": "Under resting conditions blood spends about 0.75 s in the capillary but PO2 equilibrates with alveolar gas by ~0.25 s, leaving a large safety margin; this reserve is why O2 transfer is normally perfusion-limited and only becomes diffusion-limited in disease or heavy exercise.",
         "whyCorrect": "Under resting conditions blood spends about 0.75 s in the capillary but PO2 equilibrates with alveolar gas by ~0.25 s, leaving a large safety margin; this reserve is why O2 transfer is normally perfusion-limited and only becomes diffusion-limited in disease or heavy exercise.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "PO2 reaches alveolar levels well before the end of the capillary, so there is no diffusion limitation at rest.",
+          "C": "Hemoglobin is essentially saturated within the first third of the capillary, not only at its exit.",
+          "D": "Alveolar PO2 is normally about 100 mm Hg, and equilibration occurs at that level.",
+          "E": "Resting transit time (about 0.75 s) is about three times longer than needed for equilibration."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-816_Brick Exchange - Physiology- Alveolar Gas exchange and Diffusion 2 of 2_p17_1.png",
@@ -774,7 +869,12 @@
       "explanation": {
         "summary": "CO binds hemoglobin so tightly that free partial pressure barely rises, so uptake is limited only by how fast the gas can diffuse across the membrane (diffusion-limited). N2O, which is not bound, equilibrates almost immediately and is perfusion-limited.",
         "whyCorrect": "CO binds hemoglobin so tightly that free partial pressure barely rises, so uptake is limited only by how fast the gas can diffuse across the membrane (diffusion-limited). N2O, which is not bound, equilibrates almost immediately and is perfusion-limited.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "CO is the classic diffusion-limited gas and equilibrates slowest, not fastest.",
+          "B": "CO is a small molecule that is readily taken up; its free partial pressure stays low because hemoglobin binds it.",
+          "C": "CO is avidly bound to hemoglobin, not exhaled unchanged.",
+          "E": "CO uptake is independent of blood flow because the gradient is maintained by binding; it depends on diffusion."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-817_Brick Exchange - Physiology- Alveolar Gas exchange and Diffusion 2 of 2_p18_1.png",
@@ -813,7 +913,12 @@
       "explanation": {
         "summary": "Because hemoglobin avidly binds CO, its free partial pressure stays very low, so the alveolar-capillary gradient is maintained and uptake is limited only by diffusion across the membrane; CO is the classic diffusion-limited gas.",
         "whyCorrect": "Because hemoglobin avidly binds CO, its free partial pressure stays very low, so the alveolar-capillary gradient is maintained and uptake is limited only by diffusion across the membrane; CO is the classic diffusion-limited gas.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Perfusion-limited gases, such as N2O, rapidly equilibrate with alveolar gas, unlike a gas whose free level barely rises.",
+          "B": "Shunt is blood that bypasses ventilated alveoli, not a mode of gas uptake within the capillary.",
+          "C": "Ventilation-limited is not a classic category of capillary gas transfer.",
+          "D": "Solubility-limited is not the term used; low free levels reflect hemoglobin binding that makes diffusion the limiting step."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-818_Brick Exchange - Physiology- Alveolar Gas exchange and Diffusion 2 of 2_p20_1.png",
@@ -852,7 +957,12 @@
       "explanation": {
         "summary": "Gas exchange at the alveolus is passive diffusion driven by the partial pressure difference (ΔP) across the membrane. O2 diffuses down its gradient into the capillary, where it is rapidly bound by hemoglobin during RBC uptake, keeping the gradient favorable as blood flows through.",
         "whyCorrect": "Gas exchange at the alveolus is passive diffusion driven by the partial pressure difference (ΔP) across the membrane. O2 diffuses down its gradient into the capillary, where it is rapidly bound by hemoglobin during RBC uptake, keeping the gradient favorable as blood flows through.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Oncotic pressure governs fluid movement between capillaries and interstitium, not O2 transfer.",
+          "B": "O2 crosses the membrane without carrier proteins because it is small and lipid-soluble.",
+          "C": "Hydrostatic pressure drives fluid filtration, not gas movement across the barrier.",
+          "D": "No ATP-driven pumps move O2; it moves passively down its partial pressure gradient."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-819_Brick Exchange - Physiology- Alveolar Gas exchange and Diffusion 2 of 2_p6_1.png",
@@ -891,7 +1001,12 @@
       "explanation": {
         "summary": "As air enters the airways it is humidified (water vapor lowers the fraction of each gas), and in the alveolus O2 is continuously removed into pulmonary capillary blood while CO2 is added. The net result is a steady-state alveolar PO2 (~100 mmHg) well below the inspired value, driving diffusion into the blood (40 to 100 mmHg).",
         "whyCorrect": "As air enters the airways it is humidified (water vapor lowers the fraction of each gas), and in the alveolus O2 is continuously removed into pulmonary capillary blood while CO2 is added. The net result is a steady-state alveolar PO2 (~100 mmHg) well below the inspired value, driving diffusion into the blood (40 to 100 mmHg).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Airways do not secrete oxygen; O2 is removed from the alveoli into blood.",
+          "C": "Nitrogen is present in both inspired and alveolar gas and does not selectively displace O2 in the alveolus.",
+          "D": "Surfactant metabolism does not consume alveolar oxygen in any meaningful amount.",
+          "E": "Alveolar cells use little oxygen; the fall reflects humidification and uptake into capillary blood."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-820_Brick Exchange - Physiology- Alveolar Gas exchange and Diffusion 2 of 2_p7_1.png",
@@ -930,7 +1045,12 @@
       "explanation": {
         "summary": "1/D_L = 1/D_M + 1/(theta x Vc): the overall diffusing capacity reflects two resistances in series, the physical diffusion across the alveolar-capillary membrane and the rate of chemical reaction of O2 with hemoglobin inside the red cell. Disease can impair either component (e.g., membrane thickening or anemia reducing Vc).",
         "whyCorrect": "1/D_L = 1/D_M + 1/(theta x Vc): the overall diffusing capacity reflects two resistances in series, the physical diffusion across the alveolar-capillary membrane and the rate of chemical reaction of O2 with hemoglobin inside the red cell. Disease can impair either component (e.g., membrane thickening or anemia reducing Vc).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Hemoglobin binding takes finite time and contributes a real resistance, represented by theta x Vc.",
+          "C": "Membrane thickness affects only D_M; red cell reaction rate and capillary blood volume also matter.",
+          "D": "Capillary blood volume is one factor, but membrane diffusion also limits transfer.",
+          "E": "The reciprocal-sum equation describes resistances in series: O2 must cross the membrane before binding hemoglobin."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-821_Brick Exchange - Physiology- Alveolar Gas exchange and Diffusion 2 of 2_p9_1.png",

@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "Arteriovenous nicking, cotton-wool spots (retinal ischemia), and flame hemorrhages reflect chronic hypertensive damage to the retinal arterioles, making the retina a window onto systemic hypertensive vascular injury.",
         "whyCorrect": "Arteriovenous nicking, cotton-wool spots (retinal ischemia), and flame hemorrhages reflect chronic hypertensive damage to the retinal arterioles, making the retina a window onto systemic hypertensive vascular injury.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Acute angle-closure glaucoma causes a painful red eye with a fixed mid-dilated pupil and corneal edema, not retinal hemorrhages and AV nicking.",
+          "B": "Central retinal artery occlusion gives a pale, whitened retina with a cherry-red spot, not AV nicking and flame hemorrhages.",
+          "C": "Proliferative diabetic retinopathy shows microaneurysms, dot-blot hemorrhages and new vessels; AV nicking points to hypertensive arteriolar disease.",
+          "D": "Retinal detachment shows an elevated, undulating gray retina with flashes and floaters, not vascular changes around the disc."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-292_Brick Exchange - Hypertension_ Foundations and Frameworks_p12_1.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "Chronic hypertension produces hyaline arteriolosclerosis (homogeneous protein deposition in the wall) and, with more severe/malignant hypertension, hyperplastic 'onion-skin' arteriolosclerosis, both narrowing the lumen and driving nephrosclerosis.",
         "whyCorrect": "Chronic hypertension produces hyaline arteriolosclerosis (homogeneous protein deposition in the wall) and, with more severe/malignant hypertension, hyperplastic 'onion-skin' arteriolosclerosis, both narrowing the lumen and driving nephrosclerosis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Polyarteritis nodosa causes transmural necrotizing inflammation of medium arteries with microaneurysms, not hyaline or onion-skin thickening of arterioles.",
+          "B": "Amyloid deposits stain with Congo red and expand the mesangium and vessel walls, but they do not form laminated onion-skin layers.",
+          "C": "Fibromuscular dysplasia affects the main renal artery with a beaded pattern, not small intrarenal arterioles.",
+          "D": "Renal cell carcinoma forms a tumor mass of clear or papillary cells, not diffuse thickening of arteriolar walls."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-490_Brick Exchange - Hypertension_ Foundations and Frameworks_p9_1.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "Secondary hypertension (5-10% of cases) results from an identifiable cause such as renovascular, renal, or endocrine disease; primary hypertension has no identifiable cause.",
         "whyCorrect": "Secondary hypertension (5-10% of cases) results from an identifiable cause such as renovascular, renal, or endocrine disease; primary hypertension has no identifiable cause.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Pulmonary arterial hypertension is elevated pressure in the pulmonary circulation, separate from systemic hypertension caused by renal artery disease.",
+          "B": "Idiopathic intracranial hypertension is raised CSF pressure, typically in obese young women, unrelated to systemic blood pressure.",
+          "D": "Primary hypertension has no identifiable cause, so a hypertension explained by renal artery stenosis cannot be primary.",
+          "E": "White-coat hypertension is elevated readings only in the clinic with normal out-of-office pressure, not hypertension from a structural lesion."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-548_Brick Exchange - Primary (Essential) Hypertension_p2_1.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "The diagram depicts the RAAS: renin converts angiotensinogen to angiotensin I, pulmonary ACE converts it to angiotensin II, which drives vasoconstriction and aldosterone-mediated Na/water retention.",
         "whyCorrect": "The diagram depicts the RAAS: renin converts angiotensinogen to angiotensin I, pulmonary ACE converts it to angiotensin II, which drives vasoconstriction and aldosterone-mediated Na/water retention.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The kallikrein-kinin system generates bradykinin from kininogen and causes vasodilation, not vasoconstriction from angiotensinogen.",
+          "B": "Natriuretic peptides from the heart promote sodium excretion and vasodilation, lowering blood pressure.",
+          "C": "The baroreflex is a neural arc of stretch receptors and autonomic outflow, not a hormonal cascade starting with a liver protein.",
+          "D": "The HPA axis runs from CRH to ACTH to cortisol and does not start with hepatic angiotensinogen."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-839_Brick Exchange - Primary (Essential) Hypertension_p5_1.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "Enhanced tubular Na+ reabsorption expands intravascular volume, which combined with vasoconstriction raises the product of SVR and cardiac output, elevating blood pressure.",
         "whyCorrect": "Enhanced tubular Na+ reabsorption expands intravascular volume, which combined with vasoconstriction raises the product of SVR and cardiac output, elevating blood pressure.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Decreased contractility lowers cardiac output and blood pressure; it is not a renal event.",
+          "C": "Peripheral vasodilation lowers resistance and pressure, the opposite of the vasoconstriction shown.",
+          "D": "Natriuresis with volume loss shrinks intravascular volume and lowers blood pressure.",
+          "E": "Reduced systemic vascular resistance would lower blood pressure, and it is not a renal tubular event."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-840_Brick Exchange - Primary (Essential) Hypertension_p7_1.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "Reduced perfusion pressure from renal artery stenosis is sensed by the juxtaglomerular apparatus, triggering renin release and downstream angiotensin II/aldosterone activation, which drives renovascular hypertension.",
         "whyCorrect": "Reduced perfusion pressure from renal artery stenosis is sensed by the juxtaglomerular apparatus, triggering renin release and downstream angiotensin II/aldosterone activation, which drives renovascular hypertension.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Severe anemia raises cardiac output but usually lowers resistance and is not caused by a narrowed renal artery.",
+          "B": "Autonomous aldosterone secretion is primary hyperaldosteronism from an adrenal adenoma or hyperplasia, with suppressed renin, unlike a renal artery narrowing.",
+          "C": "A catecholamine surge comes from a pheochromocytoma of the adrenal medulla, not from narrowing of a renal artery.",
+          "E": "Cortisol excess is Cushing syndrome from pituitary, adrenal or exogenous sources, unrelated to renal artery anatomy."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-376_Brick Exchange - Secondary Hypertension_p8_1.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "The alternating areas of stenosis and dilation give a classic 'string of beads' pattern on angiography, diagnostic of fibromuscular dysplasia of the renal artery.",
         "whyCorrect": "The alternating areas of stenosis and dilation give a classic 'string of beads' pattern on angiography, diagnostic of fibromuscular dysplasia of the renal artery.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Atherosclerotic renal artery stenosis narrows the ostium or proximal artery in older patients and does not alternate with dilations.",
+          "C": "A renal artery aneurysm is a single focal outpouching, not repeated alternating webs and dilations.",
+          "D": "Polyarteritis nodosa causes multiple small microaneurysms in intrarenal and mesenteric branches, rather than beading of the mid-to-distal main renal artery.",
+          "E": "Takayasu arteritis causes long, smooth stenoses of the aorta and its branch origins in young Asian women, not a beaded pattern."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-377_Brick Exchange - Secondary Hypertension_p9_1.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "Chronic glucocorticoid excess (Cushing syndrome) produces moon face, buffalo hump, central obesity with striae, thin skin, proximal myopathy, and osteoporosis; excess cortisol also raises blood pressure, causing secondary hypertension.",
         "whyCorrect": "Chronic glucocorticoid excess (Cushing syndrome) produces moon face, buffalo hump, central obesity with striae, thin skin, proximal myopathy, and osteoporosis; excess cortisol also raises blood pressure, causing secondary hypertension.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Conn syndrome causes hypertension with hypokalemia and suppressed renin, but no moon facies, striae or buffalo hump.",
+          "B": "Acromegaly causes coarse facial features, enlarged hands and feet and macroglossia from GH excess, not central obesity with striae.",
+          "C": "Graves disease causes weight loss, tremor, goiter and exophthalmos, with systolic hypertension from high output, not central fat redistribution.",
+          "E": "Addison disease is cortisol deficiency, causing hypotension, hyperpigmentation and weight loss, the opposite of this picture."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-557_Brick Exchange - Secondary Hypertension_p12_1.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "Fibromuscular dysplasia causes non-atherosclerotic thickening of the arterial wall, giving a beaded appearance with intervening stenoses. It predominantly affects young to middle-aged women and is a treatable cause of secondary hypertension.",
         "whyCorrect": "Fibromuscular dysplasia causes non-atherosclerotic thickening of the arterial wall, giving a beaded appearance with intervening stenoses. It predominantly affects young to middle-aged women and is a treatable cause of secondary hypertension.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Adolescent boys are not the classic group for fibromuscular dysplasia; renal hypertension in young males more often reflects parenchymal disease or coarctation.",
+          "B": "Elderly men with diffuse atherosclerosis get ostial atherosclerotic renal stenosis, the other main renovascular cause, not a beaded artery.",
+          "D": "Older diabetic men are prone to atherosclerotic stenosis, not to fibromuscular dysplasia.",
+          "E": "Hypertension in neonates usually comes from umbilical artery catheter thrombosis or congenital renal disease, not fibromuscular dysplasia."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-558_Brick Exchange - Secondary Hypertension_p7_1.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "During sleep, relaxation of pharyngeal muscles lets the tongue and soft palate collapse posteriorly, occluding the upper airway. This is obstructive sleep apnea, a recognized secondary cause of hypertension.",
         "whyCorrect": "During sleep, relaxation of pharyngeal muscles lets the tongue and soft palate collapse posteriorly, occluding the upper airway. This is obstructive sleep apnea, a recognized secondary cause of hypertension.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Laryngospasm is reflex closure of the vocal cords triggered by aspiration or airway irritation, not tongue and soft tissue falling back during sleep.",
+          "C": "Epiglottitis is infectious swelling of the epiglottis with fever, drooling and stridor while awake, not a sleep-related collapse.",
+          "D": "Choanal atresia is a congenital blockage of the posterior nasal passage that presents in newborns with cyanosis relieved by crying.",
+          "E": "Vocal cord paralysis affects the larynx, causing hoarseness or stridor, rather than collapse of the pharynx during sleep."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-862_Brick Exchange - Secondary Hypertension_p15_1.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "Disc swelling with blurred margins and engorged vessels is papilledema; in the setting of severely elevated blood pressure it defines a hypertensive emergency (grade IV/malignant hypertension) requiring urgent BP lowering.",
         "whyCorrect": "Disc swelling with blurred margins and engorged vessels is papilledema; in the setting of severely elevated blood pressure it defines a hypertensive emergency (grade IV/malignant hypertension) requiring urgent BP lowering.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Retinal detachment appears as an elevated, gray, folded retina away from the disc, not a swollen optic disc with blurred margins.",
+          "C": "Glaucomatous cupping enlarges and deepens the central cup with thinning of the neuroretinal rim, the opposite of a swollen, elevated disc.",
+          "D": "Optic atrophy produces a pale, flat disc with sharp margins, not a swollen, hyperemic one.",
+          "E": "A normal physiologic cup sits in a flat disc with sharp margins, as in the left photo, not the swollen disc on the right."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-293_Brick Exchange - Hypertensive Emergency_p10_1.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "Schistocytes are red cells sheared as they pass through fibrin/damaged small vessels. In malignant hypertension the microvascular injury causes a microangiopathic hemolytic anemia, evidenced by these fragmented cells on the smear.",
         "whyCorrect": "Schistocytes are red cells sheared as they pass through fibrin/damaged small vessels. In malignant hypertension the microvascular injury causes a microangiopathic hemolytic anemia, evidenced by these fragmented cells on the smear.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Spherocytes are small, round, dense cells without central pallor from a membrane defect, not fragmented cells with sharp points.",
+          "C": "Rouleaux are red cells stacked like coins because of excess paraprotein; the cells themselves are intact.",
+          "D": "Sickle cells are elongated crescents from HbS polymerization, not helmet-shaped fragments.",
+          "E": "Target cells have a central dark spot within a pale ring, reflecting excess membrane relative to hemoglobin, not sheared fragments."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-294_Brick Exchange - Hypertensive Emergency_p7_1.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "Malignant/accelerated hypertension causes hyperplastic arteriolosclerosis, with concentric onion-skin layering of smooth muscle and basement membrane that severely narrows the lumen and produces ischemic renal injury.",
         "whyCorrect": "Malignant/accelerated hypertension causes hyperplastic arteriolosclerosis, with concentric onion-skin layering of smooth muscle and basement membrane that severely narrows the lumen and produces ischemic renal injury.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Renal artery atherosclerosis affects the main renal artery with lipid plaques, not small intrarenal arterioles with laminated walls.",
+          "C": "Membranous glomerulonephritis thickens glomerular capillary basement membranes with subepithelial deposits and does not involve arterioles.",
+          "D": "Acute tubular necrosis injures tubular epithelial cells with casts and denuded basement membranes; vessels are spared.",
+          "E": "Diabetic nodular glomerulosclerosis forms Kimmelstiel-Wilson nodules in the mesangium, and its arteriolar change is hyaline, not onion-skin."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-491_Brick Exchange - Hypertensive Emergency_p12_1.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "Fibrinoid necrosis is deposition of plasma proteins and fibrin in a necrotic vessel wall and is the hallmark acute lesion of malignant hypertension, reflecting endothelial injury from abruptly, severely elevated pressures.",
         "whyCorrect": "Fibrinoid necrosis is deposition of plasma proteins and fibrin in a necrotic vessel wall and is the hallmark acute lesion of malignant hypertension, reflecting endothelial injury from abruptly, severely elevated pressures.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Amyloid is acellular and eosinophilic but has a glassy, homogeneous look, stains with Congo red, and accumulates chronically without acute inflammation or necrosis.",
+          "C": "Benign hyaline arteriolosclerosis is a smooth, homogeneous pink thickening without necrosis or inflammation, a chronic change rather than acute injury.",
+          "D": "Atherosclerotic plaque affects large and medium arteries, with a lipid core, foam cells and a fibrous cap, not small arterioles.",
+          "E": "Caseating granulomas have central necrosis rimmed by epithelioid histiocytes and giant cells, typical of tuberculosis, not hypertensive vascular injury."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-492_Brick Exchange - Hypertensive Emergency_p8_1.png",

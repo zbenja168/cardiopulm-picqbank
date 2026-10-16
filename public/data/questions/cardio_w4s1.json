@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "AVNRT arises when a premature impulse blocks in the fast pathway, travels down the slow pathway, then conducts retrogradely up the fast pathway, creating a self-sustaining reentrant loop within the AV node.",
         "whyCorrect": "AVNRT arises when a premature impulse blocks in the fast pathway, travels down the slow pathway, then conducts retrogradely up the fast pathway, creating a self-sustaining reentrant loop within the AV node.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Early afterdepolarizations are triggered activity during prolonged repolarization, not a circuit using two AV nodal pathways.",
+          "C": "Complete heart block is a failure of AV conduction with dissociated atria and ventricles, not a tachycardic reentrant loop.",
+          "D": "Enhanced automaticity arises from a single ectopic focus firing on its own, without the dual pathways and loop shown.",
+          "E": "Sinus node dysfunction causes bradycardia or pauses from SA node failure, not a reentrant tachycardia in the AV node."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-647_Brick Exchange - Arrhythmias_ Pathophysiology and Diagnosis_p11_2.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "An accessory AV connection lets atrial impulses reach the ventricle before the AV-node delay, pre-exciting the ventricle (delta wave) and providing a limb for reentrant tachycardia in WPW.",
         "whyCorrect": "An accessory AV connection lets atrial impulses reach the ventricle before the AV-node delay, pre-exciting the ventricle (delta wave) and providing a limb for reentrant tachycardia in WPW.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The moderator band runs within the right ventricle from the septum to the anterior papillary muscle, carrying the right bundle; it does not connect atrium to ventricle.",
+          "C": "The coronary sinus is a venous channel draining into the right atrium, not a muscular bridge conducting impulses to the ventricle.",
+          "D": "An AV nodal abnormality causing first-degree block slows conduction, whereas this bridge bypasses the node and speeds activation.",
+          "E": "A patent foramen ovale is an opening between the two atria, not a connection from the right atrium to the right ventricle."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-648_Brick Exchange - Arrhythmias_ Pathophysiology and Diagnosis_p13_1.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "Supraventricular impulses still descend the normal conduction system, so ventricular depolarization is rapid and the QRS stays narrow; ventricular-origin arrhythmias spread cell-to-cell and produce a wide QRS.",
         "whyCorrect": "Supraventricular impulses still descend the normal conduction system, so ventricular depolarization is rapid and the QRS stays narrow; ventricular-origin arrhythmias spread cell-to-cell and produce a wide QRS.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Diffuse ST elevation suggests pericarditis or injury and does not identify the site of an arrhythmia's origin.",
+          "B": "A long PR interval reflects slowed AV conduction, as in first-degree block, and is not a defining feature of supraventricular rhythms.",
+          "C": "A wide QRS from slow cell-to-cell spread is typical of ventricular-origin rhythms, the opposite site in the diagram.",
+          "E": "Many supraventricular rhythms, such as sinus tachycardia or PACs, have visible P waves; only some, like atrial fibrillation, lack them."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-649_Brick Exchange - Arrhythmias_ Pathophysiology and Diagnosis_p16_1.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Because Na+ channels stay inactivated through the plateau, cardiac muscle cannot be re-stimulated until it has largely repolarized. This long refractory period blocks tetany and premature reentry, protecting diastolic filling.",
         "whyCorrect": "Because Na+ channels stay inactivated through the plateau, cardiac muscle cannot be re-stimulated until it has largely repolarized. This long refractory period blocks tetany and premature reentry, protecting diastolic filling.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The resting potential during phase 4 is set mainly by potassium conductance through inward rectifier channels, not by the refractory period.",
+          "C": "Cardiac muscle cannot summate force by rapid repetitive firing; its long refractory period specifically prevents that.",
+          "D": "Calcium-induced calcium release is triggered by L-type calcium entry during the plateau, not by refractoriness itself.",
+          "E": "The funny current is a pacemaker current in SA nodal cells during phase 4, unrelated to ventricular refractoriness."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-650_Brick Exchange - Arrhythmias_ Pathophysiology and Diagnosis_p2_1.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "The fastest pacemaker sets the rhythm and resets slower sites before they reach threshold (overdrive suppression). If the SA node fails, a subsidiary pacemaker with its slower intrinsic rate takes over as an escape rhythm.",
         "whyCorrect": "The fastest pacemaker sets the rhythm and resets slower sites before they reach threshold (overdrive suppression). If the SA node fails, a subsidiary pacemaker with its slower intrinsic rate takes over as an escape rhythm.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Exercise speeds the heart through sympathetic drive on the SA node; slower distal pacemakers remain suppressed.",
+          "C": "The AV node has a slower intrinsic rate, about 40 to 60 per minute, than the SA node, so it is not the dominant pacemaker.",
+          "D": "Pacemaker rates do not summate; the fastest site depolarizes the others first through overdrive suppression.",
+          "E": "Purkinje fibers have the slowest intrinsic rate, about 20 to 40 per minute, and take over only if all higher pacemakers fail."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-651_Brick Exchange - Arrhythmias_ Pathophysiology and Diagnosis_p7_1.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "Early afterdepolarizations arise during phases 2-3 when repolarization is prolonged (long QT), reactivating inward currents. They can trigger torsades de pointes; delayed afterdepolarizations (lower tracing) relate to calcium overload, e.g., digoxin toxicity.",
         "whyCorrect": "Early afterdepolarizations arise during phases 2-3 when repolarization is prolonged (long QT), reactivating inward currents. They can trigger torsades de pointes; delayed afterdepolarizations (lower tracing) relate to calcium overload, e.g., digoxin toxicity.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "First-degree AV block is slowed conduction through the AV node, not triggered activity during prolonged repolarization.",
+          "C": "WPW tachycardias are reentrant circuits through an accessory pathway, not triggered by early afterdepolarizations.",
+          "D": "Vagal sinus bradycardia slows the SA node rate and does not involve afterdepolarizations.",
+          "E": "Atrial fibrillation is initiated by pulmonary vein triggers and maintained by multiple reentrant wavelets, not by early afterdepolarizations in long QT."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-652_Brick Exchange - Arrhythmias_ Pathophysiology and Diagnosis_p9_1.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "The characteristic twisting of QRS amplitude around the baseline is torsades de pointes, a polymorphic ventricular tachycardia associated with QT prolongation. Class IA agents (and other QT-prolonging drugs) can precipitate it.",
         "whyCorrect": "The characteristic twisting of QRS amplitude around the baseline is torsades de pointes, a polymorphic ventricular tachycardia associated with QT prolongation. Class IA agents (and other QT-prolonging drugs) can precipitate it.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Monomorphic VT has uniform QRS complexes of constant shape and amplitude, not complexes that twist around the baseline.",
+          "B": "First-degree AV block is a prolonged PR interval with otherwise normal narrow complexes, not a wide-complex tachycardia.",
+          "D": "Atrial flutter shows sawtooth flutter waves with usually narrow QRS complexes in a regular ratio, not twisting polymorphic complexes.",
+          "E": "Atrial fibrillation is irregularly irregular with narrow QRS complexes and a fibrillatory baseline, not waxing and waning wide complexes."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-194_Brick Exchange - Antiarrhythmic Agents - Class I Drugs_p8_1.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "The pattern (weak Na+ channel block with shortened action potential duration) is characteristic of Class IB agents such as lidocaine and mexiletine, which preferentially act on ischemic/depolarized ventricular tissue. Quinidine is IA, flecainide is IC, amiodarone is III, verapamil is IV.",
         "whyCorrect": "The pattern (weak Na+ channel block with shortened action potential duration) is characteristic of Class IB agents such as lidocaine and mexiletine, which preferentially act on ischemic/depolarized ventricular tissue. Quinidine is IA, flecainide is IC, amiodarone is III, verapamil is IV.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Flecainide is a Class IC agent that markedly slows phase 0 with little change in action potential duration.",
+          "B": "Amiodarone is a Class III agent that prolongs, rather than shortens, action potential duration.",
+          "C": "Quinidine is a Class IA agent that slows phase 0 and prolongs action potential duration.",
+          "E": "Verapamil is a Class IV calcium channel blocker acting on nodal tissue, not a sodium channel blocker that shortens ventricular APD."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-581_Brick Exchange - Antiarrhythmic Agents - Class I Drugs_p11_1.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "Marked slowing of phase 0 (strong Na+ channel block) with little change in action potential duration is the hallmark of Class IC agents such as flecainide and propafenone. Lidocaine is IB (shortens APD), quinidine is IA (prolongs APD), sotalol is III, diltiazem is IV.",
         "whyCorrect": "Marked slowing of phase 0 (strong Na+ channel block) with little change in action potential duration is the hallmark of Class IC agents such as flecainide and propafenone. Lidocaine is IB (shortens APD), quinidine is IA (prolongs APD), sotalol is III, diltiazem is IV.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Sotalol is a Class III agent with beta blockade that prolongs action potential duration, not one that markedly slows phase 0.",
+          "B": "Lidocaine is a Class IB agent with weak phase 0 effect that shortens action potential duration.",
+          "C": "Quinidine is a Class IA agent that slows phase 0 moderately and also prolongs action potential duration.",
+          "E": "Diltiazem is a Class IV calcium channel blocker acting on SA and AV nodal tissue, not on the sodium-driven phase 0 of ventricular cells."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-582_Brick Exchange - Antiarrhythmic Agents - Class I Drugs_p13_1.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "Combined moderate Na+ channel block (slowed phase 0) plus K+ channel block (prolonged repolarization, increased APD/ERP) is characteristic of Class IA agents such as quinidine, procainamide, and disopyramide. This QT prolongation predisposes to torsades de pointes.",
         "whyCorrect": "Combined moderate Na+ channel block (slowed phase 0) plus K+ channel block (prolonged repolarization, increased APD/ERP) is characteristic of Class IA agents such as quinidine, procainamide, and disopyramide. This QT prolongation predisposes to torsades de pointes.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Propranolol is a Class II beta blocker that slows nodal phase 4 depolarization, without directly slowing ventricular phase 0 or prolonging repolarization.",
+          "B": "Lidocaine is Class IB and shortens action potential duration, the opposite of the prolonged repolarization shown.",
+          "D": "Flecainide is Class IC, strongly slowing phase 0 but leaving action potential duration essentially unchanged.",
+          "E": "Verapamil is a Class IV calcium channel blocker that acts on nodal tissue, not on ventricular phase 0 and potassium repolarization."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-583_Brick Exchange - Antiarrhythmic Agents - Class I Drugs_p7_1.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "Phase 2 (plateau) results from a balance between inward Ca2+ current (through L-type channels) and outward K+ current. Phase 0 is the rapid Na+ influx, and phase 3 repolarization is dominated by K+ efflux once Ca2+ channels close.",
         "whyCorrect": "Phase 2 (plateau) results from a balance between inward Ca2+ current (through L-type channels) and outward K+ current. Phase 0 is the rapid Na+ influx, and phase 3 repolarization is dominated by K+ efflux once Ca2+ channels close.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Chloride currents contribute little to the cardiac action potential and cannot sustain the plateau by themselves.",
+          "B": "Rapid sodium influx produces the phase 0 upstroke, and those channels inactivate before the plateau.",
+          "C": "The Na+/K+-ATPase pumps sodium out of the cell and maintains gradients; it does not generate the plateau.",
+          "E": "An unopposed outward potassium current would repolarize the cell, as in phase 3, rather than sustain a plateau."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-634_Brick Exchange - Antiarrhythmic Agents - Class I Drugs_p3_1.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "At rest, the activation gate is closed and the inactivation gate is open, so no Na+ flows. On depolarization the activation gate opens (activated state, Na+ flows), then the inactivation gate closes (inactivated state). Class I drugs bind preferentially to the activated/inactivated states.",
         "whyCorrect": "At rest, the activation gate is closed and the inactivation gate is open, so no Na+ flows. On depolarization the activation gate opens (activated state, Na+ flows), then the inactivation gate closes (inactivated state). Class I drugs bind preferentially to the activated/inactivated states.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Both gates open describes the activated state, when sodium flows during the upstroke.",
+          "B": "An open activation gate with a closed inactivation gate describes the inactivated state after depolarization, not rest.",
+          "C": "The channel has two distinct gates that move independently; they do not fuse into a single pore.",
+          "E": "Both gates closed is a transient configuration during repolarization recovery, not the resting state ready to open."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-635_Brick Exchange - Antiarrhythmic Agents - Class I Drugs_p5_1.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "When the SA node fails, an AV-junctional pacemaker takes over. Because the impulse originates near the AV node, the QRS stays narrow but P waves are absent or buried, producing a junctional escape rhythm.",
         "whyCorrect": "When the SA node fails, an AV-junctional pacemaker takes over. Because the impulse originates near the AV node, the QRS stays narrow but P waves are absent or buried, producing a junctional escape rhythm.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "First-degree AV block has a P wave before each QRS with a prolonged PR interval, so P waves are clearly visible.",
+          "C": "Normal sinus rhythm has an upright P wave before every QRS at 60 to 100 per minute.",
+          "D": "Ventricular tachycardia is a fast rhythm with wide QRS complexes, not a slow narrow-complex rhythm.",
+          "E": "Atrial flutter shows sawtooth flutter waves between QRS complexes, usually at a faster ventricular rate."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-378_Brick Exchange - Sinus Bradycardia and Related Disorders_p14_1.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "A consistent P wave before every narrow QRS at a regular interval indicates that the SA node is pacing and conduction is intact, the definition of normal sinus rhythm.",
         "whyCorrect": "A consistent P wave before every narrow QRS at a regular interval indicates that the SA node is pacing and conduction is intact, the definition of normal sinus rhythm.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Atrial fibrillation is irregularly irregular with no discernible P waves, unlike the regular rhythm with a P before each QRS.",
+          "C": "Atrial flutter shows sawtooth flutter waves at about 300 per minute rather than a single upright P wave before each QRS.",
+          "D": "Complete heart block shows P waves and QRS complexes marching independently, with no consistent PR relationship.",
+          "E": "Junctional rhythm lacks normal upright P waves; atrial activity is absent, buried, or retrograde."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-379_Brick Exchange - Sinus Bradycardia and Related Disorders_p1_1.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "A sinus pause occurs when the SA node transiently fails to depolarize, producing a flat baseline with no P-QRS-T until sinus activity resumes or an escape beat intervenes.",
         "whyCorrect": "A sinus pause occurs when the SA node transiently fails to depolarize, producing a flat baseline with no P-QRS-T until sinus activity resumes or an escape beat intervenes.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "An ectopic ventricular focus would produce an extra wide complex, not a flat line with no electrical activity.",
+          "C": "Block in the bundle of His leaves P waves present without conducted QRS complexes, rather than a completely flat baseline.",
+          "D": "Purkinje fiber disease affects ventricular conduction and QRS width; it does not abolish atrial activity.",
+          "E": "AV nodal block produces P waves that are not followed by QRS complexes; in this pause there is no P wave either."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-869_Brick Exchange - Sinus Bradycardia and Related Disorders_p3_1.png",

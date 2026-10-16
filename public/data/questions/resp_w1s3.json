@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "Fluid leaving the capillary first accumulates in the interstitium/perivascular space and then floods the alveoli, the sequence of pulmonary edema formation.",
         "whyCorrect": "Fluid leaving the capillary first accumulates in the interstitium/perivascular space and then floods the alveoli, the sequence of pulmonary edema formation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Emphysema is destruction of alveolar walls with enlarged airspaces, not fluid leaking from capillaries.",
+          "B": "Pleural effusion is fluid in the pleural space outside the lung, not within the interstitium and alveoli.",
+          "C": "Pulmonary embolism is a clot blocking the pulmonary arteries, not fluid filtering into the alveoli.",
+          "D": "Pneumothorax is air in the pleural space causing lung collapse, not alveolar flooding."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-549_Brick Exchange - Pulmonary Circulation_p23_1.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "Recruitment of previously closed capillaries and distension of already-open ones lower pulmonary vascular resistance as flow and pressure rise, keeping pulmonary pressures low.",
         "whyCorrect": "Recruitment of previously closed capillaries and distension of already-open ones lower pulmonary vascular resistance as flow and pressure rise, keeping pulmonary pressures low.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Recruitment and distension accommodate increased flow, so total pulmonary blood flow rises rather than falls.",
+          "B": "Opening and widening capillaries directly lowers resistance, so the effect is not neutral.",
+          "C": "More open, wider vessels lower resistance rather than increase it.",
+          "E": "Recruiting capillaries perfuses previously unperfused alveoli, which reduces alveolar dead space."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-841_Brick Exchange - Pulmonary Circulation_p11_1.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "PVR is lowest near FRC. At high volumes the alveolar capillaries are stretched and squeezed by distended alveoli; at low volumes extra-alveolar vessels narrow from lost radial traction, so PVR rises at both extremes.",
         "whyCorrect": "PVR is lowest near FRC. At high volumes the alveolar capillaries are stretched and squeezed by distended alveoli; at low volumes extra-alveolar vessels narrow from lost radial traction, so PVR rises at both extremes.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Surfactant is not depleted at high lung volume, and surfactant affects alveolar surface tension, not vascular resistance directly.",
+          "C": "Blood viscosity is unaffected by lung volume.",
+          "D": "Hypoxic vasoconstriction depends on alveolar PO2, not lung volume, and is not maximal at TLC.",
+          "E": "Loss of radial traction narrows extra-alveolar vessels at low lung volumes, not at total lung capacity."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-842_Brick Exchange - Pulmonary Circulation_p13_1.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Hypoxic pulmonary vasoconstriction shunts blood away from hypoxic alveoli toward well-oxygenated regions, optimizing ventilation-perfusion matching.",
         "whyCorrect": "Hypoxic pulmonary vasoconstriction shunts blood away from hypoxic alveoli toward well-oxygenated regions, optimizing ventilation-perfusion matching.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Vasoconstriction affects blood flow, not airway dead space; reducing flow to poorly ventilated alveoli improves matching.",
+          "C": "The response reduces, not increases, flow to hypoxic regions.",
+          "D": "The response is vasoconstriction, and widespread vasoconstriction can actually raise capillary pressure and promote edema.",
+          "E": "Hypoxic pulmonary vasoconstriction affects the pulmonary circulation and does not lower systemic pressure."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-843_Brick Exchange - Pulmonary Circulation_p15_1.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "Low alveolar PO2 constricts local pulmonary arterioles (hypoxic pulmonary vasoconstriction), reducing blood flow to poorly oxygenated regions of the lung.",
         "whyCorrect": "Low alveolar PO2 constricts local pulmonary arterioles (hypoxic pulmonary vasoconstriction), reducing blood flow to poorly oxygenated regions of the lung.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "CO2 affects airway tone, but bronchodilation does not explain reduced blood flow at low alveolar PO2.",
+          "B": "The baroreceptor reflex regulates systemic arterial pressure via heart rate and systemic vessel tone, not local pulmonary flow.",
+          "D": "The Bohr effect concerns hemoglobin's O2 affinity with CO2 and pH, not vascular tone.",
+          "E": "Laplace's law describes alveolar collapse from surface tension, not reduced blood flow at low PO2."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-844_Brick Exchange - Pulmonary Circulation_p17_1.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "Capillary hydrostatic and colloid osmotic pressures, interstitial forces, and lymphatic drainage normally balance so the alveoli stay dry; disrupting this balance causes pulmonary edema.",
         "whyCorrect": "Capillary hydrostatic and colloid osmotic pressures, interstitial forces, and lymphatic drainage normally balance so the alveoli stay dry; disrupting this balance causes pulmonary edema.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "O2 diffusion depends on partial pressure gradients, and these fluid forces do not prevent it.",
+          "C": "Bronchoconstriction is controlled by airway smooth muscle tone, not capillary Starling forces.",
+          "D": "Endothelial rupture occurs only under extreme stress; Starling forces govern fluid movement, not structural integrity.",
+          "E": "Alveolar collapse is prevented by surfactant and transpulmonary pressure, not by Starling forces."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-845_Brick Exchange - Pulmonary Circulation_p21_1.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "In the upright lung, gravity increases perfusion toward the base and reduces it at the apex, producing a vertical gradient of blood flow.",
         "whyCorrect": "In the upright lung, gravity increases perfusion toward the base and reduces it at the apex, producing a vertical gradient of blood flow.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Gravity has a major effect on perfusion, creating the apex-to-base gradient shown.",
+          "B": "Gravity lowers vascular pressure at the apex, so flow is less there, not greater.",
+          "C": "At the base, perfusion exceeds ventilation, giving a low V/Q ratio.",
+          "E": "Perfusion varies widely with height in the upright lung rather than being uniform."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-846_Brick Exchange - Pulmonary Circulation_p3_1.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "In West Zone 1 (alveolar > arterial > venous pressure), alveolar pressure compresses the capillaries and no flow occurs; this zone is normally absent in healthy people.",
         "whyCorrect": "In West Zone 1 (alveolar > arterial > venous pressure), alveolar pressure compresses the capillaries and no flow occurs; this zone is normally absent in healthy people.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Flow does not reverse in zone 1; it simply stops because capillaries are compressed.",
+          "B": "Maximal, fully distended flow occurs in zone 3 at the base, where arterial and venous pressures exceed alveolar pressure.",
+          "C": "Lymphatic drainage removes interstitial fluid and does not drive capillary blood flow.",
+          "E": "Flow driven by the arterial-to-venous difference describes zone 3, not zone 1."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-847_Brick Exchange - Pulmonary Circulation_p7_1.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "Hemoglobin's four subunits bind O2 cooperatively, so affinity rises as successive sites are occupied, producing the sigmoid curve that steepens over the physiological range and plateaus near full saturation.",
         "whyCorrect": "Hemoglobin's four subunits bind O2 cooperatively, so affinity rises as successive sites are occupied, producing the sigmoid curve that steepens over the physiological range and plateaus near full saturation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Hemoglobin is not denatured at high oxygen tension; the plateau reflects near-complete saturation.",
+          "B": "CO2 binds at different sites (amino termini) and shifts the curve rather than creating its sigmoid shape.",
+          "C": "A single independent binding site gives a hyperbolic curve, as with myoglobin, not a sigmoid one.",
+          "D": "Dissolved O2 rises linearly with PO2, but saturation is curved; dissolved O2 does not explain the shape."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-797_Brick Exchange - Oxygen and Carbon Dioxide Transport_p12_1.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "In tissues, high CO2 and H+ promote O2 release (Bohr effect); in lungs, O2 loading drives off CO2 and H+ (Haldane effect). These allosteric shifts optimize gas exchange at each site.",
         "whyCorrect": "In tissues, high CO2 and H+ promote O2 release (Bohr effect); in lungs, O2 loading drives off CO2 and H+ (Haldane effect). These allosteric shifts optimize gas exchange at each site.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "H+ binding does not oxidize heme iron; methemoglobin forms through oxidant exposure.",
+          "C": "CO2 binds to amino groups of globin chains, not the heme iron, so it does not compete directly with O2.",
+          "D": "Most CO2 is carried as bicarbonate in plasma, and none is bound to the heme groups.",
+          "E": "Carbaminohemoglobin carries only a minority of CO2; most travels as bicarbonate."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-798_Brick Exchange - Oxygen and Carbon Dioxide Transport_p14_1.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "Carbonic anhydrase speeds CO2 + H2O to H2CO3, which dissociates to HCO3- and H+. Bicarbonate exits the cell (chloride shift) so ~70% of CO2 travels in plasma as HCO3-; the reaction reverses in the lungs.",
         "whyCorrect": "Carbonic anhydrase speeds CO2 + H2O to H2CO3, which dissociates to HCO3- and H+. Bicarbonate exits the cell (chloride shift) so ~70% of CO2 travels in plasma as HCO3-; the reaction reverses in the lungs.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Carbonic anhydrase does not split hemoglobin; oxygen release depends on PO2 and allosteric effects.",
+          "B": "Carbaminohemoglobin forms spontaneously when CO2 binds amino groups, without carbonic anhydrase.",
+          "C": "Chloride moves passively in exchange for bicarbonate through band 3, not by an active enzyme pump.",
+          "D": "The enzyme produces bicarbonate from CO2 in tissues rather than consuming plasma bicarbonate."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-799_Brick Exchange - Oxygen and Carbon Dioxide Transport_p15_1.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "A rightward shift (raised PCO2, low pH, high temperature, high 2,3-DPG) raises P50 and lowers O2 affinity, favoring oxygen release where metabolic demand is greatest; a leftward shift does the opposite.",
         "whyCorrect": "A rightward shift (raised PCO2, low pH, high temperature, high 2,3-DPG) raises P50 and lowers O2 affinity, favoring oxygen release where metabolic demand is greatest; a leftward shift does the opposite.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A rightward shift changes affinity, not the total oxygen-carrying capacity, which depends on hemoglobin concentration.",
+          "B": "The shift is triggered by high CO2 rather than reducing plasma CO2 content.",
+          "D": "Fetal hemoglobin has a left-shifted curve with higher O2 affinity, the opposite of a rightward shift.",
+          "E": "Increased O2 affinity corresponds to a leftward shift, which would favor loading rather than unloading."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-800_Brick Exchange - Oxygen and Carbon Dioxide Transport_p18_1.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "At the tissues, low PO2 and high PCO2 lower hemoglobin's O2 affinity (Bohr) and raise its CO2 carriage (Haldane), so oxygen is released and carbon dioxide is picked up. The reverse occurs in the lungs.",
         "whyCorrect": "At the tissues, low PO2 and high PCO2 lower hemoglobin's O2 affinity (Bohr) and raise its CO2 carriage (Haldane), so oxygen is released and carbon dioxide is picked up. The reverse occurs in the lungs.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The Bohr and Haldane effects describe mutual influence between O2 and CO2 binding, so transport is not independent.",
+          "B": "Higher O2 affinity would impair delivery; at the tissues affinity falls so oxygen is released.",
+          "D": "O2 loading with CO2 unloading is the result in the lungs, not the tissues.",
+          "E": "At the tissues, hemoglobin's capacity to carry CO2 increases as it unloads O2; it does not lose affinity for both."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-801_Brick Exchange - Oxygen and Carbon Dioxide Transport_p20_1.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "Hemoglobin is a tetramer of four globin chains, each with one heme iron that binds a single O2, so a fully saturated molecule carries four oxygen molecules as oxyhemoglobin.",
         "whyCorrect": "Hemoglobin is a tetramer of four globin chains, each with one heme iron that binds a single O2, so a fully saturated molecule carries four oxygen molecules as oxyhemoglobin.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Myoglobin, a single-chain monomer, binds one O2 at one heme; hemoglobin is a tetramer with four heme sites, not one central site.",
+          "B": "Each globin subunit holds exactly one heme with one ferrous iron, and each iron binds one O2 molecule, so two per subunit is impossible.",
+          "D": "All four chains (two alpha and two beta) carry a heme that binds O2; counting only the alpha chains halves the true capacity.",
+          "E": "Oxygen binds only at the heme iron, not along the globin folds; with four hemes the maximum is four O2 molecules per hemoglobin."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-802_Brick Exchange - Oxygen and Carbon Dioxide Transport_p2_1.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "As CO2 diffuses down its gradient into the low-PCO2 alveolus, the carbonic anhydrase equilibrium (HCO3- + H+ to H2CO3 to CO2 + H2O) is driven toward CO2, releasing it for exhalation.",
         "whyCorrect": "As CO2 diffuses down its gradient into the low-PCO2 alveolus, the carbonic anhydrase equilibrium (HCO3- + H+ to H2CO3 to CO2 + H2O) is driven toward CO2, releasing it for exhalation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Carbonic anhydrase catalyzes the reaction in both directions; the direction is set by local PCO2 and bicarbonate, which is why the same enzyme makes bicarbonate in tissue capillaries.",
+          "B": "Metabolic demand drives bicarbonate formation in systemic tissue capillaries, not at the alveolus, where CO2 is being unloaded.",
+          "D": "CO2 leaves blood by passive diffusion down its partial-pressure gradient; hemoglobin carries some CO2 as carbamino compounds but pumps nothing.",
+          "E": "Alveolar gas does not trap bicarbonate; at the lung bicarbonate re-enters the red cell in exchange for chloride and is converted to CO2 for exhalation."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-803_Brick Exchange - Oxygen and Carbon Dioxide Transport_p8_1.png",
@@ -618,7 +693,12 @@
       "explanation": {
         "summary": "On CT pulmonary angiography, hypodense (dark) filling defects within the contrast-opacified pulmonary arteries indicate thromboemboli. Large central emboli can cause hyperventilation and a secondary respiratory alkalosis.",
         "whyCorrect": "On CT pulmonary angiography, hypodense (dark) filling defects within the contrast-opacified pulmonary arteries indicate thromboemboli. Large central emboli can cause hyperventilation and a secondary respiratory alkalosis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Aortic dissection shows an intimal flap separating true and false lumens in the aorta, not filling defects within the pulmonary arteries.",
+          "C": "A lung abscess is a cavitary parenchymal lesion, often with an air-fluid level, rather than a filling defect inside contrast-filled pulmonary arteries.",
+          "D": "Pericardial effusion appears as fluid density surrounding the heart within the pericardial sac, not as defects within the central pulmonary arteries.",
+          "E": "Enlarged lymph nodes are soft-tissue masses outside the vessels in the mediastinum or hila; they may compress but do not fill the arterial lumen."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-361_Brick Exchange - Respiratory Alkalosis_p11_1.png",
@@ -657,7 +737,12 @@
       "explanation": {
         "summary": "A pulse CO-oximeter uses multiple light wavelengths to distinguish carboxyhemoglobin from oxyhemoglobin, allowing noninvasive detection of CO poisoning. A standard 2-wavelength pulse oximeter cannot, and reads falsely normal SpO2 in CO poisoning.",
         "whyCorrect": "A pulse CO-oximeter uses multiple light wavelengths to distinguish carboxyhemoglobin from oxyhemoglobin, allowing noninvasive detection of CO poisoning. A standard 2-wavelength pulse oximeter cannot, and reads falsely normal SpO2 in CO poisoning.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "CO-oximeters measure several dyshemoglobins, and in smoke inhalation the key target is carboxyhemoglobin; a device blind to COHb would miss the main danger.",
+          "C": "End-tidal CO2 is measured by capnography from exhaled gas via a nasal or airway sampling line, not with a finger probe.",
+          "D": "Lactate is measured from a blood sample (point-of-care or lab analyzer), useful in cyanide toxicity, but not by a transcutaneous finger probe.",
+          "E": "PaO2 requires an arterial blood gas; neither pulse oximetry nor CO-oximetry measures partial pressure, and PaO2 stays normal in CO poisoning anyway."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-365_Brick Exchange - Respiratory_ Carbon Monoxide (CO) Poisoning and Cyanide (CN) Poisoning_p13_1.png",
@@ -696,7 +781,12 @@
       "explanation": {
         "summary": "Carbon monoxide binds hemoglobin with high affinity, reducing available O2 binding sites (lower content) and simultaneously left-shifting the curve for the remaining sites, so oxygen is held more tightly and released poorly at tissues, causing profound hypoxia despite a 'normal' PaO2.",
         "whyCorrect": "Carbon monoxide binds hemoglobin with high affinity, reducing available O2 binding sites (lower content) and simultaneously left-shifting the curve for the remaining sites, so oxygen is held more tightly and released poorly at tissues, causing profound hypoxia despite a 'normal' PaO2.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "CO lowers, not raises, oxygen content by occupying heme sites, and it shifts the remaining curve left, which impairs rather than improves delivery.",
+          "B": "Dissolved O2 depends on PaO2, which stays normal in CO poisoning; the harm comes from CO occupying hemoglobin binding sites.",
+          "C": "CO lowers the P50 (left shift), increasing hemoglobin's affinity for the remaining O2, so tissues extract less oxygen, not more.",
+          "E": "The reduced content is correct, but the shift is to the left, not the right, so unloading at tissues is hindered rather than aided."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-857_Brick Exchange - Respiratory_ Carbon Monoxide (CO) Poisoning and Cyanide (CN) Poisoning_p8_1.png",

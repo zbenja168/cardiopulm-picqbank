@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "The panelled layout of limb and precordial leads printed on standard ECG graph paper identifies this as a 12-lead electrocardiogram used to evaluate rhythm and conduction abnormalities such as heart blocks.",
         "whyCorrect": "The panelled layout of limb and precordial leads printed on standard ECG graph paper identifies this as a 12-lead electrocardiogram used to evaluate rhythm and conduction abnormalities such as heart blocks.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A chest radiograph is an anatomic image of the thorax, not a set of voltage tracings on grid paper.",
+          "B": "An EEG records many channels of brain activity from scalp electrodes, not limb and precordial cardiac leads.",
+          "C": "A central venous pressure trace is a single pressure waveform with a, c, and v waves, not a 12-panel layout.",
+          "E": "A carotid Doppler waveform plots blood velocity over time from ultrasound, not cardiac electrical activity across leads."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-285_Brick Exchange - Heart Blocks_ Pathophysiology, Diagnosis and Treatment_p14_1.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "The 'WiLLiaM' mnemonic applies: a W in V1 and an M in V6 with a QRS > 120 ms indicates left bundle branch block, in which delayed left ventricular activation reshapes the complexes in these leads.",
         "whyCorrect": "The 'WiLLiaM' mnemonic applies: a W in V1 and an M in V6 with a QRS > 120 ms indicates left bundle branch block, in which delayed left ventricular activation reshapes the complexes in these leads.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "WPW shows a short PR interval with a delta wave slurring the QRS upstroke, not the W in V1 and M in V6 pattern.",
+          "C": "Right bundle branch block gives the reverse pattern, with an M-shaped rSR' in V1 and a W-like wide S in V6.",
+          "D": "Left anterior fascicular block causes left axis deviation without a markedly widened QRS.",
+          "E": "First-degree AV block prolongs the PR interval but leaves the QRS morphology and width normal."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-286_Brick Exchange - Heart Blocks_ Pathophysiology, Diagnosis and Treatment_p4_1.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "The 'MaRRoW' mnemonic applies: an M-shaped rSR' in V1 and a W-like qRs in V6 with QRS > 120 ms indicate right bundle branch block, reflecting delayed right ventricular activation.",
         "whyCorrect": "The 'MaRRoW' mnemonic applies: an M-shaped rSR' in V1 and a W-like qRs in V6 with QRS > 120 ms indicate right bundle branch block, reflecting delayed right ventricular activation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Third-degree AV block is complete dissociation of P waves and QRS complexes, defined by rhythm rather than QRS morphology in V1 and V6.",
+          "C": "Left posterior fascicular block causes right axis deviation without the wide rSR' complex in V1.",
+          "D": "Left bundle branch block shows a broad, deep W-like complex in V1 and a broad notched M-like complex in V6, the reverse pattern.",
+          "E": "Sinus arrhythmia is normal respiratory variation in heart rate with normal QRS complexes."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-287_Brick Exchange - Heart Blocks_ Pathophysiology, Diagnosis and Treatment_p4_2.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "The AV node slows conduction between atria and ventricles, allowing time for atrial contraction to complete ventricular filling before ventricular depolarization. Excessive slowing or block at this node produces AV heart block.",
         "whyCorrect": "The AV node slows conduction between atria and ventricles, allowing time for atrial contraction to complete ventricular filling before ventricular depolarization. Excessive slowing or block at this node produces AV heart block.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Purkinje fibers conduct the fastest of any cardiac tissue to depolarize the ventricles almost simultaneously.",
+          "C": "The right bundle branch rapidly carries the impulse to the right ventricle and does not impose deliberate delay.",
+          "D": "The bundle of His conducts quickly from the AV node into the bundle branches, after the delay has occurred.",
+          "E": "The SA node generates the impulse rather than delaying its passage to the ventricles."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-736_Brick Exchange - Heart Blocks_ Pathophysiology, Diagnosis and Treatment_p1_1.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "A regular wide-complex (broad QRS) tachycardia at a fast rate is ventricular tachycardia until proven otherwise, arising from an ectopic ventricular focus below the AV node.",
         "whyCorrect": "A regular wide-complex (broad QRS) tachycardia at a fast rate is ventricular tachycardia until proven otherwise, arising from an ectopic ventricular focus below the AV node.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Atrial fibrillation with rapid response is irregularly irregular and usually narrow, not a regular wide-complex tachycardia.",
+          "C": "First-degree AV block is a prolonged PR interval with normal rate and narrow complexes, not a tachycardia.",
+          "D": "Sinus tachycardia shows a P wave before each narrow QRS, unlike a wide-complex rhythm presumed ventricular in origin.",
+          "E": "Normal sinus rhythm has a rate of 60 to 100 with narrow QRS complexes, not a rapid wide-complex tachycardia."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-397_Brick Exchange - Ventricular Arrhythmias_p10_1.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "A pulse generator in a left infraclavicular pocket with radio-opaque leads coursing into the right heart chambers is the classic appearance of an implanted cardiac pacemaker (or ICD) on chest X-ray.",
         "whyCorrect": "A pulse generator in a left infraclavicular pocket with radio-opaque leads coursing into the right heart chambers is the classic appearance of an implanted cardiac pacemaker (or ICD) on chest X-ray.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "An IVC filter is a small cone-shaped device in the abdomen within the inferior vena cava, not a pectoral generator with leads.",
+          "B": "A prosthetic aortic valve projects within the cardiac silhouette at the valve position, without a subcutaneous generator.",
+          "C": "A coronary stent is a tiny mesh tube within a coronary artery, not a box in the chest wall with leads.",
+          "E": "A central venous port has a reservoir under the skin and a catheter ending at the cavoatrial junction, without leads entering the heart chambers."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-398_Brick Exchange - Ventricular Arrhythmias_p13_1.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "A polymorphic ventricular tachycardia with QRS complexes that appear to twist around the isoelectric baseline is torsades de pointes, classically associated with QT prolongation.",
         "whyCorrect": "A polymorphic ventricular tachycardia with QRS complexes that appear to twist around the isoelectric baseline is torsades de pointes, classically associated with QT prolongation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Wenckebach block shows progressive PR prolongation until a dropped beat, with narrow complexes and a slow rate, not a twisting tachycardia.",
+          "B": "Coarse atrial fibrillation has an irregular wavy baseline with narrow, uniform QRS complexes, not polymorphic wide complexes.",
+          "C": "Monomorphic VT has wide QRS complexes of constant shape and amplitude rather than complexes that twist around the baseline.",
+          "E": "Atrial flutter with 2:1 block shows regular narrow QRS complexes with sawtooth flutter waves."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-399_Brick Exchange - Ventricular Arrhythmias_p17_1.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "Beat-to-beat variation in QRS shape and amplitude in a fast wide-complex rhythm indicates polymorphic ventricular tachycardia, an unstable arrhythmia that can degenerate into ventricular fibrillation.",
         "whyCorrect": "Beat-to-beat variation in QRS shape and amplitude in a fast wide-complex rhythm indicates polymorphic ventricular tachycardia, an unstable arrhythmia that can degenerate into ventricular fibrillation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Sinus bradycardia is a slow regular rhythm with normal P waves and narrow QRS complexes.",
+          "C": "Normal sinus rhythm is regular with consistent narrow QRS complexes and P waves.",
+          "D": "Monomorphic VT has a consistent QRS shape from beat to beat, unlike the continuously changing morphology here.",
+          "E": "Complete heart block with an escape rhythm is slow and regular with P waves dissociated from the QRS, not a fast irregular polymorphic rhythm."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-400_Brick Exchange - Ventricular Arrhythmias_p7_1.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "Chaotic, irregular waveforms without discrete QRS complexes represent ventricular fibrillation, a disorganized quivering of the ventricles that produces no cardiac output and requires immediate defibrillation.",
         "whyCorrect": "Chaotic, irregular waveforms without discrete QRS complexes represent ventricular fibrillation, a disorganized quivering of the ventricles that produces no cardiac output and requires immediate defibrillation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Monomorphic VT shows regular, wide QRS complexes of uniform shape, not chaotic deflections with no identifiable complexes.",
+          "C": "Atrial flutter shows organized sawtooth flutter waves with recognizable QRS complexes conducted at a fixed ratio.",
+          "D": "Asystole is a nearly flat line with no electrical activity, not chaotic irregular deflections.",
+          "E": "Sinus tachycardia is a fast but organized rhythm with P waves preceding normal QRS complexes."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-401_Brick Exchange - Ventricular Arrhythmias_p7_2.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "The device is a cardiac pacemaker: a pulse generator delivers electrical impulses through transvenous leads to the atrium and ventricle, triggering myocardial depolarization to maintain an adequate heart rate.",
         "whyCorrect": "The device is a cardiac pacemaker: a pulse generator delivers electrical impulses through transvenous leads to the atrium and ventricle, triggering myocardial depolarization to maintain an adequate heart rate.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Mechanical pumping is the role of a ventricular assist device, which has a pump and cannula, not leads to the right atrium and ventricle.",
+          "B": "Cardiac output is measured with a pulmonary artery catheter or imaging, not with a permanently implanted pacing system.",
+          "D": "Emboli are filtered by an IVC filter placed in the inferior vena cava, not by a generator with intracardiac leads.",
+          "E": "Thermal ablation uses a temporary catheter during an electrophysiology study, not an implanted generator with permanent leads."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-888_Brick Exchange - Ventricular Arrhythmias_p12_1.png",

@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "The triangle bounded by pectoralis major, latissimus dorsi, and a line at the 5th intercostal space (nipple level) is the safe zone for tube thoracostomy, avoiding major vessels, the heart, and abdominal organs.",
         "whyCorrect": "The triangle bounded by pectoralis major, latissimus dorsi, and a line at the 5th intercostal space (nipple level) is the safe zone for tube thoracostomy, avoiding major vessels, the heart, and abdominal organs.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The cardiac apex is auscultated at the left 5th intercostal space in the midclavicular line, not in this lateral axillary zone.",
+          "B": "The breast lies on the anterior chest wall over pectoralis major; this triangle is defined for thoracic access, not breast surgery.",
+          "D": "Subclavian venous access uses the infraclavicular region near the junction of the middle and medial thirds of the clavicle.",
+          "E": "Pericardiocentesis is performed via a subxiphoid approach, aiming toward the left shoulder."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-088_Brick Exchange - Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung_p11_1.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "Air tracking along the mediastinal and cardiac borders (with the accompanying continuous diaphragm sign and neck/chest-wall lucencies of subcutaneous emphysema) indicates pneumomediastinum, air within the mediastinal soft tissues, often from alveolar or airway rupture in trauma.",
         "whyCorrect": "Air tracking along the mediastinal and cardiac borders (with the accompanying continuous diaphragm sign and neck/chest-wall lucencies of subcutaneous emphysema) indicates pneumomediastinum, air within the mediastinal soft tissues, often from alveolar or airway rupture in trauma.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Hilar lymphadenopathy is lobulated soft-tissue enlargement at the hila, not lucent air streaks outlining the mediastinum.",
+          "C": "Lobar pneumonia is a dense airspace opacity in a lobe, not lucent air along the mediastinal borders.",
+          "D": "Interstitial edema shows Kerley B lines, peribronchial cuffing, and haze, not lucent stripes along the heart border.",
+          "E": "Cardiomegaly enlarges the cardiac silhouette, whereas this finding is lucent air outlining a normally sized heart."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-386_Brick Exchange - Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung_p13_1.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "A hyperlucent hemithorax lacking peripheral vascular markings with contralateral mediastinal shift indicates a pneumothorax under tension, a life-threatening emergency requiring immediate needle decompression.",
         "whyCorrect": "A hyperlucent hemithorax lacking peripheral vascular markings with contralateral mediastinal shift indicates a pneumothorax under tension, a life-threatening emergency requiring immediate needle decompression.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A large pleural effusion produces a dense white hemithorax, not hyperlucency.",
+          "B": "Diaphragmatic paralysis elevates one hemidiaphragm without hyperlucency or mediastinal shift away from the affected side.",
+          "D": "Lobar consolidation is a dense airspace opacity with air bronchograms and no mediastinal shift.",
+          "E": "Pulmonary edema causes bilateral hazy opacities, Kerley lines, and effusions, not unilateral hyperlucency."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-387_Brick Exchange - Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung_p17_1.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "In the setting of penetrating chest trauma, a sharply defined radiopaque linear object within the thorax represents a retained foreign body; its position must be correlated with vascular and visceral structures before removal.",
         "whyCorrect": "In the setting of penetrating chest trauma, a sharply defined radiopaque linear object within the thorax represents a retained foreign body; its position must be correlated with vascular and visceral structures before removal.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A healing rib fracture callus is a fusiform bony density along a rib, not a sharply defined linear object projecting over the lung.",
+          "B": "A pacemaker generator is a rectangular or oval device in the upper chest wall with leads running to the heart.",
+          "C": "An AVM is a lobulated soft-tissue nodule with feeding and draining vessels, not a sharply radiopaque linear object.",
+          "E": "A calcified granuloma is a small, round, dense nodule, not linear."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-388_Brick Exchange - Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung_p21_1.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "Displacement of abdominal contents into the thoracic cavity through a defect in the diaphragm indicates traumatic diaphragmatic rupture, which most often affects the left hemidiaphragm and requires surgical repair.",
         "whyCorrect": "Displacement of abdominal contents into the thoracic cavity through a defect in the diaphragm indicates traumatic diaphragmatic rupture, which most often affects the left hemidiaphragm and requires surgical repair.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Tension pneumothorax produces a hyperlucent hemithorax with mediastinal shift, not bowel in the chest.",
+          "B": "Lobar collapse shows dense lung with volume loss, not abdominal viscera above a disrupted diaphragm.",
+          "C": "A loculated empyema is a lenticular fluid collection with an enhancing pleural rind, not herniated bowel.",
+          "E": "A hiatal hernia moves the stomach through the esophageal hiatus in the midline, without loss of the diaphragmatic contour after trauma."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-389_Brick Exchange - Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung_p5_1.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "A flail chest occurs when three or more contiguous ribs are each fractured in at least two locations, creating a free segment that moves inward on inspiration (paradoxical motion); it is frequently accompanied by underlying pulmonary contusion.",
         "whyCorrect": "A flail chest occurs when three or more contiguous ribs are each fractured in at least two locations, creating a free segment that moves inward on inspiration (paradoxical motion); it is frequently accompanied by underlying pulmonary contusion.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "A single costochondral separation does not create a free-floating segment and does not cause paradoxical motion.",
+          "C": "An isolated sternal fracture is painful but does not by itself produce a paradoxical chest-wall segment.",
+          "D": "A clavicle fracture affects the shoulder girdle and does not involve the thoracic cage's respiratory mechanics.",
+          "E": "A single rib broken at one point stays attached at both ends and moves normally with respiration."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-574_Brick Exchange - Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung_p3_1.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "A milky-white, triglyceride-rich pleural effusion is a chylothorax, caused by disruption of the thoracic duct (e.g., trauma or malignancy) allowing lymphatic chyle to accumulate in the pleural space.",
         "whyCorrect": "A milky-white, triglyceride-rich pleural effusion is a chylothorax, caused by disruption of the thoracic duct (e.g., trauma or malignancy) allowing lymphatic chyle to accumulate in the pleural space.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Empyema fluid is thick, cloudy pus with low glucose and pH; its turbidity comes from cells and clears on centrifugation, and triglycerides are not elevated as in chyle.",
+          "C": "Hemothorax fluid is grossly bloody, with a pleural hematocrit at least half that of blood.",
+          "D": "Heart-failure transudates are clear, straw-colored fluid with low protein and LDH.",
+          "E": "Malignant serous effusions are usually straw-colored or bloody exudates, not milky white."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-575_Brick Exchange - Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung_p9_1.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "Horizontal A-lines and vertical B-lines are reverberation artifacts seen on lung ultrasound; a heterogeneous, patchy B-line distribution favors ARDS over the homogeneous pattern of cardiogenic pulmonary edema.",
         "whyCorrect": "Horizontal A-lines and vertical B-lines are reverberation artifacts seen on lung ultrasound; a heterogeneous, patchy B-line distribution favors ARDS over the homogeneous pattern of cardiogenic pulmonary edema.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Thoracic MRI is not a bedside test and does not rely on A-line and B-line reverberation artifacts.",
+          "B": "HRCT shows cross-sectional anatomy of the lung parenchyma, not reverberation artifacts arising at the pleural line.",
+          "C": "A V/Q scan maps radiotracer distribution of ventilation and perfusion, without pleural-line artifacts.",
+          "E": "A chest radiograph is a projection image of the whole thorax; A-lines and B-lines are ultrasound-specific artifacts."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-177_Brick Exchange - Acute Respiratory Distress Syndrome_p16_1.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "ARDS is the clinical correlate of diffuse alveolar damage, characterized by alveolar epithelial and endothelial injury, protein-rich exudate, and inflammatory infiltration of airspaces.",
         "whyCorrect": "ARDS is the clinical correlate of diffuse alveolar damage, characterized by alveolar epithelial and endothelial injury, protein-rich exudate, and inflammatory infiltration of airspaces.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Caseating granulomas are nodules of epithelioid histiocytes with central necrosis, as in TB, not diffuse septal widening with hemorrhage.",
+          "C": "UIP is a chronic, patchy fibrosis with honeycombing and fibroblastic foci, not an acute exudative injury.",
+          "D": "Bronchopneumonia is a patchy neutrophilic exudate centered on bronchioles; abscesses show liquefactive necrosis, not diffuse damage.",
+          "E": "Emphysema destroys and thins alveolar walls, enlarging airspaces, rather than widening septa with exudate."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-405_Brick Exchange - Acute Respiratory Distress Syndrome_p11_1.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "Eosinophilic hyaline membranes lining alveolar ducts are the histologic hallmark of the early exudative phase of diffuse alveolar damage seen in ARDS.",
         "whyCorrect": "Eosinophilic hyaline membranes lining alveolar ducts are the histologic hallmark of the early exudative phase of diffuse alveolar damage seen in ARDS.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Cardiogenic edema fills alveoli with pale, homogeneous transudate and lacks hyaline membranes.",
+          "C": "UIP is a chronic fibrosing pattern with fibroblastic foci and honeycombing, not glassy membranes lining airspaces.",
+          "D": "Emphysema shows enlarged airspaces with destroyed walls and no hyaline membranes.",
+          "E": "Acute lobar pneumonia fills alveoli with neutrophils and fibrin (red then gray hepatization), not hyaline membranes along alveolar ducts."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-406_Brick Exchange - Acute Respiratory Distress Syndrome_p9_1.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "Surfactant reduces surface tension at the air-liquid interface, keeping alveoli open at end-expiration; its deficiency causes atelectasis in neonatal RDS.",
         "whyCorrect": "Surfactant reduces surface tension at the air-liquid interface, keeping alveoli open at end-expiration; its deficiency causes atelectasis in neonatal RDS.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Pulmonary vasoconstriction is triggered by low alveolar PO2 (hypoxic vasoconstriction), not by surfactant.",
+          "B": "Mucus produced by goblet cells and cleared by cilia traps inhaled pathogens in the conducting airways; surfactant lines alveoli.",
+          "D": "Oxygen diffuses passively across the alveolar membrane and is carried by hemoglobin; surfactant does not transport it.",
+          "E": "Surfactant does not block CO2 diffusion; gas exchange proceeds freely across the thin barrier."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-159_Brick Exchange - Neonatal Respiratory Distress Syndrome_p7_1.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "Diffuse ground-glass opacity with air bronchograms and underinflated lungs in a preterm infant is the classic surfactant-deficiency (RDS) pattern.",
         "whyCorrect": "Diffuse ground-glass opacity with air bronchograms and underinflated lungs in a preterm infant is the classic surfactant-deficiency (RDS) pattern.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Meconium aspiration affects term or post-term infants and shows patchy, coarse opacities with hyperinflation, not low volumes.",
+          "B": "A normal neonatal chest has clear lungs with normal volumes and no diffuse ground-glass opacity.",
+          "D": "Tension pneumothorax shows a hyperlucent hemithorax with mediastinal shift, not bilateral ground-glass.",
+          "E": "Congenital diaphragmatic hernia shows bowel loops in the chest, usually left-sided, with mediastinal shift."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-324_Brick Exchange - Neonatal Respiratory Distress Syndrome_p13_1.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "Surfactant deficiency causes alveolar collapse, epithelial injury, and plasma leak that forms eosinophilic hyaline membranes lining alveoli in neonatal RDS.",
         "whyCorrect": "Surfactant deficiency causes alveolar collapse, epithelial injury, and plasma leak that forms eosinophilic hyaline membranes lining alveoli in neonatal RDS.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Psammoma bodies are concentric laminated calcifications in papillary tumors, not membranes lining alveolar ducts.",
+          "B": "Amyloid forms amorphous extracellular deposits with apple-green birefringence on Congo red, not linear ductal membranes in neonates.",
+          "C": "Bronchial cartilage plates are basophilic hyaline cartilage in larger airway walls, not eosinophilic linings of alveolar ducts.",
+          "D": "Granulomas are nodular collections of epithelioid macrophages, not thin linear membranes."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-535_Brick Exchange - Neonatal Respiratory Distress Syndrome_p11_1.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "The foramen ovale shunts oxygenated right-atrial blood into the left atrium, bypassing the collapsed fetal lungs so oxygen-rich blood reaches the body.",
         "whyCorrect": "The foramen ovale shunts oxygenated right-atrial blood into the left atrium, bypassing the collapsed fetal lungs so oxygen-rich blood reaches the body.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The foramen ovale is an interatrial opening; it does not connect the ventricles or equalize ventricular systolic pressure.",
+          "B": "Little blood reaches the fetal lungs, and pulmonary venous return enters the left atrium; the foramen ovale carries right atrial blood, not lung blood.",
+          "D": "The coronary arteries arise from the aortic root; the foramen ovale does not feed them directly.",
+          "E": "The umbilical vein connects to the IVC through the ductus venosus, not the foramen ovale."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-788_Brick Exchange - Neonatal Respiratory Distress Syndrome_p5_1.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "High fetal pulmonary vascular resistance directs blood from the pulmonary trunk through the ductus arteriosus into the aorta, bypassing the lungs.",
         "whyCorrect": "High fetal pulmonary vascular resistance directs blood from the pulmonary trunk through the ductus arteriosus into the aorta, bypassing the lungs.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Backflow into the right ventricle would be valvular regurgitation; the pulmonic valve prevents it.",
+          "C": "The foramen ovale shunts blood between the atria, upstream of the right ventricle and pulmonary trunk.",
+          "D": "The ductus venosus carries umbilical vein blood past the liver into the IVC, far from the pulmonary trunk.",
+          "E": "The coronary sinus drains cardiac venous blood into the right atrium and is not a fetal shunt from the pulmonary trunk."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-789_Brick Exchange - Neonatal Respiratory Distress Syndrome_p5_2.png",
@@ -618,7 +693,12 @@
       "explanation": {
         "summary": "The ductus venosus routes highly oxygenated umbilical vein blood past the liver directly into the IVC, preserving oxygen delivery to the heart and brain.",
         "whyCorrect": "The ductus venosus routes highly oxygenated umbilical vein blood past the liver directly into the IVC, preserving oxygen delivery to the heart and brain.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The connection between the atria is the foramen ovale, not the ductus venosus.",
+          "B": "The pulmonary artery-to-aorta shunt is the ductus arteriosus.",
+          "D": "The coronary circulation drains through the coronary sinus into the right atrium.",
+          "E": "Deoxygenated blood returns to the placenta through the umbilical arteries, not the ductus venosus."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-790_Brick Exchange - Neonatal Respiratory Distress Syndrome_p5_3.png",
@@ -657,7 +737,12 @@
       "explanation": {
         "summary": "The ductus venosus diverts the majority of oxygenated umbilical vein blood around the liver into the IVC, leaving only a portion to perfuse the hepatic/portal system.",
         "whyCorrect": "The ductus venosus diverts the majority of oxygenated umbilical vein blood around the liver into the IVC, leaving only a portion to perfuse the hepatic/portal system.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The foramen ovale shunts blood between the atria, after blood has already passed the liver.",
+          "B": "The coronary sinus drains the heart's own veins and plays no role in bypassing the liver.",
+          "D": "The pulmonary trunk carries right ventricular output toward the lungs and ductus arteriosus, not umbilical blood around the liver.",
+          "E": "The ductus arteriosus diverts pulmonary trunk blood into the aorta to bypass the lungs, not the liver."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-791_Brick Exchange - Neonatal Respiratory Distress Syndrome_p5_4.png",
@@ -696,7 +781,12 @@
       "explanation": {
         "summary": "Without enough surfactant, alveolar surface tension rises, collapsing alveoli (atelectasis) and driving the hypoxemia and CO2 retention of neonatal RDS.",
         "whyCorrect": "Without enough surfactant, alveolar surface tension rises, collapsing alveoli (atelectasis) and driving the hypoxemia and CO2 retention of neonatal RDS.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The flowchart begins with reduced, not excess, surfactant; surfactant deficiency drives the collapse.",
+          "C": "Surfactant-deficient lungs are stiff with decreased compliance, which is why infants work hard to breathe.",
+          "D": "Bronchial cartilage is not involved in RDS; the problem lies at the alveolar air-liquid interface.",
+          "E": "Hypoxia in RDS causes pulmonary vasoconstriction, and vasodilation would not explain alveolar collapse."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-792_Brick Exchange - Neonatal Respiratory Distress Syndrome_p9_1.png",
@@ -735,7 +825,12 @@
       "explanation": {
         "summary": "CPAP maintains a positive intraluminal pressure throughout the respiratory cycle, acting as a pneumatic splint that prevents the relaxed pharyngeal soft tissues from collapsing.",
         "whyCorrect": "CPAP maintains a positive intraluminal pressure throughout the respiratory cycle, acting as a pneumatic splint that prevents the relaxed pharyngeal soft tissues from collapsing.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Sedatives worsen obstructive sleep apnea by further relaxing pharyngeal muscles; CPAP is a mechanical splint, not a sedative.",
+          "C": "Bronchodilators relax lower-airway smooth muscle, but OSA obstruction is pharyngeal soft-tissue collapse, not bronchospasm.",
+          "D": "Supplemental oxygen alone does not keep the pharynx open; the airway is held open by positive pressure.",
+          "E": "Diaphragm pacing addresses central hypoventilation; in OSA the drive is intact and the upper airway collapses."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-870_Brick Exchange - Sleep Apnea_p12_1.png",
@@ -774,7 +869,12 @@
       "explanation": {
         "summary": "During sleep, loss of muscle tone allows the tongue base, soft palate, and uvula to fall back and occlude the pharynx, obstructing airflow despite continued respiratory effort.",
         "whyCorrect": "During sleep, loss of muscle tone allows the tongue base, soft palate, and uvula to fall back and occlude the pharynx, obstructing airflow despite continued respiratory effort.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Bronchospasm narrows lower airways in asthma; obstructive apnea occurs at the pharynx above the larynx.",
+          "C": "Bilateral vocal cord paralysis causes stridor while awake and is a fixed laryngeal problem, not sleep-related soft-tissue collapse.",
+          "D": "A nasal polyp can increase nasal resistance, but the obstruction depicted is the pharynx collapsing with sleep-related loss of tone.",
+          "E": "Fluid in the alveoli is pulmonary edema, which impairs gas exchange rather than blocking the upper airway."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-871_Brick Exchange - Sleep Apnea_p5_1.png",

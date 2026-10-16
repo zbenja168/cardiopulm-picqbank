@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "The rising, then plateauing, curve of force versus preload is the Frank-Starling mechanism: greater end-diastolic stretch increases actin-myosin overlap and contractile force until overstretch limits further gain.",
         "whyCorrect": "The rising, then plateauing, curve of force versus preload is the Frank-Starling mechanism: greater end-diastolic stretch increases actin-myosin overlap and contractile force until overstretch limits further gain.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The exponential rise of diastolic pressure with filling volume is the passive compliance (EDPVR) curve, with pressure, not developed force, on the y-axis.",
+          "C": "Stroke work is the area inside a pressure-volume loop, a closed loop rather than a single rising-and-plateauing curve against preload.",
+          "D": "Afterload mismatch describes stroke volume falling as afterload rises; this curve varies preload, not afterload.",
+          "E": "Coronary autoregulation plots coronary flow against perfusion pressure and shows a flat plateau over a range of pressures, not stroke volume rising with preload."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-666_Brick Exchange - Cardiac - Compliance, Contractility, Preload, and Afterload_p11_1.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "With preload fixed, raising afterload forces the ventricle to reach a higher pressure before the aortic valve opens, so it ejects a smaller volume; end-systolic volume rises and stroke volume falls.",
         "whyCorrect": "With preload fixed, raising afterload forces the ventricle to reach a higher pressure before the aortic valve opens, so it ejects a smaller volume; end-systolic volume rises and stroke volume falls.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "A higher opening pressure means the ventricle spends more of its contraction reaching that pressure, so it ejects less, not more.",
+          "C": "Holding preload constant fixes end-diastolic volume, but higher afterload raises end-systolic volume, so stroke volume still changes.",
+          "D": "These loops show a fixed contractility; without inotropic change the ventricle cannot compensate, and ejection fraction falls.",
+          "E": "The loops are drawn at equal preload, so end-diastolic volume is the same; the change is at the end-systolic corner."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-667_Brick Exchange - Cardiac - Compliance, Contractility, Preload, and Afterload_p14_1.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "Increased SVR raises afterload, which opposes ejection and lowers stroke volume; increased preload, contractility, compliance, and blood volume all tend to raise stroke volume.",
         "whyCorrect": "Increased SVR raises afterload, which opposes ejection and lowers stroke volume; increased preload, contractility, compliance, and blood volume all tend to raise stroke volume.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Greater compliance lets the ventricle fill more at the same pressure, increasing preload and stroke volume.",
+          "B": "Higher blood volume raises venous return and preload, which increases stroke volume through the Frank-Starling mechanism.",
+          "C": "Sympathetic beta-1 stimulation increases contractility, so the ventricle ejects more and stroke volume rises.",
+          "E": "More venous return raises end-diastolic volume and stretches the myocardium, increasing stroke volume."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-668_Brick Exchange - Cardiac - Compliance, Contractility, Preload, and Afterload_p17_1.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Afterload is the force/resistance the ventricle works against during ejection, represented by the arterial (downstream) side; preload reflects venous filling, while contractility and heart rate are intrinsic cardiac properties.",
         "whyCorrect": "Afterload is the force/resistance the ventricle works against during ejection, represented by the arterial (downstream) side; preload reflects venous filling, while contractility and heart rate are intrinsic cardiac properties.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Heart rate is the number of beats per minute, an intrinsic cardiac property, not the load opposing ejection into the arteries.",
+          "B": "Contractility is the intrinsic force-generating ability of the myocardium at a given length, independent of downstream resistance.",
+          "D": "Preload is the venous filling that stretches the ventricle before contraction, the upstream side of the schematic.",
+          "E": "Compliance describes how easily the ventricle fills (volume change per pressure change), not the resistance it ejects against."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-669_Brick Exchange - Cardiac - Compliance, Contractility, Preload, and Afterload_p3_1.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "Compliance is the change in volume per change in pressure; a curve shifted right/down accommodates more volume at lower filling pressure, indicating increased compliance, whereas a steep left-shifted curve (higher EDP for the same EDV) indicates a stiff, less compliant ventricle.",
         "whyCorrect": "Compliance is the change in volume per change in pressure; a curve shifted right/down accommodates more volume at lower filling pressure, indicating increased compliance, whereas a steep left-shifted curve (higher EDP for the same EDV) indicates a stiff, less compliant ventricle.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Reduced preload moves the operating point down along the same diastolic curve; it does not shift the curve itself.",
+          "B": "Afterload affects the systolic ejection phase and does not change the passive diastolic pressure-volume curve.",
+          "C": "A stiff, hypertrophied ventricle shifts the curve up and to the left, needing higher pressure for the same volume, the opposite of what is shown.",
+          "D": "Contractility is a systolic property reflected in the end-systolic pressure-volume line, not the diastolic filling curve."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-670_Brick Exchange - Cardiac - Compliance, Contractility, Preload, and Afterload_p4_1.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "Shifting the length-tension curve upward so that more tension is generated at any given sarcomere length reflects increased inotropy/contractility, independent of the preload (length) on the x-axis.",
         "whyCorrect": "Shifting the length-tension curve upward so that more tension is generated at any given sarcomere length reflects increased inotropy/contractility, independent of the preload (length) on the x-axis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Compliance is a passive diastolic property shown by the pressure-volume filling curve, not by the active tension generated at each length.",
+          "C": "Afterload is the load the muscle contracts against; it is not shown by shifting the active length-tension curve upward.",
+          "D": "More preload moves the operating point rightward along the same curve; it does not lift the whole curve upward.",
+          "E": "Heart rate does not appear on a length-tension diagram; the upward shift means greater force at every length."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-671_Brick Exchange - Cardiac - Compliance, Contractility, Preload, and Afterload_p5_1.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "Stretching muscle generates passive elastic tension; stimulation adds active cross-bridge tension. Their sum is the total tension, and active tension is derived by subtracting passive from total at each length.",
         "whyCorrect": "Stretching muscle generates passive elastic tension; stimulation adds active cross-bridge tension. Their sum is the total tension, and active tension is derived by subtracting passive from total at each length.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Passive and active tensions add rather than subtract; active tension is derived by subtracting passive from total, not the other way around.",
+          "B": "Active tension peaks at intermediate lengths with optimal filament overlap, well before passive tension becomes large, so it does not wait for passive tension to plateau.",
+          "C": "Both components vary with length: passive tension rises steeply with stretch and active tension peaks at optimal overlap, so total tension depends on length.",
+          "E": "Passive tension comes from elastic elements such as titin and connective tissue resisting stretch, while cross-bridge cycling produces active tension."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-672_Brick Exchange - Cardiac - Compliance, Contractility, Preload, and Afterload_p8_1.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "The end-systolic pressure-volume relationship (ESPVR) line steepens with increased contractility, allowing the ventricle to eject to a smaller end-systolic volume at any given pressure, independent of loading conditions.",
         "whyCorrect": "The end-systolic pressure-volume relationship (ESPVR) line steepens with increased contractility, allowing the ventricle to eject to a smaller end-systolic volume at any given pressure, independent of loading conditions.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Decreased preload shrinks end-diastolic volume and narrows the loop, but its end-systolic point stays on the same ESPVR line.",
+          "B": "Heart rate changes filling time but do not steepen the ESPVR line, which is the load-independent marker of contractility.",
+          "C": "Venous compliance affects venous return and preload, not the slope of the ventricle's end-systolic pressure-volume relationship.",
+          "D": "Increased afterload moves the end-systolic point up and to the right along an unchanged ESPVR line, raising end-systolic volume."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-774_Brick Exchange - Measuring Cardiac Function_p3_1.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "The Fick principle calculates cardiac output by dividing whole-body oxygen consumption (VO2) by the arteriovenous oxygen content difference, here estimated from the mixed venous (PA, 75%) versus arterial (95%) saturations.",
         "whyCorrect": "The Fick principle calculates cardiac output by dividing whole-body oxygen consumption (VO2) by the arteriovenous oxygen content difference, here estimated from the mixed venous (PA, 75%) versus arterial (95%) saturations.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Doppler cardiac output multiplies the velocity-time integral by outflow tract area on echo, without measuring oxygen consumption or saturations.",
+          "B": "Indicator dilution injects a dye and measures its arterial concentration-time curve; it does not use oxygen uptake and arteriovenous oxygen difference.",
+          "C": "Pulse contour analysis estimates stroke volume from the arterial pressure waveform, not from oxygen consumption.",
+          "D": "Thermodilution injects cold saline and measures the temperature change downstream; it does not need oxygen consumption at the mouth."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-775_Brick Exchange - Measuring Cardiac Function_p8_1.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "In indicator-dilution measurement of cardiac output, dye recirculates back to the sampling site before it fully clears; the primary washout curve is extrapolated exponentially so recirculated indicator does not falsely lower the calculated mean concentration and inflate estimated flow.",
         "whyCorrect": "In indicator-dilution measurement of cardiac output, dye recirculates back to the sampling site before it fully clears; the primary washout curve is extrapolated exponentially so recirculated indicator does not falsely lower the calculated mean concentration and inflate estimated flow.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "An arterial pulse waveform is a pressure signal repeating with every heartbeat, not a single late hump in indicator concentration.",
+          "B": "Sensor drift causes a gradual baseline shift, not a discrete second peak that follows the first washout curve.",
+          "C": "A second bolus would be a separate injection; the late hump comes from the same indicator returning, and it is excluded rather than used for confirmation.",
+          "D": "The second hump is not a calibration artifact, and it is removed rather than added back, because including it would distort the area under the curve."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-776_Brick Exchange - Measuring Cardiac Function_p9_1.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "Adding volume or increasing venous tone raises the mean circulatory filling pressure (the x-intercept where venous return is zero), shifting the entire venous return curve rightward and upward and increasing venous return at any given right atrial pressure.",
         "whyCorrect": "Adding volume or increasing venous tone raises the mean circulatory filling pressure (the x-intercept where venous return is zero), shifting the entire venous return curve rightward and upward and increasing venous return at any given right atrial pressure.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A leftward shift to a lower mean circulatory filling pressure happens with reduced blood volume or venous tone, the opposite change.",
+          "B": "Changes in volume or venous tone always move the x-intercept; a pure vertical shift without an intercept change is not what happens.",
+          "C": "The x-intercept is the mean circulatory filling pressure, which depends directly on blood volume and venous tone, so it does change.",
+          "D": "Rotation without moving the intercept is the effect of changing arteriolar resistance, not blood volume or venous tone."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-677_Brick Exchange - Cardiac and Vascular Function Curves_p12_1.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "Lowering arteriolar resistance (afterload) allows blood to flow more readily from arteries into veins and back to the heart, raising the venous return curve. Note that the x-intercept (MCFP) is relatively unchanged because total blood volume and venous tone are constant.",
         "whyCorrect": "Lowering arteriolar resistance (afterload) allows blood to flow more readily from arteries into veins and back to the heart, raising the venous return curve. Note that the x-intercept (MCFP) is relatively unchanged because total blood volume and venous tone are constant.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Venous return decreases when afterload rises, because higher arteriolar resistance slows flow from arteries into veins.",
+          "C": "Lower arteriolar resistance does change venous return; it rotates the curve upward at every right atrial pressure.",
+          "D": "Mean circulatory filling pressure depends on blood volume and venous tone, not arteriolar resistance, so it stays roughly constant here.",
+          "E": "The x-intercept does not fall with reduced afterload; only changes in volume or venous capacitance move it significantly."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-678_Brick Exchange - Cardiac and Vascular Function Curves_p14_1.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "The system settles where the heart pumps out exactly what returns to it. At this intersection cardiac output equals venous return, defining the steady-state right atrial pressure and cardiac output for the given conditions.",
         "whyCorrect": "The system settles where the heart pumps out exactly what returns to it. At this intersection cardiac output equals venous return, defining the steady-state right atrial pressure and cardiac output for the given conditions.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Maximal venous return occurs at low right atrial pressures, where the curve plateaus, not necessarily where the two curves meet.",
+          "C": "Mean circulatory filling pressure is the x-intercept of the venous return curve, where flow is zero, not the operating point.",
+          "D": "At steady state the heart cannot pump out more than returns to it; any mismatch shifts right atrial pressure until the two are equal.",
+          "E": "Right atrial pressure at the operating point is normally a few mmHg above zero; the intersection is defined by matching flows, not by zero pressure."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-679_Brick Exchange - Cardiac and Vascular Function Curves_p16_1.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "Increased contractility raises and steepens the cardiac function curve, so the intersection with the unchanged venous return curve moves up and to the left (point 1): cardiac output rises while right atrial pressure falls because the heart empties more effectively.",
         "whyCorrect": "Increased contractility raises and steepens the cardiac function curve, so the intersection with the unchanged venous return curve moves up and to the left (point 1): cardiac output rises while right atrial pressure falls because the heart empties more effectively.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A fall in cardiac output with rising right atrial pressure is what happens when contractility decreases, as in heart failure, not when it increases.",
+          "B": "Cardiac output and right atrial pressure both rise when venous return increases from more volume or venous tone, not from a contractility increase alone.",
+          "C": "Raising contractility shifts the cardiac function curve, so its intersection with the venous return curve must move.",
+          "D": "A stronger heart lowers right atrial pressure by emptying the atrium more effectively, so falling output with rising pressure is the wrong direction."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-680_Brick Exchange - Cardiac and Vascular Function Curves_p18_1.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "Increasing blood volume/venous tone shifts the venous return curve up and to the right. Its new intersection with the cardiac function curve (point 1) lies up and to the right, so both cardiac output and right atrial pressure rise (increased preload).",
         "whyCorrect": "Increasing blood volume/venous tone shifts the venous return curve up and to the right. Its new intersection with the cardiac function curve (point 1) lies up and to the right, so both cardiac output and right atrial pressure rise (increased preload).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Rising output with falling right atrial pressure is the result of increased contractility, not of a venous return curve shifted by more volume.",
+          "B": "Falling output with rising right atrial pressure describes a failing heart, not increased venous filling.",
+          "C": "Shifting the venous return curve moves its intersection with the cardiac function curve, so both values change.",
+          "D": "Both values fall when blood volume or venous tone decreases, as in hemorrhage, the opposite change."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-681_Brick Exchange - Cardiac and Vascular Function Curves_p20_1.png",
@@ -618,7 +693,12 @@
       "explanation": {
         "summary": "Reduced afterload raises the cardiac function curve (the heart ejects more per beat) and also raises the venous return curve. The new operating point (point 2) sits up and to the left: cardiac output rises while right atrial pressure falls.",
         "whyCorrect": "Reduced afterload raises the cardiac function curve (the heart ejects more per beat) and also raises the venous return curve. The new operating point (point 2) sits up and to the left: cardiac output rises while right atrial pressure falls.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Lowering afterload shifts both the cardiac and venous return curves, so the operating point must move.",
+          "C": "Falling output with rising right atrial pressure is the pattern of increased afterload or a failing heart, the opposite change.",
+          "D": "Both values falling is seen with reduced blood volume or venous tone, not with reduced afterload.",
+          "E": "Both values rising results from more blood volume or venous tone; reduced afterload lets the heart empty better and lowers right atrial pressure."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-682_Brick Exchange - Cardiac and Vascular Function Curves_p22_1.png",
@@ -657,7 +737,12 @@
       "explanation": {
         "summary": "A downward, flattened cardiac function curve indicates depressed contractility (heart failure): at any given filling pressure the heart generates less output, so the operating point shifts to a higher right atrial pressure with a lower cardiac output.",
         "whyCorrect": "A downward, flattened cardiac function curve indicates depressed contractility (heart failure): at any given filling pressure the heart generates less output, so the operating point shifts to a higher right atrial pressure with a lower cardiac output.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Decreased afterload raises the cardiac function curve, letting the heart eject more at any filling pressure, not flattening it.",
+          "C": "More blood volume shifts the venous return curve, not the cardiac function curve, and moves the operating point along a normal cardiac curve.",
+          "D": "Hypovolemia shifts the venous return curve left; the heart's own function curve remains normal.",
+          "E": "Increased contractility shifts the cardiac function curve upward, the opposite of the depressed curve shown."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-683_Brick Exchange - Cardiac and Vascular Function Curves_p29_1.png",
@@ -696,7 +781,12 @@
       "explanation": {
         "summary": "Because the circulation is a closed loop, cardiac output must equal venous return over time. Increased venous tone raises the mean circulatory filling pressure and augments venous return; the heart then pumps this extra volume forward, so cardiac output rises to match.",
         "whyCorrect": "Because the circulation is a closed loop, cardiac output must equal venous return over time. Increased venous tone raises the mean circulatory filling pressure and augments venous return; the heart then pumps this extra volume forward, so cardiac output rises to match.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "In a closed loop cardiac output and venous return must match at steady state, so one cannot rise while the other stays fixed.",
+          "C": "The heart pumps out what returns to it, so a rise in venous return is matched by a rise, not a fall, in cardiac output.",
+          "D": "Increased venous tone moves blood out of the venous reservoir toward the heart, increasing both values.",
+          "E": "Venous tone raises mean circulatory filling pressure, the driving pressure for venous return, so the values change."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-684_Brick Exchange - Cardiac and Vascular Function Curves_p2_1.png",
@@ -735,7 +825,12 @@
       "explanation": {
         "summary": "The Frank-Starling relationship states that increased ventricular filling (preload/EDV) stretches the myocardium and increases stroke volume and cardiac output, until the curve plateaus. This intrinsic mechanism matches output to venous return on a beat-to-beat basis.",
         "whyCorrect": "The Frank-Starling relationship states that increased ventricular filling (preload/EDV) stretches the myocardium and increases stroke volume and cardiac output, until the curve plateaus. This intrinsic mechanism matches output to venous return on a beat-to-beat basis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The law of Laplace relates wall tension to pressure and radius divided by wall thickness, explaining hypertrophy, not output rising with filling volume.",
+          "B": "The Anrep effect is a gradual rise in contractility after a sudden increase in afterload, not a curve of output against end-diastolic volume.",
+          "C": "The Bainbridge reflex raises heart rate in response to atrial stretch from increased venous return; it is a chronotropic reflex, not a length-tension relationship.",
+          "E": "The Bowditch (treppe) effect is the rise in contractile force with increasing heart rate, independent of end-diastolic volume."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-685_Brick Exchange - Cardiac and Vascular Function Curves_p3_1.png",
@@ -774,7 +869,12 @@
       "explanation": {
         "summary": "An upward shift reflects increased contractility (positive inotropy). Sympathetic beta-1 stimulation, catecholamines, and digoxin raise contractility, so the heart generates more output at any given end-diastolic volume. Ischemia and beta-blockade depress the curve.",
         "whyCorrect": "An upward shift reflects increased contractility (positive inotropy). Sympathetic beta-1 stimulation, catecholamines, and digoxin raise contractility, so the heart generates more output at any given end-diastolic volume. Ischemia and beta-blockade depress the curve.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Aortic stenosis raises afterload, which depresses the cardiac function curve rather than lifting it.",
+          "B": "Ischemia impairs contractility and shifts the curve down and to the right.",
+          "D": "Vagal stimulation slows heart rate and mildly reduces atrial contractility, lowering rather than raising cardiac output at a given filling volume.",
+          "E": "Beta-blockers reduce contractility and heart rate, shifting the curve downward."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-686_Brick Exchange - Cardiac and Vascular Function Curves_p5_1.png",
@@ -813,7 +913,12 @@
       "explanation": {
         "summary": "Increased afterload (higher aortic/arterial pressure the ventricle must eject against) lowers stroke volume for any given end-diastolic volume, depressing the cardiac function curve. Aortic stenosis and systemic hypertension raise afterload; vasodilators and low-resistance states lower it.",
         "whyCorrect": "Increased afterload (higher aortic/arterial pressure the ventricle must eject against) lowers stroke volume for any given end-diastolic volume, depressing the cardiac function curve. Aortic stenosis and systemic hypertension raise afterload; vasodilators and low-resistance states lower it.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Hydralazine is an arteriolar vasodilator that lowers afterload and shifts the cardiac function curve upward.",
+          "C": "Chronic anemia lowers blood viscosity and systemic vascular resistance, reducing afterload and causing a high-output state.",
+          "D": "Septic distributive shock is marked by profound vasodilation and low systemic vascular resistance, a fall in afterload.",
+          "E": "An arteriovenous fistula creates a low-resistance shunt that lowers total peripheral resistance, reducing afterload."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-687_Brick Exchange - Cardiac and Vascular Function Curves_p7_1.png",
@@ -852,7 +957,12 @@
       "explanation": {
         "summary": "The x-intercept is the mean circulatory filling pressure: the pressure everywhere in the vasculature when the heart stops and flow ceases (normally ~7 mmHg). It reflects blood volume and venous compliance/tone, and it is the driving pressure for venous return.",
         "whyCorrect": "The x-intercept is the mean circulatory filling pressure: the pressure everywhere in the vasculature when the heart stops and flow ceases (normally ~7 mmHg). It reflects blood volume and venous compliance/tone, and it is the driving pressure for venous return.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "When right atrial pressure is negative, venous return is at its plateau maximum because the great veins collapse, not zero.",
+          "B": "Maximal cardiac output occurs at low right atrial pressure, where venous return is high, the opposite end of the curve from zero flow.",
+          "C": "Peak ventricular systole is a moment within an ongoing beat, while the intercept describes pressure with no flow at all.",
+          "E": "Maximal venous return sits on the plateau at low right atrial pressures, the opposite end from the x-intercept."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-688_Brick Exchange - Cardiac and Vascular Function Curves_p9_1.png",
@@ -891,7 +1001,12 @@
       "explanation": {
         "summary": "Increased preload raises EDV (rightward filling) and, because the loop still ends on the same ESPVR line, ESV is essentially unchanged; the wider loop reflects a larger stroke volume (Frank-Starling).",
         "whyCorrect": "Increased preload raises EDV (rightward filling) and, because the loop still ends on the same ESPVR line, ESV is essentially unchanged; the wider loop reflects a larger stroke volume (Frank-Starling).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Higher preload increases stroke volume through the Frank-Starling mechanism; end-systolic volume rises with afterload, not preload.",
+          "B": "A steeper ESPVR line signals increased contractility, which is held constant here.",
+          "C": "The aortic valve opens at the same aortic diastolic pressure because afterload is unchanged, so peak systolic pressure does not fall markedly.",
+          "E": "Increased preload raises end-diastolic volume and widens the loop; a falling EDV with a narrower loop is reduced preload."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-832_Brick Exchange - Pressure Volume (PV) Loops_p12_1.png",
@@ -930,7 +1045,12 @@
       "explanation": {
         "summary": "Higher afterload means the aortic valve opens at a higher pressure, so the ventricle ejects less before reaching the ESPVR line; ESV rises and, with preload fixed, stroke volume falls.",
         "whyCorrect": "Higher afterload means the aortic valve opens at a higher pressure, so the ventricle ejects less before reaching the ESPVR line; ESV rises and, with preload fixed, stroke volume falls.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A fall in end-systolic volume with a rise in stroke volume results from increased contractility or reduced afterload, not increased afterload.",
+          "B": "Stroke volume cannot rise when end-systolic volume rises and end-diastolic volume is unchanged.",
+          "D": "Higher afterload clearly shifts the end-systolic corner along the ESPVR line, so these values change.",
+          "E": "Stroke volume falls, not rises, when the ventricle ejects against higher pressure, and end-systolic volume increases."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-833_Brick Exchange - Pressure Volume (PV) Loops_p15_1.png",
@@ -969,7 +1089,12 @@
       "explanation": {
         "summary": "Increased contractility steepens the end-systolic pressure-volume relationship (ESPVR), allowing the ventricle to empty to a smaller ESV at a given afterload, thereby increasing stroke volume.",
         "whyCorrect": "Increased contractility steepens the end-systolic pressure-volume relationship (ESPVR), allowing the ventricle to empty to a smaller ESV at a given afterload, thereby increasing stroke volume.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A flatter ESPVR with rising end-systolic volume describes reduced contractility, as in systolic heart failure.",
+          "C": "Greater contractility lets the ventricle empty more completely, so stroke volume rises and end-systolic volume falls.",
+          "D": "Increased end-diastolic volume with unchanged end-systolic volume is the pattern of increased preload, not contractility.",
+          "E": "A change in the filling limb alone reflects altered compliance or preload; contractility acts on the systolic, end-systolic corner."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-834_Brick Exchange - Pressure Volume (PV) Loops_p18_1.png",
@@ -1008,7 +1133,12 @@
       "explanation": {
         "summary": "The area enclosed by a single PV loop equals the external (stroke) work done by the ventricle during that cycle; its width along the volume axis is the stroke volume (EDV - ESV).",
         "whyCorrect": "The area enclosed by a single PV loop equals the external (stroke) work done by the ventricle during that cycle; its width along the volume axis is the stroke volume (EDV - ESV).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Myocardial oxygen supply depends on coronary flow and arterial oxygen content and is not represented on the pressure-volume plane.",
+          "C": "Ejection fraction is a ratio, stroke volume divided by end-diastolic volume, read from the loop's volume points rather than its area.",
+          "D": "Coronary blood flow is a separate measurement of perfusion and cannot be read from the ventricular pressure-volume loop.",
+          "E": "Total peripheral resistance is mean arterial pressure divided by cardiac output, not the area of the ventricular loop."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-835_Brick Exchange - Pressure Volume (PV) Loops_p2_1.png",
@@ -1047,7 +1177,12 @@
       "explanation": {
         "summary": "During isovolumetric contraction the mitral valve has already closed and the aortic valve has not yet opened, so LV pressure rises with no change in volume until it exceeds aortic pressure.",
         "whyCorrect": "During isovolumetric contraction the mitral valve has already closed and the aortic valve has not yet opened, so LV pressure rises with no change in volume until it exceeds aortic pressure.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Valves do not alternate rapidly; each opens or closes once per cycle in response to pressure gradients.",
+          "B": "Both valves being open would let blood flow straight from atrium to aorta; this never normally happens.",
+          "C": "An open mitral valve with a closed aortic valve describes diastolic filling, when volume increases rather than staying constant.",
+          "E": "An open aortic valve with a closed mitral valve is the ejection phase, when volume falls rather than staying constant."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-836_Brick Exchange - Pressure Volume (PV) Loops_p3_1.png",
@@ -1086,7 +1221,12 @@
       "explanation": {
         "summary": "A normal LV pressure-volume loop is traced counterclockwise: filling (rightward), isovolumetric contraction (upward), ejection (leftward), then isovolumetric relaxation (downward).",
         "whyCorrect": "A normal LV pressure-volume loop is traced counterclockwise: filling (rightward), isovolumetric contraction (upward), ejection (leftward), then isovolumetric relaxation (downward).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The loop is a continuous cycle of four phases, not a vertical path that reverses back along itself.",
+          "B": "With volume on the x-axis and pressure on the y-axis, filling to the right followed by a rise, ejection to the left and a fall traces a counterclockwise path, not clockwise.",
+          "D": "Every normal cardiac cycle follows the same sequence of filling, contraction, ejection and relaxation, so the direction does not reverse.",
+          "E": "The loop has a fixed direction set by the order of the cardiac cycle phases."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-837_Brick Exchange - Pressure Volume (PV) Loops_p4_1.png",
@@ -1125,7 +1265,12 @@
       "explanation": {
         "summary": "The area enclosed by the ventricular pressure-volume loop equals the external stroke work of the left ventricle; the width of the loop is stroke volume (EDV-ESV).",
         "whyCorrect": "The area enclosed by the ventricular pressure-volume loop equals the external stroke work of the left ventricle; the width of the loop is stroke volume (EDV-ESV).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Ejection fraction is stroke volume divided by end-diastolic volume, a ratio of volumes, not the area of the loop.",
+          "C": "Total peripheral resistance relates arterial pressure to flow in the systemic circulation and is not represented by the loop's area.",
+          "D": "Coronary flow is not plotted on a ventricular pressure-volume diagram and cannot be derived from its area.",
+          "E": "Oxygen extraction is an arteriovenous content difference measured from blood samples, not from ventricular pressure and volume."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-838_Brick Exchange - Pressure Volume (PV) Loops_p8_1.png",
@@ -1164,7 +1309,12 @@
       "explanation": {
         "summary": "The precordial (chest) leads V1 through V6 encircle the thorax and view the heart's depolarization in the horizontal plane, complementing the limb leads that view the frontal plane. Together they localize activity in two perpendicular planes.",
         "whyCorrect": "The precordial (chest) leads V1 through V6 encircle the thorax and view the heart's depolarization in the horizontal plane, complementing the limb leads that view the frontal plane. Together they localize activity in two perpendicular planes.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The midclavicular line is a surface landmark for placing V4, not an anatomical plane for viewing electrical activity.",
+          "C": "No standard ECG lead set records in the sagittal plane; the chest leads encircle the thorax horizontally.",
+          "D": "The frontal plane is viewed by the six limb leads on the arms and legs, not by the chest electrodes.",
+          "E": "An oblique long-axis plane is an echocardiography or imaging view, not a standard ECG recording plane."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-271_Brick Exchange - Electrocardiogram_ Fundamentals and Lead Placement (1 of 2)_p12_1.png",
@@ -1203,7 +1353,12 @@
       "explanation": {
         "summary": "In lead II the positive electrode is at the left leg; ventricular depolarization spreads from the AV node down and to the left, nearly parallel to and toward this electrode, producing a tall upright QRS.",
         "whyCorrect": "In lead II the positive electrode is at the left leg; ventricular depolarization spreads from the AV node down and to the left, nearly parallel to and toward this electrode, producing a tall upright QRS.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Sinus node discharge is too small to appear on a surface ECG; the tall complex reflects ventricular depolarization.",
+          "C": "A wave traveling perpendicular to a lead axis produces a small or biphasic complex, not a strongly positive one.",
+          "D": "Atrial repolarization is tiny and hidden in the QRS; the left leg electrode does not record it as a tall complex.",
+          "E": "Lead II's positive electrode is on the left leg, at the apex end of the heart, not over the right atrium."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-272_Brick Exchange - Electrocardiogram_ Fundamentals and Lead Placement (1 of 2)_p14_1.png",
@@ -1242,7 +1397,12 @@
       "explanation": {
         "summary": "A standard 12-lead ECG records brief segments of each lead; the long bottom strip is a continuous rhythm strip (often lead II or V1) used to evaluate rate and rhythm across many beats.",
         "whyCorrect": "A standard 12-lead ECG records brief segments of each lead; the long bottom strip is a continuous rhythm strip (often lead II or V1) used to evaluate rate and rhythm across many beats.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A stress test records under exercise and compares with baseline; the strip at the bottom of a resting 12-lead is not a comparison tracing.",
+          "C": "The calibration pulse is a small square wave at the start of the tracing, not a full-length strip of beats.",
+          "D": "The precordial leads already appear in the 12-lead layout; the bottom strip is a long recording of one lead.",
+          "E": "The bottom strip shows full P-QRS-T complexes in one lead, often II, chosen to display rhythm, not atrial activity alone."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-273_Brick Exchange - Electrocardiogram_ Fundamentals and Lead Placement (1 of 2)_p18_1.png",
@@ -1281,7 +1441,12 @@
       "explanation": {
         "summary": "Leads II, III, and aVF are the inferior leads; grouping leads by territory (inferior, lateral, anterior, septal) helps localize ischemia or infarction.",
         "whyCorrect": "Leads II, III, and aVF are the inferior leads; grouping leads by territory (inferior, lateral, anterior, septal) helps localize ischemia or infarction.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The anterior wall is viewed by the precordial leads V3-V4 over the front of the left ventricle.",
+          "B": "The septal wall is represented by V1-V2, close to the interventricular septum.",
+          "C": "The lateral wall is viewed by I, aVL, V5 and V6, which face the left side of the heart.",
+          "E": "No standard lead faces the posterior wall directly; posterior infarction appears as reciprocal ST depression and tall R waves in V1-V3."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-274_Brick Exchange - Electrocardiogram_ Fundamentals and Lead Placement (1 of 2)_p19_1.png",
@@ -1320,7 +1485,12 @@
       "explanation": {
         "summary": "The six limb leads (I, II, III, aVR, aVL, aVF) view the heart from different angles in the frontal plane; comparing their deflections lets one calculate the mean QRS electrical axis.",
         "whyCorrect": "The six limb leads (I, II, III, aVR, aVL, aVF) view the heart from different angles in the frontal plane; comparing their deflections lets one calculate the mean QRS electrical axis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Ejection fraction is a mechanical measure obtained by echocardiography or other imaging, not from limb-lead deflections.",
+          "C": "Potassium abnormalities change T waves and QRS width, but an ECG cannot give an absolute serum concentration.",
+          "D": "Coronary anatomy requires angiography or CT; the ECG can only suggest which territory is ischemic.",
+          "E": "Arterial oxygen saturation is measured by pulse oximetry or blood gas, not by electrical leads."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-275_Brick Exchange - Electrocardiogram_ Fundamentals and Lead Placement (1 of 2)_p6_1.png",
@@ -1359,7 +1529,12 @@
       "explanation": {
         "summary": "The multiple arrows show that each lead has its own axis, so the same depolarization is seen from many directions; combining these views gives a three-dimensional picture of cardiac electrical activity.",
         "whyCorrect": "The multiple arrows show that each lead has its own axis, so the same depolarization is seen from many directions; combining these views gives a three-dimensional picture of cardiac electrical activity.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Precordial leads record both atrial and ventricular activity, mostly ventricular, as seen in their QRS complexes.",
+          "B": "Electrode placement strongly affects the recorded waveform, which is why misplaced leads cause misleading tracings.",
+          "C": "Lead vectors represent the direction from which each lead views electrical activity, not the direction of blood flow.",
+          "D": "Leads record different waveforms precisely because each views the same depolarization from a different direction."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-276_Brick Exchange - Electrocardiogram_ Fundamentals and Lead Placement (1 of 2)_p7_1.png",
@@ -1398,7 +1573,12 @@
       "explanation": {
         "summary": "The limb leads view the heart in the frontal plane, whereas the precordial (chest) leads view it in the horizontal plane; together they give orthogonal perspectives.",
         "whyCorrect": "The limb leads view the heart in the frontal plane, whereas the precordial (chest) leads view it in the horizontal plane; together they give orthogonal perspectives.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The horizontal plane is recorded by the precordial leads V1-V6, not the limb leads.",
+          "B": "No standard ECG lead set records the sagittal plane.",
+          "C": "The standard 12-lead ECG uses two orthogonal planes, frontal and horizontal; there is no defined oblique lead plane.",
+          "D": "ECG leads record electrical activity, so a 'blood-flow plane' is not a recording plane."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-277_Brick Exchange - Electrocardiogram_ Fundamentals and Lead Placement (1 of 2)_p7_2.png",
@@ -1437,7 +1617,12 @@
       "explanation": {
         "summary": "The right leg (green) electrode is a ground/reference used for noise reduction and does not contribute directly to the recorded limb-lead vectors.",
         "whyCorrect": "The right leg (green) electrode is a ground/reference used for noise reduction and does not contribute directly to the recorded limb-lead vectors.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "No limb electrode directly measures right atrial depolarization; the right leg electrode contributes no lead vector at all.",
+          "C": "V1 is a chest electrode at the fourth intercostal space right of the sternum, not a limb electrode.",
+          "D": "The positive electrode for lead II is the left leg, not the right leg.",
+          "E": "aVR's exploring electrode is the right arm; the right leg electrode is not used in any augmented lead."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-278_Brick Exchange - Electrocardiogram_ Fundamentals and Lead Placement (1 of 2)_p9_1.png",
@@ -1476,7 +1661,12 @@
       "explanation": {
         "summary": "An ECG deflection is positive when the depolarization wave travels toward the positive (recording) electrode and negative when it travels away, so orientation of the wave, not its size alone, sets the polarity.",
         "whyCorrect": "An ECG deflection is positive when the depolarization wave travels toward the positive (recording) electrode and negative when it travels away, so orientation of the wave, not its size alone, sets the polarity.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The resting membrane potential is the same in every lead and does not set polarity; deflections reflect a moving wave of depolarization.",
+          "C": "Heart rate affects the spacing between complexes, not whether a given deflection points up or down.",
+          "D": "The SA-AV distance affects conduction time and the PR interval, not the polarity of deflections in a lead.",
+          "E": "Myocardial mass affects the amplitude of deflections, as in hypertrophy, not whether they are positive or negative."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-728_Brick Exchange - Electrocardiogram_ Fundamentals and Lead Placement (1 of 2)_p13_1.png",
@@ -1515,7 +1705,12 @@
       "explanation": {
         "summary": "The QRS complex reflects rapid depolarization of the ventricular myocardium; the P wave is atrial depolarization and the T wave is ventricular repolarization.",
         "whyCorrect": "The QRS complex reflects rapid depolarization of the ventricular myocardium; the P wave is atrial depolarization and the T wave is ventricular repolarization.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Atrial repolarization is a small wave hidden within the QRS complex, not the tall deflection itself.",
+          "C": "SA node discharge involves too few cells to register on a surface ECG; its effect is inferred from the P wave.",
+          "D": "Ventricular repolarization produces the T wave after the ST segment, not the QRS complex.",
+          "E": "Atrial depolarization produces the small P wave that comes before the QRS complex."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-729_Brick Exchange - Electrocardiogram_ Fundamentals and Lead Placement (1 of 2)_p15_1.png",
@@ -1554,7 +1749,12 @@
       "explanation": {
         "summary": "Atrial repolarization is low in amplitude and coincides in time with ventricular depolarization, so it is masked by (buried in) the much larger QRS complex.",
         "whyCorrect": "Atrial repolarization is low in amplitude and coincides in time with ventricular depolarization, so it is masked by (buried in) the much larger QRS complex.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Atria do repolarize every cycle, which is what allows them to depolarize again for the next P wave.",
+          "B": "The T wave is ventricular repolarization, which occurs well after atrial repolarization has finished.",
+          "D": "Atrial repolarization follows the P wave rather than coming before it, and it is not removed by filtering.",
+          "E": "Atrial repolarization is not specially captured by the precordial leads; it is masked in all leads by the QRS complex."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-730_Brick Exchange - Electrocardiogram_ Fundamentals and Lead Placement (1 of 2)_p16_1.png",
@@ -1593,7 +1793,12 @@
       "explanation": {
         "summary": "Phase 2 is the plateau of the ventricular action potential, produced by inward Ca2+ current balancing outward K+ current; this prolonged depolarization underlies the refractory period and corresponds to the ST segment.",
         "whyCorrect": "Phase 2 is the plateau of the ventricular action potential, produced by inward Ca2+ current balancing outward K+ current; this prolonged depolarization underlies the refractory period and corresponds to the ST segment.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Potassium efflux driving rapid repolarization is phase 3, the downslope that matches the T wave.",
+          "C": "The funny current drives phase 4 diastolic depolarization in pacemaker cells, not the plateau of ventricular myocytes.",
+          "D": "The resting membrane potential is phase 4 in ventricular cells, maintained mainly by inward-rectifier potassium channels, with help from the Na/K pump.",
+          "E": "Rapid sodium influx produces phase 0, the upstroke that matches the QRS complex."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-731_Brick Exchange - Electrocardiogram_ Fundamentals and Lead Placement (1 of 2)_p3_1.png",
@@ -1632,7 +1837,12 @@
       "explanation": {
         "summary": "An extracellular electrode senses potential differences between regions; as depolarization and then repolarization sweep across the two cells at different times, transient voltage gradients drive current and produce the biphasic deflection, the basis of the ECG.",
         "whyCorrect": "An extracellular electrode senses potential differences between regions; as depolarization and then repolarization sweep across the two cells at different times, transient voltage gradients drive current and produce the biphasic deflection, the basis of the ECG.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "If both cells depolarized simultaneously there would be no voltage gradient and no signal; the trace shows they are offset in time.",
+          "B": "A single cell's resting potential creates no extracellular gradient; signals arise only from differences between regions.",
+          "D": "Both depolarization and repolarization produce deflections; the biphasic trace has a component from each.",
+          "E": "Ion channels open during the action potential to produce the depolarization and repolarization the trace records."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-732_Brick Exchange - Electrocardiogram_ Fundamentals and Lead Placement (1 of 2)_p4_1.png",
@@ -1671,7 +1881,12 @@
       "explanation": {
         "summary": "The R-R interval is the time between successive R waves; because it represents one full beat-to-beat cycle, it is used to calculate heart rate.",
         "whyCorrect": "The R-R interval is the time between successive R waves; because it represents one full beat-to-beat cycle, it is used to calculate heart rate.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The mean electrical axis comes from comparing QRS deflections across the limb leads, not from the horizontal time between beats.",
+          "B": "The QT interval is measured within a single beat, from QRS onset to the end of the T wave, not from one R wave to the next.",
+          "C": "P-wave amplitude is a vertical voltage measurement of atrial depolarization, not a horizontal time span between ventricular complexes.",
+          "D": "ST-segment elevation is a vertical deviation from baseline after the QRS, measured in millimeters within one beat."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-279_Brick Exchange - Electrocardiogram_ Waves, Intervals, and Segments (2 of 2)_p13_1.png",
@@ -1710,7 +1925,12 @@
       "explanation": {
         "summary": "The 300-150-100-75-60-50 rule estimates rate: starting on an R wave, each successive heavy gridline where the next R wave lands corresponds to that rate in beats per minute.",
         "whyCorrect": "The 300-150-100-75-60-50 rule estimates rate: starting on an R wave, each successive heavy gridline where the next R wave lands corresponds to that rate in beats per minute.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The QRS axis is found by comparing deflections in the limb leads, not by counting heavy gridlines between R waves.",
+          "B": "The PR interval is measured in small boxes within a beat, from P-wave onset to QRS onset, and is normally 120-200 ms.",
+          "D": "ST-segment amplitude is a vertical voltage measurement, while this countdown along heavy gridlines measures horizontal time between beats.",
+          "E": "The QT interval is a duration within one beat and is usually corrected for rate; the 300-150-100 sequence gives beats per minute."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-280_Brick Exchange - Electrocardiogram_ Waves, Intervals, and Segments (2 of 2)_p14_1.png",
@@ -1749,7 +1969,12 @@
       "explanation": {
         "summary": "The simultaneous display of the six limb leads (I, II, III, aVR, aVL, aVF) and six precordial leads (V1-V6) on pink graph paper is the standard format of a 12-lead ECG, which records the heart's electrical activity from multiple spatial vantage points.",
         "whyCorrect": "The simultaneous display of the six limb leads (I, II, III, aVR, aVL, aVF) and six precordial leads (V1-V6) on pink graph paper is the standard format of a 12-lead ECG, which records the heart's electrical activity from multiple spatial vantage points.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A phonocardiogram records heart sounds as acoustic vibrations, not twelve labeled electrical leads on grid paper.",
+          "B": "A rhythm strip shows a single continuous lead, whereas this display includes all six limb leads and six precordial leads.",
+          "D": "Ambulatory blood pressure monitoring produces a series of cuff readings over 24 hours, not electrical waveforms on gridded paper.",
+          "E": "An echocardiogram produces ultrasound images of cardiac structures, not voltage tracings labeled I through V6."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-281_Brick Exchange - Electrocardiogram_ Waves, Intervals, and Segments (2 of 2)_p16_1.png",
@@ -1788,7 +2013,12 @@
       "explanation": {
         "summary": "The arrows show that the limb leads (frontal plane) and precordial leads (horizontal plane) each 'look at' the heart's depolarization from a distinct angle. Combining these views lets the ECG localize electrical events in three dimensions.",
         "whyCorrect": "The arrows show that the limb leads (frontal plane) and precordial leads (horizontal plane) each 'look at' the heart's depolarization from a distinct angle. Combining these views lets the ECG localize electrical events in three dimensions.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Cardiac autonomic nerves run as sympathetic and vagal fibers through the cardiac plexus; they are not drawn as lead vectors from the heart across the torso.",
+          "B": "Coronary territories are mapped onto the myocardium itself, not as arrows radiating from the heart to points on the body surface.",
+          "C": "Valve closure order is a mechanical sequence over time, not a set of directional vectors through the torso.",
+          "D": "The conduction system runs within the heart from the SA node to the Purkinje fibers; it is not shown as arrows pointing out to surface electrodes."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-282_Brick Exchange - Electrocardiogram_ Waves, Intervals, and Segments (2 of 2)_p2_1.png",
@@ -1827,7 +2057,12 @@
       "explanation": {
         "summary": "The chest (precordial) leads V1-V6 encircle the heart in a transverse cut and therefore assess electrical vectors in the horizontal plane, whereas the limb leads assess the frontal plane.",
         "whyCorrect": "The chest (precordial) leads V1-V6 encircle the heart in a transverse cut and therefore assess electrical vectors in the horizontal plane, whereas the limb leads assess the frontal plane.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The standard ECG does not define an oblique recording plane; the chest leads lie in a transverse ring.",
+          "C": "No standard ECG lead set records the sagittal plane.",
+          "D": "The coronal plane is the frontal plane, which is viewed by the limb leads, not the chest leads.",
+          "E": "The frontal plane is viewed by the six limb leads, while V1-V6 encircle the chest horizontally."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-283_Brick Exchange - Electrocardiogram_ Waves, Intervals, and Segments (2 of 2)_p2_2.png",
@@ -1866,7 +2101,12 @@
       "explanation": {
         "summary": "The continuously changing QRS amplitude that appears to 'twist' around the isoelectric baseline is characteristic of torsades de pointes, a polymorphic ventricular tachycardia associated with a prolonged QT interval.",
         "whyCorrect": "The continuously changing QRS amplitude that appears to 'twist' around the isoelectric baseline is characteristic of torsades de pointes, a polymorphic ventricular tachycardia associated with a prolonged QT interval.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Normal sinus rhythm shows regular, narrow QRS complexes, each preceded by a P wave, with no waxing and waning amplitude.",
+          "B": "First-degree AV block is sinus rhythm with a PR interval over 200 ms; the QRS complexes stay narrow and uniform.",
+          "C": "Atrial fibrillation is an irregularly irregular rhythm with narrow QRS complexes and no P waves, not wide complexes twisting around the baseline.",
+          "D": "Monomorphic ventricular tachycardia has wide complexes that all look identical from beat to beat, unlike the shifting amplitude seen here."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-284_Brick Exchange - Electrocardiogram_ Waves, Intervals, and Segments (2 of 2)_p9_1.png",
@@ -1905,7 +2145,12 @@
       "explanation": {
         "summary": "The PR interval spans the start of the P wave to the start of the QRS, reflecting conduction from atrial depolarization through the AV node (including the physiologic AV delay) to the ventricles.",
         "whyCorrect": "The PR interval spans the start of the P wave to the start of the QRS, reflecting conduction from atrial depolarization through the AV node (including the physiologic AV delay) to the ventricles.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Ventricular systole spans roughly the QT interval, from QRS onset to the end of the T wave, not the PR interval before the QRS.",
+          "B": "Ventricular depolarization is the duration of the QRS complex, which comes after the PR interval ends.",
+          "C": "Ventricular repolarization corresponds to the T wave at the end of the QT interval.",
+          "D": "The whole cardiac cycle is measured by the R-R interval, which is much longer than the PR interval."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-733_Brick Exchange - Electrocardiogram_ Waves, Intervals, and Segments (2 of 2)_p10_1.png",
@@ -1944,7 +2189,12 @@
       "explanation": {
         "summary": "Ventricular contraction (systole) follows ventricular depolarization; the QRS triggers the mechanical contraction, while ventricular relaxation (diastole) follows the T wave (repolarization).",
         "whyCorrect": "Ventricular contraction (systole) follows ventricular depolarization; the QRS triggers the mechanical contraction, while ventricular relaxation (diastole) follows the T wave (repolarization).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Atrial repolarization happens during the QRS and is hidden by it; it is not the trigger for ventricular contraction.",
+          "C": "The P wave triggers atrial contraction, which tops off ventricular filling at the end of ventricular diastole.",
+          "D": "SA node firing starts the sequence but first triggers the atria; the ventricles contract only after the impulse depolarizes them.",
+          "E": "The T wave is ventricular repolarization, which is followed by ventricular relaxation, not contraction."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-734_Brick Exchange - Electrocardiogram_ Waves, Intervals, and Segments (2 of 2)_p11_1.png",
@@ -1983,7 +2233,12 @@
       "explanation": {
         "summary": "The ST segment is isoelectric because the entire ventricular myocardium is depolarized at the same time (plateau phase). With no potential difference across the heart, no net current is recorded, so the trace returns to baseline between the QRS and T wave.",
         "whyCorrect": "The ST segment is isoelectric because the entire ventricular myocardium is depolarized at the same time (plateau phase). With no potential difference across the heart, no net current is recorded, so the trace returns to baseline between the QRS and T wave.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The atria do not depolarize the ventricles; the impulse reaches the ventricles through the AV node and His-Purkinje system, and that event is the QRS.",
+          "B": "Full repolarization and rest correspond to the isoelectric TP segment after the T wave, not the ST segment.",
+          "C": "Repolarization sweeping across the ventricles produces the T wave, which follows the ST segment.",
+          "E": "Rapid ventricular depolarization produces the QRS complex, which comes before the ST segment."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-735_Brick Exchange - Electrocardiogram_ Waves, Intervals, and Segments (2 of 2)_p3_1.png",

@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "The sternum is the flat midline bone of the anterior chest wall; the ribs join it anteriorly through costal cartilages to complete the protective thoracic cage.",
         "whyCorrect": "The sternum is the flat midline bone of the anterior chest wall; the ribs join it anteriorly through costal cartilages to complete the protective thoracic cage.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Floating ribs (11 and 12) have no anterior attachment at all; they end freely in the abdominal wall and do not form the midline anterior chest.",
+          "B": "The clavicle is a horizontal S-shaped long bone running from sternum to acromion at the top of the chest, not the midline plate.",
+          "C": "Thoracic vertebrae form the posterior midline of the thoracic cage and articulate with the rib heads, not the costal cartilages anteriorly.",
+          "D": "The scapula is a flat bone on the posterior thorax that anchors the shoulder; it does not articulate with the ribs through cartilage."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-042_Brick Exchange - Control of Ventilation and Effects of Altitude and Exercise_p3_3.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "The diaphragm is the dome-shaped muscle at the base of the thorax; its contraction flattens the dome, increasing thoracic volume and generating the pressure gradient for inspiration.",
         "whyCorrect": "The diaphragm is the dome-shaped muscle at the base of the thorax; its contraction flattens the dome, increasing thoracic volume and generating the pressure gradient for inspiration.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The external oblique is an anterolateral abdominal wall muscle that compresses the abdomen and assists forced expiration, not the domed thoracic floor.",
+          "B": "Serratus anterior runs from the upper ribs to the medial scapula, protracting the scapula; at most it is an accessory inspiratory muscle.",
+          "C": "Transversus abdominis is the deepest abdominal wall muscle, compressing abdominal contents during forced expiration rather than driving inspiration.",
+          "D": "Pectoralis major lies on the anterior chest wall and moves the humerus; it only assists inspiration as an accessory muscle when the arm is fixed."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-043_Brick Exchange - Control of Ventilation and Effects of Altitude and Exercise_p3_6.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "The waxing-and-waning tidal volume alternating with apnea is Cheyne-Stokes respiration, caused by circulatory delay and unstable feedback in the CO2 control loop; it is classically seen in congestive heart failure and diffuse brain injury. Kussmaul (deep, rapid) breathing, by contrast, indicates metabolic acidosis such as DKA.",
         "whyCorrect": "The waxing-and-waning tidal volume alternating with apnea is Cheyne-Stokes respiration, caused by circulatory delay and unstable feedback in the CO2 control loop; it is classically seen in congestive heart failure and diffuse brain injury. Kussmaul (deep, rapid) breathing, by contrast, indicates metabolic acidosis such as DKA.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Panic-related hyperventilation produces sustained rapid, deep breathing and respiratory alkalosis, without cyclic waxing-waning and apneic pauses.",
+          "B": "Upper airway obstruction causes stridor, labored breathing, and paradoxical effort against a blocked airway, not a periodic crescendo-decrescendo pattern.",
+          "C": "Salicylate overdose stimulates the respiratory center, causing persistent hyperventilation with respiratory alkalosis rather than periodic breathing with apnea.",
+          "D": "DKA produces Kussmaul respirations, a continuous deep, rapid pattern compensating metabolic acidosis, with no apneic periods."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-465_Brick Exchange - Control of Ventilation and Effects of Altitude and Exercise_p17_1.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "The steeper CO2-response slope at lower PO2 shows that hypoxia and hypercapnia act synergistically at the peripheral chemoreceptors: low oxygen amplifies the drive to breathe for any given CO2 level, increasing ventilatory sensitivity to CO2.",
         "whyCorrect": "The steeper CO2-response slope at lower PO2 shows that hypoxia and hypercapnia act synergistically at the peripheral chemoreceptors: low oxygen amplifies the drive to breathe for any given CO2 level, increasing ventilatory sensitivity to CO2.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Ventilation rises with CO2 at every oxygen level, and even more steeply at low PO2; CO2 is a stimulus, not a suppressant, during hypoxia.",
+          "C": "The curves become steeper rather than shifting rightward to a higher threshold; hypoxia lowers the effective threshold and increases the slope.",
+          "D": "The slope is shallowest at the highest PO2 (110 mmHg) and steepest at the lowest; high PO2 blunts, not amplifies, CO2 sensitivity.",
+          "E": "The fan of curves with different slopes at different PO2 values shows ventilation clearly depends on oxygen tension via peripheral chemoreceptors."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-696_Brick Exchange - Control of Ventilation and Effects of Altitude and Exercise_p10_1.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "J (juxtacapillary) receptors lie in the alveolar walls adjacent to capillaries and are activated by interstitial edema and pulmonary congestion, triggering rapid shallow breathing and the sensation of dyspnea; stretch receptors mediate the Hering-Breuer reflex and irritant receptors respond to noxious stimuli.",
         "whyCorrect": "J (juxtacapillary) receptors lie in the alveolar walls adjacent to capillaries and are activated by interstitial edema and pulmonary congestion, triggering rapid shallow breathing and the sensation of dyspnea; stretch receptors mediate the Hering-Breuer reflex and irritant receptors respond to noxious stimuli.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Slowly adapting stretch receptors lie in airway smooth muscle and respond to lung inflation, mediating the Hering-Breuer reflex that terminates inspiration.",
+          "B": "Rapidly adapting irritant receptors sit in the airway epithelium and respond to dust, smoke, and histamine with cough and bronchoconstriction, not congestion.",
+          "C": "Aortic baroreceptors sense arterial stretch in the aortic arch and regulate blood pressure; they are not pulmonary parenchymal receptors.",
+          "E": "Central chemoreceptors are on the ventrolateral medulla surface and sense CSF pH from CO2; they do not detect pulmonary interstitial congestion."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-697_Brick Exchange - Control of Ventilation and Effects of Altitude and Exercise_p13_1.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "Peripheral chemoreceptors (carotid and aortic bodies) sense the partial pressure of arterial oxygen and respond to hypoxemia, hypercapnia, and acidosis, whereas central chemoreceptors respond mainly to CO2/pH changes in the brain and cannot sense arterial PO2 directly.",
         "whyCorrect": "Peripheral chemoreceptors (carotid and aortic bodies) sense the partial pressure of arterial oxygen and respond to hypoxemia, hypercapnia, and acidosis, whereas central chemoreceptors respond mainly to CO2/pH changes in the brain and cannot sense arterial PO2 directly.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Central chemoreceptors in the medulla respond to CSF H+ derived from CO2 and are insensitive to arterial PO2, so they cannot detect hypoxemia.",
+          "C": "The pneumotaxic center is part of the central neural drive in the upper pons, limiting inspiration; it is not a sensory receptor for blood gases.",
+          "D": "Mechanoreceptors in the lungs and chest wall sense stretch and irritation, not the chemical composition of arterial blood.",
+          "E": "Metaboreceptors in exercising muscle sense local metabolite accumulation and drive exercise hyperpnea, not arterial oxygen tension."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-698_Brick Exchange - Control of Ventilation and Effects of Altitude and Exercise_p16_1.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "The pneumotaxic center in the upper pons inhibits inspiration, limiting inspiratory duration and thereby increasing respiratory rate; the apneustic center has the opposite effect, promoting prolonged inspiration.",
         "whyCorrect": "The pneumotaxic center in the upper pons inhibits inspiration, limiting inspiratory duration and thereby increasing respiratory rate; the apneustic center has the opposite effect, promoting prolonged inspiration.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The apneustic center in the lower pons does the opposite, prolonging inspiration; its unopposed activity produces apneustic breathing with long inspiratory gasps.",
+          "C": "The dorsal respiratory group in the nucleus tractus solitarius initiates inspiration and integrates vagal and glossopharyngeal input rather than switching it off.",
+          "D": "The pre-Botzinger complex in the ventrolateral medulla is the rhythm generator (pacemaker) for breathing, not the pontine inspiratory off-switch.",
+          "E": "The ventral respiratory group contains inspiratory and expiratory neurons used mainly in forced breathing; it does not limit inspiratory duration."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-699_Brick Exchange - Control of Ventilation and Effects of Altitude and Exercise_p3_1.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "The pons and medulla of the brainstem house the respiratory control centers that generate and fine-tune the intrinsic rhythm of ventilation via reciprocal excitatory and inhibitory neuronal networks.",
         "whyCorrect": "The pons and medulla of the brainstem house the respiratory control centers that generate and fine-tune the intrinsic rhythm of ventilation via reciprocal excitatory and inhibitory neuronal networks.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The thermoregulatory set point is established by the hypothalamus, not by pontine and medullary neuronal groups.",
+          "C": "Voluntary eye movements are coordinated by cortical eye fields and brainstem gaze centers driving cranial nerves III, IV, and VI, not respiratory networks.",
+          "D": "Postural muscle tone is maintained by vestibulospinal and reticulospinal pathways with cerebellar input, not by the respiratory centers shown.",
+          "E": "Auditory reflexes are processed by the cochlear nuclei, superior olive, and inferior colliculus, not by the respiratory centers of the pons and medulla."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-700_Brick Exchange - Control of Ventilation and Effects of Altitude and Exercise_p3_2.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "The dorsal and ventral respiratory groups of the medulla generate the basic respiratory drive and send excitatory output to the inspiratory muscles such as the external intercostals and diaphragm.",
         "whyCorrect": "The dorsal and ventral respiratory groups of the medulla generate the basic respiratory drive and send excitatory output to the inspiratory muscles such as the external intercostals and diaphragm.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Chest wall pain is perceived via spinothalamic pathways to the thalamus and somatosensory cortex; medullary groups sending motor drive do not mediate it.",
+          "B": "Baroreceptor control is handled by the nucleus tractus solitarius and vasomotor centers projecting to the heart and vessels, not to the intercostal muscles.",
+          "D": "Visual signals travel from retina through the lateral geniculate nucleus to the occipital cortex, bypassing the medulla entirely.",
+          "E": "Swallowing is coordinated by a medullary central pattern generator, but the groups shown drive the external intercostals for inspiration, not deglutition."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-701_Brick Exchange - Control of Ventilation and Effects of Altitude and Exercise_p3_4.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "External intercostal muscles pull the ribs upward and outward during inspiration, expanding thoracic volume and lowering intrapleural pressure to draw air in.",
         "whyCorrect": "External intercostal muscles pull the ribs upward and outward during inspiration, expanding thoracic volume and lowering intrapleural pressure to draw air in.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Vertebral column rotation is produced by deep back muscles and the obliques of the abdomen, not by the intercostals bridging adjacent ribs.",
+          "C": "Scapular fixation against the thorax is the job of serratus anterior and rhomboids; intercostals attach only rib to rib.",
+          "D": "Compressing abdominal contents is the action of the abdominal wall muscles during forced expiration, coughing, and straining.",
+          "E": "Depressing the ribs for active expiration is the role of the internal (interosseous) intercostals; quiet inspiratory intercostals elevate the ribs."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-702_Brick Exchange - Control of Ventilation and Effects of Altitude and Exercise_p3_5.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "Airway resistance is inversely related to lung volume. At high lung volumes, the surrounding distended alveoli exert outward radial traction on the airway walls, holding them open and lowering resistance; at low lung volumes this tethering is lost and small airways narrow, raising resistance.",
         "whyCorrect": "Airway resistance is inversely related to lung volume. At high lung volumes, the surrounding distended alveoli exert outward radial traction on the airway walls, holding them open and lowering resistance; at low lung volumes this tethering is lost and small airways narrow, raising resistance.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The plotted curve clearly falls as volume rises; resistance depends strongly on lung volume through airway tethering.",
+          "C": "This reverses the relationship: resistance is highest near residual volume, when airways are narrow, and lowest near total lung capacity.",
+          "D": "Expanding alveoli pull airway walls outward through radial traction, widening the lumen; they do not compress the airways.",
+          "E": "The direction is right but the mechanism is wrong; bronchial smooth-muscle contraction narrows airways and raises resistance."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-604_Brick Exchange - Airway Resistance_p10_1.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "Emphysema destroys alveolar walls, reducing elastic recoil and the radial traction that tethers small airways open. During forced expiration the equal pressure point (where intraluminal pressure equals pleural pressure) moves upstream into airways lacking cartilage, which collapse and limit flow, producing the scooped-out (concave) expiratory flow-volume loop of obstructive disease.",
         "whyCorrect": "Emphysema destroys alveolar walls, reducing elastic recoil and the radial traction that tethers small airways open. During forced expiration the equal pressure point (where intraluminal pressure equals pleural pressure) moves upstream into airways lacking cartilage, which collapse and limit flow, producing the scooped-out (concave) expiratory flow-volume loop of obstructive disease.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Emphysema decreases, not increases, elastic recoil; reduced recoil lowers the driving pressure and lets the equal pressure point move upstream.",
+          "C": "Surfactant deficiency causes alveolar collapse in neonatal respiratory distress syndrome, not emphysema, and does not explain dynamic airway compression.",
+          "D": "Mucus plugging of airways is a feature of chronic bronchitis and asthma; it does not explain the dynamic collapse of small airways at the EPP.",
+          "E": "Smooth-muscle hypertrophy and active bronchoconstriction characterize asthma; emphysema's flow limitation comes from loss of tethering and recoil."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-605_Brick Exchange - Airway Resistance_p12_1.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "Compliance (ΔV/ΔP, the slope) is greatest along the steep middle of the pressure-volume curve near normal FRC (B). At low volumes (A, atelectasis) and high volumes (C, overexpansion) the curve flattens, so the lung is stiffer and more work is needed for the same volume change.",
         "whyCorrect": "Compliance (ΔV/ΔP, the slope) is greatest along the steep middle of the pressure-volume curve near normal FRC (B). At low volumes (A, atelectasis) and high volumes (C, overexpansion) the curve flattens, so the lung is stiffer and more work is needed for the same volume change.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Near total lung capacity the curve flattens because the lung is nearly fully distended, so compliance there is low.",
+          "C": "The loops sit on segments of different slope; compliance (the slope) varies along the curve and is greatest in the middle.",
+          "D": "Near residual volume many units are collapsed, so the curve is flat and extra pressure is needed to reopen them; compliance is low.",
+          "E": "At TLC the lung approaches its elastic limit and the curve is flattest, giving the smallest volume change per unit pressure."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-606_Brick Exchange - Airway Resistance_p15_1.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "At functional residual capacity the lung's inward elastic recoil is exactly opposed by the chest wall's outward recoil, so the net (respiratory-system) recoil pressure is zero and no muscular effort is required to hold this volume. This is the resting end-expiratory position.",
         "whyCorrect": "At functional residual capacity the lung's inward elastic recoil is exactly opposed by the chest wall's outward recoil, so the net (respiratory-system) recoil pressure is zero and no muscular effort is required to hold this volume. This is the resting end-expiratory position.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "At residual volume the respiratory system recoils strongly outward (negative relaxation pressure); airways do not collapse to total emptying.",
+          "B": "At TLC the combined system recoils inward with a large positive pressure; it is not the zero-pressure resting point.",
+          "C": "Airway resistance keeps falling as volume rises and is lowest near TLC, not at the zero-pressure point of the relaxation curve.",
+          "D": "Both lung and chest wall remain compliant at FRC; the zero crossing reflects equal and opposite recoil, not zero compliance."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-607_Brick Exchange - Airway Resistance_p20_1.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "Raising lung compliance (loss of elastic tissue in emphysema) weakens inward lung recoil. The balance point with the outward chest wall recoil then shifts to a higher volume, raising FRC and producing hyperinflation. Reduced compliance (fibrosis) does the opposite and lowers FRC.",
         "whyCorrect": "Raising lung compliance (loss of elastic tissue in emphysema) weakens inward lung recoil. The balance point with the outward chest wall recoil then shifts to a higher volume, raising FRC and producing hyperinflation. Reduced compliance (fibrosis) does the opposite and lowers FRC.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Inward recoil overwhelming the chest wall describes stiff lungs in fibrosis, which lowers FRC; emphysema weakens inward recoil.",
+          "C": "Increased compliance raises FRC but it does not reach TLC; inspiratory muscles are still needed to expand to TLC.",
+          "D": "FRC falling to residual volume would require greatly increased inward recoil; emphysema raises both FRC and residual volume.",
+          "E": "FRC is the balance point between lung and chest wall recoil, so changing lung recoil necessarily shifts it."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-608_Brick Exchange - Airway Resistance_p23_1.png",
@@ -618,7 +693,12 @@
       "explanation": {
         "summary": "For laminar flow, resistance is inversely proportional to the fourth power of the radius (R ∝ 1/r⁴). Halving r multiplies resistance by 2⁴ = 16. This is why small changes in airway caliber (e.g., bronchoconstriction) have dramatic effects on airflow.",
         "whyCorrect": "For laminar flow, resistance is inversely proportional to the fourth power of the radius (R ∝ 1/r⁴). Halving r multiplies resistance by 2⁴ = 16. This is why small changes in airway caliber (e.g., bronchoconstriction) have dramatic effects on airflow.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A doubling would follow if resistance varied with 1/r; Poiseuille's law makes it depend on the fourth power of the radius.",
+          "B": "Radius is the dominant term in Poiseuille's law, so halving it has a large effect on resistance.",
+          "C": "An 8-fold increase corresponds to a third-power dependence; resistance actually scales with 1/r to the fourth (2x2x2x2 = 16).",
+          "E": "A 4-fold increase implies a squared dependence, which applies to cross-sectional area, not to laminar-flow resistance."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-609_Brick Exchange - Airway Resistance_p2_1.png",
@@ -657,7 +737,12 @@
       "explanation": {
         "summary": "Resistances in parallel add reciprocally, so the vast number of small airways branching in parallel gives a huge total cross-sectional area and a very low combined resistance. Medium bronchi contribute most airway resistance because their total cross-sectional area is comparatively small.",
         "whyCorrect": "Resistances in parallel add reciprocally, so the vast number of small airways branching in parallel gives a huge total cross-sectional area and a very low combined resistance. Medium bronchi contribute most airway resistance because their total cross-sectional area is comparatively small.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Turbulence occurs in the large airways where velocity is high; in the distal airways flow slows dramatically and becomes laminar.",
+          "C": "Surfactant lowers alveolar surface tension and stabilizes small units, but it does not eliminate airway resistance.",
+          "D": "Alveoli fill and empty passively with pressure changes generated by respiratory muscles; they do not pump air.",
+          "E": "Individually, small airways have tiny radii and high resistance; it is their enormous parallel number that lowers total resistance."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-610_Brick Exchange - Airway Resistance_p6_1.png",
@@ -696,7 +781,12 @@
       "explanation": {
         "summary": "The upper pattern is laminar and the lower is turbulent flow. Turbulence develops when the Reynolds number is high, which is favored by high velocity, high gas density, and large diameter, and opposed by high viscosity. Turbulent flow makes pressure proportional to the square of flow, raising the work of breathing.",
         "whyCorrect": "The upper pattern is laminar and the lower is turbulent flow. Turbulence develops when the Reynolds number is high, which is favored by high velocity, high gas density, and large diameter, and opposed by high viscosity. Turbulent flow makes pressure proportional to the square of flow, raising the work of breathing.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Lower velocity lowers the Reynolds number and favors laminar flow, the smooth streamlined pattern shown above.",
+          "B": "Viscosity is in the denominator of the Reynolds number, so higher viscosity damps turbulence and favors laminar flow.",
+          "D": "Low-density gas like heliox lowers the Reynolds number and converts turbulent flow toward laminar, which is why it is used in airway obstruction.",
+          "E": "A narrower diameter lowers the Reynolds number for a given velocity, and unbranched straight tubes generate fewer eddies, both favoring laminar flow."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-611_Brick Exchange - Airway Resistance_p8_1.png",
@@ -735,7 +825,12 @@
       "explanation": {
         "summary": "The flow-volume loop is produced during spirometry; the peak of the expiratory limb is the peak expiratory flow and the width of the loop spans the vital capacity.",
         "whyCorrect": "The flow-volume loop is produced during spirometry; the peak of the expiratory limb is the peak expiratory flow and the width of the loop spans the vital capacity.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A chest radiograph images thoracic anatomy and produces no flow or volume measurements from a breathing maneuver.",
+          "B": "Cardiac catheterization measures intracardiac pressures and oxygen saturations, not airflow during forced breathing.",
+          "C": "A V/Q scan maps regional ventilation and perfusion with radiotracers; it does not generate a flow-volume loop.",
+          "D": "An arterial blood gas reports PaO2, PaCO2, and pH from a blood sample, without any airflow tracing."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-357_Brick Exchange - Pulmonary Function Tests (PFT)_p10_1.png",
@@ -774,7 +869,12 @@
       "explanation": {
         "summary": "Obstructive disease raises lung volumes from air trapping, shifting the loop left with reduced expiratory flow and a scooped limb; restrictive disease reduces volumes, shifting the loop right.",
         "whyCorrect": "Obstructive disease raises lung volumes from air trapping, shifting the loop left with reduced expiratory flow and a scooped limb; restrictive disease reduces volumes, shifting the loop right.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A normal loop rises sharply to a peak with a straight, linear expiratory descent and sits at normal volumes, without a scooped limb.",
+          "B": "Restrictive disease shrinks lung volumes, shifting the loop toward lower volumes with a narrow, tall shape; that describes the other loop.",
+          "D": "Upper airway obstruction flattens the inspiratory and/or expiratory limbs into plateaus without shifting the loop to higher lung volumes.",
+          "E": "Pulmonary vascular disease typically leaves spirometry and the flow-volume loop near normal while reducing DLCO."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-358_Brick Exchange - Pulmonary Function Tests (PFT)_p13_1.png",
@@ -813,7 +913,12 @@
       "explanation": {
         "summary": "Variable extrathoracic obstruction flattens the inspiratory limb only; variable intrathoracic obstruction flattens the expiratory limb; fixed obstruction flattens both limbs.",
         "whyCorrect": "Variable extrathoracic obstruction flattens the inspiratory limb only; variable intrathoracic obstruction flattens the expiratory limb; fixed obstruction flattens both limbs.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "A normal airway produces a rounded inspiratory limb and a sharp expiratory peak, with no flattening of either limb.",
+          "C": "Small airway obstructive disease scoops the expiratory limb and shifts the loop to higher volumes, rather than flattening inspiration.",
+          "D": "A fixed obstruction, such as tracheal stenosis, limits flow in both directions and flattens both the inspiratory and expiratory limbs.",
+          "E": "Variable intrathoracic obstruction worsens during forced expiration when pleural pressure compresses the airway, flattening the expiratory limb instead."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-359_Brick Exchange - Pulmonary Function Tests (PFT)_p20_1.png",
@@ -852,7 +957,12 @@
       "explanation": {
         "summary": "The handheld mouthpiece connected to a recording unit that plots volume-time and flow-volume loops is a spirometer. Spirometry measures forced expiratory volumes and flows (e.g., FEV1, FVC) to characterize obstructive versus restrictive patterns.",
         "whyCorrect": "The handheld mouthpiece connected to a recording unit that plots volume-time and flow-volume loops is a spirometer. Spirometry measures forced expiratory volumes and flows (e.g., FEV1, FVC) to characterize obstructive versus restrictive patterns.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Cardiopulmonary exercise testing measures gas exchange and heart rate during treadmill or cycle exercise, not a single forced exhalation.",
+          "C": "Arterial blood gas sampling draws blood from an artery, usually the radial, and involves no mouthpiece or flow tracing.",
+          "D": "A methacholine challenge uses spirometry repeatedly after escalating inhaled doses; a single forced exhalation recording is plain spirometry.",
+          "E": "The six-minute walk test measures distance walked and oxygen saturation, with no mouthpiece or flow-volume recording."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-360_Brick Exchange - Pulmonary Function Tests (PFT)_p6_1.png",
@@ -891,7 +1001,12 @@
       "explanation": {
         "summary": "The plateau curve shows FEV1 (volume at 1 sec) and FVC (total forced vital capacity). A low FEV1/FVC ratio (<0.7) defines airflow obstruction, as in asthma or COPD; restrictive disease lowers both proportionally and preserves the ratio.",
         "whyCorrect": "The plateau curve shows FEV1 (volume at 1 sec) and FVC (total forced vital capacity). A low FEV1/FVC ratio (<0.7) defines airflow obstruction, as in asthma or COPD; restrictive disease lowers both proportionally and preserves the ratio.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "An isolated diffusion defect lowers DLCO, as in early interstitial or vascular disease, while FEV1, FVC, and their ratio remain normal.",
+          "B": "Restrictive defects reduce FEV1 and FVC proportionally, so the ratio is normal or even increased.",
+          "D": "A fixed upper-airway obstruction can lower FEV1/FVC, but the ratio alone is not specific for it; it is identified by flattening of both loop limbs.",
+          "E": "A normal FEV1/FVC is about 0.7-0.8 or higher; a reduced ratio is by definition abnormal."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-848_Brick Exchange - Pulmonary Function Tests (PFT)_p8_1.png",
@@ -930,7 +1045,12 @@
       "explanation": {
         "summary": "A V/Q of 0 is a true shunt (e.g., pneumonia, atelectasis): blood passes the alveolus without gas exchange, so added oxygen cannot reach the shunted blood and hypoxemia is refractory. Dead space (V/Q = infinity) is the opposite—ventilation without perfusion.",
         "whyCorrect": "A V/Q of 0 is a true shunt (e.g., pneumonia, atelectasis): blood passes the alveolus without gas exchange, so added oxygen cannot reach the shunted blood and hypoxemia is refractory. Dead space (V/Q = infinity) is the opposite—ventilation without perfusion.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Shunted blood never contacts alveolar gas, so it remains at mixed venous PO2 and lowers arterial oxygenation rather than raising it.",
+          "B": "Hypoxemia from low-V/Q units or hypoventilation corrects with 100% oxygen; a true shunt does not, because the oxygen never reaches the shunted blood.",
+          "C": "Shunt primarily lowers PaO2; PaCO2 is usually normal or low because the chemoreflex increases ventilation of normal units.",
+          "E": "There is no CO2 washout in the unventilated unit, and washing out CO2 elsewhere cannot add oxygen to the shunted blood."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-849_Brick Exchange - Pulmonary Ventilation and Perfusion (V_Q)_p10_1.png",
@@ -969,7 +1089,12 @@
       "explanation": {
         "summary": "Bronchial circulation is part of the normal physiologic (anatomic) shunt: deoxygenated bronchial venous blood mixes with oxygenated pulmonary venous blood, so left atrial/arterial O2 is slightly below alveolar O2, contributing to the normal alveolar-arterial gradient.",
         "whyCorrect": "Bronchial circulation is part of the normal physiologic (anatomic) shunt: deoxygenated bronchial venous blood mixes with oxygenated pulmonary venous blood, so left atrial/arterial O2 is slightly below alveolar O2, contributing to the normal alveolar-arterial gradient.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Venous admixture lowers arterial PO2 below alveolar PO2; arterial O2 can never exceed alveolar O2 by any concentration mechanism.",
+          "C": "Adding deoxygenated, CO2-rich bronchial venous blood would raise, not lower, the CO2 of pulmonary venous blood slightly.",
+          "D": "The connection shunts deoxygenated bronchial venous blood into the oxygenated pulmonary veins, not oxygenated blood into systemic veins.",
+          "E": "This physiologic shunt is one of the reasons a small normal A-a gradient exists; it creates the gradient rather than abolishing it."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-850_Brick Exchange - Pulmonary Ventilation and Perfusion (V_Q)_p12_1.png",
@@ -1008,7 +1133,12 @@
       "explanation": {
         "summary": "As V/Q rises from 0 (shunt-like, gas approaching mixed venous values) through 1 (normal) toward infinity (dead space), alveolar PO2 rises toward inspired air (150) and PCO2 falls toward 0. The curve is the V/Q line connecting shunt and dead-space extremes.",
         "whyCorrect": "As V/Q rises from 0 (shunt-like, gas approaching mixed venous values) through 1 (normal) toward infinity (dead space), alveolar PO2 rises toward inspired air (150) and PCO2 falls toward 0. The curve is the V/Q line connecting shunt and dead-space extremes.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Increasing perfusion relative to ventilation moves along the curve to the left toward mixed venous values (PO2 40, PCO2 45), the shunt end.",
+          "B": "Hypoventilation raises PCO2 and lowers PO2; moving right on this curve does the opposite, lowering PCO2 toward 0.",
+          "D": "A falling inspired O2 fraction would lower the dead-space endpoint below 150 mmHg; this curve keeps inspired gas fixed and varies V/Q.",
+          "E": "Raising cardiac output with fixed ventilation increases perfusion relative to ventilation, pushing units toward the low-V/Q, left end."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-851_Brick Exchange - Pulmonary Ventilation and Perfusion (V_Q)_p17_1.png",
@@ -1047,7 +1177,12 @@
       "explanation": {
         "summary": "Gravity makes both ventilation and perfusion greater at the base, but perfusion decreases more sharply toward the apex. Because perfusion falls faster than ventilation, the V/Q ratio increases from base to apex (approaching ~3 at the apex).",
         "whyCorrect": "Gravity makes both ventilation and perfusion greater at the base, but perfusion decreases more sharply toward the apex. Because perfusion falls faster than ventilation, the V/Q ratio increases from base to apex (approaching ~3 at the apex).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "This is reversed; at the base perfusion exceeds ventilation, giving the lowest V/Q in the lung.",
+          "C": "At the apex ventilation exceeds perfusion (V/Q about 3), so perfusion does not exceed ventilation everywhere.",
+          "D": "The V/Q ratio rises steadily from base to apex rather than peaking in the mid-lung.",
+          "E": "Because perfusion falls more steeply than ventilation with height, the ratio cannot be uniform in the upright lung."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-852_Brick Exchange - Pulmonary Ventilation and Perfusion (V_Q)_p4_1.png",
@@ -1086,7 +1221,12 @@
       "explanation": {
         "summary": "These are the West zones. In zone 1 (apex) alveolar pressure > arterial > venous (PA>Pa>Pv), so alveolar pressure compresses capillaries and flow is minimal. Zone 3 (base) has Pa>Pv>PA with continuous flow.",
         "whyCorrect": "These are the West zones. In zone 1 (apex) alveolar pressure > arterial > venous (PA>Pa>Pv), so alveolar pressure compresses capillaries and flow is minimal. Zone 3 (base) has Pa>Pv>PA with continuous flow.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Maximal recruitment and highest flow occur in zone 3 at the base, where arterial and venous pressures both exceed alveolar pressure.",
+          "B": "Hypoxic vasoconstriction is a local response to low alveolar PO2; it does not define the zones, and the apex is well oxygenated anyway.",
+          "C": "Arterial pressure exceeding alveolar pressure describes zones 2 and 3; in the uppermost zone 1 alveolar pressure exceeds arterial pressure.",
+          "D": "Venous pressure exceeding alveolar pressure occurs in dependent zone 3 and permits continuous flow rather than limiting it at the apex."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-853_Brick Exchange - Pulmonary Ventilation and Perfusion (V_Q)_p7_1.png",
@@ -1125,7 +1265,12 @@
       "explanation": {
         "summary": "An embolus blocking perfusion to a ventilated alveolus creates dead space: the alveolus is ventilated but receives no blood, so that ventilation is wasted. This is the hallmark gas-exchange defect of pulmonary embolism.",
         "whyCorrect": "An embolus blocking perfusion to a ventilated alveolus creates dead space: the alveolus is ventilated but receives no blood, so that ventilation is wasted. This is the hallmark gas-exchange defect of pulmonary embolism.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Global hypoventilation reduces ventilation of all alveoli and raises PaCO2; here unit B is ventilated normally but unperfused.",
+          "B": "A shunt is perfusion without ventilation, the opposite situation; unit B receives air but no blood.",
+          "C": "Diffusion limitation requires blood flowing past a thickened or damaged membrane; unit B has no blood flow at all.",
+          "E": "Low inspired oxygen, as at altitude, lowers alveolar PO2 in every unit and would affect unit A too, not just the embolized one."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-755_Brick Exchange - Hypoxemia_p18_1.png",
@@ -1164,7 +1309,12 @@
       "explanation": {
         "summary": "The sigmoid shape reflects cooperative O2 binding: on the steep segment (around venous PO2) small decreases in PO2 release large amounts of O2 to tissues, while the upper plateau ensures near-full loading in the lungs despite modest PO2 variation.",
         "whyCorrect": "The sigmoid shape reflects cooperative O2 binding: on the steep segment (around venous PO2) small decreases in PO2 release large amounts of O2 to tissues, while the upper plateau ensures near-full loading in the lungs despite modest PO2 variation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Saturation is determined mainly by PO2; CO2 only shifts the curve (Bohr effect) and is not the sole determinant.",
+          "B": "The plotted curve shows saturation changing markedly with PO2, especially on its steep middle segment.",
+          "C": "Dissolved O2 carries only about 0.003 mL/dL per mmHg, a tiny fraction; hemoglobin-bound oxygen carries over 98% of the total.",
+          "E": "Cooperative binding makes the curve sigmoidal, not linear; a linear relationship would describe dissolved oxygen alone."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-756_Brick Exchange - Hypoxemia_p23_1.png",
@@ -1203,7 +1353,12 @@
       "explanation": {
         "summary": "Cyanosis appears when the absolute concentration of deoxygenated hemoglobin exceeds roughly 5 g/dL, which occurs in hypoxemia with poor oxygen loading. It reflects absolute deoxyhemoglobin, not oxygen saturation alone.",
         "whyCorrect": "Cyanosis appears when the absolute concentration of deoxygenated hemoglobin exceeds roughly 5 g/dL, which occurs in hypoxemia with poor oxygen loading. It reflects absolute deoxyhemoglobin, not oxygen saturation alone.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Methemoglobinemia can cause cyanosis with chocolate-brown blood, but it is from oxidized iron rather than hypoxemia and needs an oxidizing exposure.",
+          "B": "Carboxyhemoglobin is cherry red and does not produce bluish discoloration; CO poisoning classically lacks cyanosis.",
+          "C": "Bilirubin deposition produces yellow jaundice of skin and sclera, not a dusky blue color.",
+          "E": "Arterial spasm, as in Raynaud phenomenon, causes episodic pallor then cyanosis of digits, but the mechanism in a hypoxemic patient is deoxyhemoglobin."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-757_Brick Exchange - Hypoxemia_p3_1.png",
@@ -1242,7 +1397,12 @@
       "explanation": {
         "summary": "Oxygen and carbon dioxide cross the alveolar-capillary membrane passively, each moving from higher to lower partial pressure. No energy or carriers are required; the gradient alone drives exchange.",
         "whyCorrect": "Oxygen and carbon dioxide cross the alveolar-capillary membrane passively, each moving from higher to lower partial pressure. No energy or carriers are required; the gradient alone drives exchange.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Osmosis is water movement across a membrane driven by solute gradients; O2 and CO2 are gases moving by their own partial pressures.",
+          "C": "No ATP-dependent pump moves respiratory gases; they are small lipid-soluble molecules that cross membranes passively.",
+          "D": "Facilitated transport requires carrier proteins and saturates; alveolar gas exchange occurs by simple diffusion without carriers.",
+          "E": "Bulk flow moves air through the conducting airways, but across the alveolar-capillary barrier gases move by diffusion, not hydrostatic pressure."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-758_Brick Exchange - Hypoxemia_p7_1.png",
@@ -1281,7 +1441,12 @@
       "explanation": {
         "summary": "On a capnogram, Phase III is the alveolar plateau; its endpoint (ETCO2) reflects alveolar CO2 and approximates arterial PaCO2. Rising ETCO2 indicates hypercapnia/hypoventilation.",
         "whyCorrect": "On a capnogram, Phase III is the alveolar plateau; its endpoint (ETCO2) reflects alveolar CO2 and approximates arterial PaCO2. Rising ETCO2 indicates hypercapnia/hypoventilation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Apnea produces a flat line at zero CO2 with no waveform, not a raised, sustained plateau.",
+          "C": "Inspiration of CO2-free gas is phase 0 (or phase IV), the rapid downstroke back to baseline.",
+          "D": "The start of expiration is phase I, a zero-CO2 baseline as dead-space gas without CO2 is exhaled first.",
+          "E": "Dead-space washout mixing with alveolar gas produces phase II, the steep upslope, before the plateau."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-289_Brick Exchange - Hypercapnia_p16_1.png",
@@ -1320,7 +1485,12 @@
       "explanation": {
         "summary": "Emphysema is defined by permanent enlargement of airspaces distal to the terminal bronchiole with destruction of alveolar walls and loss of surface area, reducing gas exchange and contributing to CO2 retention/hypercapnia in advanced COPD.",
         "whyCorrect": "Emphysema is defined by permanent enlargement of airspaces distal to the terminal bronchiole with destruction of alveolar walls and loss of surface area, reducing gas exchange and contributing to CO2 retention/hypercapnia in advanced COPD.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Pulmonary edema fills alveoli with pink proteinaceous fluid while septa remain intact, rather than enlarging airspaces with destroyed walls.",
+          "B": "Alveolar proteinosis fills alveoli with PAS-positive granular surfactant material, preserving the alveolar architecture.",
+          "D": "Organizing pneumonia shows plugs of loose fibroblastic tissue (Masson bodies) within airspaces, not enlarged empty airspaces.",
+          "E": "Diffuse alveolar hemorrhage fills alveoli with red cells and hemosiderin-laden macrophages, without destruction of septa."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-489_Brick Exchange - Hypercapnia_p9_1.png",
@@ -1359,7 +1529,12 @@
       "explanation": {
         "summary": "CO2 diffuses across the blood-brain barrier into CSF, forming carbonic acid that releases H+; central chemoreceptors detect this H+ rise. Peripheral chemoreceptors are the ones that respond mainly to low arterial O2.",
         "whyCorrect": "CO2 diffuses across the blood-brain barrier into CSF, forming carbonic acid that releases H+; central chemoreceptors detect this H+ rise. Peripheral chemoreceptors are the ones that respond mainly to low arterial O2.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Hyperkalemia can stimulate peripheral chemoreceptors during exercise, but it is not the stimulus for central chemoreceptors.",
+          "C": "Blood glucose is sensed by pancreatic and hypothalamic glucose-sensing cells, not respiratory chemoreceptors.",
+          "D": "A fall in arterial PO2 is detected by peripheral chemoreceptors in the carotid and aortic bodies; central chemoreceptors do not sense hypoxemia.",
+          "E": "Drops in blood pressure are sensed by carotid sinus and aortic arch baroreceptors, not central chemoreceptors."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-752_Brick Exchange - Hypercapnia_p12_1.png",
@@ -1398,7 +1573,12 @@
       "explanation": {
         "summary": "One alveolus is perfused but poorly ventilated, so its blood stays deoxygenated and mixes with well-oxygenated blood from the normal unit, lowering the combined PaO2. This venous admixture from low V/Q units is the classic mechanism of hypoxemia in V/Q mismatch.",
         "whyCorrect": "One alveolus is perfused but poorly ventilated, so its blood stays deoxygenated and mixes with well-oxygenated blood from the normal unit, lowering the combined PaO2. This venous admixture from low V/Q units is the classic mechanism of hypoxemia in V/Q mismatch.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Diffusion limitation shows a thickened membrane slowing O2 transfer in a ventilated, perfused unit; here unit B simply lacks ventilation.",
+          "C": "Hypoventilation of the entire lung would reduce ventilation in both units and raise PaCO2; here unit A is ventilated normally.",
+          "D": "Dead space is ventilation without perfusion, the opposite of unit B, which is perfused but unventilated.",
+          "E": "A left-to-right shunt moves oxygenated blood back into the right side; here deoxygenated blood bypasses gas exchange and reaches the left atrium."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-753_Brick Exchange - Hypercapnia_p7_1.png",

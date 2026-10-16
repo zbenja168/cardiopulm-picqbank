@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "On an upright film, free pleural fluid layers in the most dependent region, the posterior and lateral costophrenic recesses, blunting the normally sharp angle and forming a meniscus. Several hundred milliliters are usually needed before this sign appears; smaller effusions may only be visible on lateral or decubitus views.",
         "whyCorrect": "On an upright film, free pleural fluid layers in the most dependent region, the posterior and lateral costophrenic recesses, blunting the normally sharp angle and forming a meniscus. Several hundred milliliters are usually needed before this sign appears; smaller effusions may only be visible on lateral or decubitus views.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Pleural plaques are focal calcified thickenings from asbestos exposure, not a fluid level with a meniscus.",
+          "C": "The heart sits medially and does not reach the lateral costophrenic angle; cardiac enlargement does not blunt the angle with a meniscus.",
+          "D": "Air rising to the apex describes pneumothorax on an upright film; fluid, not air, causes the basal blunting.",
+          "E": "Consolidation fills alveoli with exudate within the lung and shows air bronchograms; it does not retract the diaphragm or form a meniscus."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-337_Brick Exchange - Pleural Effusion_p12_1.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "The costophrenic angle is where the diaphragm meets the chest wall. When the pleural space is normal and air-filled lung extends fully into the recess, the angle appears sharp and acute. Loss of this sharpness (blunting) is an early radiographic sign of pleural fluid, so a crisp angle argues against effusion.",
         "whyCorrect": "The costophrenic angle is where the diaphragm meets the chest wall. When the pleural space is normal and air-filled lung extends fully into the recess, the angle appears sharp and acute. Loss of this sharpness (blunting) is an early radiographic sign of pleural fluid, so a crisp angle argues against effusion.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Lower-lobe consolidation shows airspace opacity with air bronchograms and can silhouette the diaphragm; a crisp angle tells you about the pleural recess, not about consolidation.",
+          "B": "Phrenic nerve palsy elevates one hemidiaphragm; the angle may stay sharp, but sharpness itself reflects a clear pleural recess rather than nerve function.",
+          "D": "A basal pneumothorax in a supine patient produces a deep, abnormally lucent sulcus (deep sulcus sign), not a normal sharp angle.",
+          "E": "Pleural scarring tends to blunt the costophrenic angle, so it would remove, not create, the sharp normal appearance."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-338_Brick Exchange - Pleural Effusion_p12_2.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "A large volume of pleural fluid produces a homogeneous opacity that obscures the lung and diaphragm, with a characteristic meniscus (concave superior margin) as fluid tracks up the lateral chest wall. Massive effusions can white-out the hemithorax; if under tension they may push the mediastinum away from the affected side.",
         "whyCorrect": "A large volume of pleural fluid produces a homogeneous opacity that obscures the lung and diaphragm, with a characteristic meniscus (concave superior margin) as fluid tracks up the lateral chest wall. Massive effusions can white-out the hemithorax; if under tension they may push the mediastinum away from the affected side.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Tension pneumothorax produces a hyperlucent (black) hemithorax without lung markings, the opposite of white-out.",
+          "C": "Interstitial fibrosis is bilateral reticulation with reduced volumes, not a homogeneous unilateral opacity with a meniscus.",
+          "D": "Congenital lobar emphysema causes a hyperlucent, overexpanded lobe rather than an opacified hemithorax.",
+          "E": "Pulmonary embolism usually yields a nearly normal radiograph, sometimes with oligemia or a wedge-shaped infarct, not complete white-out."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-339_Brick Exchange - Pleural Effusion_p13_1.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "The posterior costophrenic sulcus is the deepest, most dependent part of the pleural space and is only seen on the lateral projection. Because fluid pools there first, blunting of the posterior sulcus on the lateral film can detect effusions too small to blunt the lateral costophrenic angle on the frontal view; decubitus films add further sensitivity for free-flowing fluid.",
         "whyCorrect": "The posterior costophrenic sulcus is the deepest, most dependent part of the pleural space and is only seen on the lateral projection. Because fluid pools there first, blunting of the posterior sulcus on the lateral film can detect effusions too small to blunt the lateral costophrenic angle on the frontal view; decubitus films add further sensitivity for free-flowing fluid.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Pleural fluid protein must be measured by thoracentesis and lab analysis; no radiograph can quantify it.",
+          "C": "Heart size is assessed on the PA view by cardiothoracic ratio, and that is not why a lateral view helps detect small effusions.",
+          "D": "The lateral view improves sensitivity, but decubitus views or ultrasound are still used to confirm small or free-flowing fluid.",
+          "E": "Radiographic density cannot separate transudates from exudates; Light criteria on sampled fluid make that distinction."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-340_Brick Exchange - Pleural Effusion_p14_1.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "On a lateral decubitus film, a free-flowing effusion layers dependently along the dependent chest wall, whereas a loculated effusion stays fixed. Demonstrating layering confirms the fluid is mobile and can be safely sampled or drained.",
         "whyCorrect": "On a lateral decubitus film, a free-flowing effusion layers dependently along the dependent chest wall, whereas a loculated effusion stays fixed. Demonstrating layering confirms the fluid is mobile and can be safely sampled or drained.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Ejection fraction is measured by echocardiography or other cardiac imaging, not by a decubitus chest film.",
+          "B": "Endobronchial tumors are evaluated with CT and bronchoscopy, not positional radiographs.",
+          "C": "Coronary calcium is quantified with ECG-gated CT calcium scoring.",
+          "E": "Pulmonary artery diameter is measured on CT; the decubitus view assesses how pleural fluid moves with position."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-341_Brick Exchange - Pleural Effusion_p15_1.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "Normally, air in the lung scatters ultrasound so the spine cannot be traced above the diaphragm (spine sign absent). When pleural fluid is present, it transmits sound and allows the vertebral column to be seen above the diaphragm, producing a positive spine sign.",
         "whyCorrect": "Normally, air in the lung scatters ultrasound so the spine cannot be traced above the diaphragm (spine sign absent). When pleural fluid is present, it transmits sound and allows the vertebral column to be seen above the diaphragm, producing a positive spine sign.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "In a normally aerated lung base, air scatters the beam and the spine is not seen above the diaphragm; the spine sign is absent.",
+          "B": "Diaphragmatic paralysis is assessed by M-mode excursion or sniff testing, not by visualization of the thoracic spine.",
+          "C": "Tamponade is diagnosed with cardiac views showing pericardial fluid and chamber collapse, not by basal thoracic windows.",
+          "E": "Free intraperitoneal air causes bright reverberation artifacts beneath the abdominal wall, not visualization of the thoracic spine."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-342_Brick Exchange - Pleural Effusion_p16_1.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "Thoracentesis is performed with the patient upright and leaning forward so that fluid pools posteriorly and inferiorly; a needle is introduced above a rib into the pleural space to withdraw the effusion for diagnostic analysis or symptomatic relief.",
         "whyCorrect": "Thoracentesis is performed with the patient upright and leaning forward so that fluid pools posteriorly and inferiorly; a needle is introduced above a rib into the pleural space to withdraw the effusion for diagnostic analysis or symptomatic relief.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Bronchoalveolar lavage is done through a bronchoscope by instilling and aspirating saline in the airways, not with a needle through the chest wall.",
+          "B": "Pericardiocentesis inserts a needle beneath the xiphoid toward the left shoulder to drain pericardial fluid, not posteriorly into the pleural space.",
+          "C": "Paracentesis drains ascites through the lower abdominal wall, not the posterior chest.",
+          "E": "Lumbar puncture uses a needle between lumbar vertebrae to sample CSF, below the thoracic pleural space."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-343_Brick Exchange - Pleural Effusion_p17_1.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "The meniscus sign is the upwardly concave interface of pleural fluid against the chest wall, caused by surface tension and the fluid tracking higher laterally. It confirms a free-flowing effusion and results in blunting/loss of the costophrenic angles.",
         "whyCorrect": "The meniscus sign is the upwardly concave interface of pleural fluid against the chest wall, caused by surface tension and the fluid tracking higher laterally. It confirms a free-flowing effusion and results in blunting/loss of the costophrenic angles.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The deep sulcus sign is an abnormally deep, lucent costophrenic angle from air on a supine film, not an upwardly concave fluid border.",
+          "C": "Kerley B lines are short horizontal lines at the lung periphery from thickened interlobular septa, not a fluid meniscus.",
+          "D": "The silhouette sign is loss of a heart or diaphragm border due to adjacent opacity, unrelated to a concave fluid interface on the chest wall.",
+          "E": "Air bronchograms are lucent branching airways within consolidated lung, a parenchymal sign rather than a pleural fluid sign."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-344_Brick Exchange - Pleural Effusion_p1_1.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "Permanent, abnormal dilation of the bronchi with thickened walls is bronchiectasis, often resulting from chronic infection or inflammation with destruction of the airway wall. Here it accompanies pneumonia and a pleural effusion in the right lung.",
         "whyCorrect": "Permanent, abnormal dilation of the bronchi with thickened walls is bronchiectasis, often resulting from chronic infection or inflammation with destruction of the airway wall. Here it accompanies pneumonia and a pleural effusion in the right lung.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Emphysema shows low-attenuation airspaces without walls from alveolar destruction, not thick-walled dilated bronchi.",
+          "C": "Atelectasis is collapse of lung with increased density and volume loss, not dilated airways.",
+          "D": "Pulmonary embolism is a filling defect inside contrast-enhanced pulmonary arteries rather than airway dilation.",
+          "E": "A pneumothorax is air in the pleural space outside the lung, not a dilated airway within it."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-345_Brick Exchange - Pleural Effusion_p8_1.png",
@@ -357,7 +402,7 @@
       "id": "repic-827",
       "topicId": "pleural-effusion",
       "topicName": "Pleural Effusion",
-      "stem": "This diagram compares a normal hemithorax with one containing a pleural effusion. Approximately what volume of pleural fluid must accumulate before it becomes clinically/radiographically significant, as contrasted here?",
+      "stem": "This diagram compares a normal hemithorax with one containing a pleural effusion. Beyond approximately what volume does pleural fluid exceed the normal physiologic amount and constitute a pleural effusion?",
       "choices": [
         {
           "label": "A",
@@ -382,9 +427,14 @@
       ],
       "correctAnswer": "E",
       "explanation": {
-        "summary": "The normal pleural space contains only a few milliliters of lubricating fluid (<15 mL). Accumulation beyond this small physiologic amount represents a pleural effusion, which compresses the underlying lung.",
-        "whyCorrect": "The normal pleural space contains only a few milliliters of lubricating fluid (<15 mL). Accumulation beyond this small physiologic amount represents a pleural effusion, which compresses the underlying lung.",
-        "whyWrongByChoice": {}
+        "summary": "The normal pleural space contains only a few milliliters of lubricating fluid (under about 15 mL). Accumulation beyond this small physiologic amount defines a pleural effusion; far larger volumes (roughly 200-500 mL) are needed before it is visible on an upright PA chest film.",
+        "whyCorrect": "The normal pleural space contains only a few milliliters of lubricating fluid (under about 15 mL). Accumulation beyond this small physiologic amount defines a pleural effusion; far larger volumes (roughly 200-500 mL) are needed before it is visible on an upright PA chest film.",
+        "whyWrongByChoice": {
+          "A": "The normal pleural space already contains several milliliters of lubricating fluid, so 1 mL is still physiologic and not an effusion.",
+          "B": "Two liters is a very large effusion; fluid well below this volume already counts as an effusion and compresses the lung.",
+          "C": "Five liters would be a massive, rarely reached volume; effusions are recognized at far smaller amounts.",
+          "D": "About 500 mL is roughly the volume needed to see an effusion on an upright PA chest film; an effusion is defined by fluid beyond the normal ~15 mL, long before it becomes radiographically obvious."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-827_Brick Exchange - Pleural Effusion_p2_1.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "Capillary hydrostatic pressure (Pc) is the dominant outward force driving filtration of fluid across the capillary wall. Capillary oncotic pressure (πc) is the main opposing force pulling fluid back in. Imbalance of these Starling forces (e.g., elevated Pc in heart failure or reduced πc in hypoalbuminemia) leads to effusion formation.",
         "whyCorrect": "Capillary hydrostatic pressure (Pc) is the dominant outward force driving filtration of fluid across the capillary wall. Capillary oncotic pressure (πc) is the main opposing force pulling fluid back in. Imbalance of these Starling forces (e.g., elevated Pc in heart failure or reduced πc in hypoalbuminemia) leads to effusion formation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Capillary oncotic pressure, generated mainly by albumin, pulls fluid into the capillary; it is the chief opposing force to filtration.",
+          "C": "Interstitial oncotic pressure does favor filtration, but it is small because the interstitium holds little protein; it is not the dominant outward force.",
+          "D": "Interstitial hydrostatic pressure is near zero or slightly negative and is small compared with capillary hydrostatic pressure.",
+          "E": "Plasma viscosity affects resistance to blood flow, but it is not one of the Starling forces governing transcapillary filtration."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-828_Brick Exchange - Pleural Effusion_p5_1.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "The classic anterior approach for needle decompression of a tension pneumothorax targets the 2nd intercostal space in the midclavicular line, passing just above the rib to avoid the neurovascular bundle.",
         "whyCorrect": "The classic anterior approach for needle decompression of a tension pneumothorax targets the 2nd intercostal space in the midclavicular line, passing just above the rib to avoid the neurovascular bundle.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The 4th or 5th intercostal space at the mid- to anterior axillary line is the lateral approach (and chest tube site), not the classic anterior approach marked here.",
+          "C": "The 8th intercostal space posteriorly risks the diaphragm, liver, or spleen and is not a decompression site.",
+          "D": "The suprasternal notch is a midline landmark for the trachea; a needle there would not enter the pleural space.",
+          "E": "The 5th intercostal space at the anterior axillary line is the triangle-of-safety site for a chest tube or lateral decompression, not the anterior approach."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-086_Brick Exchange - Pneumothorax_p24_1.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "In a normal lung, peripheral vascular (lung) markings extend to the inner chest wall. In pneumothorax, air in the pleural space produces a visceral pleural line with absent lung markings peripheral to it. This normal film serves as the comparison baseline.",
         "whyCorrect": "In a normal lung, peripheral vascular (lung) markings extend to the inner chest wall. In pneumothorax, air in the pleural space produces a visceral pleural line with absent lung markings peripheral to it. This normal film serves as the comparison baseline.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A sharp visceral pleural line with lucency beyond it is the diagnostic sign of pneumothorax, not of a normally expanded lung.",
+          "C": "A lung crumpled at the hilum indicates a large or complete pneumothorax.",
+          "D": "Absent peripheral lung markings mean air separates lung from chest wall, the hallmark of pneumothorax.",
+          "E": "Tracheal deviation suggests tension pneumothorax, a large effusion, or lobar collapse; a normal film has a midline trachea."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-349_Brick Exchange - Pneumothorax_p15_1.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "Pneumothorax is diagnosed by a thin visceral pleural line with a lucent, avascular space (air) beyond it, since collapsed lung retracts and no vessels reach the chest wall. This left-sided example shows loss of peripheral lung markings.",
         "whyCorrect": "Pneumothorax is diagnosed by a thin visceral pleural line with a lucent, avascular space (air) beyond it, since collapsed lung retracts and no vessels reach the chest wall. This left-sided example shows loss of peripheral lung markings.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Mediastinal widening suggests aortic injury, a mass, or lymphadenopathy rather than pneumothorax.",
+          "B": "An air-fluid level with a meniscus indicates hydropneumothorax or an abscess cavity; it is not required to diagnose a pneumothorax.",
+          "C": "Ground-glass opacification increases lung density, the opposite of the lucent avascular space of pneumothorax.",
+          "E": "In pneumothorax the affected region shows absent, not increased, vascular markings."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-350_Brick Exchange - Pneumothorax_p17_1.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "In a simple (non-tension) pneumothorax the mediastinum stays midline because intrapleural pressure does not progressively rise. A tension pneumothorax, by contrast, shifts the mediastinum and trachea away from the affected side and compromises venous return, constituting an emergency.",
         "whyCorrect": "In a simple (non-tension) pneumothorax the mediastinum stays midline because intrapleural pressure does not progressively rise. A tension pneumothorax, by contrast, shifts the mediastinum and trachea away from the affected side and compromises venous return, constituting an emergency.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "An air-fluid level indicates hydropneumothorax or hemopneumothorax, which can occur with or without tension.",
+          "B": "Contralateral tracheal deviation with mediastinal shift is the defining feature of tension pneumothorax, the opposite of this midline picture.",
+          "C": "Bilateral infiltrates indicate a parenchymal process such as ARDS or pneumonia and do not distinguish tension from simple pneumothorax.",
+          "E": "Complete opacification of a hemithorax suggests massive effusion or collapse, not a pneumothorax of either type."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-351_Brick Exchange - Pneumothorax_p18_1.png",
@@ -618,7 +693,12 @@
       "explanation": {
         "summary": "The ginkgo-leaf sign is caused by free gas (subcutaneous emphysema) dissecting between the fibers of the pectoralis major, here associated with a right pneumothorax marked by a visible pleural edge.",
         "whyCorrect": "The ginkgo-leaf sign is caused by free gas (subcutaneous emphysema) dissecting between the fibers of the pectoralis major, here associated with a right pneumothorax marked by a visible pleural edge.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Intramuscular hemorrhage appears as soft-tissue swelling and density, not branching lucent streaks.",
+          "B": "Fat planes are normal and faint; they do not produce the bright, branching lucencies of gas dissecting muscle fibers.",
+          "C": "Calcification would be radiopaque (white), not the lucent (dark) streaks of the ginkgo-leaf sign.",
+          "D": "Chest-wall edema increases soft-tissue density and thickness rather than creating lucent lines."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-352_Brick Exchange - Pneumothorax_p20_1.png",
@@ -657,7 +737,12 @@
       "explanation": {
         "summary": "Loss of lung sliding abolishes the granular 'seashore' pattern; the resulting uniform horizontal 'barcode/stratosphere' sign in M-mode indicates air in the pleural space (pneumothorax).",
         "whyCorrect": "Loss of lung sliding abolishes the granular 'seashore' pattern; the resulting uniform horizontal 'barcode/stratosphere' sign in M-mode indicates air in the pleural space (pneumothorax).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Normal sliding lung produces the seashore sign on M-mode, with granular texture below the pleural line.",
+          "C": "Consolidation produces a tissue-like (hepatized) lung with dynamic air bronchograms, not a barcode pattern.",
+          "D": "Pulmonary edema produces multiple vertical B-lines on B-mode while lung sliding is preserved.",
+          "E": "A pleural effusion appears as an anechoic space above the diaphragm, often with the sinusoid sign on M-mode."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-353_Brick Exchange - Pneumothorax_p21_1.png",
@@ -696,7 +781,12 @@
       "explanation": {
         "summary": "The sentinel side-hole is placed through the radiopaque stripe so its position can be confirmed on X-ray; if it lies outside the pleural space it entrains air, causing an air leak, ongoing pneumothorax, or subcutaneous emphysema.",
         "whyCorrect": "The sentinel side-hole is placed through the radiopaque stripe so its position can be confirmed on X-ray; if it lies outside the pleural space it entrains air, causing an air leak, ongoing pneumothorax, or subcutaneous emphysema.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Chest tubes can be flushed through the lumen regardless of hole position; the sentinel hole's importance is its location relative to the pleura.",
+          "C": "Suture placement is at the skin incision; the sentinel hole marks the tube's most proximal drainage opening, not suture depth.",
+          "D": "Suction pressure is set and measured at the drainage system (regulation chamber), not at a side hole.",
+          "E": "All side holes and the tip drain fluid and air; the sentinel hole is simply the most proximal one."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-354_Brick Exchange - Pneumothorax_p27_1.png",
@@ -735,7 +825,12 @@
       "explanation": {
         "summary": "Small-bore pigtail catheters effectively evacuate air with less pain than large-bore tubes and are well suited to simple pneumothorax; viscous or particulate collections (blood, pus, clot) require a larger-bore chest tube.",
         "whyCorrect": "Small-bore pigtail catheters effectively evacuate air with less pain than large-bore tubes and are well suited to simple pneumothorax; viscous or particulate collections (blood, pus, clot) require a larger-bore chest tube.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Thick pus tends to clog small-bore catheters, so a larger-bore tube is generally preferred for viscous empyema.",
+          "B": "Retained clot requires a large-bore tube or surgical evacuation; a pigtail catheter would occlude.",
+          "D": "Loculated effusions resist drainage by any single small catheter and often need fibrinolytics, multiple tubes, or VATS.",
+          "E": "A large hemothorax needs a large-bore chest tube to evacuate blood and clot and monitor ongoing bleeding."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-355_Brick Exchange - Pneumothorax_p28_1.png",
@@ -774,7 +869,12 @@
       "explanation": {
         "summary": "This is a standing PA chest radiograph, showing the ribs, lungs, mediastinum, and hemidiaphragms with the characteristic grayscale of plain film.",
         "whyCorrect": "This is a standing PA chest radiograph, showing the ribs, lungs, mediastinum, and hemidiaphragms with the characteristic grayscale of plain film.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A V/Q scan is a nuclear medicine study showing radiotracer distribution as dots of activity, not bony and soft-tissue detail.",
+          "B": "Chest ultrasound produces sector-shaped grayscale images of the pleura and lung surface, not a full projection of the thorax.",
+          "D": "MRI shows cross-sectional slices with soft-tissue contrast and poorly shows aerated lung, unlike this projection image.",
+          "E": "CT displays cross-sectional slices rather than a single frontal projection with overlapping structures."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-356_Brick Exchange - Pneumothorax_p2_1.png",
@@ -813,7 +913,12 @@
       "explanation": {
         "summary": "Rupture of subpleural apical blebs/bullae causes primary spontaneous pneumothorax, which classically occurs in tall, thin young men without underlying lung disease.",
         "whyCorrect": "Rupture of subpleural apical blebs/bullae causes primary spontaneous pneumothorax, which classically occurs in tall, thin young men without underlying lung disease.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Elderly COPD patients develop secondary spontaneous pneumothorax from underlying lung disease, not primary pneumothorax.",
+          "B": "Asthma can cause secondary pneumothorax or pneumomediastinum, but primary spontaneous pneumothorax classically affects tall, thin young men.",
+          "C": "Smoking raises risk, but the classic body habitus is tall and thin rather than obese and middle-aged.",
+          "E": "Pregnancy is not the classic setting for primary spontaneous pneumothorax from apical bleb rupture."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-546_Brick Exchange - Pneumothorax_p7_1.png",
@@ -852,7 +957,12 @@
       "explanation": {
         "summary": "The pale, thin-walled outpouching on the visceral pleural surface is a bleb/bulla; rupture of such lesions is the usual cause of spontaneous pneumothorax and they are often stapled/resected at VATS.",
         "whyCorrect": "The pale, thin-walled outpouching on the visceral pleural surface is a bleb/bulla; rupture of such lesions is the usual cause of spontaneous pneumothorax and they are often stapled/resected at VATS.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A metastasis is a solid, firm, often white-tan nodule, not a thin-walled translucent air sac.",
+          "C": "A caseating granuloma is a solid, firm nodule with cheesy necrosis, not an air-filled blister.",
+          "D": "A bronchogenic cyst is a fluid- or mucus-filled foregut cyst, usually mediastinal, not a translucent bleb on the lung surface.",
+          "E": "Pleural plaques are flat, white, firm fibrous plaques on the parietal pleura, not raised air-filled blisters on the visceral pleura."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-547_Brick Exchange - Pneumothorax_p8_1.png",
@@ -891,7 +1001,12 @@
       "explanation": {
         "summary": "Tension pneumothorax occurs when a one-way air leak progressively raises intrapleural pressure, shifting the mediastinum/trachea toward the contralateral side, impeding venous return (distended neck veins, hypotension), and causing hyperresonance with absent breath sounds. It requires immediate needle decompression.",
         "whyCorrect": "Tension pneumothorax occurs when a one-way air leak progressively raises intrapleural pressure, shifting the mediastinum/trachea toward the contralateral side, impeding venous return (distended neck veins, hypotension), and causing hyperresonance with absent breath sounds. It requires immediate needle decompression.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Tamponade also causes distended neck veins and hypotension, but breath sounds are preserved, there is no hyperresonance, and the trachea stays midline.",
+          "B": "A simple pneumothorax lacks mediastinal shift, tracheal deviation, distended neck veins, and hypotension.",
+          "D": "Massive hemothorax causes dullness to percussion and flat neck veins from blood loss, not hyperresonance.",
+          "E": "Pulmonary embolism can cause hypotension and distended neck veins but leaves breath sounds and percussion normal with no tracheal deviation."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-829_Brick Exchange - Pneumothorax_p14_1.png",
@@ -930,7 +1045,12 @@
       "explanation": {
         "summary": "The water seal bottle is a one-way valve: air from the pleural space bubbles out through the submerged tube but water prevents atmospheric air from being drawn back in. The pressure-regulating bottle sets suction and the collection bottle traps fluid.",
         "whyCorrect": "The water seal bottle is a one-way valve: air from the pleural space bubbles out through the submerged tube but water prevents atmospheric air from being drawn back in. The pressure-regulating bottle sets suction and the collection bottle traps fluid.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The water seal bottle does not humidify; nothing should return to the lung through the drainage system.",
+          "C": "Suction pressure is limited by the depth of water in the third (suction-control) bottle, not the water seal.",
+          "D": "Bubbling in the water seal shows an air leak is present but does not quantify its volume directly.",
+          "E": "Fluid is collected in the first bottle, so the water seal level is not altered by drainage."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-830_Brick Exchange - Pneumothorax_p26_1.png",
@@ -969,7 +1089,12 @@
       "explanation": {
         "summary": "The lung is normally held open by negative intrapleural pressure. When air enters the pleural space this negative pressure is lost, the lung's elastic recoil is unopposed, and it collapses inward.",
         "whyCorrect": "The lung is normally held open by negative intrapleural pressure. When air enters the pleural space this negative pressure is lost, the lung's elastic recoil is unopposed, and it collapses inward.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Pneumothorax involves air in the pleural space, not blood entering the alveoli; blood in the pleura is a hemothorax.",
+          "B": "Pleural air does not destroy lung tissue; collapse occurs because the lung's own elastic recoil is no longer opposed.",
+          "C": "The diaphragm does not actively compress the lung; collapse results from loss of the negative pressure holding it open.",
+          "D": "Mucus plugging causes resorptive atelectasis behind a blocked airway, a different mechanism with no air in the pleura."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-831_Brick Exchange - Pneumothorax_p5_1.png",
@@ -1008,7 +1133,12 @@
       "explanation": {
         "summary": "Epithelioid morphology, resembling reactive mesothelial cells, is the most common and most favorable histologic pattern of malignant mesothelioma; immunostains (calretinin, WT-1) confirm mesothelial origin.",
         "whyCorrect": "Epithelioid morphology, resembling reactive mesothelial cells, is the most common and most favorable histologic pattern of malignant mesothelioma; immunostains (calretinin, WT-1) confirm mesothelial origin.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Small cell carcinoma shows sheets of small cells with scant cytoplasm, nuclear molding, and salt-and-pepper chromatin, not abundant pink cytoplasm.",
+          "C": "Adenocarcinoma forms glands or mucin-producing cells, usually arising in the lung periphery rather than diffusely from the pleura.",
+          "D": "Hodgkin lymphoma shows Reed-Sternberg cells in an inflammatory background, typically in nodes or the mediastinum, not pleural epithelioid sheets.",
+          "E": "Squamous cell carcinoma shows keratin pearls and intercellular bridges, usually as a central lung mass."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-156_Brick Exchange - Mesothelioma_p9_1.png",
@@ -1047,7 +1177,12 @@
       "explanation": {
         "summary": "The papillary epithelioid pattern is characteristic of mesothelioma; calretinin (and WT-1, D2-40) are positive in mesothelioma, whereas TTF-1, CEA, and napsin A favor pulmonary adenocarcinoma.",
         "whyCorrect": "The papillary epithelioid pattern is characteristic of mesothelioma; calretinin (and WT-1, D2-40) are positive in mesothelioma, whereas TTF-1, CEA, and napsin A favor pulmonary adenocarcinoma.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "CD20 is a B-cell marker used to identify B-cell lymphomas, not mesothelial cells.",
+          "B": "CEA is typically positive in adenocarcinoma and negative in mesothelioma, so it supports the opposite conclusion.",
+          "C": "TTF-1 marks lung adenocarcinoma and thyroid tumors and is negative in mesothelioma.",
+          "D": "Napsin A marks lung adenocarcinoma, favoring a pulmonary rather than mesothelial origin."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-157_Brick Exchange - Mesothelioma_p9_2.png",
@@ -1086,7 +1221,12 @@
       "explanation": {
         "summary": "Nodular, circumferential pleural thickening that encases the lung with effusion is the classic CT appearance of malignant mesothelioma, strongly associated with asbestos exposure.",
         "whyCorrect": "Nodular, circumferential pleural thickening that encases the lung with effusion is the classic CT appearance of malignant mesothelioma, strongly associated with asbestos exposure.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Pulmonary embolism is a filling defect within the pulmonary arteries, not a rind of soft tissue encasing the pleura.",
+          "C": "Sarcoidosis shows hilar adenopathy and perilymphatic nodules; circumferential pleural rind is not typical.",
+          "D": "A bulla is a thin-walled air space larger than 1 cm, lucent rather than soft-tissue dense.",
+          "E": "Lobar pneumonia consolidates lung parenchyma with air bronchograms rather than encasing the lung in nodular pleural thickening."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-317_Brick Exchange - Mesothelioma_p12_1.png",
@@ -1125,7 +1265,12 @@
       "explanation": {
         "summary": "Calcified pleural plaques, especially over the diaphragm and posterolateral chest wall, are a marker of prior asbestos exposure and raise concern for mesothelioma.",
         "whyCorrect": "Calcified pleural plaques, especially over the diaphragm and posterolateral chest wall, are a marker of prior asbestos exposure and raise concern for mesothelioma.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Silica causes upper-lobe nodules and eggshell calcification of hilar nodes, not diaphragmatic pleural plaques.",
+          "B": "Coal dust causes upper-zone nodules and progressive massive fibrosis rather than calcified pleural plaques.",
+          "D": "Beryllium causes granulomatous disease with hilar adenopathy similar to sarcoidosis, not pleural plaques.",
+          "E": "Smoking alone does not produce pleural plaques; its effect on asbestos exposure is a multiplied risk of lung cancer, not plaque formation."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-318_Brick Exchange - Mesothelioma_p13_1.png",
@@ -1164,7 +1309,12 @@
       "explanation": {
         "summary": "The basal opacity with a meniscus is a pleural effusion; malignant pleural involvement (e.g., mesothelioma) impairs fluid resorption and commonly presents with a unilateral effusion.",
         "whyCorrect": "The basal opacity with a meniscus is a pleural effusion; malignant pleural involvement (e.g., mesothelioma) impairs fluid resorption and commonly presents with a unilateral effusion.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Alveolar collapse from airway obstruction causes atelectasis with volume loss toward the lesion, not a meniscus at the costophrenic angle.",
+          "C": "Hyperinflation flattens the diaphragms and sharpens or deepens angles; it does not create a basal opacity with a meniscus.",
+          "D": "Air in the pleural space creates lucency with a visible pleural line rather than a basal opacity with a meniscus.",
+          "E": "Consolidation fills alveoli and shows air bronchograms within the lung, without a meniscus along the chest wall."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-319_Brick Exchange - Mesothelioma_p14_1.png",
@@ -1203,7 +1353,12 @@
       "explanation": {
         "summary": "Discrete, ivory-white collagenous plaques on the parietal and diaphragmatic pleura are the classic gross marker of prior asbestos exposure.",
         "whyCorrect": "Discrete, ivory-white collagenous plaques on the parietal and diaphragmatic pleura are the classic gross marker of prior asbestos exposure.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Radiation can cause pleural thickening and fibrosis, but discrete pearly-white plaques on the parietal pleura are the signature of asbestos.",
+          "B": "Tuberculosis can cause diffuse pleural thickening or calcification after effusion or empyema, typically unilateral and not discrete plaques.",
+          "C": "Cigarette smoke damages airways and parenchyma but does not cause parietal pleural plaques.",
+          "D": "Coal dust produces anthracotic macules and nodules in the lung, not white fibrous pleural plaques."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-523_Brick Exchange - Mesothelioma_p5_1.png",
@@ -1242,7 +1397,12 @@
       "explanation": {
         "summary": "A rind of tumor encasing the entire lung and encroaching on fissures is the characteristic gross appearance of diffuse malignant pleural mesothelioma.",
         "whyCorrect": "A rind of tumor encasing the entire lung and encroaching on fissures is the characteristic gross appearance of diffuse malignant pleural mesothelioma.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Bronchogenic adenocarcinoma usually forms a discrete peripheral mass rather than a diffuse rind encasing the entire lung.",
+          "C": "Sarcoidosis produces small nodules and hilar adenopathy, not a thick tumor rind around the lung.",
+          "D": "Lobar pneumonia consolidates a lobe without a thick, firm pleural-based tumor encasing it.",
+          "E": "A pulmonary infarct is a wedge-shaped, hemorrhagic, pleural-based lesion, not a circumferential sheath."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-524_Brick Exchange - Mesothelioma_p8_1.png",

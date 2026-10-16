@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "In obstructive disease, expiratory airflow is limited so FEV1 falls disproportionately to FVC, lowering the FEV1/FVC ratio and producing the slow-rising curve shown; restrictive disease instead reduces all volumes while preserving the ratio.",
         "whyCorrect": "In obstructive disease, expiratory airflow is limited so FEV1 falls disproportionately to FVC, lowering the FEV1/FVC ratio and producing the slow-rising curve shown; restrictive disease instead reduces all volumes while preserving the ratio.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Normal spirometry rises rapidly and exhales about 75-80% of the FVC within the first second.",
+          "B": "A mixed defect combines reduced FEV1/FVC with low TLC; it does not occur with normal airflow, and the slow rise indicates airflow limitation.",
+          "C": "Restriction yields a curve that rises quickly but plateaus at a small total volume, with a preserved or high FEV1/FVC ratio.",
+          "E": "Fixed upper airway obstruction is best recognized by flattening of both limbs of the flow-volume loop, not by this volume-time pattern alone."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-328_Brick Exchange - Obstructive and Restrictive Lung Diseases_ Foundations and Frameworks_p12_1.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "Obstructive disease shifts the loop leftward toward higher volumes (air trapping, increased RV/TLC) and produces a concave, coved expiratory limb from airflow limitation; restrictive disease instead shifts the loop rightward with reduced overall volumes.",
         "whyCorrect": "Obstructive disease shifts the loop leftward toward higher volumes (air trapping, increased RV/TLC) and produces a concave, coved expiratory limb from airflow limitation; restrictive disease instead shifts the loop rightward with reduced overall volumes.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Restrictive disease shifts the loop toward lower volumes with a narrow, tall shape, not toward higher volumes.",
+          "B": "Variable extrathoracic obstruction flattens the inspiratory limb while the expiratory limb and lung volumes stay normal.",
+          "C": "A normal loop sits within normal volumes and has a linear expiratory descent without concavity.",
+          "E": "Fixed upper airway obstruction flattens both limbs into plateaus without shifting the loop to higher lung volumes."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-329_Brick Exchange - Obstructive and Restrictive Lung Diseases_ Foundations and Frameworks_p5_1.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "Digital clubbing reflects distal phalangeal soft-tissue proliferation and loss of the Lovibond angle; it is strongly linked to chronic hypoxemia and intrathoracic disease such as lung malignancy, bronchiectasis, and pulmonary fibrosis.",
         "whyCorrect": "Digital clubbing reflects distal phalangeal soft-tissue proliferation and loss of the Lovibond angle; it is strongly linked to chronic hypoxemia and intrathoracic disease such as lung malignancy, bronchiectasis, and pulmonary fibrosis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Acute viral upper respiratory infections are brief and self-limited, far too short to produce chronic soft-tissue proliferation of the nail bed.",
+          "B": "Osteoarthritis produces bony Heberden and Bouchard nodes at the interphalangeal joints, not bulbous fingertip enlargement with loss of the nail angle.",
+          "C": "Carpal tunnel syndrome causes median nerve numbness and thenar atrophy, not changes in the distal phalanges or nails.",
+          "D": "Iron deficiency causes spoon-shaped nails (koilonychia), not clubbing with loss of the Lovibond angle."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-542_Brick Exchange - Obstructive and Restrictive Lung Diseases_ Foundations and Frameworks_p11_1.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "The figure pairs smoke constituents (e.g., butane, acetone, cadmium, arsenic, ammonia, carbon monoxide) with familiar toxic products to show that cigarette smoke is a mixture of many harmful chemicals.",
         "whyCorrect": "The figure pairs smoke constituents (e.g., butane, acetone, cadmium, arsenic, ammonia, carbon monoxide) with familiar toxic products to show that cigarette smoke is a mixture of many harmful chemicals.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The comparison is to toxic household products like lighter fluid and toilet cleaner; smoke supplies no nutritional value.",
+          "B": "The infographic shows many additional chemicals such as acetone, cadmium, arsenic, ammonia, and carbon monoxide beyond nicotine and tar.",
+          "D": "The figure lists many distinct toxins, emphasizing that smoking harm arises from a complex mixture rather than one compound.",
+          "E": "Pairing each constituent with poisons and cleaners stresses toxicity; these are combustion products and contaminants, not harmless flavorings."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-572_Brick Exchange - Tobacco Smoking_p14_1.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "Because carcinogens and toxins from smoke are absorbed and circulated, tobacco use raises risk of cancers and chronic disease across many organ systems, not just the lungs.",
         "whyCorrect": "Because carcinogens and toxins from smoke are absorbed and circulated, tobacco use raises risk of cancers and chronic disease across many organ systems, not just the lungs.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The diagram links smoking to cancers of the mouth, larynx, lung, bladder, and pancreas as well as vascular disease, not just the cardiovascular system.",
+          "B": "Many organs are labeled, showing that smoking raises risk of numerous cancers and chronic diseases, not one localized tumor.",
+          "D": "Each organ highlighted represents a well-established, proven smoking-related disease association.",
+          "E": "The lungs are only one of many organs shown; the mouth, bladder, stomach, heart, and arteries are also affected."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-573_Brick Exchange - Tobacco Smoking_p6_1.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "The pod-style form factor with a mouthpiece identifies an electronic cigarette, which aerosolizes a nicotine-containing liquid for inhalation.",
         "whyCorrect": "The pod-style form factor with a mouthpiece identifies an electronic cigarette, which aerosolizes a nicotine-containing liquid for inhalation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A flash drive has no mouthpiece or liquid pod; the resemblance is only in shape, a design feature of pod e-cigarettes.",
+          "B": "A glucose meter has a display screen and a test-strip port for a blood drop, not a mouthpiece for inhalation.",
+          "D": "A metered-dose inhaler is an L-shaped plastic actuator holding a pressurized canister, unlike the flat pod-based device shown.",
+          "E": "An insulin pen is a long cylinder with a dose dial and needle tip, with no mouthpiece."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-592_Brick Exchange - Tobacco Smoking_p3_1.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "Nicotine binds nicotinic receptors on VTA neurons, increasing dopamine release into the nucleus accumbens; this mesolimbic reward circuit reinforces use and drives addiction.",
         "whyCorrect": "Nicotine binds nicotinic receptors on VTA neurons, increasing dopamine release into the nucleus accumbens; this mesolimbic reward circuit reinforces use and drives addiction.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The locus coeruleus noradrenergic system mediates arousal and withdrawal symptoms, but the pathway shown runs from the VTA with dopamine.",
+          "B": "GABAergic inhibition of motor cortex is unrelated to the VTA-to-accumbens projection that underlies reward and reinforcement.",
+          "D": "Blocking the neuromuscular junction is how curare-like drugs act; nicotine stimulates neuronal nicotinic receptors in the brain to drive reward.",
+          "E": "The raphe nuclei are serotonergic and are not the VTA-accumbens-prefrontal circuit depicted for nicotine reinforcement."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-882_Brick Exchange - Tobacco Smoking_p12_1.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "Emphysema is defined by permanent enlargement of airspaces distal to the terminal bronchiole due to destruction of alveolar walls without significant fibrosis. Loss of septa reduces gas-exchange surface area and elastic recoil, causing airflow limitation.",
         "whyCorrect": "Emphysema is defined by permanent enlargement of airspaces distal to the terminal bronchiole due to destruction of alveolar walls without significant fibrosis. Loss of septa reduces gas-exchange surface area and elastic recoil, causing airflow limitation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The pulmonary arterial media thickens in pulmonary hypertension; its destruction would not enlarge airspaces.",
+          "B": "The visceral pleura covers the lung surface; airspace enlargement in emphysema arises within the parenchyma, distal to terminal bronchioles.",
+          "D": "Submucosal mucous gland hypertrophy (raised Reid index) defines chronic bronchitis, not emphysema, and involves enlargement rather than destruction.",
+          "E": "Bronchial smooth muscle hypertrophies in asthma; its loss would not create the enlarged distal airspaces of emphysema."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-106_Brick Exchange - Chronic Obstructive Pulmonary Disease Part 1_ Pathophysiology_p10_1.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "Alpha-1 antitrypsin normally inhibits neutrophil elastase. When the protein misfolds and is retained in hepatocytes, serum levels fall, leaving elastase unopposed to degrade alveolar elastic tissue, producing panacinar emphysema (accelerated by smoking).",
         "whyCorrect": "Alpha-1 antitrypsin normally inhibits neutrophil elastase. When the protein misfolds and is retained in hepatocytes, serum levels fall, leaving elastase unopposed to degrade alveolar elastic tissue, producing panacinar emphysema (accelerated by smoking).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "IgE-mediated mast cell degranulation underlies allergic asthma, a reversible bronchoconstriction rather than destruction of alveolar walls.",
+          "B": "Surfactant deficiency causes atelectasis and neonatal respiratory distress syndrome, unrelated to a misfolded hepatocyte protein.",
+          "C": "Excess collagen deposition stiffens the lungs in interstitial fibrosis, causing restriction rather than emphysematous airspace enlargement.",
+          "D": "Ciliary dysfunction (primary ciliary dyskinesia) causes bronchiectasis and recurrent infections, not alpha-1 antitrypsin-related emphysema."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-107_Brick Exchange - Chronic Obstructive Pulmonary Disease Part 1_ Pathophysiology_p15_1.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "Areas of destroyed lung appear as low-attenuation regions, and thin-walled spaces larger than 1 cm are bullae. This pattern of parenchymal destruction is typical of emphysema, in contrast to the reticulation of fibrosis or airspace filling of pneumonia and edema.",
         "whyCorrect": "Areas of destroyed lung appear as low-attenuation regions, and thin-walled spaces larger than 1 cm are bullae. This pattern of parenchymal destruction is typical of emphysema, in contrast to the reticulation of fibrosis or airspace filling of pneumonia and edema.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Idiopathic pulmonary fibrosis shows subpleural reticulation and honeycombing with thick-walled small cysts and traction bronchiectasis, not large thin-walled bullae.",
+          "B": "Bronchiectasis shows dilated, thick-walled bronchi larger than their accompanying arteries (signet-ring sign), not diffuse low-attenuation lung destruction.",
+          "C": "Cardiogenic edema shows ground-glass opacity, septal thickening, and effusions, which raise attenuation rather than lower it.",
+          "E": "Lobar pneumonia shows dense consolidation with air bronchograms confined to a lobe, the opposite of low-attenuation airspaces."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-231_Brick Exchange - Chronic Obstructive Pulmonary Disease Part 1_ Pathophysiology_p11_1.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "Centriacinar emphysema damages the central portion of the acinus (respiratory bronchioles) while sparing distal alveoli, is upper-lobe predominant, and is the classic smoking-related pattern. Panacinar emphysema, associated with alpha-1 antitrypsin deficiency, destroys the entire acinus and is lower-lobe predominant.",
         "whyCorrect": "Centriacinar emphysema damages the central portion of the acinus (respiratory bronchioles) while sparing distal alveoli, is upper-lobe predominant, and is the classic smoking-related pattern. Panacinar emphysema, associated with alpha-1 antitrypsin deficiency, destroys the entire acinus and is lower-lobe predominant.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Paraseptal emphysema involves the distal acinus along the pleura and septa, often causing apical bullae and pneumothorax, not centriacinar destruction.",
+          "C": "Panacinar emphysema destroys the whole acinus uniformly, is lower-lobe predominant, and is classically linked to alpha-1 antitrypsin deficiency.",
+          "D": "Interstitial emphysema is air dissecting into the interstitium after alveolar rupture, as in barotrauma, not a pattern of acinar destruction.",
+          "E": "Irregular emphysema occurs around scars and involves the acinus haphazardly; it is not the upper-lobe smoking pattern."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-456_Brick Exchange - Chronic Obstructive Pulmonary Disease Part 1_ Pathophysiology_p13_1.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "Panacinar emphysema destroys the acinus uniformly and is lower-lobe predominant, the classic pattern of alpha-1 antitrypsin deficiency. Smoking-related disease is instead typically centriacinar and upper-lobe predominant.",
         "whyCorrect": "Panacinar emphysema destroys the acinus uniformly and is lower-lobe predominant, the classic pattern of alpha-1 antitrypsin deficiency. Smoking-related disease is instead typically centriacinar and upper-lobe predominant.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Smoking classically produces centriacinar, upper-lobe predominant emphysema rather than uniform panacinar destruction.",
+          "B": "Coal dust causes coal workers' pneumoconiosis with focal dust emphysema around macules in the upper lobes, not panacinar disease.",
+          "C": "Chronic asthma causes airway remodeling with smooth-muscle hypertrophy and mucus plugging, not destruction of the acinus.",
+          "E": "Cystic fibrosis causes bronchiectasis with thick mucus and recurrent infection rather than panacinar emphysema."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-457_Brick Exchange - Chronic Obstructive Pulmonary Disease Part 1_ Pathophysiology_p16_1.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "Chronic irritation from cigarette smoke drives replacement of the delicate respiratory epithelium by more resistant stratified squamous epithelium, a reversible adaptive metaplasia. It compromises mucociliary clearance and can be a precursor field for dysplasia.",
         "whyCorrect": "Chronic irritation from cigarette smoke drives replacement of the delicate respiratory epithelium by more resistant stratified squamous epithelium, a reversible adaptive metaplasia. It compromises mucociliary clearance and can be a precursor field for dysplasia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Hypertrophy is enlargement of existing cells without changing cell type; here the columnar epithelium has been replaced by a different type.",
+          "C": "Goblet cell hyperplasia increases mucus-secreting cells within the columnar epithelium; the epithelium shown is flat and stratified.",
+          "D": "Dysplasia implies disordered maturation with nuclear atypia and loss of polarity; orderly stratified squamous replacement is metaplasia.",
+          "E": "Anaplasia is the complete loss of differentiation seen in malignant tumors, not an adaptive change to a mature cell type."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-458_Brick Exchange - Chronic Obstructive Pulmonary Disease Part 1_ Pathophysiology_p8_1.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "Loss of elastic recoil in emphysema traps air and raises residual volume, so the rib cage is held in a hyperinflated, expiratory-limited position. This increases the AP diameter, producing the barrel-shaped chest.",
         "whyCorrect": "Loss of elastic recoil in emphysema traps air and raises residual volume, so the rib cage is held in a hyperinflated, expiratory-limited position. This increases the AP diameter, producing the barrel-shaped chest.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Kyphoscoliosis is an abnormal curvature of the spine that deforms the thorax asymmetrically, not a symmetric increase in AP diameter from air trapping.",
+          "C": "A large pleural effusion causes unilateral dullness and mediastinal shift, not a symmetric barrel-shaped chest.",
+          "D": "Fat deposition does not change rib cage geometry; the barrel chest reflects ribs held in an inspiratory position.",
+          "E": "Pectus carinatum is a congenital or developmental protrusion of the sternum present from childhood, not acquired hyperinflation in COPD."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-691_Brick Exchange - Chronic Obstructive Pulmonary Disease Part 1_ Pathophysiology_p6_1.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "In emphysema, air trapping expands lung volumes, flattening the diaphragms, increasing lung lucency, widening the retrosternal space, and narrowing the heart shadow. These are the classic radiographic signs of COPD hyperinflation.",
         "whyCorrect": "In emphysema, air trapping expands lung volumes, flattening the diaphragms, increasing lung lucency, widening the retrosternal space, and narrowing the heart shadow. These are the classic radiographic signs of COPD hyperinflation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Tension pneumothorax shows a unilateral lucent hemithorax without lung markings and mediastinal shift away from the affected side.",
+          "B": "Cardiogenic edema shows cardiomegaly, vascular redistribution, interstitial lines, and effusions, not hyperlucent lungs with a narrow heart.",
+          "C": "A large pleural effusion causes a dense opacity with a meniscus, blunting costophrenic angles, rather than hyperlucency.",
+          "E": "Lobar pneumonia shows a dense lobar consolidation with air bronchograms, not bilateral hyperinflation and flattened diaphragms."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-232_Brick Exchange - Chronic Obstructive Pulmonary Disease Part 2_ Clinical Presentation, Diagnosis, and Management_p12_1.png",
@@ -618,7 +693,12 @@
       "explanation": {
         "summary": "The lateral view demonstrates hyperinflation as an increased lucent retrosternal air space and flattening of the diaphragm. This complements the flattened diaphragms and hyperlucency seen on the frontal film.",
         "whyCorrect": "The lateral view demonstrates hyperinflation as an increased lucent retrosternal air space and flattening of the diaphragm. This complements the flattened diaphragms and hyperlucency seen on the frontal film.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "In hyperinflation the heart usually appears small and vertical; an enlarged cardiac silhouette suggests cardiomegaly or effusion.",
+          "C": "Widening of the superior mediastinum suggests aortic or mass pathology and is assessed on frontal films, not as a sign of hyperinflation.",
+          "D": "Pleural calcification reflects prior asbestos exposure, hemothorax, or empyema, not COPD hyperinflation.",
+          "E": "Tracheal deviation is judged on a frontal view and suggests a mass, tension pneumothorax, or volume loss rather than COPD."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-233_Brick Exchange - Chronic Obstructive Pulmonary Disease Part 2_ Clinical Presentation, Diagnosis, and Management_p13_1.png",
@@ -657,7 +737,12 @@
       "explanation": {
         "summary": "The cachectic, barrel-chested patient who leans forward and uses accessory muscles represents the emphysema-predominant 'pink puffer,' who maintains near-normal oxygenation through increased work of breathing rather than becoming cyanotic and edematous.",
         "whyCorrect": "The cachectic, barrel-chested patient who leans forward and uses accessory muscles represents the emphysema-predominant 'pink puffer,' who maintains near-normal oxygenation through increased work of breathing rather than becoming cyanotic and edematous.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Blue bloaters are typically overweight, cyanotic, and edematous with chronic productive cough, not thin and cachectic.",
+          "B": "An acute severe asthma attack causes wheeze and distress in a patient of any age without chronic muscle wasting and barrel chest.",
+          "D": "Decompensated heart failure shows edema, jugular venous distension, and orthopnea rather than a wasted barrel-chested patient leaning forward.",
+          "E": "Tuberculosis can cause cachexia but presents with fever, night sweats, and hemoptysis, not chronic hyperinflation with a barrel chest."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-459_Brick Exchange - Chronic Obstructive Pulmonary Disease Part 2_ Clinical Presentation, Diagnosis, and Management_p6_1.png",
@@ -696,7 +781,12 @@
       "explanation": {
         "summary": "In asthma the volume-time curve rises slowly (airflow obstruction, low FEV1), and the dashed post-bronchodilator curve shows marked improvement toward normal, demonstrating reversibility, the hallmark distinguishing asthma from fixed obstruction.",
         "whyCorrect": "In asthma the volume-time curve rises slowly (airflow obstruction, low FEV1), and the dashed post-bronchodilator curve shows marked improvement toward normal, demonstrating reversibility, the hallmark distinguishing asthma from fixed obstruction.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A reduced volume unchanged by bronchodilator suggests fixed obstruction or restriction, not reversible asthma.",
+          "B": "Proportionally reduced FVC and FEV1 with preserved ratio is restrictive physiology, not the obstructive pattern of asthma.",
+          "C": "A faster rise to a higher plateau is not seen in asthma; airflow obstruction slows the initial rise.",
+          "E": "An unchanged FEV1 after bronchodilator indicates fixed obstruction such as COPD; asthma typically improves by at least 12% and 200 mL."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-214_Brick Exchange - Asthma_p15_1.png",
@@ -735,7 +825,12 @@
       "explanation": {
         "summary": "A low PC20 (here 0.8 vs 20 mg/mL) means only a small provocative concentration of methacholine produces a 20% FEV1 drop, defining airway hyperresponsiveness characteristic of asthma.",
         "whyCorrect": "A low PC20 (here 0.8 vs 20 mg/mL) means only a small provocative concentration of methacholine produces a 20% FEV1 drop, defining airway hyperresponsiveness characteristic of asthma.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Diffusing capacity is measured with carbon monoxide uptake, not by FEV1 response to inhaled methacholine.",
+          "B": "Static compliance is assessed from pressure-volume curves; a bronchoprovocation test measures airway reactivity.",
+          "C": "Fixed obstruction is shown by low FEV1 that does not improve with bronchodilator; this test shows exaggerated narrowing to a small dose.",
+          "D": "Respiratory muscle strength is assessed by maximal inspiratory and expiratory pressures, not a methacholine dose-response curve."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-215_Brick Exchange - Asthma_p17_1.png",
@@ -774,7 +869,12 @@
       "explanation": {
         "summary": "Basement membrane thickening, smooth muscle hypertrophy, goblet-cell/mucous hyperplasia, and eosinophilic inflammation are the histologic hallmarks of chronic asthmatic airway remodeling.",
         "whyCorrect": "Basement membrane thickening, smooth muscle hypertrophy, goblet-cell/mucous hyperplasia, and eosinophilic inflammation are the histologic hallmarks of chronic asthmatic airway remodeling.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Bronchiectasis shows permanently dilated bronchi with destroyed walls and purulent mucus, not hypertrophied smooth muscle with eosinophilic infiltrates.",
+          "B": "Emphysema destroys alveolar walls distal to the terminal bronchiole; it does not remodel the bronchial wall with a thick basement membrane.",
+          "D": "Chronic bronchitis shows submucosal gland hypertrophy (raised Reid index) with neutrophil-predominant inflammation, not eosinophil-rich infiltrates and basement membrane thickening.",
+          "E": "Tuberculosis forms caseating granulomas with epithelioid macrophages and Langhans giant cells, not eosinophilic airway remodeling."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-440_Brick Exchange - Asthma_p12_1.png",
@@ -813,7 +913,12 @@
       "explanation": {
         "summary": "The spiral shown is a Curschmann spiral, a whorled cast of mucus and shed epithelial cells from occluded small bronchioles, classically seen in asthma sputum alongside eosinophils and Charcot-Leyden crystals.",
         "whyCorrect": "The spiral shown is a Curschmann spiral, a whorled cast of mucus and shed epithelial cells from occluded small bronchioles, classically seen in asthma sputum alongside eosinophils and Charcot-Leyden crystals.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Red cell casts form in renal tubules in glomerulonephritis; they are not spiral mucus plugs expectorated from the airways.",
+          "B": "Alveolar hemorrhage yields blood and hemosiderin-laden macrophages in sputum, not whorled spiral casts of small bronchioles.",
+          "C": "Bronchial cartilage does not fragment and calcify into sputum; the spiral is a soft cast of mucus from small airways.",
+          "D": "Crystallized eosinophil protein forms Charcot-Leyden crystals; surfactant lipoprotein accumulates in alveolar proteinosis, neither forming spirals."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-441_Brick Exchange - Asthma_p13_1.png",
@@ -852,7 +957,12 @@
       "explanation": {
         "summary": "During an asthma attack bronchial smooth muscle contracts and the inflamed, thickened wall narrows the lumen, trapping air distally in alveoli. This bronchoconstriction plus inflammation is reversible, unlike the fixed destruction of emphysema.",
         "whyCorrect": "During an asthma attack bronchial smooth muscle contracts and the inflamed, thickened wall narrows the lumen, trapping air distally in alveoli. This bronchoconstriction plus inflammation is reversible, unlike the fixed destruction of emphysema.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Alveolar fluid occurs in pulmonary edema; the asthmatic airway is narrowed by changes in the bronchial wall and lumen, not alveolar flooding.",
+          "C": "Loss of alveolar walls with permanent airspace enlargement is emphysema, a fixed parenchymal change rather than an acute airway attack.",
+          "D": "Thinning and dilation of the bronchial wall describes bronchiectasis; in asthma the wall is thickened and the lumen narrowed.",
+          "E": "A fixed scarred lumen would not reverse, whereas acute asthma narrowing is reversible bronchoconstriction with inflammation and mucus."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-656_Brick Exchange - Asthma_p4_1.png",
@@ -891,7 +1001,12 @@
       "explanation": {
         "summary": "The anticholinergic toxidrome (dry as a bone, red as a beet, hot as a desert, blind as a bat, mad as a hatter) results from muscarinic receptor blockade; inhaled antimuscarinics such as ipratropium and tiotropium used in COPD can cause these effects if systemically absorbed.",
         "whyCorrect": "The anticholinergic toxidrome (dry as a bone, red as a beet, hot as a desert, blind as a bat, mad as a hatter) results from muscarinic receptor blockade; inhaled antimuscarinics such as ipratropium and tiotropium used in COPD can cause these effects if systemically absorbed.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Theophylline toxicity causes tachyarrhythmias, seizures, nausea, and vomiting, but not the dry skin, urinary retention, and absent bowel sounds of anticholinergic excess.",
+          "C": "Beta-2 agonists cause tremor, tachycardia, and hypokalemia, without dry mouth, mydriasis, or urinary retention.",
+          "D": "Montelukast blocks CysLT1 receptors and is associated with neuropsychiatric effects such as mood changes, not an anticholinergic toxidrome.",
+          "E": "Inhaled corticosteroids cause local effects such as oral thrush and dysphonia, not acute anticholinergic signs."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-595_Brick Exchange - Treatment of Asthma & COPD_p10_1.png",
@@ -930,7 +1045,12 @@
       "explanation": {
         "summary": "Albuterol is a short-acting beta-2 agonist that stimulates adenylyl cyclase to raise intracellular cAMP, relaxing bronchial smooth muscle; theophylline works instead by inhibiting phosphodiesterase, and ipratropium by blocking muscarinic receptors.",
         "whyCorrect": "Albuterol is a short-acting beta-2 agonist that stimulates adenylyl cyclase to raise intracellular cAMP, relaxing bronchial smooth muscle; theophylline works instead by inhibiting phosphodiesterase, and ipratropium by blocking muscarinic receptors.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Montelukast blocks the cysteinyl leukotriene receptor; it is an oral controller that does not act through beta-receptors or give acute relief.",
+          "B": "Ipratropium blocks muscarinic M3 receptors to prevent cholinergic bronchoconstriction rather than raising cAMP via beta-receptors.",
+          "C": "Fluticasone is an inhaled corticosteroid that suppresses inflammation through gene transcription; it is a controller with no immediate bronchodilating effect.",
+          "E": "Theophylline raises cAMP by inhibiting phosphodiesterase, not by stimulating beta-receptors, and it is an oral drug, not a short-acting inhaler."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-596_Brick Exchange - Treatment of Asthma & COPD_p12_1.png",

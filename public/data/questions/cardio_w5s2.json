@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "An interstitial lymphocytic infiltrate with associated myocyte injury defines lymphocytic myocarditis, a common cause of secondary dilated cardiomyopathy.",
         "whyCorrect": "An interstitial lymphocytic infiltrate with associated myocyte injury defines lymphocytic myocarditis, a common cause of secondary dilated cardiomyopathy.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Ischemic coagulative necrosis shows eosinophilic myocytes losing nuclei with neutrophils, not a dense lymphocytic interstitial infiltrate.",
+          "B": "Hemochromatosis shows golden-brown iron pigment within myocytes, not an inflammatory infiltrate.",
+          "C": "Sarcoid myocarditis forms noncaseating granulomas with epithelioid cells and giant cells, not diffuse small mononuclear cells.",
+          "E": "Amyloid appears as amorphous pink acellular deposits between myocytes, without an inflammatory infiltrate."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-112_Brick Exchange - Dilated Cardiomyopathy_p9_1.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "A cardiothoracic ratio greater than 0.5 on a PA film defines cardiomegaly, a common radiographic finding in dilated cardiomyopathy and heart failure.",
         "whyCorrect": "A cardiothoracic ratio greater than 0.5 on a PA film defines cardiomegaly, a common radiographic finding in dilated cardiomyopathy and heart failure.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Pleural effusion blunts the costophrenic angles and creates a meniscus at the base, not an enlarged cardiac silhouette.",
+          "B": "Tension pneumothorax shows a hyperlucent hemithorax without lung markings and mediastinal shift, not a large heart.",
+          "C": "Aortic dissection may widen the mediastinum, but the cardiac silhouette itself is not enlarged by definition.",
+          "E": "A hiatal hernia appears as a retrocardiac air-fluid level behind the heart, not a cardiothoracic ratio above 0.5."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-265_Brick Exchange - Dilated Cardiomyopathy_p11_1.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "Dilated cardiomyopathy causes eccentric remodeling with chamber enlargement and wall thinning, impairing contractility and producing systolic (reduced ejection fraction) heart failure.",
         "whyCorrect": "Dilated cardiomyopathy causes eccentric remodeling with chamber enlargement and wall thinning, impairing contractility and producing systolic (reduced ejection fraction) heart failure.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Impaired filling with preserved ejection fraction describes stiff, thick-walled ventricles, not dilated thin-walled chambers.",
+          "B": "Dynamic outflow obstruction occurs in hypertrophic cardiomyopathy with a thick septum, not a globally dilated heart.",
+          "D": "Rigid walls restricting filling describe restrictive cardiomyopathy, which has normal-sized or small ventricles.",
+          "E": "The primary problem is myocardial dysfunction; any mitral regurgitation is secondary to annular dilation, not isolated valve disease."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-482_Brick Exchange - Dilated Cardiomyopathy_p2_1.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Dilated cardiomyopathy characteristically dilates all four chambers with wall thinning, distinguishing it from the isolated or concentric changes seen in other cardiomyopathies.",
         "whyCorrect": "Dilated cardiomyopathy characteristically dilates all four chambers with wall thinning, distinguishing it from the isolated or concentric changes seen in other cardiomyopathies.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Isolated right-sided enlargement suggests right-sided pressure or volume load, not the global dilation of this cardiomyopathy.",
+          "C": "Atrial enlargement with normal ventricles is typical of restrictive cardiomyopathy, not this pattern.",
+          "D": "Left-sided enlargement alone would suggest left-sided valve or pressure disease, whereas dilated cardiomyopathy enlarges all four chambers.",
+          "E": "Ventricles with thickened walls describe hypertrophic remodeling, whereas the dilated heart has thin walls."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-483_Brick Exchange - Dilated Cardiomyopathy_p3_1.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "A dilated, thin-walled ventricular chamber with an increased volume-to-mass ratio is the classic gross appearance of dilated cardiomyopathy.",
         "whyCorrect": "A dilated, thin-walled ventricular chamber with an increased volume-to-mass ratio is the classic gross appearance of dilated cardiomyopathy.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Constrictive pericarditis is a thickened, fibrotic pericardium encasing the heart, not dilation of the ventricular chamber.",
+          "B": "An acute infarct shows a discolored regional lesion in one coronary territory, not global chamber dilation with thin walls.",
+          "C": "Hypertrophic cardiomyopathy shows a markedly thick septum and small cavity, the opposite of the dilated chamber here.",
+          "D": "Amyloidosis produces firm, rubbery, thickened walls with normal or small cavities, not a flabby dilated ventricle."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-484_Brick Exchange - Dilated Cardiomyopathy_p7_1.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "Volume overload drives sarcomere addition in series, lengthening myocytes and dilating the ventricular cavity, the cellular basis of eccentric hypertrophy seen in dilated cardiomyopathy.",
         "whyCorrect": "Volume overload drives sarcomere addition in series, lengthening myocytes and dilating the ventricular cavity, the cellular basis of eccentric hypertrophy seen in dilated cardiomyopathy.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Wall thickening with a narrowed chamber results from sarcomeres added in parallel, as in pressure overload.",
+          "B": "Adding sarcomeres in series lengthens myocytes, which enlarges the chamber.",
+          "C": "Amyloid deposition is an extracellular infiltrate, not a consequence of how sarcomeres are added.",
+          "D": "Fibrous scarring replaces dead myocytes after injury; it is not the result of sarcomere addition in series."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-722_Brick Exchange - Dilated Cardiomyopathy_p8_1.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "Disorganized, interwoven cardiomyocytes (myofiber disarray) with surrounding fibrosis are the microscopic signature of hypertrophic cardiomyopathy and provide a substrate for arrhythmia and sudden death.",
         "whyCorrect": "Disorganized, interwoven cardiomyocytes (myofiber disarray) with surrounding fibrosis are the microscopic signature of hypertrophic cardiomyopathy and provide a substrate for arrhythmia and sudden death.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Amyloid appears as amorphous pink extracellular material between myocytes, not disorganized branching fibers.",
+          "B": "Granulomatous myocarditis shows granulomas with epithelioid cells and giant cells, not haphazard myofiber orientation.",
+          "D": "Arrhythmogenic cardiomyopathy shows fibrofatty replacement of right ventricular myocardium, not disarrayed hypertrophied fibers.",
+          "E": "Coagulative necrosis shows eosinophilic myocytes losing nuclei but retaining their normal parallel arrangement."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-155_Brick Exchange - Left Ventricular Hypertrophy and Hypertrophic Cardiomyopathy_p13_1.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "Increased LV muscle mass generates larger depolarization vectors, producing tall R waves laterally and deep S waves in V1-V2 that meet voltage criteria for left ventricular hypertrophy.",
         "whyCorrect": "Increased LV muscle mass generates larger depolarization vectors, producing tall R waves laterally and deep S waves in V1-V2 that meet voltage criteria for left ventricular hypertrophy.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Left bundle branch block widens the QRS beyond 120 ms with a broad notched R in lateral leads, rather than simply increasing voltage.",
+          "C": "Anterior STEMI shows ST elevation in V1 to V4, not increased QRS voltage with a thick-walled ventricle.",
+          "D": "Pericardial effusion lowers QRS voltage and may show electrical alternans, the opposite of the tall voltages here.",
+          "E": "Right ventricular hypertrophy gives tall R waves in V1 and deep S waves in lateral leads, the reverse of this pattern."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-309_Brick Exchange - Left Ventricular Hypertrophy and Hypertrophic Cardiomyopathy_p14_1.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "Late gadolinium enhancement reflects replacement fibrosis within hypertrophied myocardium; its extent correlates with ventricular arrhythmia and sudden-death risk in hypertrophic cardiomyopathy.",
         "whyCorrect": "Late gadolinium enhancement reflects replacement fibrosis within hypertrophied myocardium; its extent correlates with ventricular arrhythmia and sudden-death risk in hypertrophic cardiomyopathy.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Normal papillary muscle does not show late gadolinium enhancement within the hypertrophied wall.",
+          "B": "Late enhancement in hypertrophic cardiomyopathy is a real tissue finding of fibrosis with prognostic importance, not an artifact.",
+          "C": "Fat is characterized with fat-suppression sequences and is typical of arrhythmogenic cardiomyopathy, not the late enhancement shown.",
+          "E": "Intramural hemorrhage occurs after reperfused infarction and appears dark on T2* imaging, not as patchy late enhancement in HCM."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-310_Brick Exchange - Left Ventricular Hypertrophy and Hypertrophic Cardiomyopathy_p17_1.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "Hypertrophic cardiomyopathy classically produces asymmetric hypertrophy that disproportionately thickens the interventricular septum relative to the free wall, reducing LV cavity size and predisposing to outflow obstruction.",
         "whyCorrect": "Hypertrophic cardiomyopathy classically produces asymmetric hypertrophy that disproportionately thickens the interventricular septum relative to the free wall, reducing LV cavity size and predisposing to outflow obstruction.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Right ventricular free-wall hypertrophy is seen with pulmonary hypertension or pulmonic stenosis, not septum-predominant thickening.",
+          "C": "Concentric symmetric hypertrophy thickens the whole wall evenly, as in hypertension, rather than disproportionately thickening the septum.",
+          "D": "Four-chamber dilatation is the pattern of dilated cardiomyopathy, with thin walls and large chambers.",
+          "E": "Eccentric dilatation enlarges the cavity from volume overload, the opposite of a small cavity with a thick septum."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-509_Brick Exchange - Left Ventricular Hypertrophy and Hypertrophic Cardiomyopathy_p12_1.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "Uniform, concentric thickening of the LV wall with a reduced cavity size is the hallmark of concentric hypertrophy, which arises when the ventricle must generate sustained high pressures against an increased afterload (hypertension, aortic stenosis). Sarcomeres are laid down in parallel, thickening walls at the expense of chamber volume.",
         "whyCorrect": "Uniform, concentric thickening of the LV wall with a reduced cavity size is the hallmark of concentric hypertrophy, which arises when the ventricle must generate sustained high pressures against an increased afterload (hypertension, aortic stenosis). Sarcomeres are laid down in parallel, thickening walls at the expense of chamber volume.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "High-output states cause volume overload with chamber dilation and eccentric hypertrophy, not a slit-like cavity.",
+          "B": "Acute infarction causes regional necrosis and wall thinning, not uniform thickening of the whole ventricle.",
+          "C": "Amyloid can thicken the walls, but it is an infiltrative process, not a hemodynamic stress causing myocyte hypertrophy.",
+          "E": "Volume overload adds sarcomeres in series and dilates the chamber, the opposite of the small cavity here."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-510_Brick Exchange - Left Ventricular Hypertrophy and Hypertrophic Cardiomyopathy_p6_1.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "In obstructive HCM the hypertrophied septum plus high-velocity outflow draws the anterior mitral leaflet toward the septum (systolic anterior motion), simultaneously obstructing the outflow tract and creating mitral regurgitation.",
         "whyCorrect": "In obstructive HCM the hypertrophied septum plus high-velocity outflow draws the anterior mitral leaflet toward the septum (systolic anterior motion), simultaneously obstructing the outflow tract and creating mitral regurgitation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A ventricular septal defect is a hole in the septum causing a left-to-right shunt, not a mechanism of outflow obstruction in HCM.",
+          "B": "Rheumatic commissural fusion causes mitral stenosis, not dynamic outflow obstruction with mitral regurgitation.",
+          "D": "Papillary muscle rupture causes acute severe mitral regurgitation after infarction, not outflow tract obstruction.",
+          "E": "Calcific aortic stenosis is a fixed valve obstruction, whereas HCM causes dynamic subvalvular obstruction."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-762_Brick Exchange - Left Ventricular Hypertrophy and Hypertrophic Cardiomyopathy_p11_1.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "Septal myomectomy removes part of the hypertrophied basal septum, widening the outflow tract, abolishing systolic anterior motion, and thereby relieving obstruction and associated mitral regurgitation in obstructive HCM.",
         "whyCorrect": "Septal myomectomy removes part of the hypertrophied basal septum, widening the outflow tract, abolishing systolic anterior motion, and thereby relieving obstruction and associated mitral regurgitation in obstructive HCM.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Coronary bypass grafts conduits around blocked coronary arteries and does not involve incising the septum.",
+          "B": "Aortic valve replacement treats valvular stenosis, whereas this operation removes septal muscle below the valve.",
+          "D": "Accessory pathway ablation is a catheter procedure for WPW, not a surgical septal resection.",
+          "E": "Closing an atrial septal defect repairs a hole between the atria, unrelated to the hypertrophied ventricular septum."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-763_Brick Exchange - Left Ventricular Hypertrophy and Hypertrophic Cardiomyopathy_p18_1.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "Concentric hypertrophy (middle) results from pressure overload: increased systolic wall stress drives sarcomeres to be added in parallel, thickening the wall and reducing cavity volume. Eccentric hypertrophy (right, dilated) results instead from volume overload, with sarcomeres added in series.",
         "whyCorrect": "Concentric hypertrophy (middle) results from pressure overload: increased systolic wall stress drives sarcomeres to be added in parallel, thickening the wall and reducing cavity volume. Eccentric hypertrophy (right, dilated) results instead from volume overload, with sarcomeres added in series.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Chronic high-output states impose volume overload, producing eccentric dilation rather than a thick wall with a small cavity.",
+          "B": "Volume overload adds sarcomeres in series and produces the dilated pattern on the right.",
+          "D": "Ischemic stunning is a transient loss of contractility without structural thickening of the wall.",
+          "E": "Detraining causes regression of hypertrophy, not new wall thickening with reduced chamber volume."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-764_Brick Exchange - Left Ventricular Hypertrophy and Hypertrophic Cardiomyopathy_p7_1.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "Adding sarcomeres in parallel widens each myocyte and thickens the ventricular wall, producing concentric hypertrophy. This is the response to pressure overload (high afterload). Adding sarcomeres in series (lengthening) produces eccentric hypertrophy in response to volume overload.",
         "whyCorrect": "Adding sarcomeres in parallel widens each myocyte and thickens the ventricular wall, producing concentric hypertrophy. This is the response to pressure overload (high afterload). Adding sarcomeres in series (lengthening) produces eccentric hypertrophy in response to volume overload.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Volume overload adds sarcomeres in series, lengthening myocytes and dilating the chamber.",
+          "C": "Chronic bradycardia increases stroke volume and tends toward chamber enlargement, not parallel sarcomere addition.",
+          "D": "Myocyte loss after infarction leads to scarring and remodeling with dilation, not parallel sarcomere addition in a thick wall.",
+          "E": "Endurance training is a volume load that produces eccentric hypertrophy with chamber enlargement."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-765_Brick Exchange - Left Ventricular Hypertrophy and Hypertrophic Cardiomyopathy_p8_1.png",
@@ -618,7 +693,12 @@
       "explanation": {
         "summary": "Restrictive cardiomyopathy is characterized by increased ventricular wall stiffness from interstitial fibrosis or infiltration between myocytes, impairing diastolic filling while systolic function is often preserved.",
         "whyCorrect": "Restrictive cardiomyopathy is characterized by increased ventricular wall stiffness from interstitial fibrosis or infiltration between myocytes, impairing diastolic filling while systolic function is often preserved.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Dilated cardiomyopathy causes chamber enlargement with systolic dysfunction; it is not defined by infiltration that stiffens the wall.",
+          "B": "Hypertrophic cardiomyopathy shows hypertrophied myocytes in disarray, not myocytes separated by expanded interstitial material.",
+          "C": "Arrhythmogenic right ventricular cardiomyopathy shows fibrofatty replacement of right ventricular myocardium.",
+          "D": "Lymphocytic myocarditis shows an inflammatory infiltrate with myocyte damage, not pale acellular interstitial expansion."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-171_Brick Exchange - Restrictive Cardiomyopathy_p9_1.png",
@@ -657,7 +737,12 @@
       "explanation": {
         "summary": "Congo red stains amyloid, which shows pathognomonic apple-green birefringence under polarized light due to the beta-pleated sheet structure. This confirms cardiac amyloidosis as the cause of restrictive cardiomyopathy.",
         "whyCorrect": "Congo red stains amyloid, which shows pathognomonic apple-green birefringence under polarized light due to the beta-pleated sheet structure. This confirms cardiac amyloidosis as the cause of restrictive cardiomyopathy.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Trichrome stains collagen blue or green under ordinary light and does not produce apple-green birefringence.",
+          "B": "PAS stains glycogen magenta and does not show birefringence under polarized light.",
+          "C": "Von Kossa stains calcium black and lacks apple-green birefringence.",
+          "D": "Prussian blue stains iron blue and is not examined for birefringence."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-366_Brick Exchange - Restrictive Cardiomyopathy_p11_1.png",
@@ -696,7 +781,12 @@
       "explanation": {
         "summary": "The Prussian blue (Perls) reaction stains ferric iron blue. Myocardial iron overload in hereditary hemochromatosis or transfusional siderosis causes a restrictive/dilated cardiomyopathy; the triad of diabetes, skin pigmentation, and organ deposition is classic.",
         "whyCorrect": "The Prussian blue (Perls) reaction stains ferric iron blue. Myocardial iron overload in hereditary hemochromatosis or transfusional siderosis causes a restrictive/dilated cardiomyopathy; the triad of diabetes, skin pigmentation, and organ deposition is classic.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Copper accumulation in Wilson disease affects mainly the liver and brain and is shown with rhodanine stain, not a blue iron reaction.",
+          "B": "Amyloid is demonstrated with Congo red and apple-green birefringence, not a bright blue reaction.",
+          "C": "Lipofuscin is a golden-brown wear-and-tear pigment that does not turn blue with an iron stain.",
+          "E": "Melanin is a dark brown pigment of melanocytes, not deposited in myocytes, and it does not stain blue with Prussian blue."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-367_Brick Exchange - Restrictive Cardiomyopathy_p12_1.png",
@@ -735,7 +825,12 @@
       "explanation": {
         "summary": "Cardiac MRI provides tissue characterization; late gadolinium enhancement patterns and T1/T2 mapping help identify infiltrative and inflammatory causes of restrictive cardiomyopathy such as amyloid, sarcoid, and fibrosis.",
         "whyCorrect": "Cardiac MRI provides tissue characterization; late gadolinium enhancement patterns and T1/T2 mapping help identify infiltrative and inflammatory causes of restrictive cardiomyopathy such as amyloid, sarcoid, and fibrosis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Coronary CT angiography images the coronary lumen and plaque, not myocardial tissue with gadolinium enhancement.",
+          "B": "SPECT uses radiotracers to assess myocardial perfusion, without gadolinium enhancement or tissue mapping.",
+          "C": "A chest radiograph shows only the cardiac silhouette and cannot characterize myocardial tissue.",
+          "D": "Echocardiography assesses structure and function with ultrasound but does not use gadolinium or T1 and T2 mapping."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-368_Brick Exchange - Restrictive Cardiomyopathy_p14_1.png",
@@ -774,7 +869,12 @@
       "explanation": {
         "summary": "Cardiac amyloidosis deposits amorphous, eosinophilic, acellular protein in the interstitium and around myocytes, stiffening the ventricle and producing a restrictive cardiomyopathy with impaired diastolic filling.",
         "whyCorrect": "Cardiac amyloidosis deposits amorphous, eosinophilic, acellular protein in the interstitium and around myocytes, stiffening the ventricle and producing a restrictive cardiomyopathy with impaired diastolic filling.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Metastatic calcification deposits basophilic, purple calcium salts, not pale pink amorphous material surrounding myocytes.",
+          "B": "Iron overload appears as golden-brown granular pigment within myocytes, not acellular pink interstitial material.",
+          "D": "Glycogen accumulates inside myocytes, producing clear vacuolated cytoplasm, rather than extracellular pink deposits.",
+          "E": "Infarct-related fibrosis forms regional collagen scars replacing myocytes, not diffuse amorphous material encasing individual cells."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-553_Brick Exchange - Restrictive Cardiomyopathy_p10_1.png",
@@ -813,7 +913,12 @@
       "explanation": {
         "summary": "Cardiac sarcoidosis produces noncaseating granulomas in the myocardium that can cause conduction blocks, arrhythmias, and a restrictive/infiltrative cardiomyopathy. Granulomatous inflammation with epithelioid histiocytes distinguishes it from bland fibrosis.",
         "whyCorrect": "Cardiac sarcoidosis produces noncaseating granulomas in the myocardium that can cause conduction blocks, arrhythmias, and a restrictive/infiltrative cardiomyopathy. Granulomatous inflammation with epithelioid histiocytes distinguishes it from bland fibrosis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Hemochromatosis deposits iron pigment within myocytes without granulomas.",
+          "C": "Acute rheumatic carditis forms Aschoff bodies with Anitschkow cells, not epithelioid granulomas causing heart block with restrictive physiology.",
+          "D": "Giant cell arteritis is a vasculitis of large arteries, not a granulomatous process within the myocardium.",
+          "E": "Ischemic scar is bland collagen replacing myocytes without epithelioid histiocytes or granulomas."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-554_Brick Exchange - Restrictive Cardiomyopathy_p11_2.png",
@@ -852,7 +957,12 @@
       "explanation": {
         "summary": "Restrictive cardiomyopathy produces stiff ventricles with impaired diastolic filling; chronically elevated filling pressures dilate both atria while the ventricles remain normal in size. Marked biatrial enlargement with normal-sized ventricles is the hallmark gross finding.",
         "whyCorrect": "Restrictive cardiomyopathy produces stiff ventricles with impaired diastolic filling; chronically elevated filling pressures dilate both atria while the ventricles remain normal in size. Marked biatrial enlargement with normal-sized ventricles is the hallmark gross finding.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Mitral stenosis enlarges the left atrium but does not explain right atrial enlargement with normal-sized ventricles.",
+          "C": "Chronic ischemic disease typically produces ventricular scarring and dilation, not atrial-predominant enlargement with normal ventricles.",
+          "D": "Dilated cardiomyopathy enlarges all four chambers, including markedly dilated ventricles.",
+          "E": "Hypertrophic cardiomyopathy shows a thickened septum and small ventricular cavity, not normal-thickness walls with large atria."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-555_Brick Exchange - Restrictive Cardiomyopathy_p8_1.png",
@@ -891,7 +1001,12 @@
       "explanation": {
         "summary": "In restrictive cardiomyopathy the myocardium becomes stiff and non-compliant, limiting diastolic filling and raising filling pressures while ejection fraction is initially preserved. This causes biatrial enlargement and signs of right- and left-sided congestion.",
         "whyCorrect": "In restrictive cardiomyopathy the myocardium becomes stiff and non-compliant, limiting diastolic filling and raising filling pressures while ejection fraction is initially preserved. This causes biatrial enlargement and signs of right- and left-sided congestion.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Outflow obstruction results from septal hypertrophy with systolic anterior motion in HCM, not uniformly stiff walls of normal size.",
+          "B": "Reduced contractility with chamber dilation describes dilated cardiomyopathy, whereas this ventricle keeps its normal size.",
+          "C": "The figure shows a stiffened myocardium, not a valve lesion causing regurgitant volume overload.",
+          "D": "A stiffened wall is less compliant, not more, so filling is restricted rather than enhanced."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-858_Brick Exchange - Restrictive Cardiomyopathy_p3_1.png",
@@ -930,7 +1045,12 @@
       "explanation": {
         "summary": "Intercalated discs are the step-like junctions unique to cardiac muscle; they contain desmosomes and gap junctions that mechanically and electrically couple cardiomyocytes. Desmosomal failure at these discs underlies ARVC.",
         "whyCorrect": "Intercalated discs are the step-like junctions unique to cardiac muscle; they contain desmosomes and gap junctions that mechanically and electrically couple cardiomyocytes. Desmosomal failure at these discs underlies ARVC.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Smooth muscle cells are spindle-shaped, without striations, and lack intercalated discs.",
+          "C": "Skeletal muscle fibers are long, multinucleated cells with peripheral nuclei and no intercalated discs.",
+          "D": "Dense regular connective tissue is parallel collagen with sparse fibroblasts, not muscle cells joined by specialized junctions.",
+          "E": "Peripheral nerve contains axons and Schwann cells in fascicles, without intercalated discs."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-101_Brick Exchange - Arrhythmogenic Right Ventricular Cardiomyopathy_p8_1.png",
@@ -969,7 +1089,12 @@
       "explanation": {
         "summary": "The epsilon wave is a low-amplitude terminal deflection at the end of the QRS in V1, reflecting delayed activation of the fibrofatty-replaced right ventricular myocardium. It is a classic (though insensitive) ECG marker of ARVC.",
         "whyCorrect": "The epsilon wave is a low-amplitude terminal deflection at the end of the QRS in V1, reflecting delayed activation of the fibrofatty-replaced right ventricular myocardium. It is a classic (though insensitive) ECG marker of ARVC.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Pericarditis produces diffuse concave ST elevation with PR depression, not a small terminal deflection after the QRS in V1.",
+          "C": "Brugada syndrome shows coved ST elevation with T-wave inversion in V1 to V2, not a discrete low-amplitude terminal notch.",
+          "D": "WPW produces a delta wave at the start of the QRS with a short PR, not a deflection at the end of the QRS.",
+          "E": "Hypertrophic cardiomyopathy causes increased voltage and deep narrow Q waves, not a terminal deflection after the QRS in V1."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-208_Brick Exchange - Arrhythmogenic Right Ventricular Cardiomyopathy_p13_1.png",
@@ -1008,7 +1133,12 @@
       "explanation": {
         "summary": "Epsilon waves, anterior precordial T-wave inversion (V1-V3), and prolonged terminal QRS/S-wave upstroke are the recognized ECG criteria for ARVC, all reflecting delayed right ventricular depolarization from fibrofatty replacement.",
         "whyCorrect": "Epsilon waves, anterior precordial T-wave inversion (V1-V3), and prolonged terminal QRS/S-wave upstroke are the recognized ECG criteria for ARVC, all reflecting delayed right ventricular depolarization from fibrofatty replacement.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Anterior STEMI shows ST elevation in V1 to V4, not epsilon waves and prolonged S-wave upstroke.",
+          "B": "Isolated RBBB widens the QRS with an rSR', but does not explain epsilon waves as part of this combined pattern.",
+          "C": "LVH shows increased QRS voltage in lateral leads and deep S waves in V1 to V2, not epsilon waves.",
+          "E": "Massive PE may cause right heart strain with an S1Q3T3 pattern and anterior T inversion, but not epsilon waves from fibrofatty replacement."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-209_Brick Exchange - Arrhythmogenic Right Ventricular Cardiomyopathy_p14_1.png",
@@ -1047,7 +1177,12 @@
       "explanation": {
         "summary": "Cardiac MRI in ARVC characteristically demonstrates RV free-wall thinning, fatty infiltration, dyskinesis/aneurysms, and RV dilatation, corresponding to fibrofatty myocardial replacement.",
         "whyCorrect": "Cardiac MRI in ARVC characteristically demonstrates RV free-wall thinning, fatty infiltration, dyskinesis/aneurysms, and RV dilatation, corresponding to fibrofatty myocardial replacement.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Dilated cardiomyopathy dilates and thins the left ventricle globally, rather than selectively affecting the right ventricular free wall.",
+          "B": "Left ventricular non-compaction shows a spongy, heavily trabeculated left ventricle, not right ventricular free-wall thinning.",
+          "C": "Constrictive pericarditis shows a thickened pericardium encasing the heart, not abnormal right ventricular myocardium.",
+          "E": "Amyloidosis thickens the ventricular walls with diffuse late enhancement, rather than thinning the right ventricular free wall."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-210_Brick Exchange - Arrhythmogenic Right Ventricular Cardiomyopathy_p15_1.png",
@@ -1086,7 +1221,12 @@
       "explanation": {
         "summary": "In ARVC, cardiomyocytes are progressively replaced by fat and fibrous tissue (the clear vacuolated areas are adipocytes). This creates a substrate for reentrant ventricular arrhythmias and right ventricular dysfunction.",
         "whyCorrect": "In ARVC, cardiomyocytes are progressively replaced by fat and fibrous tissue (the clear vacuolated areas are adipocytes). This creates a substrate for reentrant ventricular arrhythmias and right ventricular dysfunction.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Amyloid appears as amorphous pink extracellular material, not large clear spaces between muscle bundles.",
+          "B": "Neutrophilic myocarditis shows dense inflammatory cell infiltrates, not empty-appearing fat cells replacing myocardium.",
+          "C": "Coagulative necrosis shows eosinophilic myocytes without nuclei in their normal arrangement, not adipocytes replacing them.",
+          "E": "Hemosiderin-laden macrophages contain brown pigment, not large clear vacuoles separating muscle bundles."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-433_Brick Exchange - Arrhythmogenic Right Ventricular Cardiomyopathy_p11_1.png",
@@ -1125,7 +1265,12 @@
       "explanation": {
         "summary": "Naxos disease is a recessive desmosomal disorder combining ARVC with palmoplantar keratoderma and woolly hair, reflecting the shared role of desmosomal proteins in cardiac myocytes and skin/hair.",
         "whyCorrect": "Naxos disease is a recessive desmosomal disorder combining ARVC with palmoplantar keratoderma and woolly hair, reflecting the shared role of desmosomal proteins in cardiac myocytes and skin/hair.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Osler-Weber-Rendu syndrome causes telangiectasias and arteriovenous malformations with epistaxis, not keratoderma and woolly hair.",
+          "B": "Ehlers-Danlos syndrome causes hyperextensible skin and joint hypermobility from collagen defects, not palmoplantar keratoderma.",
+          "C": "Fabry disease causes angiokeratomas, neuropathic pain, and hypertrophic cardiomyopathy from alpha-galactosidase A deficiency.",
+          "D": "Peutz-Jeghers syndrome causes mucocutaneous hyperpigmentation and hamartomatous intestinal polyps, unrelated to ARVC."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-434_Brick Exchange - Arrhythmogenic Right Ventricular Cardiomyopathy_p6_1.png",
@@ -1164,7 +1309,12 @@
       "explanation": {
         "summary": "In ARVC the right ventricular free wall is preferentially replaced by adipose and fibrous tissue, seen grossly as yellow fat thinning and infiltrating the RV wall.",
         "whyCorrect": "In ARVC the right ventricular free wall is preferentially replaced by adipose and fibrous tissue, seen grossly as yellow fat thinning and infiltrating the RV wall.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The left atrium is not the target of fibrofatty replacement in ARVC.",
+          "C": "The left ventricle can be involved in some variants, but ARVC predominantly replaces the right ventricular free wall.",
+          "D": "The septum is relatively spared in classic ARVC, which favors the right ventricular free wall.",
+          "E": "The right atrium is not the chamber characteristically replaced by fat in this disease."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-435_Brick Exchange - Arrhythmogenic Right Ventricular Cardiomyopathy_p9_1.png",
@@ -1203,7 +1353,12 @@
       "explanation": {
         "summary": "Progressive replacement of RV myocardium by fat and fibrous tissue, leaving only thinned trabeculae, is the defining gross pathology of ARVC.",
         "whyCorrect": "Progressive replacement of RV myocardium by fat and fibrous tissue, leaving only thinned trabeculae, is the defining gross pathology of ARVC.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Dilated cardiomyopathy shows thin-walled dilated chambers of muscle, not fat replacing right ventricular myocardium.",
+          "C": "Restrictive cardiomyopathy shows stiff normal-sized ventricles with biatrial enlargement, not fibrofatty replacement.",
+          "D": "Hypertrophic cardiomyopathy shows a thickened septum with myocyte disarray, not adipose replacement.",
+          "E": "Takotsubo cardiomyopathy is a transient stress-induced apical ballooning without structural fat replacement."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-436_Brick Exchange - Arrhythmogenic Right Ventricular Cardiomyopathy_p9_2.png",
@@ -1242,7 +1397,12 @@
       "explanation": {
         "summary": "Replacement of RV myocardium by fibrofatty tissue disrupts electrical conduction and creates re-entry circuits, making malignant ventricular arrhythmias and sudden cardiac death (often in young athletes) the feared consequence of ARVC.",
         "whyCorrect": "Replacement of RV myocardium by fibrofatty tissue disrupts electrical conduction and creates re-entry circuits, making malignant ventricular arrhythmias and sudden cardiac death (often in young athletes) the feared consequence of ARVC.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Mitral regurgitation involves the left-sided valve and is not a direct result of right ventricular fibrofatty replacement.",
+          "B": "Mitral stenosis is usually rheumatic and unrelated to an inherited right ventricular cardiomyopathy.",
+          "C": "Aortic dissection relates to aortic medial disease and hypertension, not right ventricular myocardial replacement.",
+          "E": "Endocarditis requires damaged valves or devices and bacteremia; fibrofatty tissue in the RV wall does not predispose to it."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-653_Brick Exchange - Arrhythmogenic Right Ventricular Cardiomyopathy_p4_1.png",
@@ -1281,7 +1441,12 @@
       "explanation": {
         "summary": "Cardiac rhabdomyomas are the most common cardiac tumor in children and are strongly linked to tuberous sclerosis (mutations in TSC1/TSC2). Many are detected prenatally or in infancy and frequently regress spontaneously.",
         "whyCorrect": "Cardiac rhabdomyomas are the most common cardiac tumor in children and are strongly linked to tuberous sclerosis (mutations in TSC1/TSC2). Many are detected prenatally or in infancy and frequently regress spontaneously.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Marfan syndrome is associated with aortic root dilation and mitral valve prolapse, not cardiac tumors.",
+          "B": "Carney complex is associated with cardiac myxomas, spotty pigmentation, and endocrine tumors, not intramural rhabdomyomas in infants.",
+          "C": "Von Hippel-Lindau disease causes hemangioblastomas, renal cell carcinoma, and pheochromocytoma, not cardiac rhabdomyomas.",
+          "E": "Neurofibromatosis type 1 causes neurofibromas, cafe-au-lait spots, and Lisch nodules, not cardiac rhabdomyomas."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-227_Brick Exchange - Cardiac Tumors_p20_1.png",
@@ -1320,7 +1485,12 @@
       "explanation": {
         "summary": "Myxoma is the most common primary cardiac tumor in adults, classically a gelatinous, pedunculated mass arising in the left atrium near the fossa ovalis; it can prolapse across the mitral valve and cause obstructive or embolic symptoms.",
         "whyCorrect": "Myxoma is the most common primary cardiac tumor in adults, classically a gelatinous, pedunculated mass arising in the left atrium near the fossa ovalis; it can prolapse across the mitral valve and cause obstructive or embolic symptoms.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A left atrial thrombus usually forms in the appendage with atrial fibrillation or mitral stenosis and is not typically attached to the septum.",
+          "B": "Rhabdomyomas occur in children within the ventricular myocardium, often multiple, rather than a pedunculated left atrial mass.",
+          "D": "Papillary fibroelastoma is small, frond-like, and attached to valve leaflets, most often the aortic valve, not the interatrial septum.",
+          "E": "Metastatic melanoma typically infiltrates the myocardium or pericardium, often as multiple deposits, not a pedunculated septal atrial mass."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-447_Brick Exchange - Cardiac Tumors_p10_1.png",
@@ -1359,7 +1529,12 @@
       "explanation": {
         "summary": "The soft, gelatinous, myxoid appearance of a mass filling an atrial cavity is characteristic of myxoma, the most common primary cardiac tumor, which grows within the chamber and can obstruct valve inflow.",
         "whyCorrect": "The soft, gelatinous, myxoid appearance of a mass filling an atrial cavity is characteristic of myxoma, the most common primary cardiac tumor, which grows within the chamber and can obstruct valve inflow.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Vegetations are small, friable masses on valve leaflets, not a bulky gelatinous mass filling an atrium.",
+          "B": "Metastatic carcinoma usually involves the pericardium or myocardium as firm nodules, not a gelatinous intracavitary mass.",
+          "C": "An organized thrombus is firm, layered, and red-brown, often in the atrial appendage, not soft and gelatinous.",
+          "D": "A lipoma is a yellow, fatty, well-circumscribed mass, not pale gelatinous myxoid tissue."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-448_Brick Exchange - Cardiac Tumors_p16_1.png",
@@ -1398,7 +1573,12 @@
       "explanation": {
         "summary": "Rhabdomyoma, the most common primary cardiac tumor of children, is a hamartoma of cardiac myocytes. The tumor cells are large and vacuolated because glycogen is dissolved during processing, leaving strands of cytoplasm suspended across the clear space (the characteristic 'spider cell').",
         "whyCorrect": "Rhabdomyoma, the most common primary cardiac tumor of children, is a hamartoma of cardiac myocytes. The tumor cells are large and vacuolated because glycogen is dissolved during processing, leaving strands of cytoplasm suspended across the clear space (the characteristic 'spider cell').",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Papillary fibroelastoma has avascular fronds with a collagen core lined by endothelium, not vacuolated glycogen-filled cells.",
+          "B": "Angiosarcoma shows malignant, anastomosing vascular channels lined by atypical endothelial cells.",
+          "C": "Myxoma shows scattered stellate cells in a loose myxoid stroma, not large vacuolated myocytes.",
+          "D": "Metastatic melanoma shows atypical epithelioid or spindled cells, often with melanin pigment, not glycogen-filled spider cells."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-449_Brick Exchange - Cardiac Tumors_p17_1.png",
@@ -1437,7 +1617,12 @@
       "explanation": {
         "summary": "The 'spider cell' is pathognomonic of cardiac rhabdomyoma: glycogen is washed out during processing, leaving a large vacuolated cell whose residual cytoplasm forms strands stretching from a central nucleus-containing mass to the periphery.",
         "whyCorrect": "The 'spider cell' is pathognomonic of cardiac rhabdomyoma: glycogen is washed out during processing, leaving a large vacuolated cell whose residual cytoplasm forms strands stretching from a central nucleus-containing mass to the periphery.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Lipomatous hypertrophy is fat accumulation in the interatrial septum, made of mature adipocytes and brown fat, not spider cells.",
+          "C": "Angiosarcoma is composed of malignant endothelial cells forming irregular vascular channels.",
+          "D": "Cardiac fibroma is made of bland fibroblasts within dense collagen, without vacuolated glycogen-rich cells.",
+          "E": "Myxoma consists of stellate cells in a myxoid matrix, not large cells with radiating cytoplasmic strands."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-450_Brick Exchange - Cardiac Tumors_p18_1.png",
@@ -1476,7 +1661,12 @@
       "explanation": {
         "summary": "Myxoma is the most common primary cardiac tumor in adults, typically arising from the interatrial septum near the fossa ovalis in the left atrium. A pedunculated, mobile mass can obstruct the mitral valve ('ball-valve' effect) and embolize.",
         "whyCorrect": "Myxoma is the most common primary cardiac tumor in adults, typically arising from the interatrial septum near the fossa ovalis in the left atrium. A pedunculated, mobile mass can obstruct the mitral valve ('ball-valve' effect) and embolize.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Rhabdomyoma is the most common cardiac tumor of children and arises within the ventricular myocardium.",
+          "B": "Cardiac fibroma is a pediatric intramural ventricular tumor, not a pedunculated left atrial mass.",
+          "C": "Papillary fibroelastoma attaches to valve surfaces, usually the aortic valve, rather than the interatrial septum.",
+          "E": "Angiosarcoma is the most common primary malignant cardiac tumor and usually arises in the right atrium."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-451_Brick Exchange - Cardiac Tumors_p4_1.png",
@@ -1515,7 +1705,12 @@
       "explanation": {
         "summary": "Cardiac myxomas are typically soft, pale, gelatinous, pedunculated masses arising from the left atrial septum. Their friable surface predisposes to systemic embolization, and obstruction of the mitral valve can cause syncope or a 'tumor plop'.",
         "whyCorrect": "Cardiac myxomas are typically soft, pale, gelatinous, pedunculated masses arising from the left atrial septum. Their friable surface predisposes to systemic embolization, and obstruction of the mitral valve can cause syncope or a 'tumor plop'.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Papillary fibroelastoma is a small, frond-like lesion on a valve, resembling a sea anemone, not a gelatinous septal mass.",
+          "B": "Rhabdomyoma is an intramyocardial ventricular tumor of children, not a pedunculated atrial mass.",
+          "D": "Angiosarcoma is a hemorrhagic, infiltrative malignancy usually in the right atrium, not a soft pedunculated septal mass.",
+          "E": "Metastatic carcinoma tends to involve the pericardium or myocardium, not a stalked gelatinous intracavitary mass."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-452_Brick Exchange - Cardiac Tumors_p5_1.png",
@@ -1554,7 +1749,12 @@
       "explanation": {
         "summary": "Myxoma histology shows scattered stellate/lepidic myxoma cells, often arranged around vessels in rings and cords, set within a copious mucopolysaccharide (myxoid) matrix. The cells are thought to derive from primitive multipotent mesenchymal cells.",
         "whyCorrect": "Myxoma histology shows scattered stellate/lepidic myxoma cells, often arranged around vessels in rings and cords, set within a copious mucopolysaccharide (myxoid) matrix. The cells are thought to derive from primitive multipotent mesenchymal cells.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Angiosarcoma shows atypical endothelial cells forming anastomosing vascular channels, not bland stellate cells in myxoid stroma.",
+          "B": "Rhabdomyoma has large vacuolated spider cells with glycogen, not scattered stellate cells in a mucoid matrix.",
+          "C": "Fibroma is composed of fibroblasts within dense collagen, not loose myxoid stroma.",
+          "E": "Lipoma is made of mature adipocytes, not stellate cells in a mucopolysaccharide-rich matrix."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-453_Brick Exchange - Cardiac Tumors_p7_1.png",

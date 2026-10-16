@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "A bilateral reticular (net-like) interstitial pattern, often basal-predominant, reflects thickening of the pulmonary interstitium seen in interstitial lung disease and fibrosis, as opposed to the alveolar/consolidative pattern of pneumonia.",
         "whyCorrect": "A bilateral reticular (net-like) interstitial pattern, often basal-predominant, reflects thickening of the pulmonary interstitium seen in interstitial lung disease and fibrosis, as opposed to the alveolar/consolidative pattern of pneumonia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Lobar pneumonia produces homogeneous airspace consolidation with air bronchograms in one lobe, not diffuse fine net-like lines.",
+          "B": "A large pleural effusion causes a dense dependent opacity with a meniscus, obscuring the costophrenic angle, not reticulation.",
+          "C": "Tension pneumothorax shows a hyperlucent hemithorax with no lung markings and mediastinal shift, the opposite of increased markings.",
+          "E": "Cardiomegaly enlarges the cardiac silhouette beyond half the thoracic width; it does not create reticular parenchymal lines."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-304_Brick Exchange - Interstitial Lung Disease_ Foundations and Frameworks_p11_1.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "The bilateral reticular/reticulonodular opacities with small lung volumes are characteristic of interstitial lung disease, in which fibrosis of the interstitium restricts expansion and produces a restrictive pattern rather than airflow obstruction or alveolar filling.",
         "whyCorrect": "The bilateral reticular/reticulonodular opacities with small lung volumes are characteristic of interstitial lung disease, in which fibrosis of the interstitium restricts expansion and produces a restrictive pattern rather than airflow obstruction or alveolar filling.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Cardiogenic edema shows perihilar haze, Kerley B lines, cardiomegaly, and effusions, typically with preserved or normal lung volumes.",
+          "B": "Lobar pneumonia is a focal unilateral consolidation, not bilateral basal reticulonodular change with volume loss.",
+          "D": "Reactivation TB causes upper-lobe cavitation and fibrosis, not bilateral basal reticulation.",
+          "E": "Air trapping increases lung volumes, causing hyperinflation and flattened diaphragms, the opposite of the small lungs shown."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-305_Brick Exchange - Interstitial Lung Disease_ Foundations and Frameworks_p12_1.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "Subpleural, basal-predominant reticulation with honeycombing and traction bronchiectasis defines the UIP pattern, the radiologic hallmark of idiopathic pulmonary fibrosis and other fibrotic interstitial lung diseases.",
         "whyCorrect": "Subpleural, basal-predominant reticulation with honeycombing and traction bronchiectasis defines the UIP pattern, the radiologic hallmark of idiopathic pulmonary fibrosis and other fibrotic interstitial lung diseases.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Lymphangitic carcinomatosis causes nodular, beaded interlobular septal thickening, often with effusions, rather than subpleural honeycombing.",
+          "B": "Centrilobular emphysema shows upper-lobe low-attenuation areas without walls, not basal reticulation with clustered thick-walled cysts.",
+          "C": "Diffuse alveolar hemorrhage causes patchy or diffuse ground-glass and consolidation without fibrotic honeycombing.",
+          "D": "Ground-glass opacity alone reflects active inflammation without fibrosis; honeycombing indicates established fibrotic disease of the UIP type."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-306_Brick Exchange - Interstitial Lung Disease_ Foundations and Frameworks_p13_1.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Clubbing is bulbous swelling of the distal digits with increased nail-bed angle and is commonly linked to chronic hypoxemia, interstitial lung disease, lung cancer, and cyanotic heart disease.",
         "whyCorrect": "Clubbing is bulbous swelling of the distal digits with increased nail-bed angle and is commonly linked to chronic hypoxemia, interstitial lung disease, lung cancer, and cyanotic heart disease.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Compartment syndrome causes a tense, painful swollen hand with pain on passive stretch, an acute emergency unrelated to nail-bed changes.",
+          "B": "Raynaud phenomenon causes episodic white-blue-red color change in the digits with cold, without bulbous fingertip enlargement.",
+          "C": "Dupuytren contracture is thickening of the palmar fascia with flexion contracture of the fingers, sparing the fingertips and nails.",
+          "D": "Osler nodes are painful, small, raised lesions on the finger pads in endocarditis, not a diffuse loss of the nail-fold angle."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-504_Brick Exchange - Interstitial Lung Disease_ Foundations and Frameworks_p9_1.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "In restrictive disease the stiff, fibrotic lung cannot expand, so all volumes and capacities shrink together and total lung capacity falls, distinguishing it from obstructive disease where residual volume and TLC rise.",
         "whyCorrect": "In restrictive disease the stiff, fibrotic lung cannot expand, so all volumes and capacities shrink together and total lung capacity falls, distinguishing it from obstructive disease where residual volume and TLC rise.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Restriction lowers all volumes, including TLC, FRC, and RV, not just tidal volume.",
+          "C": "Increased residual volume with air trapping is the hallmark of obstructive disease, not restriction.",
+          "D": "A selectively reduced FEV1 with preserved TLC describes obstruction; restriction reduces TLC with a preserved FEV1/FVC ratio.",
+          "E": "Loss of elastic recoil raises TLC in emphysema; restrictive lungs have increased recoil and reduced TLC."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-761_Brick Exchange - Interstitial Lung Disease_ Foundations and Frameworks_p7_1.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "Hypersensitivity pneumonitis classically shows a cellular interstitial lymphocytic pneumonitis with loose, poorly formed non-necrotizing granulomas centered on bronchioles, distinguishing it from the tight caseating granulomas of TB.",
         "whyCorrect": "Hypersensitivity pneumonitis classically shows a cellular interstitial lymphocytic pneumonitis with loose, poorly formed non-necrotizing granulomas centered on bronchioles, distinguishing it from the tight caseating granulomas of TB.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Alveolar proteinosis fills alveoli with granular PAS-positive surfactant, with little interstitial inflammation or granulomas.",
+          "C": "Adenocarcinoma shows malignant glandular cells, often growing along alveolar walls, not lymphocytic interstitial infiltrates with loose granulomas.",
+          "D": "TB granulomas are well-formed with central caseous necrosis, unlike the loose non-necrotizing granulomas shown.",
+          "E": "Acute bronchopneumonia fills alveoli and bronchioles with neutrophils, not chronic interstitial lymphocytes and granulomas."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-150_Brick Exchange - Hypersensitivity Pneumonitis_p13_1.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "The combination of a bronchiolocentric chronic interstitial lymphocytic infiltrate, poorly formed non-necrotizing granulomas, scattered giant cells/histiocytes, and peribronchiolar fibrosis is highly specific for hypersensitivity pneumonitis.",
         "whyCorrect": "The combination of a bronchiolocentric chronic interstitial lymphocytic infiltrate, poorly formed non-necrotizing granulomas, scattered giant cells/histiocytes, and peribronchiolar fibrosis is highly specific for hypersensitivity pneumonitis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Metastatic carcinoma shows clusters of malignant epithelial cells, not lymphocytic interstitial inflammation with poorly formed granulomas.",
+          "B": "Sarcoid granulomas are tight, well-formed, and distributed along lymphatics, rather than loose, poorly formed, and bronchiolocentric.",
+          "C": "An abscess is a localized collection of neutrophils with liquefactive necrosis, not a lymphocytic infiltrate with granulomas.",
+          "E": "UIP shows patchy fibrosis with fibroblastic foci and honeycombing but lacks granulomas and a prominent lymphocytic infiltrate."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-151_Brick Exchange - Hypersensitivity Pneumonitis_p7_1.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "Chronic hypersensitivity pneumonitis produces a diffuse interstitial reticulonodular pattern from immune-mediated inflammation and fibrosis of the small airways and alveolar walls, rather than the airspace/lobar filling seen with pneumonia or edema.",
         "whyCorrect": "Chronic hypersensitivity pneumonitis produces a diffuse interstitial reticulonodular pattern from immune-mediated inflammation and fibrosis of the small airways and alveolar walls, rather than the airspace/lobar filling seen with pneumonia or edema.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A large pleural effusion causes a dense dependent opacity with a meniscus, not diffuse reticulonodular lines in mid-upper zones.",
+          "B": "Tension pneumothorax shows a hyperlucent hemithorax without lung markings and mediastinal shift.",
+          "C": "Cardiogenic edema shows perihilar haze, Kerley B lines, and cardiomegaly, and is unrelated to antigen exposure.",
+          "D": "Lobar consolidation is a dense, focal, lobar airspace opacity, not a diffuse bilateral reticulonodular pattern."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-290_Brick Exchange - Hypersensitivity Pneumonitis_p10_1.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "The combination of ground-glass opacity, air-trapping (from bronchiolar involvement), and interspersed normal parenchyma yields the mosaic/headcheese pattern that is a hallmark of subacute-to-chronic hypersensitivity pneumonitis.",
         "whyCorrect": "The combination of ground-glass opacity, air-trapping (from bronchiolar involvement), and interspersed normal parenchyma yields the mosaic/headcheese pattern that is a hallmark of subacute-to-chronic hypersensitivity pneumonitis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Pulmonary embolism can cause mosaic perfusion, but it lacks ground-glass with lobular air trapping on expiration and appears as arterial filling defects on CTPA.",
+          "C": "Bronchogenic carcinoma presents as a focal mass or nodule, not a diffuse mosaic of attenuation.",
+          "D": "Sarcoidosis shows bilateral hilar adenopathy and perilymphatic nodules, not the three-density headcheese pattern.",
+          "E": "Lobar pneumonia shows dense lobar consolidation with air bronchograms, not patchy mixed attenuation."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-291_Brick Exchange - Hypersensitivity Pneumonitis_p11_1.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "Spatially heterogeneous fibrosis with microscopic honeycombing defines the UIP pattern of IPF. NSIP is uniform, DAD shows hyaline membranes, and organizing pneumonia shows intraluminal fibroblastic plugs.",
         "whyCorrect": "Spatially heterogeneous fibrosis with microscopic honeycombing defines the UIP pattern of IPF. NSIP is uniform, DAD shows hyaline membranes, and organizing pneumonia shows intraluminal fibroblastic plugs.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Diffuse alveolar damage shows hyaline membranes lining alveoli in the acute phase, not chronic patchy collagen with honeycombing.",
+          "C": "NSIP shows uniform, temporally homogeneous interstitial inflammation or fibrosis, without honeycomb cysts and patchy heterogeneity.",
+          "D": "Respiratory bronchiolitis shows pigmented smoker's macrophages in respiratory bronchioles, without dense fibrosis.",
+          "E": "Organizing pneumonia shows intraluminal plugs of loose fibroblastic tissue (Masson bodies), with preserved architecture."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-152_Brick Exchange - Idiopathic Pulmonary Fibrosis_p9_1.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "The left panel shows thickened, collagen-rich interstitium with distorted cystic spaces, contrasting with the delicate normal alveolar septa on the right. This confirms established fibrosis rather than edema or acute inflammation.",
         "whyCorrect": "The left panel shows thickened, collagen-rich interstitium with distorted cystic spaces, contrasting with the delicate normal alveolar septa on the right. This confirms established fibrosis rather than edema or acute inflammation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Edema fills alveoli with pink, homogeneous fluid while septa stay thin, unlike the thickened collagenous walls shown.",
+          "B": "Aging may cause mild airspace enlargement but does not produce dense interstitial collagen and distorted cystic spaces.",
+          "D": "Panacinar emphysema destroys and thins alveolar walls, enlarging airspaces, rather than thickening the interstitium.",
+          "E": "Acute suppurative pneumonia fills alveoli with neutrophils, without thick collagenous septa."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-153_Brick Exchange - Idiopathic Pulmonary Fibrosis_p9_2.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "Peripheral, lower-zone reticular opacities with volume loss are the classic radiographic pattern of a fibrosing interstitial lung disease such as IPF, in contrast to the alveolar or hyperlucent patterns of the distractors.",
         "whyCorrect": "Peripheral, lower-zone reticular opacities with volume loss are the classic radiographic pattern of a fibrosing interstitial lung disease such as IPF, in contrast to the alveolar or hyperlucent patterns of the distractors.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Tension pneumothorax shows a hyperlucent hemithorax without lung markings and mediastinal shift, not bilateral reticulation.",
+          "C": "Cardiogenic edema shows cardiomegaly, perihilar haze, Kerley B lines, and effusions rather than peripheral basal reticulation with volume loss.",
+          "D": "Lobar pneumonia causes focal unilateral consolidation, not bilateral basal reticular change.",
+          "E": "Centrilobular emphysema causes upper-lobe hyperlucency with hyperinflated lungs, the opposite of reduced volumes."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-295_Brick Exchange - Idiopathic Pulmonary Fibrosis_p12_1.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "Subpleural, basal honeycombing on HRCT is the defining feature of a UIP pattern, which underlies idiopathic pulmonary fibrosis. The other patterns show ground-glass or consolidative changes rather than honeycombing.",
         "whyCorrect": "Subpleural, basal honeycombing on HRCT is the defining feature of a UIP pattern, which underlies idiopathic pulmonary fibrosis. The other patterns show ground-glass or consolidative changes rather than honeycombing.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Organizing pneumonia shows patchy peripheral or peribronchovascular consolidation, sometimes with a reversed halo sign, without honeycombing.",
+          "B": "Hypersensitivity pneumonitis shows upper-mid zone centrilobular nodules, ground-glass, and mosaic air trapping, sparing the bases.",
+          "C": "NSIP shows symmetric basal ground-glass, often with subpleural sparing, and little or no honeycombing.",
+          "E": "Diffuse alveolar damage shows diffuse ground-glass and dependent consolidation in ARDS, not subpleural honeycombing."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-296_Brick Exchange - Idiopathic Pulmonary Fibrosis_p13_1.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "End-stage fibrosis destroys normal architecture, leaving thick fibrous bands enclosing dilated airspaces, grossly termed honeycomb lung. The distractors produce localized or thin-walled cavities rather than diffuse fibrotic remodeling.",
         "whyCorrect": "End-stage fibrosis destroys normal architecture, leaving thick fibrous bands enclosing dilated airspaces, grossly termed honeycomb lung. The distractors produce localized or thin-walled cavities rather than diffuse fibrotic remodeling.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Cavitary tuberculosis creates localized apical cavities with caseous necrosis rather than diffuse fibrous walls around many cysts.",
+          "B": "Bullae are thin-walled, air-filled spaces larger than 1 cm from emphysema, not cysts enclosed by dense fibrous tissue.",
+          "D": "Cystic bronchiectasis shows dilated bronchi in continuity with the airway tree, often containing pus, rather than diffuse fibrosis.",
+          "E": "Abscesses are discrete cavities filled with pus and necrotic debris, not uniform cysts set within dense fibrosis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-493_Brick Exchange - Idiopathic Pulmonary Fibrosis_p6_1.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "Subpleural fibrous scarring puckers and nodulates the pleural surface, giving the coarse cobblestone appearance typical of end-stage fibrotic lung disease.",
         "whyCorrect": "Subpleural fibrous scarring puckers and nodulates the pleural surface, giving the coarse cobblestone appearance typical of end-stage fibrotic lung disease.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Panacinar emphysema gives a pale, voluminous lung with a smooth or bullous surface rather than coarse nodular scarring.",
+          "C": "A normal lung has a smooth, glistening pleural surface with fine polygonal lobular markings.",
+          "D": "Pleural carcinomatosis shows discrete firm tumor nodules or plaques studding the pleura rather than diffuse cobblestoning from fibrosis.",
+          "E": "Sarcoid nodules are small, firm granulomas along lymphatics; they do not produce the diffuse puckered cobblestone surface of fibrosis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-494_Brick Exchange - Idiopathic Pulmonary Fibrosis_p7_1.png",
@@ -618,7 +693,12 @@
       "explanation": {
         "summary": "Repeated epithelial injury releases pro-fibrogenic factors that activate fibroblasts and myofibroblasts, which proliferate and deposit collagen, driving irreversible fibrosis. The epithelium is the initiating, not the effector, compartment.",
         "whyCorrect": "Repeated epithelial injury releases pro-fibrogenic factors that activate fibroblasts and myofibroblasts, which proliferate and deposit collagen, driving irreversible fibrosis. The epithelium is the initiating, not the effector, compartment.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Capillary endothelial cells line blood vessels and are injured in some processes, but they are not the collagen-producing effectors.",
+          "C": "Neutrophils mediate acute inflammation and tissue damage through proteases, but they do not synthesize collagen.",
+          "D": "Type II pneumocytes are part of the injured epithelium that initiates the pathway, producing surfactant and regenerating alveoli rather than collagen.",
+          "E": "Alveolar macrophages release profibrotic cytokines such as TGF-beta, but they signal to fibroblasts rather than lay down collagen themselves."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-759_Brick Exchange - Idiopathic Pulmonary Fibrosis_p5_1.png",
@@ -657,7 +737,12 @@
       "explanation": {
         "summary": "The silicotic nodule is characterized by concentric ('onion-skin') layers of hyalinized collagen. Polarized light reveals birefringent silica particles within it. These nodules coalesce over time and can progress to massive fibrosis.",
         "whyCorrect": "The silicotic nodule is characterized by concentric ('onion-skin') layers of hyalinized collagen. Polarized light reveals birefringent silica particles within it. These nodules coalesce over time and can progress to massive fibrosis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Caplan nodules occur in pneumoconiosis with rheumatoid arthritis and have central necrosis with palisading histiocytes, not purely concentric hyalinized collagen.",
+          "C": "A hamartoma contains a disorganized mix of cartilage, fat, and smooth muscle, often with popcorn calcification, not whorled collagen.",
+          "D": "Bronchogenic carcinoma shows infiltrating malignant epithelial cells rather than an acellular whorl of hyalinized collagen.",
+          "E": "TB granulomas have central caseous necrosis surrounded by epithelioid histiocytes and Langhans giant cells, not layered collagen."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-164_Brick Exchange - Pneumoconioses_p11_1.png",
@@ -696,7 +781,12 @@
       "explanation": {
         "summary": "Asbestos bodies are ferruginous bodies: thin asbestos fibers coated with an iron-containing proteinaceous material, producing golden-brown beaded rods with knobbed ends. Their presence indicates significant asbestos exposure.",
         "whyCorrect": "Asbestos bodies are ferruginous bodies: thin asbestos fibers coated with an iron-containing proteinaceous material, producing golden-brown beaded rods with knobbed ends. Their presence indicates significant asbestos exposure.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Curschmann spirals are coiled mucus casts from small bronchioles in asthma, not iron-coated beaded rods.",
+          "B": "Charcot-Leyden crystals are slender, bipyramidal crystals from eosinophil galectin-10 in asthma.",
+          "C": "Schaumann bodies are laminated calcium-protein concretions inside giant cells in sarcoidosis, round rather than dumbbell-shaped.",
+          "D": "Psammoma bodies are round, concentrically laminated calcifications in papillary tumors like thyroid and ovarian carcinoma."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-165_Brick Exchange - Pneumoconioses_p13_1.png",
@@ -735,7 +825,12 @@
       "explanation": {
         "summary": "Coalescence of pneumoconiotic nodules into large (>1–2 cm) fibrotic masses, often with pigment, defines progressive massive fibrosis (complicated pneumoconiosis). It destroys lung architecture and impairs function far more than simple pneumoconiosis.",
         "whyCorrect": "Coalescence of pneumoconiotic nodules into large (>1–2 cm) fibrotic masses, often with pigment, defines progressive massive fibrosis (complicated pneumoconiosis). It destroys lung architecture and impairs function far more than simple pneumoconiosis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Metastatic adenocarcinoma shows malignant glands with atypical cells, not acellular collagenous masses with entrapped dust pigment.",
+          "B": "UIP honeycombing produces subpleural cystic spaces with patchy fibrosis rather than large confluent pigmented masses.",
+          "D": "Diffuse alveolar damage shows hyaline membranes and edema in the acute phase, not dense masses of mature collagen.",
+          "E": "Bronchopneumonia fills airways and alveoli with neutrophilic exudate rather than replacing lung with dense fibrosis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-166_Brick Exchange - Pneumoconioses_p6_1.png",
@@ -774,7 +869,12 @@
       "explanation": {
         "summary": "Inhaled carbon/coal dust is engulfed by macrophages, producing black anthracotic pigment. Accumulation around bronchioles and in interstitium underlies coal workers' pneumoconiosis (anthracosis when asymptomatic).",
         "whyCorrect": "Inhaled carbon/coal dust is engulfed by macrophages, producing black anthracotic pigment. Accumulation around bronchioles and in interstitium underlies coal workers' pneumoconiosis (anthracosis when asymptomatic).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Hemosiderin is golden-brown and stains blue with Prussian blue, unlike the dense black carbon of inhaled dust.",
+          "C": "Lipofuscin is fine yellow-brown wear-and-tear pigment in aging cells, not dense black particles in lung macrophages.",
+          "D": "Formalin pigment is a fine brown-black artifact in blood-rich areas from acid formalin, not concentrated in macrophages around bronchioles.",
+          "E": "Melanin is brown-black but appears in malignant melanocytes with atypical features; macrophages laden with inhaled dust indicate anthracosis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-167_Brick Exchange - Pneumoconioses_p7_1.png",
@@ -813,7 +913,12 @@
       "explanation": {
         "summary": "Peripheral 'eggshell' calcification of hilar and mediastinal lymph nodes is a classic radiographic clue to silicosis (also seen in sarcoidosis). It reflects deposition of silica and fibrosis at the node rim.",
         "whyCorrect": "Peripheral 'eggshell' calcification of hilar and mediastinal lymph nodes is a classic radiographic clue to silicosis (also seen in sarcoidosis). It reflects deposition of silica and fibrosis at the node rim.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Berylliosis causes noncaseating granulomas and hilar adenopathy resembling sarcoidosis, but eggshell nodal calcification is the classic sign of silicosis.",
+          "B": "Hypersensitivity pneumonitis causes centrilobular nodules and ground-glass without calcified hilar nodes.",
+          "C": "Simple coal workers' pneumoconiosis shows small upper-zone nodules; eggshell calcification is much less characteristic of it than of silicosis.",
+          "D": "Asbestosis causes lower-lobe fibrosis and calcified pleural plaques, not calcification of hilar lymph nodes."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-346_Brick Exchange - Pneumoconioses_p10_1.png",
@@ -852,7 +957,12 @@
       "explanation": {
         "summary": "Calcified parietal and diaphragmatic pleural plaques are the classic radiographic signature of prior asbestos exposure. They are typically benign markers of exposure rather than of parenchymal asbestosis itself.",
         "whyCorrect": "Calcified parietal and diaphragmatic pleural plaques are the classic radiographic signature of prior asbestos exposure. They are typically benign markers of exposure rather than of parenchymal asbestosis itself.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Silica causes upper-lobe nodules and eggshell calcification of hilar nodes, not discrete pleural plaques.",
+          "B": "Beryllium causes granulomatous lung disease with hilar adenopathy, not calcified parietal pleural plaques.",
+          "C": "Coal dust causes upper-zone nodules and progressive massive fibrosis rather than pleural plaques.",
+          "D": "Cotton dust causes byssinosis, an occupational asthma-like airway disease with chest tightness on return to work, without pleural changes."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-347_Brick Exchange - Pneumoconioses_p14_1.png",
@@ -891,7 +1001,12 @@
       "explanation": {
         "summary": "Simple silicosis (and coal workers' pneumoconiosis) produces small, rounded, upper-zone predominant nodules on CT. This distribution and morphology reflect deposition of inhaled particles along lymphatics in the upper lobes.",
         "whyCorrect": "Simple silicosis (and coal workers' pneumoconiosis) produces small, rounded, upper-zone predominant nodules on CT. This distribution and morphology reflect deposition of inhaled particles along lymphatics in the upper lobes.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Alveolar proteinosis causes ground-glass with septal thickening in a crazy-paving pattern, not discrete upper-zone nodules.",
+          "B": "Miliary metastases are random and often lower-zone predominant, and there is no history of malignancy; the occupational dust exposure points to silicosis.",
+          "C": "Pulmonary edema causes ground-glass and septal thickening in dependent regions, not well-defined micronodules.",
+          "D": "Asbestosis causes lower-lobe subpleural reticulation and fibrosis with pleural plaques rather than upper-zone nodules."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-348_Brick Exchange - Pneumoconioses_p8_1.png",
@@ -930,7 +1045,12 @@
       "explanation": {
         "summary": "Sarcoid granulomas are non-caseating (no central necrosis), which helps distinguish them from the caseating granulomas of tuberculosis; they are compact collections of epithelioid macrophages, multinucleated giant cells, and a surrounding lymphocyte cuff.",
         "whyCorrect": "Sarcoid granulomas are non-caseating (no central necrosis), which helps distinguish them from the caseating granulomas of tuberculosis; they are compact collections of epithelioid macrophages, multinucleated giant cells, and a surrounding lymphocyte cuff.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Sarcoid granulomas contain no organisms; acid-fast bacilli would point to mycobacterial infection.",
+          "C": "Both sarcoid and TB granulomas are composed of epithelioid macrophages and lymphocytes; neutrophil dominance suggests abscess or acute infection.",
+          "D": "Multinucleated giant cells are typical of sarcoid granulomas, and the diagram itself shows one.",
+          "E": "Central caseous necrosis is the hallmark of tuberculosis, the feature that sarcoid granulomas lack."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-172_Brick Exchange - Sarcoidosis_p6_1.png",
@@ -969,7 +1089,12 @@
       "explanation": {
         "summary": "Bilateral symmetric hilar (and mediastinal) lymphadenopathy is the classic radiographic hallmark of sarcoidosis (stage I), reflecting non-caseating granulomatous inflammation of the lymph nodes.",
         "whyCorrect": "Bilateral symmetric hilar (and mediastinal) lymphadenopathy is the classic radiographic hallmark of sarcoidosis (stage I), reflecting non-caseating granulomatous inflammation of the lymph nodes.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Pulmonary embolism usually gives a normal or subtle chest film, such as a wedge infarct or oligemia, not symmetric hilar adenopathy.",
+          "C": "Primary adenocarcinoma usually appears as a peripheral mass with unilateral or asymmetric nodal spread, not symmetric bilateral hilar nodes.",
+          "D": "Heart failure enlarges the cardiac silhouette and causes vascular congestion, edema, and effusions rather than nodal enlargement.",
+          "E": "Community-acquired pneumonia causes focal airspace consolidation; lung fields would not be clear."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-374_Brick Exchange - Sarcoidosis_p16_1.png",
@@ -1008,7 +1133,12 @@
       "explanation": {
         "summary": "Sarcoidosis staging progresses from hilar adenopathy alone (stage I) to adenopathy plus parenchymal infiltrates (stage II) and eventually to parenchymal disease with fibrosis; parenchymal nodules and reticular infiltrates signal established pulmonary involvement.",
         "whyCorrect": "Sarcoidosis staging progresses from hilar adenopathy alone (stage I) to adenopathy plus parenchymal infiltrates (stage II) and eventually to parenchymal disease with fibrosis; parenchymal nodules and reticular infiltrates signal established pulmonary involvement.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The film shows hilar and parenchymal lung changes; cardiac sarcoidosis is not visible on a chest radiograph as nodules and infiltrates.",
+          "C": "A normal chest radiograph corresponds to stage 0; this film has both adenopathy and parenchymal infiltrates.",
+          "D": "Radiographic resolution means clearing of adenopathy and infiltrates, whereas this film shows both.",
+          "E": "Pleural involvement is uncommon in sarcoidosis and is not part of the radiographic staging; the changes here are nodal and parenchymal."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-375_Brick Exchange - Sarcoidosis_p17_1.png",
@@ -1047,7 +1177,12 @@
       "explanation": {
         "summary": "Erythema nodosum is a septal panniculitis producing tender red nodules on the shins; in sarcoidosis its presence with bilateral hilar adenopathy and arthritis constitutes Lofgren syndrome and carries a good prognosis.",
         "whyCorrect": "Erythema nodosum is a septal panniculitis producing tender red nodules on the shins; in sarcoidosis its presence with bilateral hilar adenopathy and arthritis constitutes Lofgren syndrome and carries a good prognosis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Erythema multiforme produces target lesions with concentric rings, often on the palms and soles after HSV or drugs, not tender shin nodules.",
+          "B": "Lupus pernio is a chronic violaceous indurated plaque on the nose, cheeks, and ears in sarcoidosis, associated with chronic disease rather than Lofgren syndrome.",
+          "C": "Necrobiosis lipoidica forms shiny yellow-brown atrophic plaques with telangiectasias on the shins, mainly in diabetes, and is not tender or nodular.",
+          "D": "Pyoderma gangrenosum is a rapidly enlarging painful ulcer with a violaceous undermined border, linked to IBD, not an intact erythematous nodule."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-556_Brick Exchange - Sarcoidosis_p13_1.png",
@@ -1086,7 +1221,12 @@
       "explanation": {
         "summary": "Necrotizing granulomatous inflammation with associated small-vessel vasculitis in the lung is typical of granulomatosis with polyangiitis (a c-ANCA/anti-PR3 associated vasculitis), distinguishing it from the non-necrotizing granulomas of sarcoidosis.",
         "whyCorrect": "Necrotizing granulomatous inflammation with associated small-vessel vasculitis in the lung is typical of granulomatosis with polyangiitis (a c-ANCA/anti-PR3 associated vasculitis), distinguishing it from the non-necrotizing granulomas of sarcoidosis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Lupus affects the lung mainly through pleuritis, effusions, and acute lupus pneumonitis or hemorrhage, not necrotizing granulomas.",
+          "B": "Rheumatoid nodules have central fibrinoid necrosis with palisading histiocytes, but they lack the small-vessel vasculitis and geographic necrosis described.",
+          "C": "Sarcoidosis forms tight, non-necrotizing granulomas along lymphatics without geographic necrosis or vasculitis.",
+          "D": "Systemic sclerosis causes NSIP-pattern interstitial fibrosis and pulmonary hypertension, not granulomatous inflammation."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-103_Brick Exchange - Autoimmune Diseases with Respiratory Manifestations_p10_1.png",
@@ -1125,7 +1265,12 @@
       "explanation": {
         "summary": "The clustered enlarged cystic spaces embedded in fibrous tissue represent honeycomb change, the histologic end point of usual interstitial pneumonia and other progressive fibrosing interstitial lung diseases.",
         "whyCorrect": "The clustered enlarged cystic spaces embedded in fibrous tissue represent honeycomb change, the histologic end point of usual interstitial pneumonia and other progressive fibrosing interstitial lung diseases.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A caseating granuloma is a nodule of epithelioid histiocytes around central necrosis, not fibrosis surrounding clustered cysts.",
+          "C": "Normal lung has thin, delicate alveolar septa without dense fibrosis or enlarged bronchiolar-lined cysts.",
+          "D": "Bronchopneumonia fills airspaces with neutrophils and preserves the underlying architecture rather than remodeling it into cysts.",
+          "E": "Acute DAD shows hyaline membranes and edema lining alveoli, an early injury pattern rather than end-stage cystic fibrosis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-104_Brick Exchange - Autoimmune Diseases with Respiratory Manifestations_p14_1.png",
@@ -1164,7 +1309,12 @@
       "explanation": {
         "summary": "Filling of intact alveoli with red blood cells indicates alveolar hemorrhage, a manifestation of pulmonary capillaritis seen in autoimmune conditions such as anti-GBM disease and ANCA-associated vasculitis.",
         "whyCorrect": "Filling of intact alveoli with red blood cells indicates alveolar hemorrhage, a manifestation of pulmonary capillaritis seen in autoimmune conditions such as anti-GBM disease and ANCA-associated vasculitis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Alveolar proteinosis fills alveoli with granular, PAS-positive pink material, not red blood cells.",
+          "B": "Transudative edema fills alveoli with pale, homogeneous pink fluid with few cells, not packed erythrocytes.",
+          "D": "Bronchopneumonia fills airspaces with neutrophils, centered on bronchioles, rather than red cells.",
+          "E": "Emphysema leaves enlarged, empty airspaces with destroyed septa, while here the septa are intact and the spaces are filled."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-105_Brick Exchange - Autoimmune Diseases with Respiratory Manifestations_p3_1.png",
@@ -1203,7 +1353,12 @@
       "explanation": {
         "summary": "Bilateral reticular and ground-glass opacities with architectural distortion reflect a diffuse interstitial (parenchymal) process, a common pulmonary manifestation of connective tissue diseases.",
         "whyCorrect": "Bilateral reticular and ground-glass opacities with architectural distortion reflect a diffuse interstitial (parenchymal) process, a common pulmonary manifestation of connective tissue diseases.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Central pulmonary embolism shows filling defects in contrast-filled pulmonary arteries rather than parenchymal reticulation.",
+          "C": "Lobar pneumonia produces dense, focal consolidation with air bronchograms, not bilateral reticular and ground-glass change.",
+          "D": "Tension pneumothorax shows a collapsed lung with pleural air and mediastinal shift, without reticular parenchymal opacities.",
+          "E": "A large effusion is dependent fluid in the pleural space, not reticulation within the lung parenchyma."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-220_Brick Exchange - Autoimmune Diseases with Respiratory Manifestations_p5_1.png",
@@ -1242,7 +1397,12 @@
       "explanation": {
         "summary": "Confluent hazy opacity that spares the pleural space and preserves lung volume indicates alveolar filling (edema, hemorrhage, or inflammatory exudate) rather than a pleural or obstructive process.",
         "whyCorrect": "Confluent hazy opacity that spares the pleural space and preserves lung volume indicates alveolar filling (edema, hemorrhage, or inflammatory exudate) rather than a pleural or obstructive process.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A pneumothorax shows a thin visceral pleural line with lucent, avascular space beyond it, the opposite of hazy opacification.",
+          "B": "A large effusion forms a dense, dependent opacity with a meniscus and often shifts the mediastinum away, rather than a diffuse haze sparing the pleura.",
+          "D": "Lobar collapse produces a dense wedge-shaped opacity with fissure, hilar, or mediastinal shift toward the side of volume loss.",
+          "E": "Hyperinflation shows hyperlucent lungs and flattened diaphragms, not diffuse hazy opacification."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-221_Brick Exchange - Autoimmune Diseases with Respiratory Manifestations_p5_2.png",
@@ -1281,7 +1441,12 @@
       "explanation": {
         "summary": "A continuous linear IF pattern reflects antibodies bound uniformly to the GBM (anti-collagen IV), the defining feature of anti-GBM disease, which also targets the alveolar basement membrane to cause pulmonary hemorrhage.",
         "whyCorrect": "A continuous linear IF pattern reflects antibodies bound uniformly to the GBM (anti-collagen IV), the defining feature of anti-GBM disease, which also targets the alveolar basement membrane to cause pulmonary hemorrhage.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Post-streptococcal GN shows coarse, granular lumpy-bumpy deposits with subepithelial humps, not a smooth linear pattern, and does not cause lung hemorrhage.",
+          "C": "Membranous nephropathy shows fine granular subepithelial IgG deposits along the capillary loops and presents with nephrotic syndrome.",
+          "D": "Minimal change disease is negative on immunofluorescence, with only podocyte effacement on electron microscopy.",
+          "E": "IgA nephropathy shows mesangial IgA deposits, not linear staining along the GBM."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-222_Brick Exchange - Autoimmune Diseases with Respiratory Manifestations_p6_1.png",

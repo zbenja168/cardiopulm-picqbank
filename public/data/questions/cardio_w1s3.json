@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "Xanthelasma are lipid-laden macrophage deposits in the periorbital skin and are a cutaneous marker of dyslipidemia, especially elevated LDL cholesterol.",
         "whyCorrect": "Xanthelasma are lipid-laden macrophage deposits in the periorbital skin and are a cutaneous marker of dyslipidemia, especially elevated LDL cholesterol.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Molluscum contagiosum produces small, firm, dome-shaped papules with a central umbilication, caused by a poxvirus, not soft yellow plaques.",
+          "C": "Basal cell carcinoma is a pearly papule with rolled borders and telangiectasias that may ulcerate, not soft yellow eyelid plaques.",
+          "D": "Sebaceous hyperplasia forms small yellowish papules with a central dell, mainly on the forehead and cheeks, not flat plaques on the medial eyelid.",
+          "E": "Contact dermatitis is red, itchy, scaly or vesicular inflammation, not soft yellow lipid deposits."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-485_Brick Exchange - Dyslipidemia_ Pathophysiology_p13_1.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "Corneal arcus is a ring of lipid deposition at the corneal margin; when present in younger patients it suggests underlying hyperlipidemia.",
         "whyCorrect": "Corneal arcus is a ring of lipid deposition at the corneal margin; when present in younger patients it suggests underlying hyperlipidemia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A Kayser-Fleischer ring is a golden-brown copper deposit in Descemet's membrane in Wilson disease, not a gray-white lipid ring.",
+          "C": "Band keratopathy is calcium deposited in a horizontal band across the central cornea, as in hypercalcemia, not a ring at the periphery.",
+          "D": "A pterygium is a wedge of fibrovascular conjunctiva growing onto the cornea from the nasal side, not a circumferential ring.",
+          "E": "A cataract is clouding of the lens behind the pupil, not a ring at the corneal margin."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-486_Brick Exchange - Dyslipidemia_ Pathophysiology_p14_1.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "PCSK9 binds hepatic LDL receptors and targets them for lysosomal degradation, reducing LDL clearance and raising plasma LDL; its inhibition is a therapeutic strategy for hypercholesterolemia.",
         "whyCorrect": "PCSK9 binds hepatic LDL receptors and targets them for lysosomal degradation, reducing LDL clearance and raising plasma LDL; its inhibition is a therapeutic strategy for hypercholesterolemia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Cholesterol synthesis from acetyl-CoA is driven by HMG-CoA reductase, the target of statins, not by PCSK9.",
+          "B": "PCSK9 does the opposite: it reduces the number of LDL receptors, so less LDL is cleared and plasma LDL rises.",
+          "D": "Triglycerides in chylomicrons are hydrolyzed by lipoprotein lipase on the capillary endothelium.",
+          "E": "VLDL is made in the liver and chylomicrons in the intestine; neither is converted directly into the other."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-723_Brick Exchange - Dyslipidemia_ Pathophysiology_p6_1.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Inclisiran is a siRNA that harnesses the RISC pathway to degrade PCSK9 mRNA. Less PCSK9 means fewer LDL receptors are targeted for lysosomal destruction, so more receptors recycle to the surface and clear more LDL from the blood.",
         "whyCorrect": "Inclisiran is a siRNA that harnesses the RISC pathway to degrade PCSK9 mRNA. Less PCSK9 means fewer LDL receptors are targeted for lysosomal destruction, so more receptors recycle to the surface and clear more LDL from the blood.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Blocking intestinal cholesterol uptake at the NPC1L1 transporter is how ezetimibe works, not an siRNA acting through RISC.",
+          "C": "Bile acid sequestrants such as cholestyramine bind bile acids in the gut lumen and never enter hepatocytes to act on mRNA.",
+          "D": "Monoclonal antibodies such as evolocumab bind circulating PCSK9 protein, not LDL particles, and they do not degrade mRNA.",
+          "E": "Statins inhibit HMG-CoA reductase enzyme activity; they do not silence gene expression through the RISC complex."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-589_Brick Exchange - Dyslipidemia_ Pharmacological and Non-Pharmacological options_p14_1.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "The AHA/ACC pooled cohort equations estimate 10-year ASCVD risk; the thresholds (<5%, 5-<7.5%, >=7.5-<20%, >=20%) categorize patients to guide the risk discussion and intensity of statin therapy, with risk enhancers pushing borderline/intermediate patients toward treatment.",
         "whyCorrect": "The AHA/ACC pooled cohort equations estimate 10-year ASCVD risk; the thresholds (<5%, 5-<7.5%, >=7.5-<20%, >=20%) categorize patients to guide the risk discussion and intensity of statin therapy, with risk enhancers pushing borderline/intermediate patients toward treatment.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Thirty-day all-cause mortality is a short-term outcome used in acute care risk scores, not the 10-year estimate behind statin decisions.",
+          "C": "Recurrent venous thromboembolism risk guides anticoagulation duration, not statin therapy.",
+          "D": "In-hospital bleeding risk scores guide antithrombotic decisions, not long-term primary prevention with statins.",
+          "E": "Diabetes is a risk enhancer and a statin side-effect consideration, but the tiers are defined by atherosclerotic event risk."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-391_Brick Exchange - Treatment of Dyslipidemia_p7_1.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "Statins competitively inhibit HMG-CoA reductase, the rate-limiting enzyme of hepatic cholesterol synthesis; the resulting upregulation of LDL receptors clears LDL from the blood, the basis for their central role in ASCVD prevention.",
         "whyCorrect": "Statins competitively inhibit HMG-CoA reductase, the rate-limiting enzyme of hepatic cholesterol synthesis; the resulting upregulation of LDL receptors clears LDL from the blood, the basis for their central role in ASCVD prevention.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "NPC1L1 is the intestinal cholesterol transporter blocked by ezetimibe, not the target of statins.",
+          "C": "CETP moves cholesteryl esters from HDL to other lipoproteins; CETP inhibitors are a separate drug class that has largely failed in outcome trials.",
+          "D": "PCSK9 is targeted by monoclonal antibodies and inclisiran; statins actually tend to raise PCSK9 levels.",
+          "E": "Lipoprotein lipase hydrolyzes triglycerides in chylomicrons and VLDL and is upregulated by fibrates, not inhibited by statins."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-597_Brick Exchange - Treatment of Dyslipidemia_p10_1.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "The drugs shown are statins, graded by intensity. Statins competitively inhibit HMG-CoA reductase, the rate-limiting enzyme of hepatic cholesterol synthesis, upregulating LDL receptors and lowering serum LDL-C; higher-intensity agents/doses (e.g., rosuvastatin 20-40 mg, atorvastatin 40-80 mg) lower LDL-C >50%.",
         "whyCorrect": "The drugs shown are statins, graded by intensity. Statins competitively inhibit HMG-CoA reductase, the rate-limiting enzyme of hepatic cholesterol synthesis, upregulating LDL receptors and lowering serum LDL-C; higher-intensity agents/doses (e.g., rosuvastatin 20-40 mg, atorvastatin 40-80 mg) lower LDL-C >50%.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Lipoprotein lipase clears triglycerides from chylomicrons and VLDL; fibrates increase its activity, and no LDL-lowering drug inhibits it.",
+          "C": "ACAT esterifies cholesterol inside cells; ACAT inhibitors failed in trials and are not the statins graded by intensity here.",
+          "D": "Cholesterol 7-alpha-hydroxylase converts cholesterol to bile acids; bile acid sequestrants indirectly upregulate it rather than inhibit it.",
+          "E": "PCSK9 is targeted by injectable antibodies and siRNA, not by the oral statins classified by intensity."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-598_Brick Exchange - Treatment of Dyslipidemia_p12_1.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "Blunting of the normally sharp costophrenic angle with a meniscus of dependent fluid on PA and lateral films is the classic radiographic sign of a pleural effusion.",
         "whyCorrect": "Blunting of the normally sharp costophrenic angle with a meniscus of dependent fluid on PA and lateral films is the classic radiographic sign of a pleural effusion.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Lobar pneumonia appears as dense consolidation with air bronchograms within a lobe, not dependent fluid with a meniscus at the costophrenic angle.",
+          "B": "Pneumothorax shows a thin visceral pleural line with absent lung markings beyond it; free air rises and does not form a dependent meniscus.",
+          "C": "A hiatal hernia appears as a retrocardiac mass, often with an air-fluid level, behind the heart rather than at the lateral costophrenic angle.",
+          "E": "Cardiomegaly widens the cardiac silhouette beyond half the thoracic width without blunting the costophrenic angles."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-244_Brick Exchange - Diagnosis by Cardiovascular Imaging_p10_1.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "An enlarged heart with bilateral perihilar (bat-wing) alveolar opacification reflects elevated left-heart filling pressures driving fluid into the interstitium and alveoli, the hallmark of cardiogenic pulmonary edema.",
         "whyCorrect": "An enlarged heart with bilateral perihilar (bat-wing) alveolar opacification reflects elevated left-heart filling pressures driving fluid into the interstitium and alveoli, the hallmark of cardiogenic pulmonary edema.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Bilateral pneumothorax would show lucent spaces without lung markings and visible pleural lines, not hazy perihilar opacities.",
+          "C": "A normal chest film has a cardiac silhouette under half the thoracic width and crisp lung markings, unlike this enlarged, hazy appearance.",
+          "D": "Rib fractures appear as cortical breaks in the ribs and do not cause diffuse perihilar haziness or an enlarged heart.",
+          "E": "Emphysema shows hyperlucent, hyperinflated lungs with flattened diaphragms and a narrow heart, the opposite of this picture."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-245_Brick Exchange - Diagnosis by Cardiovascular Imaging_p10_2.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "When intrapericardial pressure transiently exceeds right ventricular filling pressure, the thin RV free wall collapses in diastole; this is an early and sensitive echocardiographic indicator of cardiac tamponade.",
         "whyCorrect": "When intrapericardial pressure transiently exceeds right ventricular filling pressure, the thin RV free wall collapses in diastole; this is an early and sensitive echocardiographic indicator of cardiac tamponade.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Aortic stenosis appears on echo as thickened, calcified aortic cusps with restricted opening and left ventricular hypertrophy, not right ventricular collapse with an effusion.",
+          "B": "Mitral valve prolapse shows mitral leaflets bowing into the left atrium during systole, not the right ventricular wall buckling in diastole.",
+          "D": "In a healthy heart the right ventricle stays open throughout diastole and there is no significant fluid around the heart.",
+          "E": "Left ventricular hypertrophy shows a thickened LV wall and septum, without a pericardial effusion compressing the right ventricle."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-246_Brick Exchange - Diagnosis by Cardiovascular Imaging_p12_1.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "A dilated ventricle with high end-systolic volume reflects reduced ejection fraction (HFrEF), whereas preserved chamber volumes and contraction reflect HFpEF; distinguishing them guides very different therapy.",
         "whyCorrect": "A dilated ventricle with high end-systolic volume reflects reduced ejection fraction (HFrEF), whereas preserved chamber volumes and contraction reflect HFpEF; distinguishing them guides very different therapy.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Pericarditis is diagnosed from chest pain, a friction rub and diffuse ST elevation, sometimes with an effusion, not from ventricular volume and emptying.",
+          "B": "Valvular regurgitation is identified by Doppler regurgitant jets across a specific valve, not by comparing overall chamber volumes between patients.",
+          "C": "The comparison is between two heart-failure patients with different ventricular function, not the systolic and diastolic frames of one normal heart.",
+          "E": "Bundle branch blocks are electrical conduction findings on ECG, not differences in ventricular size seen on echo."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-247_Brick Exchange - Diagnosis by Cardiovascular Imaging_p13_1.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "Radiotracer uptake mapped in standard cardiac planes with a stress defect that reperfuses at rest is characteristic of myocardial perfusion SPECT, which detects reversible ischemia.",
         "whyCorrect": "Radiotracer uptake mapped in standard cardiac planes with a stress defect that reperfuses at rest is characteristic of myocardial perfusion SPECT, which detects reversible ischemia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Coronary CT angiography shows the coronary artery lumen and plaque anatomically, not color-coded tracer uptake comparing stress and rest.",
+          "C": "Transthoracic echo shows wall motion and valves in grayscale; it does not display radiotracer perfusion in standardized tomographic slices.",
+          "D": "A chest radiograph is a single projection image of the thorax and cannot show regional myocardial perfusion.",
+          "E": "Late gadolinium enhancement MRI shows scar as bright myocardium that does not change between stress and rest; a defect that fills in at rest indicates reversible ischemia."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-248_Brick Exchange - Diagnosis by Cardiovascular Imaging_p15_1.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "Retrograde catheter access to the aortic root followed by selective contrast injection to visualize the coronary tree is the definition of invasive coronary angiography.",
         "whyCorrect": "Retrograde catheter access to the aortic root followed by selective contrast injection to visualize the coronary tree is the definition of invasive coronary angiography.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Bypass grafting is open-heart surgery that sews vein or arterial conduits onto the coronaries, not catheter-delivered contrast injection.",
+          "B": "Pacemaker leads are passed through veins into the right atrium and ventricle, not up the arterial tree to the aortic root.",
+          "C": "Transesophageal echo images the heart with an ultrasound probe in the esophagus; it involves no catheter or contrast in the coronaries.",
+          "D": "Pericardiocentesis inserts a needle into the pericardial sac to drain fluid, not a catheter to the aortic root."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-249_Brick Exchange - Diagnosis by Cardiovascular Imaging_p16_1.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "A rotating abrasive crown is used to debulk severely calcified coronary lesions that resist balloon dilation, allowing subsequent stent expansion; this is atherectomy within PCI.",
         "whyCorrect": "A rotating abrasive crown is used to debulk severely calcified coronary lesions that resist balloon dilation, allowing subsequent stent expansion; this is atherectomy within PCI.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Thrombolysis with tPA dissolves fresh fibrin clot pharmacologically; it cannot remove calcified plaque and uses no rotating device.",
+          "C": "Bypass grafting routes a conduit around the blockage surgically rather than grinding away plaque within the artery.",
+          "D": "Balloon valvuloplasty dilates a stenotic heart valve, not a calcified coronary artery, and it uses no abrasive burr.",
+          "E": "Radiofrequency ablation destroys arrhythmogenic myocardial tissue with heat; it does not debulk coronary plaque."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-250_Brick Exchange - Diagnosis by Cardiovascular Imaging_p17_1.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "A balloon compresses the atherosclerotic plaque and deploys a stent that scaffolds the widened lumen to maintain increased blood flow, the standard percutaneous treatment for a flow-limiting coronary stenosis.",
         "whyCorrect": "A balloon compresses the atherosclerotic plaque and deploys a stent that scaffolds the widened lumen to maintain increased blood flow, the standard percutaneous treatment for a flow-limiting coronary stenosis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Atherectomy cuts or grinds plaque away with a rotating or cutting device rather than compressing it with a balloon and leaving a mesh scaffold behind.",
+          "B": "Bypass grafting is a surgical detour around the blockage with a vein or artery, not a device deployed inside the narrowed vessel.",
+          "C": "A pericardial window drains a pericardial effusion and has nothing to do with opening an artery.",
+          "D": "Carotid endarterectomy surgically opens the artery and strips out the plaque; no balloon or stent is left in place."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-251_Brick Exchange - Diagnosis by Cardiovascular Imaging_p17_2.png",
@@ -618,7 +693,12 @@
       "explanation": {
         "summary": "Correlating catheter angiography with coronary CT and 3D reconstruction shows that a stenosis identified invasively can also be characterized noninvasively, and complementary views improve localization and planning.",
         "whyCorrect": "Correlating catheter angiography with coronary CT and 3D reconstruction shows that a stenosis identified invasively can also be characterized noninvasively, and complementary views improve localization and planning.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The comparison pairs 3D renderings with cross-sectional and angiographic views; 3D reconstruction is built from cross-sectional data, not a replacement for it.",
+          "C": "Color tracer uptake is the language of nuclear perfusion imaging; these panels show luminal anatomy by angiography and CT.",
+          "D": "The figure shows that noninvasive CT can find the same lesion, which contradicts the idea that only invasive angiography detects disease.",
+          "E": "The arrows mark a coronary artery lesion, not a heart valve."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-252_Brick Exchange - Diagnosis by Cardiovascular Imaging_p18_1.png",
@@ -657,7 +737,12 @@
       "explanation": {
         "summary": "The red circles mark calcified atherosclerotic plaque in the coronary arteries. Coronary artery calcium scoring on non-contrast CT quantifies atherosclerotic burden and refines cardiovascular risk stratification.",
         "whyCorrect": "The red circles mark calcified atherosclerotic plaque in the coronary arteries. Coronary artery calcium scoring on non-contrast CT quantifies atherosclerotic burden and refines cardiovascular risk stratification.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Infarct scar is shown by late gadolinium enhancement on MRI or fixed perfusion defects, not by calcium densities along the coronaries on non-contrast CT.",
+          "B": "Ejection fraction requires imaging over the cardiac cycle, by echo, MRI or gated scans, not calcium scoring.",
+          "D": "Pulmonary hypertension is suggested by an enlarged pulmonary artery and right heart strain, not coronary calcium.",
+          "E": "Aortic valve calcium can be scored separately, but the circled densities lie along the coronary arteries and reflect atherosclerotic burden."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-253_Brick Exchange - Diagnosis by Cardiovascular Imaging_p19_1.png",
@@ -696,7 +781,12 @@
       "explanation": {
         "summary": "This is a bedside portable chest X-ray obtained supine in the AP projection, common in critically ill patients who cannot stand for a standard PA film. AP supine technique magnifies the heart and mediastinum.",
         "whyCorrect": "This is a bedside portable chest X-ray obtained supine in the AP projection, common in critically ill patients who cannot stand for a standard PA film. AP supine technique magnifies the heart and mediastinum.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Abdominal ultrasound produces sector-shaped sonographic images of abdominal organs, not a radiograph labeled with projection and position.",
+          "C": "Cardiac MRI is done in a scanner suite, cannot be brought to the bedside, and produces cross-sectional images.",
+          "D": "Coronary CT angiography requires a CT scanner and IV contrast; it is not a bedside radiograph.",
+          "E": "A PA upright film is taken with the patient standing, back to the X-ray tube, in the radiology department, the opposite of this supine AP bedside film."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-254_Brick Exchange - Diagnosis by Cardiovascular Imaging_p1_1.png",
@@ -735,7 +825,12 @@
       "explanation": {
         "summary": "Multiple modalities are used to measure the dilated abdominal aorta, whose diameter (>3 cm, here 5.5 cm) defines an aneurysm. Size on serial imaging guides surgical repair decisions.",
         "whyCorrect": "Multiple modalities are used to measure the dilated abdominal aorta, whose diameter (>3 cm, here 5.5 cm) defines an aneurysm. Size on serial imaging guides surgical repair decisions.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Renal cell carcinoma is a solid renal mass, not a dilated tubular vessel measured across its diameter.",
+          "C": "Portal hypertension causes portal vein dilation and varices, but portal veins are not measured at 5.5 cm in the context of aneurysm repair.",
+          "D": "Splenic artery thrombosis is an occlusion that cuts off flow, not a large dilated vessel.",
+          "E": "Ureteral obstruction dilates the collecting system and ureter (hydronephrosis), not an abdominal vessel."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-255_Brick Exchange - Diagnosis by Cardiovascular Imaging_p20_1.png",
@@ -774,7 +869,12 @@
       "explanation": {
         "summary": "The suprasternal notch echocardiographic view images the aortic arch with the innominate, left common carotid, and left subclavian arteries, useful for assessing dissection, coarctation, and arch pathology.",
         "whyCorrect": "The suprasternal notch echocardiographic view images the aortic arch with the innominate, left common carotid, and left subclavian arteries, useful for assessing dissection, coarctation, and arch pathology.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The left ventricular apex is imaged from the apical window at the point of maximal impulse, not the suprasternal notch.",
+          "C": "The pulmonary valve and main pulmonary artery are seen best in the parasternal short-axis view at the base.",
+          "D": "The aortic bifurcation lies at about L4 in the abdomen and is imaged from the abdomen, not from the neck.",
+          "E": "The IVC and hepatic veins are imaged from the subcostal window below the xiphoid."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-256_Brick Exchange - Diagnosis by Cardiovascular Imaging_p20_2.png",
@@ -813,7 +913,12 @@
       "explanation": {
         "summary": "All three modalities demonstrate abnormal dilation of the ascending aorta above the sinotubular junction, compared to the smaller descending aorta. Diameter drives the threshold for elective surgical repair.",
         "whyCorrect": "All three modalities demonstrate abnormal dilation of the ascending aorta above the sinotubular junction, compared to the smaller descending aorta. Diameter drives the threshold for elective surgical repair.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A pulmonary artery aneurysm involves the vessel leaving the right ventricle, not the ascending aorta above the sinotubular junction.",
+          "B": "A left atrial myxoma is a mobile intracardiac mass often attached to the fossa ovalis region, not vessel dilation.",
+          "C": "A mitral valve vegetation is an infected mass on the valve leaflet, a few millimeters to centimeters in size, not a dilated vessel segment.",
+          "E": "A coronary artery fistula is an abnormal connection between a coronary artery and a chamber or vessel, far smaller than the dilated segment shown."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-257_Brick Exchange - Diagnosis by Cardiovascular Imaging_p21_1.png",
@@ -852,7 +957,12 @@
       "explanation": {
         "summary": "An abdominal aorta exceeding roughly 3 cm is aneurysmal. The bottom panel shows contrast and blood extending beyond the aortic wall, indicating a life-threatening rupture.",
         "whyCorrect": "An abdominal aorta exceeding roughly 3 cm is aneurysmal. The bottom panel shows contrast and blood extending beyond the aortic wall, indicating a life-threatening rupture.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "An 8 cm aorta is a very large aneurysm at high risk of rupture; the defining threshold is much lower.",
+          "C": "Fifteen centimeters is far beyond any defining threshold; abdominal aneurysms are repaired electively at about 5.5 cm.",
+          "D": "A normal adult abdominal aorta is about 2 cm, so 1 cm is below normal size, not a threshold for aneurysm.",
+          "E": "Wall calcification reflects atherosclerosis and occurs in normal-caliber aortas; aneurysm is defined by diameter."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-258_Brick Exchange - Diagnosis by Cardiovascular Imaging_p22_1.png",
@@ -891,7 +1001,12 @@
       "explanation": {
         "summary": "Conventional angiography and CT angiographic 3D reconstruction opacify the iliofemoral arterial tree to localize atherosclerotic narrowing or occlusion, guiding revascularization in peripheral arterial disease.",
         "whyCorrect": "Conventional angiography and CT angiographic 3D reconstruction opacify the iliofemoral arterial tree to localize atherosclerotic narrowing or occlusion, guiding revascularization in peripheral arterial disease.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Myocardial perfusion is studied with nuclear, MRI or echo stress imaging of the heart, not with pelvic and leg arteriograms.",
+          "B": "Bone density is measured by DEXA scanning, not by contrast angiography.",
+          "D": "Lymph node metastases are assessed by CT, PET or biopsy; arterial contrast studies do not stage nodes.",
+          "E": "Venous valve competence is assessed by duplex ultrasound of the veins, not by arterial contrast injection."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-259_Brick Exchange - Diagnosis by Cardiovascular Imaging_p23_1.png",
@@ -930,7 +1045,12 @@
       "explanation": {
         "summary": "A routine chest X-ray series pairs a posteroanterior (frontal) view with a lateral view; the lateral projection helps localize lesions in the anteroposterior dimension and evaluate retrocardiac and retrosternal spaces.",
         "whyCorrect": "A routine chest X-ray series pairs a posteroanterior (frontal) view with a lateral view; the lateral projection helps localize lesions in the anteroposterior dimension and evaluate retrocardiac and retrosternal spaces.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "AP supine and decubitus films are used for immobile patients or layering effusions, not the routine two-view chest series.",
+          "B": "A barium swallow shows contrast filling the esophagus, which these plain chest films do not show.",
+          "C": "Coronary angiograms are fluoroscopic runs showing contrast-filled coronary arteries, not standard projections of the whole chest.",
+          "D": "MRI two- and four-chamber views are cross-sectional slices of the heart, not projection radiographs of the chest."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-260_Brick Exchange - Diagnosis by Cardiovascular Imaging_p4_1.png",
@@ -969,7 +1089,12 @@
       "explanation": {
         "summary": "The lateral view and CT localize the mass behind the sternum in the anterior mediastinum, the compartment classically home to thymoma, teratoma, lymphoma, and thyroid masses (the 'terrible Ts').",
         "whyCorrect": "The lateral view and CT localize the mass behind the sternum in the anterior mediastinum, the compartment classically home to thymoma, teratoma, lymphoma, and thyroid masses (the 'terrible Ts').",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The retroperitoneum is an abdominal space behind the peritoneum, not part of the chest.",
+          "C": "The middle mediastinum contains the heart and pericardium; a mass immediately behind the sternum and in front of the heart lies anterior to it.",
+          "D": "The posterior mediastinum lies behind the heart beside the spine, the opposite of a retrosternal location.",
+          "E": "The pleural space surrounds the lungs laterally; a pleural lesion would not sit centrally behind the sternum."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-261_Brick Exchange - Diagnosis by Cardiovascular Imaging_p4_2.png",
@@ -1008,7 +1133,12 @@
       "explanation": {
         "summary": "A large pericardial effusion produces a globular, symmetric 'water-bottle' cardiac silhouette that distends the pericardial sac, distinct from true chamber enlargement seen in cardiomegaly.",
         "whyCorrect": "A large pericardial effusion produces a globular, symmetric 'water-bottle' cardiac silhouette that distends the pericardial sac, distinct from true chamber enlargement seen in cardiomegaly.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The snowman (figure-of-8) sign is seen in supracardiac total anomalous pulmonary venous return, with a dilated vertical vein and SVC forming a rounded superior shadow.",
+          "C": "The egg-on-a-string sign is a narrow-pedicled, egg-shaped heart in transposition of the great arteries.",
+          "D": "The sail sign is the normal infant thymus seen as a triangular shadow next to the heart, or left lower lobe collapse behind it in adults.",
+          "E": "The boot-shaped heart is the upturned apex of right ventricular hypertrophy in tetralogy of Fallot, not a symmetric globular enlargement."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-262_Brick Exchange - Diagnosis by Cardiovascular Imaging_p6_1.png",
@@ -1047,7 +1177,12 @@
       "explanation": {
         "summary": "This is a portable (bedside) chest X-ray taken with the patient upright, indicated by the PORTABLE/UPRIGHT annotation and the tangle of external ICU leads and tubing overlying the thorax.",
         "whyCorrect": "This is a portable (bedside) chest X-ray taken with the patient upright, indicated by the PORTABLE/UPRIGHT annotation and the tangle of external ICU leads and tubing overlying the thorax.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A fluoroscopic spot film is captured during a contrast study in the fluoroscopy suite, not a bedside film with ICU monitoring leads.",
+          "C": "A CT scout is a low-dose planning image taken on the CT table before cross-sectional scanning, not a portable upright film.",
+          "D": "A supine abdominal film centers on the abdomen with the patient lying flat, contradicting the upright label and chest field.",
+          "E": "A ventilation-perfusion scan is a nuclear medicine study with radiotracer uptake images, not a radiograph."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-263_Brick Exchange - Diagnosis by Cardiovascular Imaging_p8_2.png",
@@ -1086,7 +1221,12 @@
       "explanation": {
         "summary": "Diffuse narrowing and reduced distal opacification of the tibial arteries reflect atherosclerotic peripheral arterial disease, which reduces limb perfusion and causes claudication or critical limb ischemia.",
         "whyCorrect": "Diffuse narrowing and reduced distal opacification of the tibial arteries reflect atherosclerotic peripheral arterial disease, which reduces limb perfusion and causes claudication or critical limb ischemia.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Chronic lymphedema is a disorder of lymphatic drainage causing limb swelling with normal arteries on CT angiography.",
+          "B": "Deep vein thrombosis is a clot in the veins, best shown by compression ultrasound, not diffuse arterial narrowing on CTA.",
+          "C": "Compartment syndrome is raised pressure within a fascial compartment, diagnosed clinically or by pressure measurement, not by diffusely narrowed arteries.",
+          "D": "Superficial thrombophlebitis is inflammation and clot in a superficial vein, not narrowing of the tibial arteries."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-477_Brick Exchange - Diagnosis by Cardiovascular Imaging_p24_1.png",
@@ -1125,7 +1265,12 @@
       "explanation": {
         "summary": "Blunt traumatic aortic injury typically occurs at the isthmus just distal to the left subclavian artery, where the mobile arch meets the fixed descending aorta; deceleration forces shear the wall at this tethered point.",
         "whyCorrect": "Blunt traumatic aortic injury typically occurs at the isthmus just distal to the left subclavian artery, where the mobile arch meets the fixed descending aorta; deceleration forces shear the wall at this tethered point.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Chronic hypertension leads to ascending aortic dilation or dissection from medial degeneration, not traumatic tearing at the isthmus in a trauma patient.",
+          "C": "Bacterial seeding causes a mycotic aneurysm, a subacute infectious process, not acute injury after trauma.",
+          "D": "Coronary plaque rupture causes myocardial infarction and occurs in the coronary arteries, not at the aortic isthmus.",
+          "E": "Coarctation is a congenital narrowing near the ductus, present from birth and not caused by trauma."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-478_Brick Exchange - Diagnosis by Cardiovascular Imaging_p25_1.png",
@@ -1164,7 +1309,12 @@
       "explanation": {
         "summary": "The blue ovals mark an intimal flap, the hallmark of aortic dissection, where blood enters and splits the intima from the media creating a false lumen. On chest X-ray this may appear as a widened mediastinum.",
         "whyCorrect": "The blue ovals mark an intimal flap, the hallmark of aortic dissection, where blood enters and splits the intima from the media creating a false lumen. On chest X-ray this may appear as a widened mediastinum.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Separation of the adventitia from surrounding fat would be a periaortic process such as hematoma, not a linear flap inside the lumen.",
+          "B": "The endocardium and myocardium are layers of the heart wall, not of the aorta.",
+          "C": "The pleural layers surround the lungs; their separation by air or fluid is a pneumothorax or effusion, not a flap within the aorta.",
+          "D": "Separation of the pericardial layers by fluid is a pericardial effusion around the heart, not a linear structure in the aortic lumen."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-479_Brick Exchange - Diagnosis by Cardiovascular Imaging_p3_1.png",
@@ -1203,7 +1353,12 @@
       "explanation": {
         "summary": "The combination of upper-lobe vascular redistribution, peribronchial cuffing, Kerley B lines, hilar congestion, and an enlarged heart reflects elevated pulmonary venous pressure from left heart failure causing interstitial pulmonary edema.",
         "whyCorrect": "The combination of upper-lobe vascular redistribution, peribronchial cuffing, Kerley B lines, hilar congestion, and an enlarged heart reflects elevated pulmonary venous pressure from left heart failure causing interstitial pulmonary edema.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "COPD shows hyperinflation, flattened diaphragms and a narrow heart, not vascular redistribution with Kerley B lines and cardiomegaly.",
+          "C": "Lobar pneumonia produces focal consolidation with air bronchograms confined to one lobe, without Kerley lines or cardiomegaly.",
+          "D": "Pulmonary embolism usually gives a near-normal film or subtle signs such as Westermark or Hampton hump, not diffuse congestive changes.",
+          "E": "Tension pneumothorax shows a hyperlucent hemithorax with mediastinal shift away from it, not bilateral interstitial edema."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-480_Brick Exchange - Diagnosis by Cardiovascular Imaging_p8_1.png",
@@ -1242,7 +1397,12 @@
       "explanation": {
         "summary": "The diagram illustrates how deceleration generates osseous pinch, torsion, a water-hammer pressure surge, and stretching/shearing at the aortic isthmus, explaining why blunt trauma injures the aorta at this vulnerable site.",
         "whyCorrect": "The diagram illustrates how deceleration generates osseous pinch, torsion, a water-hammer pressure surge, and stretching/shearing at the aortic isthmus, explaining why blunt trauma injures the aorta at this vulnerable site.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The conduction pathway runs from the SA node through the AV node and His-Purkinje system, an electrical sequence unrelated to forces on the aorta.",
+          "B": "Surfactant is produced by type II pneumocytes in the alveoli; it has nothing to do with forces acting on the aortic wall.",
+          "D": "The Frank-Starling mechanism relates ventricular stretch to stroke volume, an intrinsic cardiac property, not external trauma forces.",
+          "E": "Atherosclerotic plaque forms through endothelial injury, lipid deposition and inflammation over years, not through osseous pinch or torsion."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-718_Brick Exchange - Diagnosis by Cardiovascular Imaging_p26_1.png",
@@ -1281,7 +1441,12 @@
       "explanation": {
         "summary": "Cardiogenic pulmonary edema arises when failing left heart function raises left atrial and pulmonary venous pressure, driving fluid into the interstitium and alveoli, producing the perihilar batwing pattern and Kerley B lines.",
         "whyCorrect": "Cardiogenic pulmonary edema arises when failing left heart function raises left atrial and pulmonary venous pressure, driving fluid into the interstitium and alveoli, producing the perihilar batwing pattern and Kerley B lines.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "SVC obstruction causes facial and upper-limb swelling with dilated chest wall veins; it raises systemic venous pressure, not pulmonary capillary pressure.",
+          "B": "Chronic thromboembolism raises pulmonary arterial pressure upstream of the capillaries and causes right heart strain, not perihilar batwing edema.",
+          "C": "Bronchial arteries are systemic vessels supplying the airways; systemic hypertension does not flood the alveoli through them.",
+          "D": "Tricuspid stenosis raises right atrial and systemic venous pressure, causing peripheral edema and hepatic congestion, not pulmonary edema."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-719_Brick Exchange - Diagnosis by Cardiovascular Imaging_p9_1.png",

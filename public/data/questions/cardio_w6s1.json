@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "Tricuspid valve vegetations shed infected fragments into the pulmonary circulation, producing multiple peripheral septic emboli that may cavitate. Their embolic, peripheral distribution and clinical context distinguish them from metastases or granulomatous disease.",
         "whyCorrect": "Tricuspid valve vegetations shed infected fragments into the pulmonary circulation, producing multiple peripheral septic emboli that may cavitate. Their embolic, peripheral distribution and clinical context distinguish them from metastases or granulomatous disease.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Metastases can be multiple and peripheral, but in a patient with tricuspid endocarditis septic emboli are expected, often with cavitation.",
+          "B": "Sarcoid nodules follow a perilymphatic distribution with hilar adenopathy, not a random peripheral embolic pattern.",
+          "D": "Bland infarcts follow thromboembolism from the deep veins and are typically wedge-shaped; infected valve fragments produce septic, often cavitating nodules.",
+          "E": "Miliary tuberculosis gives innumerable tiny 1-3 mm uniform nodules throughout the lungs, not scattered larger peripheral nodules."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-297_Brick Exchange - Infective Endocarditis_p11_1.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "Hematogenous seeding from endocarditis can infect the intervertebral disc and adjacent vertebrae, producing pyogenic discitis-osteomyelitis. Disc-centered destruction with endplate involvement distinguishes it from the non-infectious distractors.",
         "whyCorrect": "Hematogenous seeding from endocarditis can infect the intervertebral disc and adjacent vertebrae, producing pyogenic discitis-osteomyelitis. Disc-centered destruction with endplate involvement distinguishes it from the non-infectious distractors.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Canal stenosis narrows the spinal canal from degenerative bony and ligamentous overgrowth, without disc and endplate destruction.",
+          "C": "A herniation is displaced disc material without endplate destruction or infection, and it does not fit the endocarditis setting.",
+          "D": "Metastases typically destroy the vertebral body and pedicles while sparing the disc, unlike this disc-centered process.",
+          "E": "An osteoporotic fracture collapses the vertebral body without destroying the disc space or adjacent endplates."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-298_Brick Exchange - Infective Endocarditis_p12_1.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "The white center of a retinal hemorrhage in endocarditis is composed of fibrin, platelets, and inflammatory cells, marking it as an embolic/immunologic lesion rather than a lipid or pigmented deposit.",
         "whyCorrect": "The white center of a retinal hemorrhage in endocarditis is composed of fibrin, platelets, and inflammatory cells, marking it as an embolic/immunologic lesion rather than a lipid or pigmented deposit.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The pale center is not pus or a microabscess; it consists of fibrin, platelets, and inflammatory cells.",
+          "B": "Melanin pigment would appear dark, as in a nevus or chorioretinal scar, not as a white center within a hemorrhage.",
+          "D": "Calcium deposits are not part of these acute hemorrhagic lesions, which evolve from fibrin-platelet occlusion and inflammation.",
+          "E": "Hard exudates are yellow lipid deposits from leaky vessels, as in diabetic retinopathy, not the white centers of these hemorrhages."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-299_Brick Exchange - Infective Endocarditis_p17_1.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "Transesophageal echocardiography provides the highest sensitivity for valvular vegetations because the probe sits directly behind the heart, avoiding chest-wall attenuation. It is the diagnostic standard when transthoracic imaging is inconclusive.",
         "whyCorrect": "Transesophageal echocardiography provides the highest sensitivity for valvular vegetations because the probe sits directly behind the heart, avoiding chest-wall attenuation. It is the diagnostic standard when transthoracic imaging is inconclusive.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Coronary angiography opacifies the coronary arteries and cannot reliably image valve leaflets or vegetations.",
+          "C": "CT can show embolic complications or abscess, but it is less sensitive than transesophageal ultrasound for small mobile vegetations.",
+          "D": "Cardiac MRI is limited for small, rapidly moving valvular masses and is not the standard for detecting vegetations.",
+          "E": "A chest radiograph cannot visualize valve leaflets at all."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-300_Brick Exchange - Infective Endocarditis_p19_1.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "Right-sided (tricuspid) endocarditis is strongly associated with intravenous drug use, as injected material and skin flora are delivered first to the right heart. It classically embolizes to the lungs rather than the systemic circulation.",
         "whyCorrect": "Right-sided (tricuspid) endocarditis is strongly associated with intravenous drug use, as injected material and skin flora are delivered first to the right heart. It classically embolizes to the lungs rather than the systemic circulation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Dental procedures seed viridans streptococci onto previously abnormal left-sided valves, not typically the tricuspid valve.",
+          "C": "A prosthetic aortic valve predisposes to left-sided, prosthetic valve endocarditis, not tricuspid vegetations.",
+          "D": "Rheumatic heart disease mainly damages the mitral and aortic valves, setting up left-sided endocarditis.",
+          "E": "A bicuspid aortic valve is a substrate for aortic valve endocarditis on the left side of the heart."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-301_Brick Exchange - Infective Endocarditis_p9_1.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "These tender lesions are attributed to immune-complex mediated vasculitis, which accounts for their pain. This contrasts with the painless palmar/plantar lesions that arise from septic emboli.",
         "whyCorrect": "These tender lesions are attributed to immune-complex mediated vasculitis, which accounts for their pain. This contrasts with the painless palmar/plantar lesions that arise from septic emboli.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Venous stasis causes edema, hyperpigmentation, and ulcers of the lower legs, not tender nodules on the finger pads.",
+          "C": "These are Osler nodes; their pain reflects immune-complex vasculitis rather than bland platelet-fibrin arteriolar thrombosis.",
+          "D": "Direct epidermal invasion would produce pustules or cellulitis, not tender nodules in the pulp of the fingers.",
+          "E": "Septic microemboli produce the painless Janeway lesions on the palms and soles, whereas these tender finger-pad nodules are immunologic."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-495_Brick Exchange - Infective Endocarditis_p14_1.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "These painless palmar/plantar macules result from septic emboli seeding small dermal vessels. Their painlessness and embolic origin distinguish them from the tender, immune-complex lesions of the finger pads.",
         "whyCorrect": "These painless palmar/plantar macules result from septic emboli seeding small dermal vessels. Their painlessness and embolic origin distinguish them from the tender, immune-complex lesions of the finger pads.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Immune-complex vasculitis underlies the tender Osler nodes of the finger pads, not painless palmar macules.",
+          "B": "Cold-induced vasospasm is Raynaud phenomenon, producing color changes of the digits rather than fixed hemorrhagic palmar macules.",
+          "C": "Venous hypertension affects the lower legs with edema and stasis changes, not the palm.",
+          "E": "Unconjugated hyperbilirubinemia causes jaundice, a diffuse yellow discoloration, not discrete hemorrhagic macules."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-496_Brick Exchange - Infective Endocarditis_p15_1.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "Splinter hemorrhages are linear subungual microhemorrhages from embolic or vascular damage and are a recognized peripheral sign of infective endocarditis. Their thin linear form along the nail axis distinguishes them from pigmented or structural nail lesions.",
         "whyCorrect": "Splinter hemorrhages are linear subungual microhemorrhages from embolic or vascular damage and are a recognized peripheral sign of infective endocarditis. Their thin linear form along the nail axis distinguishes them from pigmented or structural nail lesions.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Onycholysis is separation of the nail plate from the nail bed, seen as a white or yellow distal area, not thin red-brown streaks.",
+          "B": "Nail pitting consists of small depressions in the nail plate, typical of psoriasis, not linear hemorrhages beneath it.",
+          "D": "Subungual melanoma presents as a broad, often widening dark band with possible pigment spreading onto the nail fold (Hutchinson sign), not thin splinter-like streaks.",
+          "E": "Beau's lines are transverse grooves from temporary growth arrest, running across the nail rather than along it."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-497_Brick Exchange - Infective Endocarditis_p16_1.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "The masses are vegetations of infective endocarditis. Left-sided vegetations can break off and travel through the systemic circulation, producing septic emboli to the brain, kidneys, spleen, and extremities.",
         "whyCorrect": "The masses are vegetations of infective endocarditis. Left-sided vegetations can break off and travel through the systemic circulation, producing septic emboli to the brain, kidneys, spleen, and extremities.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Tamponade requires rapid pericardial fluid accumulation; it can follow ring abscess rupture but is not the most common complication of vegetations.",
+          "B": "Pulmonary embolization occurs with right-sided vegetations; left-sided vegetations embolize into the systemic circulation.",
+          "C": "Aortic dissection results from medial degeneration and hypertension, not from valvular vegetations.",
+          "D": "Coronary vasospasm is a functional arterial disorder unrelated to valve vegetations, which instead cause coronary emboli when they embolize."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-498_Brick Exchange - Infective Endocarditis_p8_1.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "Small, sterile, loosely attached vegetations on the valve closure lines without inflammation or leaflet destruction indicate nonbacterial thrombotic endocarditis, associated with hypercoagulable/malignant states.",
         "whyCorrect": "Small, sterile, loosely attached vegetations on the valve closure lines without inflammation or leaflet destruction indicate nonbacterial thrombotic endocarditis, associated with hypercoagulable/malignant states.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Calcific aortic stenosis shows heaped-up calcified nodules within the cusps, not small thrombotic vegetations along the closure lines.",
+          "B": "Rheumatic disease causes fibrosis, thickening, and commissural fusion, and its acute vegetations are tiny verrucae rather than bland thrombi on an intact valve.",
+          "C": "The specimen is the aortic valve, and Libman-Sacks lesions occur in lupus and can involve both leaflet surfaces, not just the closure lines.",
+          "D": "Acute infective endocarditis produces bulky, friable vegetations with leaflet destruction, which are absent here."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-536_Brick Exchange - Nonbacterial Thrombotic Endocarditis_p5_1.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "The bland, sterile fibrin-platelet vegetations of nonbacterial thrombotic (marantic) endocarditis form on the valve without tissue destruction and readily embolize, producing infarcts in the brain and other organs; they are classically associated with hypercoagulable states such as mucinous adenocarcinoma.",
         "whyCorrect": "The bland, sterile fibrin-platelet vegetations of nonbacterial thrombotic (marantic) endocarditis form on the valve without tissue destruction and readily embolize, producing infarcts in the brain and other organs; they are classically associated with hypercoagulable states such as mucinous adenocarcinoma.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Ring abscess is a complication of infective endocarditis spreading into the annulus; these vegetations are sterile and noninvasive.",
+          "B": "Chordal rupture with flail leaflet requires tissue destruction, but these bland vegetations leave chordae and leaflets intact.",
+          "C": "Perforation and acute regurgitation result from destructive infective endocarditis, not sterile marantic vegetations.",
+          "E": "Suppurative pericarditis requires bacterial infection, which is absent with sterile marantic vegetations."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-537_Brick Exchange - Nonbacterial Thrombotic Endocarditis_p6_1.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "Libman-Sacks endocarditis (LSE) produces small sterile vegetations on both the atrial and ventricular surfaces of the valve, unlike the large friable single-surface masses of infective endocarditis or the small along-the-line-of-closure vegetations of marantic endocarditis.",
         "whyCorrect": "Libman-Sacks endocarditis (LSE) produces small sterile vegetations on both the atrial and ventricular surfaces of the valve, unlike the large friable single-surface masses of infective endocarditis or the small along-the-line-of-closure vegetations of marantic endocarditis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Infective endocarditis produces large, friable, destructive vegetations, usually on one surface, and they are not sterile.",
+          "C": "A papillary fibroelastoma is a benign frond-like tumor attached by a stalk, not multiple verrucous vegetations on both surfaces.",
+          "D": "Marantic vegetations are sterile but sit along the line of closure on one surface and occur in hypercoagulable states such as malignancy.",
+          "E": "Rheumatic vegetations are small verrucae along the lines of closure in acute rheumatic fever, not lupus-associated lesions on both surfaces."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-538_Brick Exchange - Nonbacterial Thrombotic Endocarditis_p7_1.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "The non-compliant fibrous pericardium cannot accommodate rapidly accumulating fluid, so intrapericardial pressure rises and compresses the heart, producing tamponade.",
         "whyCorrect": "The non-compliant fibrous pericardium cannot accommodate rapidly accumulating fluid, so intrapericardial pressure rises and compresses the heart, producing tamponade.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Constrictive pericarditis is a chronic process of a scarred, thickened pericardium, not an acute result of rapid fluid accumulation.",
+          "B": "Pleural effusion is fluid between the pleural layers around the lung, not within the pericardial space.",
+          "C": "Dilated cardiomyopathy is a myocardial disease with chamber enlargement, unrelated to fluid filling the pericardial sac.",
+          "D": "An aortic aneurysm is a dilation of the arterial wall and is not caused by pericardial fluid."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-001_Brick Exchange - Acute Pericarditis_p2_1.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "The visceral pericardium (epicardium) is lined by mesothelium that secretes a small amount of serous fluid, allowing frictionless movement of the heart within the pericardial sac.",
         "whyCorrect": "The visceral pericardium (epicardium) is lined by mesothelium that secretes a small amount of serous fluid, allowing frictionless movement of the heart within the pericardial sac.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The fibrous skeleton consists of dense connective tissue rings around the valves, not the mesothelial surface of the epicardium.",
+          "B": "Action potentials are generated by the SA node and conducted by specialized myocytes, not by the epicardial mesothelium.",
+          "C": "Contraction is performed by the myocardium beneath the epicardium; mesothelial cells are not contractile.",
+          "E": "Lymph filtration happens in lymph nodes; the pericardial mesothelium produces lubricating serous fluid."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-097_Brick Exchange - Acute Pericarditis_p3_1.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "Diffuse (non-territorial) concave ST elevation with PR depression, typically sparing aVR, is characteristic of acute pericarditis rather than the regional ST elevation of an infarct.",
         "whyCorrect": "Diffuse (non-territorial) concave ST elevation with PR depression, typically sparing aVR, is characteristic of acute pericarditis rather than the regional ST elevation of an infarct.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "A ventricular aneurysm causes persistent ST elevation with Q waves in the territory of a prior infarct, not diffuse elevation with PR depression.",
+          "C": "An anterior STEMI shows ST elevation confined to the anterior leads, often with reciprocal depression, rather than diffuse concave elevation.",
+          "D": "Brugada syndrome shows coved ST elevation limited to V1-V3 with a pseudo right bundle branch block pattern.",
+          "E": "Hyperkalemia causes peaked T waves, PR prolongation, and QRS widening, not diffuse ST elevation with PR depression."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-174_Brick Exchange - Acute Pericarditis_p11_1.png",
@@ -618,7 +693,12 @@
       "explanation": {
         "summary": "Rapid accumulation of pericardial fluid raises intrapericardial pressure faster than the fibrous pericardium can stretch, compressing the chambers and impairing diastolic filling — cardiac tamponade.",
         "whyCorrect": "Rapid accumulation of pericardial fluid raises intrapericardial pressure faster than the fibrous pericardium can stretch, compressing the chambers and impairing diastolic filling — cardiac tamponade.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Aortic dissection can cause a hemopericardium, but it is not the consequence of a pericardial fluid collection.",
+          "B": "Myocardial rupture can cause hemopericardium after an infarct, but fluid accumulation does not cause the heart to rupture.",
+          "C": "Tension pneumothorax involves air in the pleural space, not fluid in the pericardial sac.",
+          "D": "Pulmonary embolism arises from venous thrombus and is not caused by a pericardial effusion."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-175_Brick Exchange - Acute Pericarditis_p12_1.png",
@@ -657,7 +737,12 @@
       "explanation": {
         "summary": "A needle inserted from a subxiphoid position at ~45 degrees to aspirate fluid from the pericardial sac defines pericardiocentesis, the emergency treatment for cardiac tamponade.",
         "whyCorrect": "A needle inserted from a subxiphoid position at ~45 degrees to aspirate fluid from the pericardial sac defines pericardiocentesis, the emergency treatment for cardiac tamponade.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Endomyocardial biopsy uses a bioptome threaded through a vein into the right ventricle, not a subxiphoid needle.",
+          "C": "Chest tube thoracostomy is placed through an intercostal space laterally to drain the pleural space, not the pericardium.",
+          "D": "Thoracentesis drains pleural fluid through a posterior or lateral intercostal space, not a subxiphoid approach toward the heart.",
+          "E": "Central venous catheterization accesses the jugular, subclavian, or femoral vein, not the pericardial sac."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-176_Brick Exchange - Acute Pericarditis_p14_1.png",
@@ -696,7 +781,12 @@
       "explanation": {
         "summary": "Fibrin deposition over an inflamed, thickened pericardial surface — the most common pattern in acute pericarditis — defines fibrinous pericarditis and underlies the auscultated friction rub.",
         "whyCorrect": "Fibrin deposition over an inflamed, thickened pericardial surface — the most common pattern in acute pericarditis — defines fibrinous pericarditis and underlies the auscultated friction rub.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Hemorrhagic pericarditis contains blood mixed with exudate, usually from tumor or tuberculosis, not predominantly fibrin.",
+          "B": "Constrictive pericarditis is a late scarred, often calcified pericardium, not an acute surface coat of fibrin.",
+          "D": "Purulent pericarditis is dominated by neutrophils and pus from bacterial infection, not eosinophilic fibrin strands.",
+          "E": "Caseous pericarditis shows granulomas with caseous necrosis, typically from tuberculosis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-402_Brick Exchange - Acute Pericarditis_p6_1.png",
@@ -735,7 +825,12 @@
       "explanation": {
         "summary": "The shaggy 'bread-and-butter' epicardial exudate of fibrin is the classic gross appearance of fibrinous pericarditis.",
         "whyCorrect": "The shaggy 'bread-and-butter' epicardial exudate of fibrin is the classic gross appearance of fibrinous pericarditis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Metastatic carcinoma forms nodular tumor deposits, often with hemorrhagic effusion, rather than a shaggy fibrin coat.",
+          "C": "Constrictive pericarditis is a dense, fibrous, sometimes calcified encasement that obliterates the space, not a shaggy exudate.",
+          "D": "A serous effusion is clear fluid with a smooth surface, without the roughened fibrin deposits shown.",
+          "E": "Hemopericardium is pure blood within the sac, from rupture or dissection, not a fibrinous surface exudate."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-403_Brick Exchange - Acute Pericarditis_p7_1.png",
@@ -774,7 +869,12 @@
       "explanation": {
         "summary": "A neutrophil-rich, purulent exudate indicates suppurative (bacterial) pericarditis, typically from direct spread or hematogenous seeding of pyogenic organisms.",
         "whyCorrect": "A neutrophil-rich, purulent exudate indicates suppurative (bacterial) pericarditis, typically from direct spread or hematogenous seeding of pyogenic organisms.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Uremic pericarditis is classically fibrinous, not neutrophil-rich purulent.",
+          "C": "Dressler syndrome is an autoimmune fibrinous pericarditis weeks after infarction, without a pus-forming neutrophil exudate.",
+          "D": "Viral pericarditis produces a serous or fibrinous exudate with lymphocytes, not frank pus.",
+          "E": "Lupus pericarditis is a fibrinous or serous autoimmune process, not suppurative."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-404_Brick Exchange - Acute Pericarditis_p8_1.png",
@@ -813,7 +913,12 @@
       "explanation": {
         "summary": "The tracing shows pulsus paradoxus, an inspiratory drop in systolic pressure exceeding 10 mmHg. It classically indicates cardiac tamponade (and also severe asthma or constrictive physiology), where inspiratory augmentation of RV filling compresses the LV and reduces stroke volume.",
         "whyCorrect": "The tracing shows pulsus paradoxus, an inspiratory drop in systolic pressure exceeding 10 mmHg. It classically indicates cardiac tamponade (and also severe asthma or constrictive physiology), where inspiratory augmentation of RV filling compresses the LV and reduces stroke volume.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Isolated systolic hypertension raises systolic pressure from stiff arteries but does not exaggerate the inspiratory drop.",
+          "B": "Complete heart block causes beat-to-beat pressure variation from AV dissociation, unrelated to respiration.",
+          "D": "Chronic aortic regurgitation produces a wide pulse pressure and bounding pulses, not an exaggerated inspiratory fall.",
+          "E": "Wolff-Parkinson-White syndrome is a conduction abnormality causing tachyarrhythmias, not respiratory variation in pressure."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-234_Brick Exchange - Constrictive Pericarditis_p8_1.png",
@@ -852,7 +957,12 @@
       "explanation": {
         "summary": "A rim of calcification tracing the cardiac border is a classic radiographic clue to chronic constrictive pericarditis, reflecting long-standing pericardial inflammation and fibrocalcific thickening.",
         "whyCorrect": "A rim of calcification tracing the cardiac border is a classic radiographic clue to chronic constrictive pericarditis, reflecting long-standing pericardial inflammation and fibrocalcific thickening.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Asbestos pleural plaques sit along the chest wall and diaphragm, not in a rim tracing the cardiac border.",
+          "B": "Coronary calcification appears as small linear tracks along the coronary course, not a curvilinear shell around the heart.",
+          "C": "A calcified aortic aneurysm follows the aortic contour in the mediastinum, not the entire cardiac silhouette.",
+          "D": "A calcified hydatid cyst is a ring-shaped density within the lung parenchyma, not surrounding the heart."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-235_Brick Exchange - Constrictive Pericarditis_p9_1.png",
@@ -891,7 +1001,12 @@
       "explanation": {
         "summary": "In constrictive pericarditis the fibrotic, rigid pericardium encases the heart and prevents adequate diastolic filling; pericardiectomy (removal of the pericardium) frees the ventricles to fill normally, relieving the constriction.",
         "whyCorrect": "In constrictive pericarditis the fibrotic, rigid pericardium encases the heart and prevents adequate diastolic filling; pericardiectomy (removal of the pericardium) frees the ventricles to fill normally, relieving the constriction.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The structure removed surrounds the heart, not the lung; draining a pleural effusion is done by thoracentesis or chest tube.",
+          "C": "Coronary obstruction is treated by stenting or bypass grafting, and removing the pericardium does not affect the coronary lumen.",
+          "D": "Valve incompetence requires valve repair or replacement; pericardiectomy leaves the valves untouched.",
+          "E": "Resecting hypertrophied septal muscle is septal myectomy for obstructive hypertrophic cardiomyopathy, not removal of the pericardial sac."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-464_Brick Exchange - Constrictive Pericarditis_p12_1.png",
@@ -930,7 +1045,12 @@
       "explanation": {
         "summary": "A rigid pericardium fixes total cardiac volume, so inspiratory increases in right ventricular filling occur at the expense of left ventricular filling (and the reverse on expiration); this exaggerated ventricular interdependence underlies the discordant volume changes and the respiratory variation seen in constriction.",
         "whyCorrect": "A rigid pericardium fixes total cardiac volume, so inspiratory increases in right ventricular filling occur at the expense of left ventricular filling (and the reverse on expiration); this exaggerated ventricular interdependence underlies the discordant volume changes and the respiratory variation seen in constriction.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Aortic stenosis is a fixed obstruction to LV ejection and does not create reciprocal, respiration-linked filling of the two ventricles.",
+          "C": "Left bundle branch block delays LV electrical activation but does not cause one ventricle to fill at the other's expense with breathing.",
+          "D": "Atrial fibrillation causes beat-to-beat variation from irregular cycle lengths, not a discordant pattern tied to the respiratory cycle.",
+          "E": "Mitral regurgitation raises LV preload throughout the cycle but does not produce opposite-phase respiratory filling of the two ventricles."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-695_Brick Exchange - Constrictive Pericarditis_p5_1.png",
@@ -969,7 +1089,12 @@
       "explanation": {
         "summary": "Each panel contrasts blood flow and volume against a normal circulation to illustrate how the major categories of shock differ in their underlying hemodynamic derangement.",
         "whyCorrect": "Each panel contrasts blood flow and volume against a normal circulation to illustrate how the major categories of shock differ in their underlying hemodynamic derangement.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Heart failure is classified by ejection fraction or by the side involved, not by categories such as distributive, neurogenic, and hypovolemic.",
+          "C": "Arrhythmias are classified by rhythm origin and rate on ECG, not by circulatory volume and flow diagrams.",
+          "D": "Progressive hemorrhage describes only volume loss, whereas these panels include distributive, cardiogenic, neurogenic, and obstructive mechanisms.",
+          "E": "Secondary hypertension involves elevated pressure from renal, endocrine, or vascular causes, whereas these panels depict circulatory failure."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-863_Brick Exchange - Shock_p11_1.png",
@@ -1008,7 +1133,12 @@
       "explanation": {
         "summary": "Widespread vasodilation lowers systemic vascular resistance (afterload) and venous return (preload), while a compensatory high cardiac output produces the warm, hyperdynamic profile typical of early distributive/septic shock.",
         "whyCorrect": "Widespread vasodilation lowers systemic vascular resistance (afterload) and venous return (preload), while a compensatory high cardiac output produces the warm, hyperdynamic profile typical of early distributive/septic shock.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Hypovolemic shock lowers preload and cardiac output while compensatory vasoconstriction raises afterload, the opposite of a high-output, low-resistance profile.",
+          "B": "Neurogenic shock lowers preload and afterload, but loss of sympathetic tone keeps cardiac output low, often with bradycardia, rather than elevated.",
+          "D": "Obstructive shock reduces cardiac output from a mechanical block to filling or ejection and is accompanied by raised afterload.",
+          "E": "Cardiogenic shock combines low output with high preload and high afterload, the reverse of this pattern."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-864_Brick Exchange - Shock_p12_1.png",
@@ -1047,7 +1177,12 @@
       "explanation": {
         "summary": "Pump failure lowers cardiac output while blood backs up (raising preload) and compensatory vasoconstriction raises afterload, the hallmark pattern of cardiogenic shock.",
         "whyCorrect": "Pump failure lowers cardiac output while blood backs up (raising preload) and compensatory vasoconstriction raises afterload, the hallmark pattern of cardiogenic shock.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Neurogenic shock lowers both preload and afterload from loss of sympathetic tone, rather than raising them.",
+          "C": "Hypovolemic shock lowers preload because intravascular volume is lost, whereas here preload is increased.",
+          "D": "Obstructive shock can raise right-sided preload, but LV preload falls behind the obstruction rather than both rising together.",
+          "E": "Distributive shock shows low preload and low afterload with a high cardiac output, the opposite of this profile."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-865_Brick Exchange - Shock_p15_1.png",
@@ -1059,7 +1194,7 @@
       "id": "repic-866",
       "topicId": "shock",
       "topicName": "Shock",
-      "stem": "This graph shows afterload increased while preload and cardiac output are both decreased. Which category of shock does this represent?",
+      "stem": "This graph shows afterload increased while preload and cardiac output are both decreased, with a low central venous pressure. Which category of shock does this represent?",
       "choices": [
         {
           "label": "A",
@@ -1084,9 +1219,14 @@
       ],
       "correctAnswer": "C",
       "explanation": {
-        "summary": "Loss of intravascular volume drops venous return (preload) and cardiac output, while compensatory sympathetic vasoconstriction raises afterload, characteristic of hypovolemic shock.",
-        "whyCorrect": "Loss of intravascular volume drops venous return (preload) and cardiac output, while compensatory sympathetic vasoconstriction raises afterload, characteristic of hypovolemic shock.",
-        "whyWrongByChoice": {}
+        "summary": "Loss of intravascular volume drops venous return (preload, reflected in a low central venous pressure) and cardiac output, while compensatory sympathetic vasoconstriction raises afterload, characteristic of hypovolemic shock.",
+        "whyCorrect": "Loss of intravascular volume drops venous return (preload, reflected in a low central venous pressure) and cardiac output, while compensatory sympathetic vasoconstriction raises afterload, characteristic of hypovolemic shock.",
+        "whyWrongByChoice": {
+          "A": "Neurogenic shock lowers afterload through loss of sympathetic vasoconstriction, whereas here afterload is increased.",
+          "B": "Obstructive shock (pulmonary embolism, tamponade, tension pneumothorax) also lowers cardiac output, but blood backs up behind the obstruction, so central venous pressure is high rather than low.",
+          "D": "Distributive shock lowers afterload through widespread vasodilation, with output typically normal or high.",
+          "E": "Cardiogenic shock raises preload as blood backs up behind a failing pump, rather than lowering it."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-866_Brick Exchange - Shock_p18_1.png",
@@ -1125,7 +1265,12 @@
       "explanation": {
         "summary": "Loss of sympathetic tone lowers vascular resistance (afterload) and venous return (preload) without a compensatory rise in output, so cardiac output also falls, the pattern of neurogenic shock.",
         "whyCorrect": "Loss of sympathetic tone lowers vascular resistance (afterload) and venous return (preload) without a compensatory rise in output, so cardiac output also falls, the pattern of neurogenic shock.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Hypovolemic shock lowers preload and output but triggers sympathetic vasoconstriction, so afterload rises rather than falls.",
+          "B": "Cardiogenic shock increases preload and afterload behind a failing pump, unlike this uniformly low profile.",
+          "D": "Obstructive shock raises afterload or pressure upstream of the block, rather than lowering all three variables.",
+          "E": "Septic shock lowers preload and afterload but typically raises cardiac output early through compensatory tachycardia, unlike the low output here."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-867_Brick Exchange - Shock_p20_1.png",
@@ -1164,7 +1309,12 @@
       "explanation": {
         "summary": "A mechanical obstruction (e.g., pulmonary embolism or tamponade) impedes filling or ejection, so preload distributes unevenly across the ventricles while cardiac output falls, defining obstructive shock.",
         "whyCorrect": "A mechanical obstruction (e.g., pulmonary embolism or tamponade) impedes filling or ejection, so preload distributes unevenly across the ventricles while cardiac output falls, defining obstructive shock.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Neurogenic shock lowers preload in both ventricles through venodilation, without the right-left discordance shown.",
+          "C": "Cardiogenic shock from LV failure raises left-sided preload as blood backs up, rather than lowering LV preload while RV preload rises.",
+          "D": "Distributive shock lowers preload globally with a high output, not a right-sided rise and left-sided fall.",
+          "E": "Hypovolemic shock lowers preload in both ventricles equally; there is no point of obstruction to create right-left discordance."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-868_Brick Exchange - Shock_p22_1.png",
@@ -1203,7 +1353,12 @@
       "explanation": {
         "summary": "With the balloon wedged, forward pulmonary artery flow is occluded and the catheter tip senses pressure transmitted back through the pulmonary capillary bed from the left atrium. The pulmonary artery wedge (occlusion) pressure therefore approximates left atrial pressure and left ventricular end-diastolic pressure, a measure of left-heart preload.",
         "whyCorrect": "With the balloon wedged, forward pulmonary artery flow is occluded and the catheter tip senses pressure transmitted back through the pulmonary capillary bed from the left atrium. The pulmonary artery wedge (occlusion) pressure therefore approximates left atrial pressure and left ventricular end-diastolic pressure, a measure of left-heart preload.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Pulmonary artery systolic pressure is read with the balloon deflated from the PA tracing, not with the balloon wedged.",
+          "B": "Mean systemic arterial pressure is measured from a peripheral arterial line, not from the pulmonary circulation.",
+          "C": "Right atrial pressure is read from the proximal port in the right atrium, upstream of the pulmonary capillary bed.",
+          "E": "Right ventricular systolic pressure is recorded as the catheter passes through the RV, before it reaches the pulmonary artery."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-311_Brick Exchange - Management of Shock_p17_1.png",
@@ -1242,7 +1397,12 @@
       "explanation": {
         "summary": "Enlarged central pulmonary vessels (pulmonary venous congestion), interstitial edema, and cardiomegaly indicate raised left atrial/pulmonary venous pressure, i.e., cardiogenic pulmonary edema from left-heart failure. Pneumonia is typically focal/consolidative, pneumothorax shows lucency with lung collapse, and fibrosis/emphysema have distinct chronic patterns.",
         "whyCorrect": "Enlarged central pulmonary vessels (pulmonary venous congestion), interstitial edema, and cardiomegaly indicate raised left atrial/pulmonary venous pressure, i.e., cardiogenic pulmonary edema from left-heart failure. Pneumonia is typically focal/consolidative, pneumothorax shows lucency with lung collapse, and fibrosis/emphysema have distinct chronic patterns.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Emphysema shows hyperinflated, hyperlucent lungs with flattened diaphragms and a narrow heart, not vascular congestion with cardiomegaly.",
+          "B": "Advanced fibrosis shows reticular honeycombing with reduced lung volumes, without enlarged central veins or cardiomegaly.",
+          "C": "A tension pneumothorax shows a hyperlucent hemithorax without lung markings and mediastinal shift away from that side.",
+          "D": "Lobar pneumonia causes focal consolidation with air bronchograms, not bilateral interstitial edema with vascular engorgement."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-312_Brick Exchange - Management of Shock_p7_1.png",
@@ -1281,7 +1441,12 @@
       "explanation": {
         "summary": "Milrinone inhibits PDE3, the enzyme that degrades cAMP. With cAMP breakdown blocked, intracellular cAMP accumulates, raising Ca2+ and augmenting contractility, an inotropic effect that does not require the beta-receptor (unlike dobutamine, which works upstream through beta-1/Gs/adenylyl cyclase).",
         "whyCorrect": "Milrinone inhibits PDE3, the enzyme that degrades cAMP. With cAMP breakdown blocked, intracellular cAMP accumulates, raising Ca2+ and augmenting contractility, an inotropic effect that does not require the beta-receptor (unlike dobutamine, which works upstream through beta-1/Gs/adenylyl cyclase).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Na+/K+-ATPase inhibition is the mechanism of digoxin, which raises intracellular sodium and calcium independently of cAMP.",
+          "C": "Milrinone does not open L-type channels directly; the rise in cAMP activates protein kinase A, which phosphorylates the channels.",
+          "D": "Direct beta-1 stimulation is the mechanism of dobutamine; milrinone acts downstream, independent of the receptor.",
+          "E": "Raised cGMP from nitric oxide drives vasodilation and does not increase myocardial contractility."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-591_Brick Exchange - Management of Shock_p8_1.png",
@@ -1320,7 +1485,12 @@
       "explanation": {
         "summary": "The intra-aortic balloon pump inflates in diastole (augmenting coronary perfusion pressure) and deflates just before systole (reducing afterload), improving myocardial oxygen supply and cardiac output. This counterpulsation is used as mechanical support in cardiogenic shock.",
         "whyCorrect": "The intra-aortic balloon pump inflates in diastole (augmenting coronary perfusion pressure) and deflates just before systole (reducing afterload), improving myocardial oxygen supply and cardiac output. This counterpulsation is used as mechanical support in cardiogenic shock.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "A prosthetic aortic valve sits at the aortic root and opens passively with flow, rather than inflating and deflating in the descending aorta.",
+          "C": "A pacemaker lead runs through the veins into the right heart to deliver electrical impulses, not into the aorta.",
+          "D": "An LVAD pumps blood continuously from the LV apex into the ascending aorta through a cannula, rather than inflating in the descending aorta.",
+          "E": "A Swan-Ganz catheter passes through the right heart to the pulmonary artery to measure pressures; its small balloon is for wedging, not counterpulsation."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-773_Brick Exchange - Management of Shock_p14_1.png",
@@ -1359,7 +1529,12 @@
       "explanation": {
         "summary": "The pericardial cavity lies between the visceral (epicardial) and parietal serous layers. Effusion fluid collects in this potential space; normally it holds only a small volume of lubricating fluid.",
         "whyCorrect": "The pericardial cavity lies between the visceral (epicardial) and parietal serous layers. Effusion fluid collects in this potential space; normally it holds only a small volume of lubricating fluid.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The visceral pericardium (epicardium) is adherent to the myocardium, so there is no potential space between them for fluid.",
+          "B": "Fluid within the myocardium would be myocardial edema, not a pericardial effusion.",
+          "D": "The fibrous pericardium is not separated from the chest wall by a fluid space; effusions lie inside the sac.",
+          "E": "The endocardium lines the chambers and is bonded to the myocardium; fluid does not collect between them."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-084_Brick Exchange - Pericardial Effusion and Cardiac Tamponade_p2_1.png",
@@ -1398,7 +1573,12 @@
       "explanation": {
         "summary": "A sizable pericardial effusion produces the classic globular water-bottle heart on chest film, distinguishing it from true chamber enlargement (cardiomegaly), which has a more lobulated contour.",
         "whyCorrect": "A sizable pericardial effusion produces the classic globular water-bottle heart on chest film, distinguishing it from true chamber enlargement (cardiomegaly), which has a more lobulated contour.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "LV hypertrophy from hypertension thickens the wall with little change in the silhouette, or shows a rounded LV contour, not a symmetric globular flask.",
+          "B": "An aortic aneurysm widens the superior mediastinum rather than enlarging the cardiac silhouette symmetrically.",
+          "D": "A tension pneumothorax shows a hyperlucent hemithorax with mediastinal shift, not an enlarged heart shadow.",
+          "E": "Lobar pneumonia causes focal parenchymal consolidation with air bronchograms, not a globular cardiac silhouette."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-330_Brick Exchange - Pericardial Effusion and Cardiac Tamponade_p12_1.png",
@@ -1437,7 +1617,12 @@
       "explanation": {
         "summary": "In tamponade the lowest-pressure chambers collapse first. During diastole, when RV pressure is lowest, rising pericardial pressure exceeds it and buckles the RV free wall inward, an early echocardiographic marker.",
         "whyCorrect": "In tamponade the lowest-pressure chambers collapse first. During diastole, when RV pressure is lowest, rising pericardial pressure exceeds it and buckles the RV free wall inward, an early echocardiographic marker.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A hypertrophied, stiff RV wall resists collapse, so RV hypertrophy would make diastolic buckling less likely.",
+          "C": "A scarred RV free wall from infarction is hypokinetic in systole, not invaginated by external pressure in diastole.",
+          "D": "Shunt-related RV dilation enlarges the chamber, the opposite of the inward compression shown.",
+          "E": "Tricuspid regurgitation volume-overloads and dilates the RV rather than causing its free wall to collapse."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-331_Brick Exchange - Pericardial Effusion and Cardiac Tamponade_p13_2.png",
@@ -1476,7 +1661,12 @@
       "explanation": {
         "summary": "The subxiphoid needle angled toward the pericardial sac depicts pericardiocentesis, which aspirates effusion fluid to relieve tamponade or obtain diagnostic samples.",
         "whyCorrect": "The subxiphoid needle angled toward the pericardial sac depicts pericardiocentesis, which aspirates effusion fluid to relieve tamponade or obtain diagnostic samples.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Intracardiac epinephrine injection is an obsolete resuscitation technique aimed into the ventricle, not drainage of the sac around the heart.",
+          "B": "Thoracentesis drains pleural fluid through a posterior intercostal space, not a subxiphoid approach toward the heart.",
+          "C": "Subclavian venous access is placed below the clavicle, far from the subxiphoid approach shown.",
+          "D": "Endomyocardial biopsy uses a bioptome passed through a central vein into the right ventricle, not a percutaneous needle."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-332_Brick Exchange - Pericardial Effusion and Cardiac Tamponade_p15_1.png",
@@ -1515,7 +1705,12 @@
       "explanation": {
         "summary": "Beck triad, distended neck veins, distant/muffled heart sounds, and decreased blood pressure, reflects impaired cardiac filling and low output in acute cardiac tamponade.",
         "whyCorrect": "Beck triad, distended neck veins, distant/muffled heart sounds, and decreased blood pressure, reflects impaired cardiac filling and low output in acute cardiac tamponade.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Massive pulmonary embolism causes hypotension and JVD, but heart sounds are not muffled and hypoxemia and tachypnea dominate.",
+          "C": "Acute left heart failure produces pulmonary edema with crackles and an S3, not muffled sounds with low pressure from impaired filling.",
+          "D": "Tension pneumothorax causes hypotension and JVD, but with absent breath sounds and tracheal deviation rather than muffled heart sounds.",
+          "E": "Constrictive pericarditis is chronic and causes JVD with Kussmaul sign and a pericardial knock, not acute hypotension with muffled sounds."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-543_Brick Exchange - Pericardial Effusion and Cardiac Tamponade_p9_1.png",
@@ -1554,7 +1749,12 @@
       "explanation": {
         "summary": "Rising intrapericardial pressure from effusion compresses the low-pressure RA and RV first, restricting diastolic filling and reducing stroke volume, the hemodynamic basis of tamponade.",
         "whyCorrect": "Rising intrapericardial pressure from effusion compresses the low-pressure RA and RV first, restricting diastolic filling and reducing stroke volume, the hemodynamic basis of tamponade.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Hypertrophy thickens the walls, but the right chambers here are compressed from outside by fluid, not narrowed by thickened muscle.",
+          "B": "Aortic dilation does not surround the heart; the compressing agent in tamponade is pericardial fluid.",
+          "C": "Tachycardia in tamponade is a compensation for low stroke volume, not the reason the right chambers appear compressed.",
+          "D": "A septal shunt does not compress chambers externally; the panel shows fluid in the pericardial space."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-804_Brick Exchange - Pericardial Effusion and Cardiac Tamponade_p6_1.png",

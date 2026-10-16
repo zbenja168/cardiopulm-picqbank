@@ -33,7 +33,12 @@
       "explanation": {
         "summary": "The left recurrent laryngeal nerve loops under the arch of the aorta at the ligamentum arteriosum, so pathology at the aortic arch or aortopulmonary window can stretch or compress it, producing hoarseness (Ortner syndrome).",
         "whyCorrect": "The left recurrent laryngeal nerve loops under the arch of the aorta at the ligamentum arteriosum, so pathology at the aortic arch or aortopulmonary window can stretch or compress it, producing hoarseness (Ortner syndrome).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A right apical Pancoast tumor can involve the right recurrent laryngeal nerve, which loops around the right subclavian artery, not the left nerve.",
+          "B": "An abdominal aortic aneurysm lies below the diaphragm, far from the recurrent laryngeal nerves, which loop in the root of the neck and upper thorax.",
+          "C": "A thyroid nodule can injure either recurrent laryngeal nerve in the neck, but that relationship has nothing to do with the nerve hooking around a thoracic structure.",
+          "D": "The phrenic nerve controls the diaphragm, and compressing it causes diaphragmatic paralysis, not hoarseness; it does not carry laryngeal fibers."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-061_Brick Exchange - Mediastinum (Part 1 of 2)_p11_2.png",
@@ -72,7 +77,12 @@
       "explanation": {
         "summary": "The figure traces the esophagus from its cervical part through the thorax (surrounded by the esophageal plexus formed by the vagus nerves) to its abdominal part after passing through the diaphragmatic hiatus.",
         "whyCorrect": "The figure traces the esophagus from its cervical part through the thorax (surrounded by the esophageal plexus formed by the vagus nerves) to its abdominal part after passing through the diaphragmatic hiatus.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The azygos vein ascends along the right side of the vertebral bodies and arches over the right lung root into the SVC; it is not a muscular tube surrounded by a vagal plexus.",
+          "B": "The descending thoracic aorta runs left of the vertebral column and passes behind the diaphragm through the aortic hiatus at T12, not through the muscular esophageal hiatus.",
+          "C": "The thoracic duct is a thin lymphatic channel that runs between the aorta and azygos vein; it is not a thick muscular tube wrapped by the esophageal plexus.",
+          "E": "The trachea is a cartilage-ringed airway that ends at the carina around T4-T5; it does not descend behind the heart or pass through the diaphragm."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-062_Brick Exchange - Mediastinum (Part 1 of 2)_p13_1.png",
@@ -111,7 +121,12 @@
       "explanation": {
         "summary": "With the ribs spread and lungs removed, the dissection reveals the mediastinum, the central thoracic compartment containing the great vessels, trachea, esophagus, and heart, bounded laterally by the pleural sacs.",
         "whyCorrect": "With the ribs spread and lungs removed, the dissection reveals the mediastinum, the central thoracic compartment containing the great vessels, trachea, esophagus, and heart, bounded laterally by the pleural sacs.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The retroperitoneum is an abdominal space behind the peritoneum, containing the kidneys and great vessels; it is not exposed by opening the thorax.",
+          "B": "The posterior abdominal wall lies below the diaphragm; this dissection shows the thoracic compartment between the pleural cavities.",
+          "C": "The axilla is the pyramidal space between the arm and lateral chest wall; it is not the central thoracic compartment between the lungs.",
+          "D": "The pericardial cavity is only the space around the heart; the view shows the whole central compartment, including great vessels, trachea and esophagus."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-063_Brick Exchange - Mediastinum (Part 1 of 2)_p14_1.png",
@@ -150,7 +165,12 @@
       "explanation": {
         "summary": "The ligamentum arteriosum is the postnatal remnant of the fetal ductus arteriosus; the left recurrent laryngeal nerve passes under the arch just lateral to it, so an aortic aneurysm or mass here can entrap the nerve and cause hoarseness.",
         "whyCorrect": "The ligamentum arteriosum is the postnatal remnant of the fetal ductus arteriosus; the left recurrent laryngeal nerve passes under the arch just lateral to it, so an aortic aneurysm or mass here can entrap the nerve and cause hoarseness.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The foramen ovale is an interatrial opening whose remnant is the fossa ovalis inside the heart, not a fibrous cord at the aortic arch.",
+          "C": "A persistent left superior vena cava is a venous anomaly that usually drains into the coronary sinus; it is not a fibrous ligament and does not compress the phrenic nerve.",
+          "D": "The ductus venosus shunted blood through the liver and becomes the ligamentum venosum; it has no connection to the aortic arch or esophagus.",
+          "E": "The umbilical vein becomes the ligamentum teres hepatis in the falciform ligament of the abdomen, not a structure at the aortic arch."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-064_Brick Exchange - Mediastinum (Part 1 of 2)_p15_1.png",
@@ -189,7 +209,12 @@
       "explanation": {
         "summary": "The thymus lies in the anterior mediastinum behind the manubrium; prominent in children, it involutes with age. Its location makes it a common source of anterior mediastinal masses (e.g., thymoma).",
         "whyCorrect": "The thymus lies in the anterior mediastinum behind the manubrium; prominent in children, it involutes with age. Its location makes it a common source of anterior mediastinal masses (e.g., thymoma).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A pericardial fat pad sits at the cardiophrenic angles near the diaphragm, not as a lobulated gland behind the manubrium over the great vessels.",
+          "B": "The thyroid gland lies in the neck anterior to the trachea at C5-T1; only a retrosternal goiter extends down, and it is not the normal resident of this space.",
+          "C": "The parathyroid glands are tiny, rice-grain-sized bodies on the posterior thyroid, far too small to form a lobulated mass over the great vessels.",
+          "E": "A lymph node mass would be an abnormal finding; the normal lobulated organ of the anterior mediastinum that involutes with age is the thymus."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-065_Brick Exchange - Mediastinum (Part 1 of 2)_p16_1.png",
@@ -228,7 +253,12 @@
       "explanation": {
         "summary": "The thoracic duct begins at the cisterna chyli, ascends through the posterior mediastinum, and empties into the venous system at the left jugulosubclavian (venous) angle, returning lymph and chyle from most of the body.",
         "whyCorrect": "The thoracic duct begins at the cisterna chyli, ascends through the posterior mediastinum, and empties into the venous system at the left jugulosubclavian (venous) angle, returning lymph and chyle from most of the body.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The thoracic duct ends at the left venous angle in the neck; it does not drain directly into the superior vena cava.",
+          "C": "The thoracic duct runs beside the azygos vein in the posterior mediastinum but does not empty into it; it continues up to the left side of the neck.",
+          "D": "Lymph enters the venous system in the neck and reaches the right atrium only via the SVC; the thoracic duct has no direct cardiac connection.",
+          "E": "The right jugulosubclavian junction receives the right lymphatic duct, which drains only the right upper quadrant of the body, not the thoracic duct."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-066_Brick Exchange - Mediastinum (Part 1 of 2)_p19_1.png",
@@ -267,7 +297,12 @@
       "explanation": {
         "summary": "The figure illustrates the mediastinal lymph node stations; knowledge of these groups underlies cancer staging, as tumor spread to specific nodal stations determines resectability and prognosis.",
         "whyCorrect": "The figure illustrates the mediastinal lymph node stations; knowledge of these groups underlies cancer staging, as tumor spread to specific nodal stations determines resectability and prognosis.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The bronchial arteries are a few small branches from the descending aorta that supply the bronchi; they are not organized as named nodal groups.",
+          "C": "The vagus nerve gives cardiac, pulmonary and esophageal branches and plexuses, not discrete paratracheal or juxtaesophageal node stations.",
+          "D": "Cardiac venous drainage runs through the great, middle and small cardiac veins into the coronary sinus, confined to the heart surface.",
+          "E": "The sympathetic chain ganglia sit in a paravertebral line along the rib heads, not in groups around the trachea, esophagus and diaphragm."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-067_Brick Exchange - Mediastinum (Part 1 of 2)_p20_1.png",
@@ -306,7 +341,12 @@
       "explanation": {
         "summary": "The transverse thoracic plane runs from the sternal angle (angle of Louis) posteriorly to the T4/T5 disc, dividing the mediastinum into superior and inferior parts; the inferior is further split into anterior, middle, and posterior compartments.",
         "whyCorrect": "The transverse thoracic plane runs from the sternal angle (angle of Louis) posteriorly to the T4/T5 disc, dividing the mediastinum into superior and inferior parts; the inferior is further split into anterior, middle, and posterior compartments.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The jugular notch sits at about T2 on the superior border of the manubrium, above the plane that separates the superior and inferior mediastinum.",
+          "B": "The costal margin at rib 10 lies at the lower boundary of the thorax, far below the mediastinal dividing plane.",
+          "C": "The clavicular midpoint is the landmark for the midclavicular line, a vertical reference, not the horizontal plane dividing the mediastinum.",
+          "D": "The xiphisternal joint marks the lower end of the sternal body at about T9, near the inferior border of the mediastinum."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-068_Brick Exchange - Mediastinum (Part 1 of 2)_p4_2.png",
@@ -345,7 +385,12 @@
       "explanation": {
         "summary": "The inferior mediastinum is subdivided into anterior (sternum to pericardium), middle (the pericardium and its contents, i.e., heart and great vessel roots), and posterior (behind the pericardium, containing esophagus and descending aorta).",
         "whyCorrect": "The inferior mediastinum is subdivided into anterior (sternum to pericardium), middle (the pericardium and its contents, i.e., heart and great vessel roots), and posterior (behind the pericardium, containing esophagus and descending aorta).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The superior mediastinum lies above the sternal angle plane and contains the aortic arch, trachea and thymus, not the heart itself.",
+          "C": "The anterior mediastinum is the narrow space between the sternum and pericardium; it holds thymic remnants, fat and nodes, not the heart.",
+          "D": "The retropharyngeal space lies behind the pharynx in the neck and continues only into the superior mediastinum; it does not contain the heart.",
+          "E": "The posterior mediastinum lies behind the pericardium and holds the esophagus, descending aorta, azygos vein and thoracic duct."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-069_Brick Exchange - Mediastinum (Part 1 of 2)_p5_1.png",
@@ -384,7 +429,12 @@
       "explanation": {
         "summary": "The plane of the sternal angle (transverse thoracic plane, T4/T5) marks the beginning and end of the aortic arch, the bifurcation of the trachea, and the boundary between superior and inferior mediastinum.",
         "whyCorrect": "The plane of the sternal angle (transverse thoracic plane, T4/T5) marks the beginning and end of the aortic arch, the bifurcation of the trachea, and the boundary between superior and inferior mediastinum.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The jugular notch at T2 lies above the aortic arch; the arch starts and ends lower, at the sternal angle plane.",
+          "B": "The xiphoid process at about T9 marks the lower sternum, well below the aortic arch.",
+          "C": "The diaphragm at T10 is where the esophagus passes through its hiatus; the aorta passes at T12, and neither marks the arch.",
+          "E": "The carina sits at the sternal angle plane, about T4-T5, in most adults; T7 is too low for the level at which the aortic arch begins and ends."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-070_Brick Exchange - Mediastinum (Part 1 of 2)_p7_1.png",
@@ -423,7 +473,12 @@
       "explanation": {
         "summary": "The azygos system connects the SVC and IVC territories along the posterior thoracic wall. In SVC obstruction it becomes the key collateral channel, allowing upper-body venous blood to bypass the block and reach the right atrium.",
         "whyCorrect": "The azygos system connects the SVC and IVC territories along the posterior thoracic wall. In SVC obstruction it becomes the key collateral channel, allowing upper-body venous blood to bypass the block and reach the right atrium.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The portal vein carries splanchnic blood to the liver and forms portosystemic collaterals in portal hypertension; it is not the main bypass for SVC obstruction.",
+          "B": "The coronary sinus drains the heart's own veins into the right atrium; it does not receive blood from the head, neck or arms.",
+          "C": "The internal thoracic artery is an artery, so it cannot provide venous return; its companion internal thoracic veins are only a secondary collateral pathway.",
+          "D": "Pulmonary veins carry oxygenated blood from the lungs to the left atrium and do not connect to the systemic veins blocked by an SVC obstruction."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-071_Brick Exchange - Mediastinum (Part 1 of 2)_p8_1.png",
@@ -462,7 +517,12 @@
       "explanation": {
         "summary": "The left recurrent laryngeal nerve hooks under the aortic arch just lateral to the ligamentum arteriosum. Its long thoracic course explains hoarseness from aortic aneurysm, left atrial enlargement, or mediastinal tumor (Ortner syndrome).",
         "whyCorrect": "The left recurrent laryngeal nerve hooks under the aortic arch just lateral to the ligamentum arteriosum. Its long thoracic course explains hoarseness from aortic aneurysm, left atrial enlargement, or mediastinal tumor (Ortner syndrome).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Pulmonary veins enter the left atrium in the lung hilum; the left recurrent laryngeal nerve does not loop around them.",
+          "B": "The superior vena cava is a right-sided structure; the left recurrent laryngeal nerve hooks around a left-sided arterial structure.",
+          "D": "The right subclavian artery is where the right recurrent laryngeal nerve loops; the left nerve descends lower, into the thorax.",
+          "E": "The brachiocephalic artery lies to the right of the trachea; neither recurrent laryngeal nerve hooks beneath it."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-072_Brick Exchange - Mediastinum (Part 1 of 2)_p9_1.png",
@@ -501,7 +561,12 @@
       "explanation": {
         "summary": "A retrosternal mass filling the space in front of the pericardium and great vessels localizes to the anterior mediastinum, the classic site for the 'terrible Ts' (thymoma, teratoma, thyroid, lymphoma).",
         "whyCorrect": "A retrosternal mass filling the space in front of the pericardium and great vessels localizes to the anterior mediastinum, the classic site for the 'terrible Ts' (thymoma, teratoma, thyroid, lymphoma).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The superior pulmonary sulcus is the lung apex, where Pancoast tumors arise; it is not a mediastinal compartment directly behind the sternum.",
+          "C": "The posterior mediastinum lies behind the heart beside the spine, where neurogenic tumors occur, not immediately behind the sternum.",
+          "D": "The middle mediastinum contains the heart, pericardium and hilar structures; a lesion directly behind the sternum and in front of the pericardium lies anterior to it.",
+          "E": "The costophrenic angle is the lateral lower recess of the pleural space where effusions collect, not a retrosternal mediastinal space."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-313_Brick Exchange - Mediastinum (Part 1 of 2)_p17_1.png",
@@ -540,7 +605,12 @@
       "explanation": {
         "summary": "Obstruction of the SVC (commonly by a mediastinal tumor such as lung cancer or lymphoma) impairs venous return from the head, neck, and upper chest, producing facial plethora/edema and engorged collateral chest wall veins.",
         "whyCorrect": "Obstruction of the SVC (commonly by a mediastinal tumor such as lung cancer or lymphoma) impairs venous return from the head, neck, and upper chest, producing facial plethora/edema and engorged collateral chest wall veins.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Cushing syndrome causes a round moon face with a dorsocervical fat pad and purple striae, from fat redistribution rather than engorged chest wall collateral veins.",
+          "B": "Right heart failure raises systemic venous pressure, causing jugular venous distension and dependent leg edema, rather than facial plethora with dilated chest wall collaterals.",
+          "C": "Anaphylactic angioedema causes sudden swelling of the lips, tongue and eyelids with urticaria, with no dilated superficial chest veins.",
+          "D": "Caput medusae is periumbilical venous distension from portal hypertension, found on the abdomen and not with facial plethora."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-511_Brick Exchange - Mediastinum (Part 1 of 2)_p1_1.png",
@@ -579,7 +649,12 @@
       "explanation": {
         "summary": "The tumor wraps around the superior vena cava; malignant compression or invasion of the SVC obstructs venous return from the head, neck, and arms, producing SVC syndrome. Lung cancer is the most common cause.",
         "whyCorrect": "The tumor wraps around the superior vena cava; malignant compression or invasion of the SVC obstructs venous return from the head, neck, and arms, producing SVC syndrome. Lung cancer is the most common cause.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Portal hypertension with ascites results from obstructed hepatic or portal flow below the diaphragm, not from a mediastinal vein beside the ascending aorta.",
+          "C": "The thoracic duct is a thin lymphatic in the posterior mediastinum; the large thin-walled vein to the right of the ascending aorta is the SVC.",
+          "D": "Aortic dissection is an intimal tear in the aortic wall; the encased vessel is a thin-walled vein beside the aorta, not the aorta itself.",
+          "E": "Cardiac tamponade results from pericardial fluid compressing the heart, not from tumor encasing a mediastinal vein."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-512_Brick Exchange - Mediastinum (Part 1 of 2)_p2_1.png",
@@ -618,7 +693,12 @@
       "explanation": {
         "summary": "Because the left recurrent laryngeal nerve loops under the aortic arch, an expanding arch aneurysm stretches it, paralyzing the left vocal cord and producing hoarseness (Ortner cardiovocal syndrome).",
         "whyCorrect": "Because the left recurrent laryngeal nerve loops under the aortic arch, an expanding arch aneurysm stretches it, paralyzing the left vocal cord and producing hoarseness (Ortner cardiovocal syndrome).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The left vagus trunk in the neck lies above the aortic arch, so an arch aneurysm stretches the recurrent branch that hooks under the arch, not the cervical trunk.",
+          "B": "The glossopharyngeal nerve supplies the posterior tongue taste, carotid sinus and stylopharyngeus; its course in the neck is far from the aortic arch.",
+          "C": "The hypoglossal nerve is motor to the tongue; injury causes tongue deviation, not hoarseness, and it does not enter the thorax.",
+          "E": "The right phrenic nerve supplies the right hemidiaphragm; compression causes diaphragmatic elevation, not vocal cord paralysis."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-073_Brick Exchange - Mediastinum (Part 2 of 2)_p10_1.png",
@@ -657,7 +737,12 @@
       "explanation": {
         "summary": "The thoracic duct drains lymph from below the diaphragm and the left upper body, emptying at the left venous angle. The right lymphatic duct drains only the right head, neck, arm, and thorax into the right venous angle.",
         "whyCorrect": "The thoracic duct drains lymph from below the diaphragm and the left upper body, emptying at the left venous angle. The right lymphatic duct drains only the right head, neck, arm, and thorax into the right venous angle.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The right jugulosubclavian junction receives the right lymphatic duct, which drains only the right head, neck, arm and thorax.",
+          "C": "The thoracic duct ascends beside the azygos vein but does not empty into it; it ends at the left venous angle.",
+          "D": "Lymph does not enter the heart directly; it joins the great veins of the neck and only then reaches the right atrium.",
+          "E": "The thoracic duct does not enter the superior vena cava along its course; it terminates at the left internal jugular-subclavian junction."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-074_Brick Exchange - Mediastinum (Part 2 of 2)_p12_1.png",
@@ -696,7 +781,12 @@
       "explanation": {
         "summary": "The right upper quadrant of the body (right head/neck, right arm, right thorax) drains via the short right lymphatic duct into the right venous angle; the remaining three quadrants drain via the thoracic duct.",
         "whyCorrect": "The right upper quadrant of the body (right head/neck, right arm, right thorax) drains via the short right lymphatic duct into the right venous angle; the remaining three quadrants drain via the thoracic duct.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The cisterna chyli is the abdominal sac where lymph from the lower body and gut begins the thoracic duct; it does not receive right upper-body lymph.",
+          "C": "The azygos vein is a venous channel draining the posterior thoracic wall, not a lymphatic collecting duct.",
+          "D": "The left bronchomediastinal trunk drains left thoracic viscera into the left venous angle; it receives nothing from the right arm or right head and neck.",
+          "E": "The thoracic duct drains three quadrants of the body, the lower body and the left upper body, but not the right arm, right head and neck, or right thorax."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-075_Brick Exchange - Mediastinum (Part 2 of 2)_p13_1.png",
@@ -735,7 +825,12 @@
       "explanation": {
         "summary": "The azygos/hemiazygos veins collect posterior intercostal and mediastinal blood and connect the IVC and SVC territories, serving as a critical collateral pathway when either cava is obstructed.",
         "whyCorrect": "The azygos/hemiazygos veins collect posterior intercostal and mediastinal blood and connect the IVC and SVC territories, serving as a critical collateral pathway when either cava is obstructed.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The heart's own veins drain through the coronary sinus and anterior cardiac veins into the right atrium, not through the azygos system.",
+          "C": "The azygos system consists of veins; the intercostal muscles receive arterial blood from the posterior and anterior intercostal arteries.",
+          "D": "Portal blood reaches the liver via the hepatic portal vein formed by the splenic and superior mesenteric veins, not via thoracic wall veins.",
+          "E": "Oxygenated blood from the lungs returns to the left atrium through the pulmonary veins, not through the azygos or hemiazygos veins."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-076_Brick Exchange - Mediastinum (Part 2 of 2)_p3_1.png",
@@ -774,7 +869,12 @@
       "explanation": {
         "summary": "The ligamentum arteriosum is the obliterated ductus arteriosus, which in fetal life shunted blood from the pulmonary trunk to the aorta, bypassing the lungs. The left recurrent laryngeal nerve hooks around it.",
         "whyCorrect": "The ligamentum arteriosum is the obliterated ductus arteriosus, which in fetal life shunted blood from the pulmonary trunk to the aorta, bypassing the lungs. The left recurrent laryngeal nerve hooks around it.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The foramen ovale leaves the fossa ovalis in the interatrial septum, not a cord between the pulmonary trunk and aortic arch.",
+          "C": "The umbilical vein becomes the ligamentum teres hepatis in the free edge of the falciform ligament.",
+          "D": "The urachus is the allantois remnant that becomes the median umbilical ligament between the bladder and umbilicus.",
+          "E": "The ductus venosus becomes the ligamentum venosum in a fissure on the liver, not a ligament near the aortic arch."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-077_Brick Exchange - Mediastinum (Part 2 of 2)_p4_1.png",
@@ -813,7 +913,12 @@
       "explanation": {
         "summary": "The greater splanchnic nerve carries preganglionic sympathetic fibers from T5-T9. The lesser (T10-T11) and least (T12) splanchnic nerves arise from lower thoracic segments, together supplying abdominal viscera.",
         "whyCorrect": "The greater splanchnic nerve carries preganglionic sympathetic fibers from T5-T9. The lesser (T10-T11) and least (T12) splanchnic nerves arise from lower thoracic segments, together supplying abdominal viscera.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "S2-S4 gives rise to parasympathetic pelvic splanchnic nerves, not the sympathetic thoracic splanchnics.",
+          "B": "T1-T4 sympathetic outflow mainly supplies the head, neck, upper limbs and thoracic viscera such as the heart and lungs, not the greater splanchnic nerve.",
+          "C": "C3-C5 forms the phrenic nerve; the cervical cord has no preganglionic sympathetic neurons, which are confined to T1-L2.",
+          "D": "T12-L2 gives the least splanchnic and lumbar splanchnic nerves; the greater splanchnic arises higher, from mid-thoracic segments."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-078_Brick Exchange - Mediastinum (Part 2 of 2)_p7_1.png",
@@ -852,7 +957,12 @@
       "explanation": {
         "summary": "The characteristic milky, triglyceride-rich appearance identifies chyle. Chylothorax results from thoracic duct injury or obstruction (trauma, surgery, malignancy such as lymphoma).",
         "whyCorrect": "The characteristic milky, triglyceride-rich appearance identifies chyle. Chylothorax results from thoracic duct injury or obstruction (trauma, surgery, malignancy such as lymphoma).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Empyema fluid is thick, cloudy or yellow-green pus with high neutrophil counts and low glucose and pH, not uniformly milky-white chyle.",
+          "C": "A heart failure transudate is clear, straw-colored fluid with low protein and LDH, not milky.",
+          "D": "Hemothorax yields frankly bloody fluid with a hematocrit over half of blood, red rather than milky-white.",
+          "E": "Cerebrospinal fluid is clear and colorless, and a dural tear does not normally produce a pleural collection of milky fluid."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-314_Brick Exchange - Mediastinum (Part 2 of 2)_p1_1.png",
@@ -891,7 +1001,12 @@
       "explanation": {
         "summary": "Milky, triglyceride-rich fluid (chyle) accumulates when the thoracic duct is obstructed or lacerated, most often by tumor or surgery, producing chylothorax or chylopericardium.",
         "whyCorrect": "Milky, triglyceride-rich fluid (chyle) accumulates when the thoracic duct is obstructed or lacerated, most often by tumor or surgery, producing chylothorax or chylopericardium.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Pulmonary vein disruption would cause bleeding of oxygenated blood, not milky triglyceride-rich fluid.",
+          "B": "SVC obstruction or injury causes venous congestion or hemorrhage; disrupting it does not leak chyle.",
+          "C": "Bronchial artery injury produces bleeding or hemoptysis, not a milky lipid-rich effusion.",
+          "E": "Coronary artery injury causes hemopericardium with blood in the sac, not white chylous fluid."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-513_Brick Exchange - Mediastinum (Part 2 of 2)_p14_1.png",
@@ -930,7 +1045,12 @@
       "explanation": {
         "summary": "Posterior mediastinal masses arise near the sympathetic chain and spinal nerves, so neurogenic tumors predominate. Thymoma, teratoma, and thyroid masses are anterior mediastinal.",
         "whyCorrect": "Posterior mediastinal masses arise near the sympathetic chain and spinal nerves, so neurogenic tumors predominate. Thymoma, teratoma, and thyroid masses are anterior mediastinal.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Thymoma arises in the anterior mediastinum behind the sternum, not in the paravertebral compartment behind the heart.",
+          "B": "Bronchogenic carcinoma arises in the lung parenchyma or airways and spreads to hilar and middle mediastinal nodes; it is not the characteristic posterior mediastinal tumor.",
+          "C": "A retrosternal goiter extends from the neck into the anterior or superior mediastinum, not into the posterior compartment.",
+          "D": "Teratoma is a germ cell tumor of the anterior mediastinum, one of the classic 'terrible Ts', not a posterior mediastinal mass."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-514_Brick Exchange - Mediastinum (Part 2 of 2)_p15_1.png",
@@ -969,7 +1089,12 @@
       "explanation": {
         "summary": "The rich, longitudinally oriented submucosal lymphatic network of the esophagus permits tumor cells to travel long distances before exiting to regional nodes, producing unpredictable skip metastases and complicating surgical staging.",
         "whyCorrect": "The rich, longitudinally oriented submucosal lymphatic network of the esophagus permits tumor cells to travel long distances before exiting to regional nodes, producing unpredictable skip metastases and complicating surgical staging.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Esophageal lymph does not drain to a single sentinel node; its multidirectional drainage is exactly why sentinel node mapping is unreliable.",
+          "B": "Esophageal lymph flows both up and down, with upper segments draining to cervical nodes and lower segments to celiac nodes, so flow is not only downward.",
+          "C": "The esophagus has a rich lymphatic supply, and esophageal cancer commonly spreads through lymphatics, not only through the blood.",
+          "E": "Nodal metastasis does not require aortic invasion; lymphatic spread occurs early through the submucosal plexus, often before local invasion."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-515_Brick Exchange - Mediastinum (Part 2 of 2)_p9_1.png",
@@ -1008,7 +1133,12 @@
       "explanation": {
         "summary": "Greater splanchnic fibers (T5-T9) traverse the sympathetic chain without synapsing and synapse in the celiac (prevertebral) ganglion, supplying sympathetic innervation to foregut structures.",
         "whyCorrect": "Greater splanchnic fibers (T5-T9) traverse the sympathetic chain without synapsing and synapse in the celiac (prevertebral) ganglion, supplying sympathetic innervation to foregut structures.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The otic ganglion is a parasympathetic head ganglion serving the parotid gland via the glossopharyngeal nerve, not a target of thoracic splanchnics.",
+          "C": "The vagus nerve has no superior mesenteric ganglion; the superior mesenteric ganglion is a sympathetic prevertebral ganglion that mainly receives the lesser splanchnic nerve.",
+          "D": "The dorsal root ganglion holds sensory neuron cell bodies and has no synapses, so preganglionic sympathetic fibers do not synapse there.",
+          "E": "The stellate ganglion is a paravertebral chain ganglion serving the head, neck and upper limb; splanchnic fibers pass through the chain without synapsing."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-777_Brick Exchange - Mediastinum (Part 2 of 2)_p6_1.png",
@@ -1047,7 +1177,12 @@
       "explanation": {
         "summary": "The apex of the heart points down and to the left and is formed by the tip of the left ventricle, normally palpable at the 5th intercostal space in the midclavicular line.",
         "whyCorrect": "The apex of the heart points down and to the left and is formed by the tip of the left ventricle, normally palpable at the 5th intercostal space in the midclavicular line.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The right ventricle forms most of the anterior surface and the inferior border, but it does not extend to the leftward-pointing apex.",
+          "C": "The pulmonary trunk is an outflow vessel at the base of the heart, superior and opposite to the apex.",
+          "D": "The right atrium forms the right border of the heart, far from the inferolateral tip.",
+          "E": "The left atrium forms most of the posterior base of the heart, the opposite end from the apex."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-012_Brick Exchange - Anatomy of the Heart_p15_1.png",
@@ -1086,7 +1221,12 @@
       "explanation": {
         "summary": "The heart and its pericardium occupy the middle mediastinum — the central compartment of the thoracic cavity between the two pleural sacs, posterior to the body of the sternum.",
         "whyCorrect": "The heart and its pericardium occupy the middle mediastinum — the central compartment of the thoracic cavity between the two pleural sacs, posterior to the body of the sternum.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The pleural cavities surround the lungs on either side; the heart lies between them, outside the pleural sacs.",
+          "B": "The superior mediastinum lies above the sternal angle and contains the great vessels and trachea, not the heart.",
+          "C": "The retroperitoneum is an abdominal space behind the peritoneum, below the diaphragm.",
+          "D": "The posterior mediastinum lies behind the pericardium and contains the esophagus and descending aorta, not the heart."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-013_Brick Exchange - Anatomy of the Heart_p2_1.png",
@@ -1125,7 +1265,12 @@
       "explanation": {
         "summary": "The fossa ovalis marks the site of the fetal foramen ovale, which shunted blood from the right to left atrium in utero and normally closes after birth as pulmonary circulation is established.",
         "whyCorrect": "The fossa ovalis marks the site of the fetal foramen ovale, which shunted blood from the right to left atrium in utero and normally closes after birth as pulmonary circulation is established.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The ductus venosus becomes the ligamentum venosum of the liver, not a depression in the atrial septum.",
+          "B": "The sinus venosus is incorporated as the smooth sinus venarum of the right atrium and the coronary sinus; it does not form the fossa ovalis.",
+          "C": "The ductus arteriosus becomes the ligamentum arteriosum between the pulmonary trunk and aortic arch, outside the heart.",
+          "D": "The umbilical vein becomes the ligamentum teres hepatis in the falciform ligament."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-014_Brick Exchange - Anatomy of the Heart_p6_1.png",
@@ -1164,7 +1309,12 @@
       "explanation": {
         "summary": "Both semilunar valves (aortic and pulmonary) normally have three cusps. The aortic valve's cusps are named right coronary, left coronary, and posterior (non-coronary).",
         "whyCorrect": "Both semilunar valves (aortic and pulmonary) normally have three cusps. The aortic valve's cusps are named right coronary, left coronary, and posterior (non-coronary).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "A unicuspid aortic valve is a rare congenital anomaly that causes early stenosis; it is not the normal anatomy.",
+          "C": "No normal cardiac valve has five cusps; the semilunar valves each have three.",
+          "D": "A bicuspid aortic valve is the most common congenital valve anomaly and predisposes to early stenosis; the normal semilunar valves have three cusps.",
+          "E": "Quadricuspid semilunar valves are rare anomalies; three cusps is normal for both aortic and pulmonary valves."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-015_Brick Exchange - Anatomy of the Heart_p8_1.png",
@@ -1203,7 +1353,12 @@
       "explanation": {
         "summary": "The right ventricle is the most anterior chamber, sitting just behind the sternum — which is why it is the chamber most often injured in blunt anterior chest trauma. The left atrium is the most posterior.",
         "whyCorrect": "The right ventricle is the most anterior chamber, sitting just behind the sternum — which is why it is the chamber most often injured in blunt anterior chest trauma. The left atrium is the most posterior.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The aortic root lies centrally in the heart, wedged between the right ventricular outflow tract and the atria, not directly behind the sternum.",
+          "B": "The right atrium forms the right border of the heart and lies to the right, not immediately behind the sternum.",
+          "C": "The left atrium is the most posterior chamber, lying against the esophagus, the opposite of retrosternal.",
+          "E": "The left ventricle lies leftward and posterior to the right ventricle and forms the apex and left border."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-184_Brick Exchange - Anatomy of the Heart_p16_1.png",
@@ -1242,7 +1397,12 @@
       "explanation": {
         "summary": "The cardiothoracic ratio is the maximum cardiac width divided by maximum internal thoracic width on a PA film; a ratio greater than 0.5 indicates cardiomegaly.",
         "whyCorrect": "The cardiothoracic ratio is the maximum cardiac width divided by maximum internal thoracic width on a PA film; a ratio greater than 0.5 indicates cardiomegaly.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "A ratio of 0.6 is clearly enlarged, but it is not the threshold; any ratio over 0.5 on a PA film is already considered cardiomegaly.",
+          "B": "A ratio of 0.7 would indicate marked cardiomegaly; the cutoff for enlargement is much lower, at 0.5.",
+          "D": "A ratio of 0.3 is a small heart; the upper limit of normal is about half the thoracic width.",
+          "E": "A ratio of 0.4 falls within the normal range; enlargement begins only above 0.5."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-185_Brick Exchange - Anatomy of the Heart_p17_1.png",
@@ -1281,7 +1441,12 @@
       "explanation": {
         "summary": "A cardiac silhouette occupying more than 50% of the thoracic width on a PA film indicates cardiomegaly, in contrast to the normal-sized heart of the comparison film.",
         "whyCorrect": "A cardiac silhouette occupying more than 50% of the thoracic width on a PA film indicates cardiomegaly, in contrast to the normal-sized heart of the comparison film.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Pleural effusion blunts the costophrenic angles and forms a meniscus, rather than symmetrically widening the cardiac silhouette.",
+          "C": "Aortic coarctation shows rib notching and a figure-3 sign at the aortic knob, not a globally enlarged heart.",
+          "D": "Tension pneumothorax shows a hyperlucent hemithorax without lung markings and mediastinal shift, not a widened heart.",
+          "E": "Lobar pneumonia appears as a dense consolidation with air bronchograms confined to one lobe, not an enlarged cardiac outline."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-186_Brick Exchange - Anatomy of the Heart_p18_1.png",
@@ -1320,7 +1485,12 @@
       "explanation": {
         "summary": "The opacified tubular column posterior to the cardiac shadow is the barium-filled esophagus on a lateral esophagram; its intimate relation to the left atrium makes it useful for assessing left atrial enlargement.",
         "whyCorrect": "The opacified tubular column posterior to the cardiac shadow is the barium-filled esophagus on a lateral esophagram; its intimate relation to the left atrium makes it useful for assessing left atrial enlargement.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The azygos vein is not opacified by swallowed contrast; it is seen as a small round density at the right tracheobronchial angle.",
+          "B": "The trachea is an air-filled lucent column that ends at the carina, above the heart, and is not outlined by swallowed barium.",
+          "D": "The thoracic duct is opacified only by specialized lymphangiography, appearing as a thin beaded line, not a broad column down to the diaphragm.",
+          "E": "The thoracic aorta is seen as a soft-tissue density without contrast and is opacified only by intravascular injection, not swallowed barium."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-187_Brick Exchange - Anatomy of the Heart_p1_1.png",
@@ -1359,7 +1529,12 @@
       "explanation": {
         "summary": "Fluid in the pericardial space (pericardial effusion) that accumulates faster than the sac can stretch raises intrapericardial pressure, compressing the chambers and impairing filling — cardiac tamponade, which causes obstructive shock.",
         "whyCorrect": "Fluid in the pericardial space (pericardial effusion) that accumulates faster than the sac can stretch raises intrapericardial pressure, compressing the chambers and impairing filling — cardiac tamponade, which causes obstructive shock.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "Infective endocarditis appears on echo as vegetations on valve leaflets, not as a fluid rim around the heart.",
+          "C": "Pulmonary embolism may dilate the right ventricle on echo, but it does not produce a pericardial fluid collection.",
+          "D": "Aortic dissection can bleed into the pericardium, but the fluid rim itself is an effusion, and its rapid build-up causes tamponade, not dissection.",
+          "E": "Myocardial infarction shows regional wall-motion abnormalities, and a fluid rim is a complication rather than a cause of infarction."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-414_Brick Exchange - Anatomy of the Heart_p19_1.png",
@@ -1398,7 +1573,12 @@
       "explanation": {
         "summary": "The fibrous skeleton anchors the valves and forms a non-conducting barrier between atrial and ventricular myocardium, forcing impulses through the AV node/bundle of His and preventing direct atrioventricular electrical spread.",
         "whyCorrect": "The fibrous skeleton anchors the valves and forms a non-conducting barrier between atrial and ventricular myocardium, forcing impulses through the AV node/bundle of His and preventing direct atrioventricular electrical spread.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The pacemaker impulse comes from the sinoatrial node, specialized myocardium in the right atrial wall, not from dense fibrous tissue.",
+          "B": "Fibrous connective tissue cannot contract; ejection is done by ventricular myocardium.",
+          "D": "Myocardial oxygen storage is handled by myoglobin in cardiomyocytes, not by the collagenous skeleton.",
+          "E": "The myocardium is supplied by the coronary arteries arising from the aortic sinuses, not by the fibrous skeleton."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-614_Brick Exchange - Anatomy of the Heart_p12_1.png",
@@ -1437,7 +1617,12 @@
       "explanation": {
         "summary": "An open mitral (AV) valve with a closed aortic (semilunar) valve and relaxed papillary muscles allows the left ventricle to fill from the atrium — the defining configuration of ventricular diastole.",
         "whyCorrect": "An open mitral (AV) valve with a closed aortic (semilunar) valve and relaxed papillary muscles allows the left ventricle to fill from the atrium — the defining configuration of ventricular diastole.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "In isovolumetric contraction both the mitral and aortic valves are closed while the papillary muscles tense, so the mitral valve would not be open.",
+          "B": "Isovolumetric relaxation has both valves closed as ventricular pressure falls; the mitral valve has not yet opened.",
+          "C": "Atrial repolarization is an electrical event hidden in the QRS complex, not a mechanical valve configuration.",
+          "D": "In ejection the aortic valve is open and the mitral valve is closed with tense chordae, the opposite of what is shown."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-615_Brick Exchange - Anatomy of the Heart_p13_1.png",
@@ -1476,7 +1661,12 @@
       "explanation": {
         "summary": "Deoxygenated blood enters the right atrium, passes the tricuspid valve into the right ventricle, and is ejected through the pulmonary valve into the pulmonary arteries for oxygenation in the lungs.",
         "whyCorrect": "Deoxygenated blood enters the right atrium, passes the tricuspid valve into the right ventricle, and is ejected through the pulmonary valve into the pulmonary arteries for oxygenation in the lungs.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The aortic root carries oxygenated blood out of the left ventricle into the systemic circulation, not to the lungs.",
+          "C": "The left ventricle receives oxygenated blood from the left atrium and pumps it into the aorta.",
+          "D": "The right atrium receives deoxygenated blood from the venae cavae but passes it to the right ventricle; it does not pump into the pulmonary arteries.",
+          "E": "The left atrium receives oxygenated blood from the pulmonary veins and passes it to the left ventricle."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-616_Brick Exchange - Anatomy of the Heart_p4_1.png",
@@ -1515,7 +1705,12 @@
       "explanation": {
         "summary": "During ventricular systole the mitral (bicuspid) valve closes to prevent regurgitation of blood from the left ventricle back into the left atrium; the tricuspid does the same on the right side.",
         "whyCorrect": "During ventricular systole the mitral (bicuspid) valve closes to prevent regurgitation of blood from the left ventricle back into the left atrium; the tricuspid does the same on the right side.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The pulmonary valve guards the right ventricular outflow and closes in diastole to prevent backflow from the pulmonary trunk.",
+          "C": "The aortic valve closes in diastole to prevent backflow from the aorta into the left ventricle, not into the left atrium.",
+          "D": "The eustachian valve is a vestigial flap at the IVC opening into the right atrium, with no role in left-sided flow.",
+          "E": "The tricuspid valve prevents backflow into the right atrium during systole, the right-sided counterpart of the correct answer."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-617_Brick Exchange - Anatomy of the Heart_p7_1.png",
@@ -1554,7 +1749,12 @@
       "explanation": {
         "summary": "During ventricular contraction the papillary muscles tense the chordae tendineae, holding the mitral and tricuspid leaflets shut so they do not evert into the atria; rupture leads to valvular regurgitation.",
         "whyCorrect": "During ventricular contraction the papillary muscles tense the chordae tendineae, holding the mitral and tricuspid leaflets shut so they do not evert into the atria; rupture leads to valvular regurgitation.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Myocardial perfusion comes from the coronary arteries; the chordae are avascular collagen cords.",
+          "B": "The pacemaker is the sinoatrial node in the right atrium; papillary muscles are ordinary working myocardium.",
+          "C": "The great vessels are anchored by the fibrous pericardium and the fibrous skeleton, not by the chordae, which attach only to AV valve leaflets.",
+          "D": "Semilunar valves open passively when ventricular pressure exceeds arterial pressure; they have no chordae or papillary muscles."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-618_Brick Exchange - Anatomy of the Heart_p9_1.png",
@@ -1593,7 +1793,12 @@
       "explanation": {
         "summary": "The anterior interventricular artery, a branch of the left main coronary artery running in the anterior interventricular groove, is clinically termed the left anterior descending (LAD). It supplies the anterior LV wall, anterior two-thirds of the septum, and apex.",
         "whyCorrect": "The anterior interventricular artery, a branch of the left main coronary artery running in the anterior interventricular groove, is clinically termed the left anterior descending (LAD). It supplies the anterior LV wall, anterior two-thirds of the septum, and apex.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The right coronary artery arises from the right aortic sinus and runs in the right atrioventricular groove, not the anterior interventricular groove.",
+          "B": "Obtuse marginal arteries branch from the circumflex artery to supply the lateral left ventricular wall.",
+          "C": "The left circumflex runs in the left atrioventricular groove around to the back of the heart, not down the anterior interventricular groove.",
+          "E": "The posterior descending artery runs in the posterior interventricular groove and usually arises from the right coronary artery."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-090_Brick Exchange - Vasculature and Lymphatics of the Heart_p13_1.png",
@@ -1632,7 +1837,12 @@
       "explanation": {
         "summary": "The great, middle, and small cardiac veins empty into the coronary sinus, which runs in the posterior AV groove and drains the majority of cardiac venous blood into the right atrium (near the tricuspid valve and IVC orifice).",
         "whyCorrect": "The great, middle, and small cardiac veins empty into the coronary sinus, which runs in the posterior AV groove and drains the majority of cardiac venous blood into the right atrium (near the tricuspid valve and IVC orifice).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The right ventricle receives blood through the tricuspid valve from the right atrium; cardiac veins do not drain into it via a collecting sinus.",
+          "C": "The left ventricle receives oxygenated blood from the left atrium; it is not the destination of the coronary sinus.",
+          "D": "The coronary sinus runs in the posterior AV groove beneath the left atrium but opens into the right atrium.",
+          "E": "The coronary sinus opens directly into the right atrium, not into the superior vena cava."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-091_Brick Exchange - Vasculature and Lymphatics of the Heart_p15_1.png",
@@ -1671,7 +1881,12 @@
       "explanation": {
         "summary": "The thoracic duct carries lymph from most of the body and drains into the venous system at the left venous angle, the junction of the left subclavian and left internal jugular veins. Cardiac and mediastinal lymphatics feed into this system.",
         "whyCorrect": "The thoracic duct carries lymph from most of the body and drains into the venous system at the left venous angle, the junction of the left subclavian and left internal jugular veins. Cardiac and mediastinal lymphatics feed into this system.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The right jugulosubclavian junction receives the right lymphatic duct, which drains only the right upper quadrant of the body.",
+          "B": "The thoracic duct does not enter the superior vena cava; it ends at the left venous angle in the root of the neck.",
+          "C": "The coronary sinus collects cardiac venous blood for the right atrium and receives no lymph.",
+          "E": "Lymph never enters the heart directly; it joins the great veins of the neck first."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-092_Brick Exchange - Vasculature and Lymphatics of the Heart_p18_1.png",
@@ -1710,7 +1925,12 @@
       "explanation": {
         "summary": "The epicardial vessel coursing in a groove and sending penetrating branches deep into the myocardium to perfuse it is a coronary artery. Coronary arteries lie in the epicardial fat and give off intramural branches.",
         "whyCorrect": "The epicardial vessel coursing in a groove and sending penetrating branches deep into the myocardium to perfuse it is a coronary artery. Coronary arteries lie in the epicardial fat and give off intramural branches.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Pulmonary veins run from the lungs to the left atrium and do not course in epicardial grooves branching into the myocardium.",
+          "C": "Cardiac lymphatics are thin-walled, valved channels that collect fluid; they do not give off branches that perfuse the myocardium.",
+          "D": "Cardiac autonomic nerves are solid fiber bundles without a lumen and do not branch like vessels to supply the muscle.",
+          "E": "Purkinje fibers are specialized subendocardial conducting cells, not lumened vessels running in epicardial grooves."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-093_Brick Exchange - Vasculature and Lymphatics of the Heart_p3_1.png",
@@ -1749,7 +1969,12 @@
       "explanation": {
         "summary": "The boxed region highlights an epicardial coronary artery running over the surface of the heart within the epicardial fat, the vessels that supply the myocardium with oxygenated blood.",
         "whyCorrect": "The boxed region highlights an epicardial coronary artery running over the surface of the heart within the epicardial fat, the vessels that supply the myocardium with oxygenated blood.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The branches of the aortic arch (brachiocephalic, left common carotid and left subclavian) supply the head and arms, not the myocardial surface.",
+          "C": "The thoracic duct runs in the posterior mediastinum, not over the epicardial surface of the heart.",
+          "D": "The great cardiac vein runs alongside the LAD, but it carries deoxygenated blood away from the myocardium rather than supplying it.",
+          "E": "The pulmonary artery leaves the right ventricle for the lungs and does not travel along the myocardial surface."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-094_Brick Exchange - Vasculature and Lymphatics of the Heart_p3_2.png",
@@ -1788,7 +2013,12 @@
       "explanation": {
         "summary": "The green structure is the sinoatrial (SA) node. In about 60% of people the SA nodal artery arises from the right coronary artery, making RCA occlusion a cause of sinus node dysfunction.",
         "whyCorrect": "The green structure is the sinoatrial (SA) node. In about 60% of people the SA nodal artery arises from the right coronary artery, making RCA occlusion a cause of sinus node dysfunction.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The left main coronary artery divides almost immediately into the LAD and circumflex and does not usually supply the SA node directly.",
+          "C": "The LAD runs in the anterior interventricular groove to supply the anterior wall and septum, not the right atrial SA node.",
+          "D": "The left circumflex gives the SA nodal artery in only about 40% of people, a minority pattern.",
+          "E": "The posterior descending artery supplies the posterior septum and often the AV node region, not the SA node high in the right atrium."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-095_Brick Exchange - Vasculature and Lymphatics of the Heart_p4_1.png",
@@ -1827,7 +2057,12 @@
       "explanation": {
         "summary": "The presence of the anterior interventricular groove with the LAD, the right ventricle forming most of the visible surface, and the ascending aorta/pulmonary trunk identify the anterior sternocostal surface of the heart.",
         "whyCorrect": "The presence of the anterior interventricular groove with the LAD, the right ventricle forming most of the visible surface, and the ascending aorta/pulmonary trunk identify the anterior sternocostal surface of the heart.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The right pulmonary surface is formed mainly by the right atrium and faces the right lung; the LAD is not visible from that side.",
+          "C": "The diaphragmatic surface rests on the diaphragm, is formed mostly by the ventricles, and shows the posterior interventricular groove, not the anterior one.",
+          "D": "The base of the heart faces posteriorly and is formed mainly by the left atrium with pulmonary veins entering it.",
+          "E": "The left pulmonary surface is formed by the left ventricle facing the left lung and does not show the full anterior interventricular groove."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-096_Brick Exchange - Vasculature and Lymphatics of the Heart_p5_1.png",
@@ -1866,7 +2101,12 @@
       "explanation": {
         "summary": "Selective injection of iodinated contrast into a coronary ostium with fluoroscopic imaging is coronary angiography, the gold standard for defining coronary anatomy and stenoses.",
         "whyCorrect": "Selective injection of iodinated contrast into a coronary ostium with fluoroscopic imaging is coronary angiography, the gold standard for defining coronary anatomy and stenoses.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Transthoracic echocardiography uses ultrasound through the chest wall to image chambers and valves, without contrast injection or fluoroscopy.",
+          "B": "Cardiac MRI uses magnetic fields and gadolinium, not fluoroscopy with iodinated contrast injected selectively into a coronary artery.",
+          "C": "Left ventriculography injects contrast into the left ventricle cavity to assess wall motion and regurgitation, not into a coronary artery.",
+          "D": "CT pulmonary angiography uses IV contrast and CT to look for pulmonary emboli; it does not selectively inject the coronary ostia under fluoroscopy."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-395_Brick Exchange - Vasculature and Lymphatics of the Heart_p6_1.png",
@@ -1905,7 +2145,12 @@
       "explanation": {
         "summary": "Coronary dominance is defined by the origin of the posterior descending artery (PDA). When the PDA arises from the RCA, as here, the patient has a right-dominant circulation, the most common pattern (~85%).",
         "whyCorrect": "Coronary dominance is defined by the origin of the posterior descending artery (PDA). When the PDA arises from the RCA, as here, the patient has a right-dominant circulation, the most common pattern (~85%).",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Co-dominant circulation means both the RCA and circumflex contribute to the posterior descending territory, not a PDA from the RCA alone.",
+          "B": "Left dominance means the PDA arises from the left circumflex, the opposite of what is shown.",
+          "C": "An anomalous coronary origin refers to a coronary artery arising from an abnormal sinus or vessel, not to which artery gives the PDA.",
+          "E": "The coronary sinus is a venous structure that cannot be judged on an arterial angiogram, and its absence has nothing to do with the PDA's origin."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-396_Brick Exchange - Vasculature and Lymphatics of the Heart_p7_1.png",
@@ -1944,7 +2189,12 @@
       "explanation": {
         "summary": "The insets illustrate an atherosclerotic plaque (lipid core with fibrous cap) encroaching on the coronary lumen. Progressive stenosis limits myocardial perfusion and, with plaque rupture and thrombosis, precipitates acute coronary syndromes.",
         "whyCorrect": "The insets illustrate an atherosclerotic plaque (lipid core with fibrous cap) encroaching on the coronary lumen. Progressive stenosis limits myocardial perfusion and, with plaque rupture and thrombosis, precipitates acute coronary syndromes.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Vasospasm is a transient contraction of the smooth muscle in the vessel wall that narrows the lumen without any yellow lipid deposit in the wall.",
+          "C": "A septic embolus is infected material, usually from endocarditis, that lodges inside the lumen; it is not a lipid-rich lesion built up within the wall.",
+          "D": "A coronary aneurysm is a focal dilation of the artery, as in Kawasaki disease, which widens the lumen rather than narrowing it.",
+          "E": "Spontaneous coronary dissection separates the wall layers with a hematoma or intimal flap, typically in young women, without a lipid core and fibrous cap."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-579_Brick Exchange - Vasculature and Lymphatics of the Heart_p13_2.png",
@@ -1983,7 +2233,12 @@
       "explanation": {
         "summary": "The pericardial cavity, between the visceral and parietal serous pericardium, holds a small volume of serous fluid that lubricates the surfaces so the heart can contract and relax with minimal friction.",
         "whyCorrect": "The pericardial cavity, between the visceral and parietal serous pericardium, holds a small volume of serous fluid that lubricates the surfaces so the heart can contract and relax with minimal friction.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Conduction from the SA node to the AV node travels through atrial myocardium, not through the pericardial space between serous layers.",
+          "C": "The pericardial cavity holds only a thin film of serous fluid, not blood; the myocardium is perfused by the coronary arteries.",
+          "D": "Chordae tendineae lie inside the ventricles, linking AV valve leaflets to papillary muscles, far from the pericardial space.",
+          "E": "Pericardial fluid is a lubricant ultrafiltrate; cardiac hormones such as ANP come from atrial myocytes, and heart rate is set by autonomic input."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-131_Brick Exchange - Histology of the Heart_p10_1.png",
@@ -2022,7 +2277,12 @@
       "explanation": {
         "summary": "Branching fibers with single central nuclei and interposed capillaries are diagnostic of cardiac muscle, distinguishing it from multinucleated peripheral-nucleus skeletal muscle and spindle-shaped smooth muscle.",
         "whyCorrect": "Branching fibers with single central nuclei and interposed capillaries are diagnostic of cardiac muscle, distinguishing it from multinucleated peripheral-nucleus skeletal muscle and spindle-shaped smooth muscle.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Smooth muscle has spindle-shaped, non-branching, unstriated cells with tapered ends, not branching fibers joined end to end.",
+          "B": "Dense regular connective tissue is parallel collagen bundles with flattened fibroblast nuclei, as in tendon, not branching contractile cells with pink cytoplasm.",
+          "D": "Skeletal muscle fibers are long, unbranched and multinucleated with nuclei at the periphery, unlike these branching cells with single central nuclei.",
+          "E": "Simple columnar epithelium is a single sheet of tall cells lining a surface on a basement membrane, not a meshwork of branching muscle fibers."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-132_Brick Exchange - Histology of the Heart_p11_1.png",
@@ -2061,7 +2321,12 @@
       "explanation": {
         "summary": "Intercalated discs are specialized step-like junctions between cardiomyocytes containing desmosomes/fasciae adherentes (mechanical linkage) and gap junctions (electrical continuity), enabling the myocardium to contract as a functional syncytium.",
         "whyCorrect": "Intercalated discs are specialized step-like junctions between cardiomyocytes containing desmosomes/fasciae adherentes (mechanical linkage) and gap junctions (electrical continuity), enabling the myocardium to contract as a functional syncytium.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Cardiac muscle has no motor end plates; its contraction is triggered by spread of action potentials from cell to cell, with autonomic nerves only modulating it.",
+          "B": "The endomysium is delicate connective tissue around each fiber; it does not form a dark step-like band crossing the fiber at a cell-cell junction.",
+          "C": "T-tubules are invaginations of the sarcolemma, too fine to resolve by light microscopy, that run at the Z-lines within a cell, not at the boundary between two cells.",
+          "E": "Z-lines are thin, regularly repeating lines within every sarcomere; the thicker, irregular band at the junction of two cells is an intercalated disc."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-133_Brick Exchange - Histology of the Heart_p13_1.png",
@@ -2100,7 +2365,12 @@
       "explanation": {
         "summary": "The outer surface mesothelium overlying loose connective tissue, adipose, nerves and vessels directly on myocardium is the epicardium, i.e. the visceral layer of the serous pericardium.",
         "whyCorrect": "The outer surface mesothelium overlying loose connective tissue, adipose, nerves and vessels directly on myocardium is the epicardium, i.e. the visceral layer of the serous pericardium.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The myocardium is the cardiac muscle labeled M beneath the bracketed layer, not the mesothelium-covered connective tissue on the surface.",
+          "B": "The endocardium lines the inner chamber surface with endothelium, not the outer surface with mesothelium, fat and nerves.",
+          "C": "The tunica media of a coronary artery is a ring of smooth muscle within a vessel wall, not a surface layer of the heart covered by mesothelium.",
+          "D": "The parietal pericardium lines the fibrous sac across the pericardial cavity; it does not sit directly on the myocardium."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-134_Brick Exchange - Histology of the Heart_p2_1.png",
@@ -2139,7 +2409,12 @@
       "explanation": {
         "summary": "The endocardium is the innermost layer lining the cardiac chambers and valves; its endothelium is continuous with that of vessels entering and leaving the heart.",
         "whyCorrect": "The endocardium is the innermost layer lining the cardiac chambers and valves; its endothelium is continuous with that of vessels entering and leaving the heart.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The parietal pericardium lines the inner surface of the fibrous sac, outside the heart, not the chambers.",
+          "B": "The myocardium is the middle muscular layer that does the pumping; it is covered on its inner surface by another layer.",
+          "D": "The epicardium is the outer visceral serous layer on the surface of the heart, not the lining of the chambers.",
+          "E": "The fibrous pericardium is the tough outermost sac anchoring the heart to the diaphragm and great vessels, not an internal lining."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-135_Brick Exchange - Histology of the Heart_p6_1.png",
@@ -2178,7 +2453,12 @@
       "explanation": {
         "summary": "The epicardium is the visceral layer of the serous pericardium, adherent to the outer surface of the myocardium; the pericardial cavity separates it from the parietal layer.",
         "whyCorrect": "The epicardium is the visceral layer of the serous pericardium, adherent to the outer surface of the myocardium; the pericardial cavity separates it from the parietal layer.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The fibrous pericardium is the tough outer sac of dense connective tissue, separate from the heart surface and not the epicardium.",
+          "B": "The endocardium is the innermost layer lining the chambers and valves, on the opposite side of the wall from the epicardium.",
+          "C": "The parietal serous layer lines the inner surface of the fibrous pericardium across the pericardial cavity from the heart, not on its surface.",
+          "D": "The myocardium is the muscular middle layer; the epicardium covers it on the outside."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-136_Brick Exchange - Histology of the Heart_p7_1.png",
@@ -2217,7 +2497,12 @@
       "explanation": {
         "summary": "Large, pale cells rich in glycogen within the subendocardial layer are Purkinje fibers, specialized conducting cardiomyocytes that rapidly distribute the electrical impulse to the ventricular myocardium.",
         "whyCorrect": "Large, pale cells rich in glycogen within the subendocardial layer are Purkinje fibers, specialized conducting cardiomyocytes that rapidly distribute the electrical impulse to the ventricular myocardium.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The heart wall contains no mucous glands; mucous acini are found in the airways and digestive tract.",
+          "B": "The cardiac skeleton is dense fibrous connective tissue around the valve rings, not clusters of pale cells beneath the endocardium.",
+          "C": "Adipocytes appear as empty rings with flattened peripheral nuclei, found mainly in the epicardium, not as large pale muscle cells in the subendocardium.",
+          "D": "Macrophages are small scattered cells with dense nuclei, not clusters of large, glycogen-rich cells lying just above the myocardium."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-137_Brick Exchange - Histology of the Heart_p9_1.png",
@@ -2256,7 +2541,12 @@
       "explanation": {
         "summary": "Deoxygenated blood enters the right atrium from the vena cavae and crosses the tricuspid valve into the right ventricle; the pulmonary valve then guards the outflow to the lungs.",
         "whyCorrect": "Deoxygenated blood enters the right atrium from the vena cavae and crosses the tricuspid valve into the right ventricle; the pulmonary valve then guards the outflow to the lungs.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "B": "The aortic valve guards the left ventricular outflow into the aorta and is never crossed by systemic venous return entering the right ventricle.",
+          "C": "The mitral valve lies between the left atrium and left ventricle and carries oxygenated pulmonary venous blood.",
+          "D": "The eustachian valve is a vestigial flap at the IVC orifice in the right atrium; it does not separate the atrium from the ventricle.",
+          "E": "The pulmonary valve lies at the right ventricular outflow; blood crosses it when leaving the right ventricle, not when entering it."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-040_Brick Exchange - Cardiac Cycle_p3_1.png",
@@ -2295,7 +2585,12 @@
       "explanation": {
         "summary": "Jugular venous pressure is estimated by the height of the venous pulsation above the sternal angle; adding roughly 5 cm (sternal angle to right atrium) gives central venous pressure, reflecting right atrial filling.",
         "whyCorrect": "Jugular venous pressure is estimated by the height of the venous pulsation above the sternal angle; adding roughly 5 cm (sternal angle to right atrium) gives central venous pressure, reflecting right atrial filling.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Pulse pressure is the difference between systolic and diastolic arterial pressure, measured with a cuff, not by the height of a venous column in the neck.",
+          "B": "Mean arterial pressure is derived from cuff systolic and diastolic readings; neck venous height reflects pressure on the venous side.",
+          "C": "Pulmonary capillary wedge pressure estimates left atrial pressure and requires a balloon-tipped pulmonary artery catheter, not neck inspection.",
+          "E": "Carotid pulse amplitude is assessed by palpating the artery, whereas the jugular venous column is a non-palpable, multiphasic pulsation measured above the sternal angle."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-226_Brick Exchange - Cardiac Cycle_p13_1.png",
@@ -2334,7 +2629,12 @@
       "explanation": {
         "summary": "The dicrotic notch is the small dip in the aortic pressure curve produced by a brief backflow and elastic recoil as the aortic valve snaps shut, marking the end of ventricular ejection and start of diastole.",
         "whyCorrect": "The dicrotic notch is the small dip in the aortic pressure curve produced by a brief backflow and elastic recoil as the aortic valve snaps shut, marking the end of ventricular ejection and start of diastole.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Atrial systole occurs at the end of diastole, before the aortic valve opens, and does not cause a notch in the aortic pressure tracing after peak ejection.",
+          "B": "Mitral opening comes later, at the end of isovolumetric relaxation, and appears on atrial and ventricular tracings rather than as a notch in aortic pressure.",
+          "C": "Aortic valve opening marks the start of the aortic pressure upstroke, before the peak, not a dip after it.",
+          "E": "Mitral closure happens at the start of isovolumetric contraction, while aortic pressure is still falling to its diastolic minimum, before ejection begins."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-673_Brick Exchange - Cardiac Cycle_p12_1.png",
@@ -2373,7 +2673,12 @@
       "explanation": {
         "summary": "The x descent reflects the fall in atrial pressure during ventricular systole as the atrium relaxes and the tricuspid annulus is pulled downward; the y descent instead follows tricuspid opening and atrial emptying.",
         "whyCorrect": "The x descent reflects the fall in atrial pressure during ventricular systole as the atrium relaxes and the tricuspid annulus is pulled downward; the y descent instead follows tricuspid opening and atrial emptying.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The a wave is a positive deflection from atrial contraction at the end of diastole, not a descent during ventricular systole.",
+          "C": "The y descent follows tricuspid opening, when blood empties from the atrium into the ventricle in early diastole.",
+          "D": "The c wave is a small positive bump from tricuspid bulging into the atrium during isovolumetric contraction, not a fall in pressure.",
+          "E": "The v wave is the rise in atrial pressure from venous filling against a closed tricuspid valve late in systole, not a descent."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-674_Brick Exchange - Cardiac Cycle_p15_1.png",
@@ -2412,7 +2717,12 @@
       "explanation": {
         "summary": "S1 marks the beginning of systole and is produced by closure of the atrioventricular (mitral and tricuspid) valves as ventricular pressure rises above atrial pressure; S2 corresponds to semilunar valve closure at the end of ejection.",
         "whyCorrect": "S1 marks the beginning of systole and is produced by closure of the atrioventricular (mitral and tricuspid) valves as ventricular pressure rises above atrial pressure; S2 corresponds to semilunar valve closure at the end of ejection.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Atrial contraction occurs just before S1 and may produce S4 in a stiff ventricle; it does not cause the first heart sound.",
+          "B": "Mitral opening at the start of rapid filling is normally silent; it is followed by S3 if the ventricle is volume-overloaded.",
+          "C": "Semilunar valve closure produces S2 at the end of ejection, not S1.",
+          "D": "Aortic valve opening is normally silent and follows S1 after isovolumetric contraction; an ejection click occurs only with valve disease."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-675_Brick Exchange - Cardiac Cycle_p18_1.png",
@@ -2451,7 +2761,12 @@
       "explanation": {
         "summary": "Ejection empties the ventricle until the aortic valve closes; at that point LV volume is at its lowest (end-systolic volume). Filling then resumes only after the mitral valve opens, raising volume back toward EDV.",
         "whyCorrect": "Ejection empties the ventricle until the aortic valve closes; at that point LV volume is at its lowest (end-systolic volume). Filling then resumes only after the mitral valve opens, raising volume back toward EDV.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "At mitral valve closure the ventricle has just finished filling, so volume is at its maximum (end-diastolic volume), not its minimum.",
+          "B": "Atrial contraction tops off ventricular filling, bringing volume up to end-diastolic volume, the opposite of the minimum.",
+          "D": "When the mitral valve opens, volume is still at end-systolic volume; the minimum was reached earlier, when ejection stopped at aortic valve closure.",
+          "E": "At aortic valve opening the ventricle still holds its full end-diastolic volume; ejection then reduces it."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-676_Brick Exchange - Cardiac Cycle_p4_1.png",
@@ -2490,7 +2805,12 @@
       "explanation": {
         "summary": "The mitral (left atrioventricular) valve closes during ventricular systole to stop regurgitation from the left ventricle back into the left atrium. Its closure, along with the tricuspid valve, contributes to the S1 heart sound.",
         "whyCorrect": "The mitral (left atrioventricular) valve closes during ventricular systole to stop regurgitation from the left ventricle back into the left atrium. Its closure, along with the tricuspid valve, contributes to the S1 heart sound.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The aortic valve prevents backflow from the aorta into the left ventricle during diastole, not backflow into the left atrium.",
+          "B": "The pulmonary valve prevents backflow from the pulmonary trunk into the right ventricle during diastole.",
+          "C": "The eustachian valve is a vestigial flap at the IVC opening in the right atrium and plays no role in left-sided valve function.",
+          "E": "The tricuspid valve prevents backflow into the right atrium, the right-sided counterpart of the correct answer."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-055_Brick Exchange - Heart Sounds (S1, S2, S3, and S4)_p2_1.png",
@@ -2529,7 +2849,12 @@
       "explanation": {
         "summary": "The aortic valve opens only once left ventricular pressure exceeds aortic diastolic pressure (~80 mmHg here), beginning the ejection phase. It closes again when ventricular pressure falls back below aortic pressure, generating S2.",
         "whyCorrect": "The aortic valve opens only once left ventricular pressure exceeds aortic diastolic pressure (~80 mmHg here), beginning the ejection phase. It closes again when ventricular pressure falls back below aortic pressure, generating S2.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Ventricular pressure equals atrial pressure at AV valve opening or closing, not at aortic valve opening.",
+          "B": "Ventricular pressure never drops below zero in a way that opens the aortic valve; low ventricular pressure is the filling phase, with the aortic valve shut.",
+          "D": "Ventricular pressure is at its minimum during early diastolic filling, when the aortic valve is closed.",
+          "E": "When ventricular pressure falls just below aortic pressure at the end of ejection, the aortic valve closes, producing S2."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-737_Brick Exchange - Heart Sounds (S1, S2, S3, and S4)_p12_1.png",
@@ -2568,7 +2893,12 @@
       "explanation": {
         "summary": "S1 coincides with the onset of ventricular systole and is produced by closure of the atrioventricular (mitral and tricuspid) valves as ventricular pressure rises above atrial pressure. S2 is generated later by semilunar valve closure.",
         "whyCorrect": "S1 coincides with the onset of ventricular systole and is produced by closure of the atrioventricular (mitral and tricuspid) valves as ventricular pressure rises above atrial pressure. S2 is generated later by semilunar valve closure.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "The pulmonic valve closes at the end of ejection as part of S2, so pairing it with the tricuspid valve mixes two different heart sounds.",
+          "B": "The aortic valve closes at the end of systole as part of S2; only its partner, the mitral valve, contributes to S1.",
+          "C": "Closure of the aortic and pulmonic valves generates S2 at the end of ejection, not S1.",
+          "E": "The four valves never close at the same time; the AV valves close at the start of systole and the semilunar valves at its end."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-738_Brick Exchange - Heart Sounds (S1, S2, S3, and S4)_p3_1.png",
@@ -2607,7 +2937,12 @@
       "explanation": {
         "summary": "Inspiration lowers intrathoracic pressure, augmenting venous return to the right heart. The larger right ventricular volume prolongs right ventricular ejection, delaying pulmonic (P2) closure and thereby widening the physiologic splitting of S2.",
         "whyCorrect": "Inspiration lowers intrathoracic pressure, augmenting venous return to the right heart. The larger right ventricular volume prolongs right ventricular ejection, delaying pulmonic (P2) closure and thereby widening the physiologic splitting of S2.",
-        "whyWrongByChoice": {}
+        "whyWrongByChoice": {
+          "A": "Mitral closure contributes to S1, not S2, so its timing cannot change the A2-P2 interval.",
+          "C": "Inspiration slightly reduces left-sided return and only modestly shortens left ventricular ejection; the main driver of the wider split is delayed P2.",
+          "D": "Inspiration increases, not reduces, right ventricular filling because negative intrathoracic pressure draws more venous blood into the right heart.",
+          "E": "Systemic vascular resistance does not fall meaningfully with each breath; the respiratory change in splitting comes from right heart filling."
+        }
       },
       "difficulty": "medium",
       "imageRef": "repic-739_Brick Exchange - Heart Sounds (S1, S2, S3, and S4)_p7_1.png",
