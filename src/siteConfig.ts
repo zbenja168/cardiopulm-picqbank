@@ -46,16 +46,6 @@ export const SITE: SiteConfig = {
       "label": "Picture QBank",
       "url": "https://zbenja168.github.io/cardiopulm-picqbank/",
       "current": true
-    },
-    {
-      "label": "Picture Match",
-      "url": "https://zbenja168.github.io/cardiopulm-picdnd/",
-      "current": false
-    },
-    {
-      "label": "Anatomy ID",
-      "url": "https://zbenja168.github.io/cardiopulm-anatomy/",
-      "current": false
     }
   ]
 };
